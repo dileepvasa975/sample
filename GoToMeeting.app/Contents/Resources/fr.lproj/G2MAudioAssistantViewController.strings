@@ -1,24 +1,0 @@
-
-/* Class = "NSTextFieldCell"; title = "Report Audio Issues..."; ObjectID = "9Ua-f2-FW2"; */
-"9Ua-f2-FW2.title" = "Signaler les problèmes audio...";
-
-/* Class = "NSTextFieldCell"; title = "I can't hear others"; ObjectID = "Atp-Fg-1wg"; */
-"Atp-Fg-1wg.title" = "Je n'entends pas les autres";
-
-/* Class = "NSTextFieldCell"; title = "No one can hear me"; ObjectID = "FNj-PF-1xX"; */
-"FNj-PF-1xX.title" = "Personne ne m'entend";
-
-/* Class = "NSTextFieldCell"; title = "I hear echo"; ObjectID = "FZI-HM-0bj"; */
-"FZI-HM-0bj.title" = "J’entends de l'écho";
-
-/* Class = "NSTextFieldCell"; title = "    • Check if your speaker or headphones are connected to the right interface on your computer.      • Make sure that your device is turned on if necessary.      • Check if there is a volume or mute button on your device.      • Check if you are using the selected device."; ObjectID = "Wtm-Fi-anx"; */
-"Wtm-Fi-anx.title" = "    • Check if your speaker or headphones are connected to the right interface on your computer.      • Make sure that your device is turned on if necessary.      • Check if there is a volume or mute button on your device.      • Check if you are using the selected device.";
-
-/* Class = "NSButtonCell"; title = "Close"; ObjectID = "oHH-9X-cct"; */
-"oHH-9X-cct.title" = "Fermer";
-
-/* Class = "NSTextFieldCell"; title = "Participants are hard to understand"; ObjectID = "pNB-Kl-JPS"; */
-"pNB-Kl-JPS.title" = "Les participants sont difficiles à entendre";
-
-/* Class = "NSTextFieldCell"; title = "Looking for Support?"; ObjectID = "toH-jK-Yr9"; */
-"toH-jK-Yr9.title" = "Besoin d'aide ?";

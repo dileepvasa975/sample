@@ -1,8 +1,0 @@
-/* Class = "NSButtonCell"; title = "Sign In Now"; ObjectID = "6l3-aD-TgF"; */
-"6l3-aD-TgF.title" = "Inicie sesión";
-
-/* Class = "NSTextFieldCell"; title = "Are you Sam Smith or a co-organizer?"; ObjectID = "Jsh-zd-j03"; */
-"Jsh-zd-j03.title" = "¿Es usted Marcos Jimeno o un coorganizador?";
-
-/* Class = "NSTextFieldCell"; title = "Waiting for organizer"; ObjectID = "NLR-Sz-yc5"; */
-"NLR-Sz-yc5.title" = "Esperando al organizador...";

@@ -1,5 +1,0 @@
-/* Class = "NSButton"; ibShadowedToolTip = "Edit name"; ObjectID = "d8p-gJ-kFs"; */
-"d8p-gJ-kFs.ibShadowedToolTip" = "이름 편집";
-
-/* Class = "NSTextFieldCell"; placeholderString = "What’s your name?"; ObjectID = "pio-CD-XJ5"; */
-"pio-CD-XJ5.placeholderString" = "성함이 어떻게 되십니까?";
