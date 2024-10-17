@@ -1,0 +1,8 @@
+/* Class = "NSButtonCell"; title = "CONTINUE"; ObjectID = "Nns-qy-MiE"; */
+"Nns-qy-MiE.title" = "WEITER";
+
+/* Class = "NSTextFieldCell"; title = "The organizer is using their own audio service for this meeting."; ObjectID = "i5H-02-MOt"; */
+"i5H-02-MOt.title" = "Der Organisator verwendet einen eigenen Audiodienst für dieses Meeting.";
+
+/* Class = "NSTextFieldCell"; title = "Message from the organizer:"; ObjectID = "sgg-Z3-6cE"; */
+"sgg-Z3-6cE.title" = "Nachricht vom Organisator:";

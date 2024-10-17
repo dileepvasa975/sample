@@ -1,0 +1,89 @@
+/* Class = "NSWindow"; title = "Integrated Audio Mode"; ObjectID = "1"; */
+"1.title" = "통합 오디오 모드";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Audio Cancel Button"; ObjectID = "6"; */
+"6.ibExternalAccessibilityDescription" = "오디오 편집: 취소 단추";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Audio OK Button"; ObjectID = "7"; */
+"7.ibExternalAccessibilityDescription" = "오디오 편집: 확인 단추";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "8"; */
+"8.title" = "확인";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "9"; */
+"9.title" = "취소";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Edit Audio Use VoIP Button"; ObjectID = "13"; */
+"13.ibExternalAccessibilityDescription" = "Edit Audio Use VoIP Button";
+
+/* Class = "NSButtonCell"; title = "Provide VoIP only (requires microphone and speakers)"; ObjectID = "13"; */
+"13.title" = "VoIP만 제공(마이크 및 스피커 필요)";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Edit Audio Use PSTN Button"; ObjectID = "14"; */
+"14.ibExternalAccessibilityDescription" = "Edit Audio Use PSTN Button";
+
+/* Class = "NSButtonCell"; title = "Provide a conference call number only"; ObjectID = "14"; */
+"14.title" = "전화 회의 번호만 제공";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "15"; */
+"15.title" = "라디오";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Edit Audio Use Hybrid Button"; ObjectID = "16"; */
+"16.ibExternalAccessibilityDescription" = "Edit Audio Use Hybrid Button";
+
+/* Class = "NSButtonCell"; title = "Provide both"; ObjectID = "16"; */
+"16.title" = "두 가지 모두 제공";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Edit Audio Use Integrated Button"; ObjectID = "17"; */
+"17.ibExternalAccessibilityDescription" = "오디오 편집: Integrated 사용 단추";
+
+/* Class = "NSButtonCell"; title = "Use GoToMeeting integrated audio"; ObjectID = "17"; */
+"17.title" = "GoToMeeting 통합 오디오 사용";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Edit Audio Use Private Button"; ObjectID = "18"; */
+"18.ibExternalAccessibilityDescription" = "오디오 편집: 비공개 사용 단추";
+
+/* Class = "NSButtonCell"; title = "Provide your own conference call information"; ObjectID = "18"; */
+"18.title" = "본인의 전화 회의 정보 제공";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "19"; */
+"19.title" = "라디오";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Audio Private Text Field"; ObjectID = "23"; */
+"23.ibExternalAccessibilityDescription" = "오디오 편집: 비공개 텍스트 필드";
+
+/* Class = "NSWindow"; title = "Private Audio Mode"; ObjectID = "130"; */
+"130.title" = "비공개 오디오 모드";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Audio Private Info Text"; ObjectID = "132"; */
+"132.ibExternalAccessibilityDescription" = "오디오 편집: 비공개 정보 텍스트";
+
+/* Class = "NSTextFieldCell"; title = "Enter your conference call information:"; ObjectID = "133"; */
+"133.title" = "전화 회의 정보 입력:";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Audio Private Text Field"; ObjectID = "134"; */
+"134.ibExternalAccessibilityDescription" = "오디오 편집: 비공개 텍스트 필드";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Audio Cancel Button"; ObjectID = "136"; */
+"136.ibExternalAccessibilityDescription" = "오디오 편집: 취소 단추";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Audio OK Button"; ObjectID = "137"; */
+"137.ibExternalAccessibilityDescription" = "오디오 편집: 확인 단추";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "138"; */
+"138.title" = "확인";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "139"; */
+"139.title" = "취소";
+
+/* Class = "NSButtonCell"; title = "Phone number (long distance & toll-free)"; ObjectID = "14n-a5-Xhk"; */
+"14n-a5-Xhk.title" = "전화 번호(장거리 전화 및 무료 전화)";
+
+/* Class = "NSTextFieldCell"; title = "You must select at least one built-in audio option"; ObjectID = "G3f-6z-FCZ"; */
+"G3f-6z-FCZ.title" = "내장 오디오 옵션을 하나 이상 선택해야 합니다.";
+
+/* Class = "NSButtonCell"; title = "Computer audio (requires mic & speakers)"; ObjectID = "fMM-Kq-gwg"; */
+"fMM-Kq-gwg.title" = "컴퓨터 오디오(마이크 및 스피커 필요)";
+
+/* Class = "NSButtonCell"; title = "Call me"; ObjectID = "w3R-88-GKm"; */
+"w3R-88-GKm.title" = "통화";

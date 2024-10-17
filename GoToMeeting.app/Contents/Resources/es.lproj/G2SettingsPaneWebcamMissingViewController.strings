@@ -1,0 +1,6 @@
+
+/* Class = "NSTextFieldCell"; title = "A webcam is missing"; ObjectID = "fQi-cn-KeY"; */
+"fQi-cn-KeY.title" = "No hay ninguna cámara web";
+
+/* Class = "NSTextFieldCell"; title = "Make sure your camera is plugged in, or try restarting your computer."; ObjectID = "jvg-pn-xNC"; */
+"jvg-pn-xNC.title" = "Asegúrese de que su cámara está conectada o pruebe a reiniciar su ordenador.";

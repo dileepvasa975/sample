@@ -1,0 +1,15 @@
+
+/* Class = "NSBox"; title = "标题"; ObjectID = "8"; */
+"8.title" = "标题";
+
+/* Class = "NSTextFieldCell"; title = "研讨会主题\n研讨会 ID: 000-000-000"; ObjectID = "19"; */
+"19.title" = "研讨会主题\n研讨会 ID: 000-000-000";
+
+/* Class = "NSView"; ibShadowedToolTip = "如果您不希望被录制，请自我静音并且不要共享桌面。您也可以离开会话。"; ObjectID = "20"; */
+"20.ibShadowedToolTip" = "如果您不希望被录制，请自我静音并且不要共享桌面。您也可以离开会话。";
+
+
+/* Class = "NSTextFieldCell"; title = "This session is being recorded."; ObjectID = "25"; */
+"25.title" = "正在录制本次会话。";
+/* Class = "NSBox"; title = "Box"; ObjectID = "FwQ-ky-Uwf"; */
+"FwQ-ky-Uwf.title" = "Box";

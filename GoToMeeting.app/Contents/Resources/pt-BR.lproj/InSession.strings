@@ -1,0 +1,750 @@
+
+/* Class = "NSWindow"; title = "Meeting Password - GoToMeeting"; ObjectID = "5"; */
+"5.title" = "Senha da reunião — GoToMeeting";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Password OK Button"; ObjectID = "7"; */
+"7.ibExternalAccessibilityDescription" = "Senha: Botão OK";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Password Cancel Button"; ObjectID = "8"; */
+"8.ibExternalAccessibilityDescription" = "Senha: Botão cancelar";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Password Instruction Text"; ObjectID = "9"; */
+"9.ibExternalAccessibilityDescription" = "Senha: Texto de instruções";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Password Text Field"; ObjectID = "10"; */
+"10.ibExternalAccessibilityDescription" = "Senha: Campo de texto";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Password Text"; ObjectID = "11"; */
+"11.ibExternalAccessibilityDescription" = "Texto de senha";
+
+/* Class = "NSWindow"; title = "Meeting Password - GoToMeeting"; ObjectID = "118"; */
+"118.title" = "Senha da Reunião - GoToMeeting";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Org Password Text"; ObjectID = "120"; */
+"120.ibExternalAccessibilityDescription" = "Senha original: texto";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Org Password Instruction Text"; ObjectID = "121"; */
+"121.ibExternalAccessibilityDescription" = "Senha original: texto de instruções";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Org Password Cancel Button"; ObjectID = "122"; */
+"122.ibExternalAccessibilityDescription" = "Senha original: Botão cancelar";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Org Password Text Field"; ObjectID = "123"; */
+"123.ibExternalAccessibilityDescription" = "Senha original: Campo de texto";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Org Password OK Button"; ObjectID = "124"; */
+"124.ibExternalAccessibilityDescription" = "Senha original: Botão OK";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Org Password Re-Type Text Field"; ObjectID = "126"; */
+"126.ibExternalAccessibilityDescription" = "Senha original: Campo Redigitar texto";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Org Password Re-Type Text"; ObjectID = "127"; */
+"127.ibExternalAccessibilityDescription" = "Senha original: Redigitar texto";
+
+/* Class = "NSWindow"; title = "Conference Call Numbers"; ObjectID = "138"; */
+"138.title" = "Números de Chamada em Conferência";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Additional Numbers List"; ObjectID = "140"; */
+"140.ibExternalAccessibilityDescription" = "Lista de números adicionais";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "143"; */
+"143.title" = "Menu";
+
+/* Class = "NSMenuItem"; title = "Pen"; ObjectID = "144"; */
+"144.title" = "Caneta";
+
+/* Class = "NSMenuItem"; title = "Highlighter"; ObjectID = "145"; */
+"145.title" = "Marca-texto";
+
+/* Class = "NSMenuItem"; title = "Title Item"; ObjectID = "147"; */
+"147.title" = "Item de título";
+
+/* Class = "NSMenuItem"; title = "Arrow"; ObjectID = "148"; */
+"148.title" = "Seta";
+
+/* Class = "NSWindow"; title = "Edit Your Name and Email - GoToMeeting"; ObjectID = "169"; */
+"169.title" = "Edite seu nome e email — GoToMeeting";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Display Info Email Text"; ObjectID = "171"; */
+"171.ibExternalAccessibilityDescription" = "Editar exibição de informações: Texto de email";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Display Info Instruction Text"; ObjectID = "172"; */
+"172.ibExternalAccessibilityDescription" = "Editar exibição de informações: Texto de instruções";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Display Info OK Button"; ObjectID = "173"; */
+"173.ibExternalAccessibilityDescription" = "Editar exibição de informações: Botão OK";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Display Info Name Field"; ObjectID = "174"; */
+"174.ibExternalAccessibilityDescription" = "Editar exibição de informações: Campo de nome";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Display Info Remember Check Box"; ObjectID = "175"; */
+"175.ibExternalAccessibilityDescription" = "Editar exibição de informações: Caixa de verificação de lembrete";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Display Info Name Text"; ObjectID = "176"; */
+"176.ibExternalAccessibilityDescription" = "Editar exibição de informações: Texto de nome";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Display Info Email Field"; ObjectID = "177"; */
+"177.ibExternalAccessibilityDescription" = "Editar exibição de informações: Campo de email";
+
+/* Class = "NSWindow"; title = "Meeting Subject - GoToMeeting"; ObjectID = "209"; */
+"209.title" = "Assunto da Reunião - GoToMeeting";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Meeting Subject Cancel Button"; ObjectID = "211"; */
+"211.ibExternalAccessibilityDescription" = "Assunto da reunião: Botão Cancelar";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Meeting Subject Instruction Text"; ObjectID = "213"; */
+"213.ibExternalAccessibilityDescription" = "Assunto da reunião: Texto de instruções";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Meeting Subject OK Button"; ObjectID = "215"; */
+"215.ibExternalAccessibilityDescription" = "Assunto da reunião: Botão OK";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Meeting Subject Field"; ObjectID = "220"; */
+"220.ibExternalAccessibilityDescription" = "Assunto da reunião: Campo";
+
+/* Class = "NSWindow"; title = "Select an Organizer"; ObjectID = "228"; */
+"228.title" = "Selecionar um organizador";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Promote Attendee Instruction Text"; ObjectID = "230"; */
+"230.ibExternalAccessibilityDescription" = "Promover participante: Texto de instrução";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Promote Attendee Name List"; ObjectID = "231"; */
+"231.ibExternalAccessibilityDescription" = "Promover participante: Lista de nomes";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Promote Attendee OK Button"; ObjectID = "235"; */
+"235.ibExternalAccessibilityDescription" = "Promover participante: Botão OK";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Promote Attendee Cancel Button"; ObjectID = "236"; */
+"236.ibExternalAccessibilityDescription" = "Promover participante: Botão Cancelar";
+
+/* Class = "NSWindow"; title = "Welcome Message - GoToMeeting"; ObjectID = "249"; */
+"249.title" = "Mensagem de Boas-Vindas - GoToMeeting";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "W"; ObjectID = "250"; */
+"250.ibExternalAccessibilityDescription" = "W";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Welcome Message Field"; ObjectID = "251"; */
+"251.ibExternalAccessibilityDescription" = "Mensagem de boas-vindas: Campo";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Welcome Message Cancel Button"; ObjectID = "253"; */
+"253.ibExternalAccessibilityDescription" = "Mensagem de boas-vindas: Botão Cancelar";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Welcome Message OK Button"; ObjectID = "254"; */
+"254.ibExternalAccessibilityDescription" = "Mensagem de boas-vindas: Botão OK";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Welcome Message Save Check Box"; ObjectID = "263"; */
+"263.ibExternalAccessibilityDescription" = "Mensagem de boas-vindas: Caixa de seleção de salvar";
+
+/* Class = "NSWindow"; title = "Enter Audio PIN"; ObjectID = "278"; */
+"278.title" = "Inserir PIN de Áudio";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Enter PIN Instruction Text"; ObjectID = "280"; */
+"280.ibExternalAccessibilityDescription" = "Digitar PIN: Texto de instrução";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Enter PIN Audio PIN Number"; ObjectID = "281"; */
+"281.ibExternalAccessibilityDescription" = "Digitar PIN: Número de PIN de áudio";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Enter PIN OK Button"; ObjectID = "282"; */
+"282.ibExternalAccessibilityDescription" = "Digitar PIN: Botão OK";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Make Presenter Name Text"; ObjectID = "296"; */
+"296.ibExternalAccessibilityDescription" = "Tornar apresentador: Texto de nome";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter OK Button"; ObjectID = "297"; */
+"297.ibExternalAccessibilityDescription" = "Tornar apresentador: Botão OK";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter Cancel Button"; ObjectID = "298"; */
+"298.ibExternalAccessibilityDescription" = "Tornar apresentador: Botão Cancelar";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter KBM Check Box"; ObjectID = "299"; */
+"299.ibExternalAccessibilityDescription" = "Tornar apresentador: Caixa de verificação de KBM";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Make Presenter Daisey Image"; ObjectID = "305"; */
+"305.ibExternalAccessibilityDescription" = "Tornar apresentador: Imagem de Deisy";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Make Presenter Instruction Text"; ObjectID = "306"; */
+"306.ibExternalAccessibilityDescription" = "Tornar apresentador: Texto de instruções";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "310"; */
+"310.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "311"; */
+"311.title" = "Cancelar";
+
+/* Class = "NSTextFieldCell"; title = "Please enter the meeting password."; ObjectID = "312"; */
+"312.title" = "Insira a senha da reunião.";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "314"; */
+"314.title" = "Senha:";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "315"; */
+"315.title" = "Senha:";
+
+/* Class = "NSTextFieldCell"; title = "Please enter the meeting password you specified in the meeting invitation sent to attendees."; ObjectID = "316"; */
+"316.title" = "Digite a senha da reunião especificada no convite de reunião enviado para os participantes.";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "317"; */
+"317.title" = "Cancelar";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "319"; */
+"319.title" = "OK";
+
+/* Class = "NSTextFieldCell"; title = "Re-type Password:"; ObjectID = "321"; */
+"321.title" = "Digite a Senha Novamente:";
+
+/* Class = "NSTextFieldCell"; title = "Email:"; ObjectID = "322"; */
+"322.title" = "Email:";
+
+/* Class = "NSTextFieldCell"; title = "Edit your name and email address as you would like them to appear to the meeting attendees."; ObjectID = "323"; */
+"323.title" = "Edite seu nome e endereço de email como você deseja que eles apareçam para os participantes da reunião.";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "324"; */
+"324.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Remember name and email"; ObjectID = "326"; */
+"326.title" = "Lembre nome e email";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "327"; */
+"327.title" = "Nome:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "(optional)"; ObjectID = "328"; */
+"328.placeholderString" = "(opcional)";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "330"; */
+"330.title" = "Cancelar";
+
+/* Class = "NSTextFieldCell"; title = "Please enter the meeting subject."; ObjectID = "331"; */
+"331.title" = "Insira o assunto da reunião.";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "332"; */
+"332.title" = "OK";
+
+/* Class = "NSTextFieldCell"; title = "Choose someone to host the meeting as organizer before you leave."; ObjectID = "334"; */
+"334.title" = "Antes de sair, escolha alguém para comandar a reunião como organizador.";
+
+/* Class = "NSButtonCell"; title = "Make organizer & leave"; ObjectID = "335"; */
+"335.title" = "Nomear um organizador e sair";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "336"; */
+"336.title" = "Cancelar";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "338"; */
+"338.title" = "Cancelar";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "339"; */
+"339.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "When attendees arrive, show them this chat message."; ObjectID = "340"; */
+"340.title" = "Quando os participantes chegarem, mostre a eles essa mensagem de chat.";
+
+/* Class = "NSTextFieldCell"; title = "To enable audio controls, please enter your PIN on your telephone keypad now."; ObjectID = "341"; */
+"341.title" = "Para ativar controles de áudio, insira seu PIN no teclado do telefone agora.";
+
+/* Class = "NSTextFieldCell"; title = "Audio PIN: #%1$@#"; ObjectID = "342"; */
+"342.title" = "PIN de Áudio: #%1$@#";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "343"; */
+"343.title" = "OK";
+
+/* Class = "NSTextFieldCell"; title = "Make <Participant Name> the presenter?"; ObjectID = "344"; */
+"344.title" = "Tornar <Participant Name> o apresentador?";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "345"; */
+"345.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "346"; */
+"346.title" = "Cancelar";
+
+/* Class = "NSButtonCell"; title = "Request Keyboard and Mouse Control"; ObjectID = "347"; */
+"347.title" = "Solicitar controle do teclado e mouse";
+
+/* Class = "NSTextFieldCell"; title = "Clicking OK will make this attendee the presenter.\n\nOnce someone is a panelist it cannot be revoked."; ObjectID = "349"; */
+"349.title" = "Ao clicar OK, este participante se tornará o apresentador.\n\nQuando alguém se torna convidado, essa função não pode ser revogada.";
+
+/* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Promote Attendee Name"; ObjectID = "350"; */
+"350.ibExternalAccessibilityDescription" = "Promover participante: Nome";
+
+/* Class = "NSMenuItem"; title = "Choose Pen Color"; ObjectID = "362"; */
+"362.title" = "Escolher Cor da Caneta";
+
+/* Class = "NSMenu"; title = "Choose Pen Color"; ObjectID = "363"; */
+"363.title" = "Escolher Cor da Caneta";
+
+/* Class = "NSMenuItem"; title = "Red"; ObjectID = "364"; */
+"364.title" = "Vermelho";
+
+/* Class = "NSMenuItem"; title = "Black"; ObjectID = "365"; */
+"365.title" = "Preto";
+
+/* Class = "NSMenuItem"; title = "Green"; ObjectID = "366"; */
+"366.title" = "Verde";
+
+/* Class = "NSMenuItem"; title = "Yellow"; ObjectID = "367"; */
+"367.title" = "Amarelo";
+
+/* Class = "NSMenuItem"; title = "Blue"; ObjectID = "368"; */
+"368.title" = "Azul";
+
+/* Class = "NSMenuItem"; title = "Custom color..."; ObjectID = "370"; */
+"370.title" = "Cor personalizada...";
+
+/* Class = "NSMenuItem"; title = "Orange"; ObjectID = "371"; */
+"371.title" = "Laranja";
+
+/* Class = "NSMenuItem"; title = "Purple"; ObjectID = "373"; */
+"373.title" = "Roxo";
+
+/* Class = "NSMenuItem"; title = "Pink"; ObjectID = "374"; */
+"374.title" = "Rosa";
+
+/* Class = "NSMenuItem"; title = "Light blue"; ObjectID = "375"; */
+"375.title" = "Azul claro";
+
+/* Class = "NSMenuItem"; title = "Brown"; ObjectID = "376"; */
+"376.title" = "Marrom";
+
+/* Class = "NSMenuItem"; title = "Gray"; ObjectID = "377"; */
+"377.title" = "Cinza";
+
+/* Class = "NSMenuItem"; title = "Dark green"; ObjectID = "378"; */
+"378.title" = "Verde escuro";
+
+/* Class = "NSMenuItem"; title = "Remember this pen color"; ObjectID = "380"; */
+"380.title" = "Lembrar esta cor de caneta";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Meeting Full OK Button"; ObjectID = "401"; */
+"401.ibExternalAccessibilityDescription" = "Reunião cheia: Botão OK";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "402"; */
+"402.title" = "OK";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Meeting Full Daisey Image"; ObjectID = "403"; */
+"403.ibExternalAccessibilityDescription" = "Reunião cheia: Imagem de Daisey";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Meeting Full Primary Instructions"; ObjectID = "409"; */
+"409.ibExternalAccessibilityDescription" = "Reunião cheia: Instruções primárias";
+
+/* Class = "NSTextFieldCell"; title = "The <meeting> has reached the maximum number of <number> attendees."; ObjectID = "410"; */
+"410.title" = "A <meeting> atingiu o número máximo de <number> participantes.";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Meeting Full Secondary Instructions"; ObjectID = "411"; */
+"411.ibExternalAccessibilityDescription" = "Reunião cheia: Instruções secundárias";
+
+/* Class = "NSTextFieldCell"; title = "If you need to let another person join this meeting, you will have to dismiss one of the current attendees."; ObjectID = "412"; */
+"412.title" = "Se você precisar ingressar outra pessoa nessa reunião, precisará remover um dos participantes atuais.";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Meeting Full Check Box"; ObjectID = "428"; */
+"428.ibExternalAccessibilityDescription" = "Reunião cheia: Caixa de verificação";
+
+/* Class = "NSButtonCell"; title = "Do not show this again"; ObjectID = "429"; */
+"429.title" = "Não mostrar isso novamente";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Entry Denied Secondary Instructions"; ObjectID = "442"; */
+"442.ibExternalAccessibilityDescription" = "Entrada negada: Instruções secundárias";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Entry Denied Primary Instructions"; ObjectID = "443"; */
+"443.ibExternalAccessibilityDescription" = "Entrada negada: Instruções primárias";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Entry Denied Daisey Image"; ObjectID = "444"; */
+"444.ibExternalAccessibilityDescription" = "Entrada negada: Imagem de Daisey";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Entry Denied OK Button"; ObjectID = "445"; */
+"445.ibExternalAccessibilityDescription" = "Entrada negada: Botão OK";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "446"; */
+"446.title" = "OK";
+
+/* Class = "NSTextFieldCell"; title = "Someone was not allowed to enter this _meeting_ because it is full (maximum is %d)."; ObjectID = "448"; */
+"448.title" = "Alguém não foi autorizado a entrar nesta _meeting_, porque ela está cheia (o máximo é %d).";
+
+/* Class = "NSTextFieldCell"; title = "If you need to let another person join this meeting, dismiss one of the current attendees by right-clicking a name in the Attendee List and selecting Dismiss."; ObjectID = "449"; */
+"449.title" = "Se você precisar ingressar outra pessoa nessa reunião, remova um dos participantes atuais, clicando com o botão direito do mouse em um nome na Lista de Participantes e selecionando Remover.";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Entry Denied Check Box"; ObjectID = "450"; */
+"450.ibExternalAccessibilityDescription" = "Entrada negada: Caixa de verificação";
+
+/* Class = "NSButtonCell"; title = "Do not show this again"; ObjectID = "450"; */
+"450.title" = "Não mostrar isso novamente";
+
+/* Class = "NSMenu"; title = "Webcams"; ObjectID = "469"; */
+"469.title" = "Webcams";
+
+/* Class = "NSMenuItem"; title = "Preferences..."; ObjectID = "470"; */
+"470.title" = "Preferências...";
+
+/* Class = "NSMenuItem"; title = "Always in Front"; ObjectID = "473"; */
+"473.title" = "Sempre na Frente";
+
+/* Class = "NSMenuItem"; title = "Share My Webcam"; ObjectID = "474"; */
+"474.title" = "Compartilhar Minha Webcam";
+
+/* Class = "NSMenuItem"; title = "Hide All Webcams"; ObjectID = "475"; */
+"475.title" = "Ocultar todas as webcams";
+
+/* Class = "NSMenuItem"; title = "Webcam Position:"; ObjectID = "477"; */
+"477.title" = "Posição da webcam:";
+
+/* Class = "NSMenuItem"; title = "Top"; ObjectID = "479"; */
+"479.title" = "Superior";
+
+/* Class = "NSMenuItem"; title = "Right"; ObjectID = "480"; */
+"480.title" = "Direita";
+
+/* Class = "NSMenuItem"; title = "Bottom"; ObjectID = "481"; */
+"481.title" = "Inferior";
+
+/* Class = "NSMenuItem"; title = "Left"; ObjectID = "482"; */
+"482.title" = "Esquerda";
+
+/* Class = "NSMenu"; title = "Zoom"; ObjectID = "484"; */
+"484.title" = "Zoom";
+
+/* Class = "NSMenuItem"; title = "Actual Size"; ObjectID = "485"; */
+"485.title" = "Tamanho real";
+
+/* Class = "NSMenuItem"; title = "Scale to Fit"; ObjectID = "486"; */
+"486.title" = "Dimensionar para ajustar";
+
+/* Class = "NSMenuItem"; title = "Zoom to"; ObjectID = "489"; */
+"489.title" = "Nível de zoom";
+
+/* Class = "NSMenu"; title = "Zoom to"; ObjectID = "492"; */
+"492.title" = "Nível de zoom";
+
+/* Class = "NSMenuItem"; title = "100%"; ObjectID = "493"; */
+"493.title" = "100%";
+
+/* Class = "NSMenuItem"; title = "150%"; ObjectID = "494"; */
+"494.title" = "150%";
+
+/* Class = "NSMenuItem"; title = "200%"; ObjectID = "495"; */
+"495.title" = "200%";
+
+/* Class = "NSMenuItem"; title = "400%"; ObjectID = "497"; */
+"497.title" = "400%";
+
+/* Class = "NSMenuItem"; title = "Custom…"; ObjectID = "498"; */
+"498.title" = "Personalizado…";
+
+/* Class = "NSMenuItem"; title = "75%"; ObjectID = "499"; */
+"499.title" = "75%";
+
+/* Class = "NSMenuItem"; title = "50%"; ObjectID = "500"; */
+"500.title" = "50%";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter OK Button"; ObjectID = "525"; */
+"525.ibExternalAccessibilityDescription" = "Tornar apresentador: Botão OK";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter Cancel Button"; ObjectID = "526"; */
+"526.ibExternalAccessibilityDescription" = "Tornar apresentador: Botão Cancelar";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Make Presenter Daisey Image"; ObjectID = "528"; */
+"528.ibExternalAccessibilityDescription" = "Tornar apresentador: Imagem de Deisy";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Make Presenter Instruction Text"; ObjectID = "529"; */
+"529.ibExternalAccessibilityDescription" = "Tornar apresentador: Texto de instruções";
+
+/* Class = "NSTextFieldCell"; title = "<Participant Name> needs to switch to the desktop version of GoToMeeting to be a presenter.\n\nIt'll take them a minute to download it when you ask them to present."; ObjectID = "530"; */
+"530.title" = "<Participant Name> precisa alternar para a versão para desktop do GoToMeeting para ser um apresentador.\n\nSerá necessário aguardar um minuto para o download quando você o convidar para apresentar.";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "533"; */
+"533.title" = "Cancelar";
+
+/* Class = "NSButtonCell"; title = "Send Present & Download Request"; ObjectID = "534"; */
+"534.title" = "Enviar Solicitar para Apresentar e Baixar";
+
+/* Class = "NSButtonCell"; title = "0"; ObjectID = "01X-RX-JpG"; */
+"01X-RX-JpG.title" = "0";
+
+/* Class = "NSTextFieldCell"; title = "Strongly agree"; ObjectID = "0Ig-0L-KRA"; */
+"0Ig-0L-KRA.title" = "Concordo totalmente";
+
+/* Class = "NSButtonCell"; title = "8"; ObjectID = "0jJ-Cr-NKn"; */
+"0jJ-Cr-NKn.title" = "8";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES Verbatim Label"; ObjectID = "1Jl-3w-S43"; */
+"1Jl-3w-S43.ibExternalAccessibilityDescription" = "CES Verbatim Label";
+
+/* Class = "NSWindow"; title = "Edit Name - GoToMeeting"; ObjectID = "1Ub-1g-lAf"; */
+"1Ub-1g-lAf.title" = "Editar Nome - GoToMeeting";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter OK Button"; ObjectID = "1gK-8C-v0R"; */
+"1gK-8C-v0R.ibExternalAccessibilityDescription" = "Tornar apresentador: Botão OK";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "2Fv-Vd-a4m"; */
+"2Fv-Vd-a4m.title" = "Cancelar";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter Cancel Button"; ObjectID = "2mV-TE-MVg"; */
+"2mV-TE-MVg.ibExternalAccessibilityDescription" = "Tornar apresentador: Botão Cancelar";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter OK Button"; ObjectID = "2tB-u6-ekA"; */
+"2tB-u6-ekA.ibExternalAccessibilityDescription" = "Tornar apresentador: Botão OK";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "3MU-Tw-ekD"; */
+"3MU-Tw-ekD.title" = "Entrar no Modo de Tela Inteira";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Make Presenter Daisey Image"; ObjectID = "3Mk-g7-FGp"; */
+"3Mk-g7-FGp.ibExternalAccessibilityDescription" = "Tornar apresentador: Imagem de Deisy";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Email (optional)"; ObjectID = "3c1-9g-Oei"; */
+"3c1-9g-Oei.placeholderString" = "Email (opcional)";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES Status Text"; ObjectID = "3gL-7j-Uhx"; */
+"3gL-7j-Uhx.ibExternalAccessibilityDescription" = "CES Status Text";
+
+/* Class = "NSButtonCell"; title = "2"; ObjectID = "4a8-uQ-3tA"; */
+"4a8-uQ-3tA.title" = "2";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "5Nt-bA-3e7"; */
+"5Nt-bA-3e7.title" = "Cancelar";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Tell us why you feel that way."; ObjectID = "628-sX-2au"; */
+"628-sX-2au.placeholderString" = "Diga-nos o porquê da sua opinião.";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter Cancel Button"; ObjectID = "6te-FU-K5S"; */
+"6te-FU-K5S.ibExternalAccessibilityDescription" = "Tornar apresentador: Botão Cancelar";
+
+/* Class = "NSTextFieldCell"; title = "Please explain where you experienced difficulty today."; ObjectID = "85C-DJ-ceG"; */
+"85C-DJ-ceG.title" = "Explique onde você teve dificuldades hoje.";
+
+/* Class = "NSMenuItem"; title = "Pointer"; ObjectID = "AMH-yj-Fva"; */
+"AMH-yj-Fva.title" = "Ponteiro";
+
+/* Class = "NSButtonCell"; title = "Send Request"; ObjectID = "AzK-ag-Go8"; */
+"AzK-ag-Go8.title" = "Enviar solicitação";
+
+/* Class = "NSButtonCell"; title = "2"; ObjectID = "BM0-fD-wzz"; */
+"BM0-fD-wzz.title" = "2";
+
+/* Class = "NSButtonCell"; title = "Submit"; ObjectID = "BYc-zv-dNm"; */
+"BYc-zv-dNm.title" = "Enviar";
+
+/* Class = "NSMenuItem"; title = "Attendees can draw"; ObjectID = "C1U-BB-dtj"; */
+"C1U-BB-dtj.title" = "Participantes podem desenhar";
+
+/* Class = "NSTextFieldCell"; title = "<Product> was easy to use today."; ObjectID = "CEp-oC-nav"; */
+"CEp-oC-nav.title" = "<Product> was easy to use today.";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Cv4-I4-jH5"; */
+"Cv4-I4-jH5.title" = "Cancelar";
+
+/* Class = "NSButtonCell"; title = "4"; ObjectID = "CwP-Od-LWy"; */
+"CwP-Od-LWy.title" = "4";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "Evl-RH-eDX"; */
+"Evl-RH-eDX.title" = "Fechar";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Make Presenter Instruction Text"; ObjectID = "GN2-Dl-Leo"; */
+"GN2-Dl-Leo.ibExternalAccessibilityDescription" = "Tornar apresentador: Texto de instruções";
+
+/* Class = "NSMenuItem"; title = "Spotlight"; ObjectID = "GUY-vC-NQo"; */
+"GUY-vC-NQo.title" = "Destaque";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 2 Button"; ObjectID = "H4H-YY-LzK"; */
+"H4H-YY-LzK.ibExternalAccessibilityDescription" = "CES Rating 2 Button";
+
+/* Class = "NSMenuItem"; title = "View everyone"; ObjectID = "Hew-yV-GIl"; */
+"Hew-yV-GIl.title" = "Exibir todos";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "CES Image"; ObjectID = "HhR-m5-ReB"; */
+"HhR-m5-ReB.ibExternalAccessibilityDescription" = "CES Image";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter Cancel Button"; ObjectID = "Iof-6e-W4Q"; */
+"Iof-6e-W4Q.ibExternalAccessibilityDescription" = "Tornar apresentador: Botão Cancelar";
+
+/* Class = "NSTextFieldCell"; title = "Edit name"; ObjectID = "JO5-ho-sK1"; */
+"JO5-ho-sK1.title" = "Editar nome";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES Verbatim Text Field"; ObjectID = "JZn-M7-FCN"; */
+"JZn-M7-FCN.ibExternalAccessibilityDescription" = "CES Verbatim Text Field";
+
+/* Class = "NSWindow"; title = "Share drawing tools"; ObjectID = "L6D-za-iML"; */
+"L6D-za-iML.title" = "Compartilhar ferramentas de desenho";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Submit Button"; ObjectID = "L7c-t2-deb"; */
+"L7c-t2-deb.ibExternalAccessibilityDescription" = "CES Submit Button";
+
+/* Class = "NSButtonCell"; title = "3"; ObjectID = "LlQ-y6-U3K"; */
+"LlQ-y6-U3K.title" = "3";
+
+/* Class = "NSTextFieldCell"; title = "Not at all likely"; ObjectID = "MUE-gX-8mE"; */
+"MUE-gX-8mE.title" = "Nenhuma probabilidade";
+
+/* Class = "NSMenuItem"; title = "Undock Webcams"; ObjectID = "RHH-zh-Hps"; */
+"RHH-zh-Hps.title" = "Desbloquear webcams";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 1 Button"; ObjectID = "RbM-MQ-ph2"; */
+"RbM-MQ-ph2.ibExternalAccessibilityDescription" = "CES Rating 1 Button";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Name (optional)"; ObjectID = "SPM-8W-ycI"; */
+"SPM-8W-ycI.placeholderString" = "Nome (opcional)";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "SWv-jr-bdi"; */
+"SWv-jr-bdi.title" = "Cancelar";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 5 Button"; ObjectID = "SuR-nc-Gg5"; */
+"SuR-nc-Gg5.ibExternalAccessibilityDescription" = "CES Rating 5 Button";
+
+/* Class = "NSButtonCell"; title = "1"; ObjectID = "TBJ-mY-CMR"; */
+"TBJ-mY-CMR.title" = "1";
+
+/* Class = "NSButtonCell"; title = "Submit"; ObjectID = "TFm-L7-mhy"; */
+"TFm-L7-mhy.title" = "Enviar";
+
+/* Class = "NSButtonCell"; title = "4"; ObjectID = "UhS-JA-NWu"; */
+"UhS-JA-NWu.title" = "4";
+
+/* Class = "NSButtonCell"; title = "7"; ObjectID = "UvO-QL-8Y7"; */
+"UvO-QL-8Y7.title" = "7";
+
+/* Class = "NSTextFieldCell"; title = "The following attendees need to switch to the desktop version of GoToMeeting (on a Mac or Windows computer) to control your keyboard & mouse:\n\n            <attendee name>\n            <attendee name>\n            <attendee name>\n            <attendee name>\n            and <12> others\n\nIt takes a minute to download once you send the request."; ObjectID = "V6a-bn-gnO"; */
+"V6a-bn-gnO.title" = "Os seguintes participantes precisam mudar para a versão para desktop do GoToMeeting (em um computador Mac ou Windows) para controlar seu teclado e mouse:\n\n            <attendee name>\n            <attendee name>\n            <attendee name>\n            <attendee name>\n            e outros <12>\n\nO download demorará um minuto após o envio da solicitação.";
+
+/* Class = "NSTextFieldCell"; title = "Extremely likely"; ObjectID = "V8u-WI-emd"; */
+"V8u-WI-emd.title" = "Extremamente provável";
+
+/* Class = "NSTextFieldCell"; title = "Strongly disagree"; ObjectID = "X0O-Vc-SqW"; */
+"X0O-Vc-SqW.title" = "Discordo totalmente";
+
+/* Class = "NSButtonCell"; title = "Feedback Checkbox"; ObjectID = "XWk-I0-g7p"; */
+"XWk-I0-g7p.title" = "Feedback Checkbox";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Close Button"; ObjectID = "Xyl-d2-oa4"; */
+"Xyl-d2-oa4.ibExternalAccessibilityDescription" = "CES Close Button";
+
+/* Class = "NSButtonCell"; title = "Okay, Change Presenter"; ObjectID = "Y0X-ZJ-az1"; */
+"Y0X-ZJ-az1.title" = "OK, Trocar de Apresentador";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 4 Button"; ObjectID = "Y8y-74-2fm"; */
+"Y8y-74-2fm.ibExternalAccessibilityDescription" = "CES Rating 4 Button";
+
+/* Class = "NSButtonCell"; title = "6"; ObjectID = "Ydb-8C-pCV"; */
+"Ydb-8C-pCV.title" = "6";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 6 Button"; ObjectID = "aSS-3t-wCB"; */
+"aSS-3t-wCB.ibExternalAccessibilityDescription" = "CES Rating 6 Button";
+
+/* Class = "NSButtonCell"; title = "3"; ObjectID = "bYb-0g-vvf"; */
+"bYb-0g-vvf.title" = "3";
+
+/* Class = "NSMenuItem"; title = "Erase all drawings"; ObjectID = "bgx-kQ-SYt"; */
+"bgx-kQ-SYt.title" = "Apagar todos os desenhos";
+
+/* Class = "NSButtonCell"; title = "Not Now"; ObjectID = "bkc-IM-Ie0"; */
+"bkc-IM-Ie0.title" = "Agora não";
+
+/* Class = "NSTextFieldCell"; title = "Please rate your agreement with the following statement."; ObjectID = "cTK-u3-wzy"; */
+"cTK-u3-wzy.title" = "Avalie o quanto você concorda com a afirmação abaixo.";
+
+/* Class = "NSMenu"; title = "Webcam Filter"; ObjectID = "cVq-w9-MMe"; */
+"cVq-w9-MMe.title" = "Filtrar webcam";
+
+/* Class = "NSButtonCell"; title = "6"; ObjectID = "cv5-46-dfh"; */
+"cv5-46-dfh.title" = "6";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Make Presenter Instruction Text"; ObjectID = "cvJ-R6-0rP"; */
+"cvJ-R6-0rP.ibExternalAccessibilityDescription" = "Tornar apresentador: Texto de instruções";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES Low Rating Text"; ObjectID = "d1B-Ki-dx8"; */
+"d1B-Ki-dx8.ibExternalAccessibilityDescription" = "CES Low Rating Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Make Presenter Name Text"; ObjectID = "dKg-Ft-0Bi"; */
+"dKg-Ft-0Bi.ibExternalAccessibilityDescription" = "Tornar apresentador: Texto de nome";
+
+/* Class = "NSButtonCell"; title = "5"; ObjectID = "dcs-x6-acz"; */
+"dcs-x6-acz.title" = "5";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 3 Button"; ObjectID = "eEa-I1-PZy"; */
+"eEa-I1-PZy.ibExternalAccessibilityDescription" = "CES Rating 3 Button";
+
+/* Class = "NSMenuItem"; title = "View who's talking"; ObjectID = "eFl-c9-u8C"; */
+"eFl-c9-u8C.title" = "Exibir quem está falando";
+
+/* Class = "NSTextFieldCell"; title = "The following attendees need to switch to the desktop version of GoToMeeting (on a Mac or Windows computer) to use drawing tools:\n\n            <attendee name>\n            <attendee name>\n            <attendee name>\n            <attendee name>\n            and <12> others\n\nIt takes a minute to download once you send the request."; ObjectID = "f2i-Pa-Huc"; */
+"f2i-Pa-Huc.title" = "Os seguintes participantes precisam mudar para a versão para desktop do GoToMeeting (em um computador Mac ou Windows) para usar ferramentas de desenho:\n\n            <attendee name>\n            <attendee name>\n            <attendee name>\n            <attendee name>\n            e outros <12>\n\nO download demorará um minuto após o envio da solicitação.";
+
+/* Class = "NSButtonCell"; title = "1"; ObjectID = "foe-Al-9oI"; */
+"foe-Al-9oI.title" = "1";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES Question Text"; ObjectID = "gg5-jt-ARc"; */
+"gg5-jt-ARc.ibExternalAccessibilityDescription" = "CES Question Text";
+
+/* Class = "NSMenuItem"; title = "View presenter"; ObjectID = "i2F-aw-Jrz"; */
+"i2F-aw-Jrz.title" = "Exibir apresentador";
+
+/* Class = "NSButtonCell"; title = "10"; ObjectID = "i5V-ic-IC0"; */
+"i5V-ic-IC0.title" = "10";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter OK Button"; ObjectID = "jvV-gM-wFW"; */
+"jvV-gM-wFW.ibExternalAccessibilityDescription" = "Tornar apresentador: Botão OK";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "lAT-ho-Iqg"; */
+"lAT-ho-Iqg.title" = "OK";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 7 Button"; ObjectID = "mZn-6p-yXd"; */
+"mZn-6p-yXd.ibExternalAccessibilityDescription" = "CES Rating 7 Button";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "mwY-8g-bCX"; */
+"mwY-8g-bCX.title" = "Fechar";
+
+/* Class = "NSButtonCell"; title = "9"; ObjectID = "nLd-Jh-Asa"; */
+"nLd-Jh-Asa.title" = "9";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Make Presenter Daisey Image"; ObjectID = "nb6-j9-0Jz"; */
+"nb6-j9-0Jz.ibExternalAccessibilityDescription" = "Tornar apresentador: Imagem de Deisy";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "ncU-wF-hmL"; */
+"ncU-wF-hmL.title" = "Ver";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES High Rating Text"; ObjectID = "pK6-3K-K5Z"; */
+"pK6-3K-K5Z.ibExternalAccessibilityDescription" = "CES High Rating Text";
+
+/* Class = "NSMenuItem"; title = "View everyone"; ObjectID = "pMX-Uy-lqs"; */
+"pMX-Uy-lqs.title" = "Exibir todos";
+
+/* Class = "NSTextFieldCell"; title = "You've left the <meeting>."; ObjectID = "pwg-e3-nnT"; */
+"pwg-e3-nnT.title" = "You've left the <meeting>.";
+
+/* Class = "NSButtonCell"; title = "7"; ObjectID = "qNs-mT-Hr8"; */
+"qNs-mT-Hr8.title" = "7";
+
+/* Class = "NSMenuItem"; title = "Hide webcams"; ObjectID = "qh1-Ry-iRN"; */
+"qh1-Ry-iRN.title" = "Ocultar webcams";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES Question Label"; ObjectID = "r2c-Oe-0gB"; */
+"r2c-Oe-0gB.ibExternalAccessibilityDescription" = "CES Question Label";
+
+/* Class = "NSTextFieldCell"; title = "You've left the <meeting>."; ObjectID = "rS5-V1-vQr"; */
+"rS5-V1-vQr.title" = "You've left the <meeting>.";
+
+/* Class = "NSWindow"; title = "Share keyboard & mouse"; ObjectID = "rbZ-y7-E3u"; */
+"rbZ-y7-E3u.title" = "Compartilhar teclado e mouse";
+
+/* Class = "NSButtonCell"; title = "Send Request"; ObjectID = "tD0-GV-h6J"; */
+"tD0-GV-h6J.title" = "Enviar solicitação";
+
+/* Class = "NSButtonCell"; title = "5"; ObjectID = "vfZ-eB-pBe"; */
+"vfZ-eB-pBe.title" = "5";
+
+/* Class = "NSMenuItem"; title = "View presenter"; ObjectID = "wI7-R4-I3R"; */
+"wI7-R4-I3R.title" = "Exibir o apresentador";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Make Presenter Daisey Image"; ObjectID = "wbi-Cn-57d"; */
+"wbi-Cn-57d.ibExternalAccessibilityDescription" = "Tornar apresentador: Imagem de Deisy";
+
+/* Class = "NSTextFieldCell"; title = "Based on your most recent experience, how likely are you to recommend <Product> to a friend or colleague?"; ObjectID = "xTB-1k-thW"; */
+"xTB-1k-thW.title" = "Based on your most recent experience, how likely are you to recommend <Product> to a friend or colleague?";
+
+/* Class = "NSMenuItem"; title = "View who's talking"; ObjectID = "xc8-35-2Us"; */
+"xc8-35-2Us.title" = "Exibir quem está falando";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "CES View"; ObjectID = "xf5-CR-cEV"; */
+"xf5-CR-cEV.ibExternalAccessibilityDescription" = "CES View";
+
+/* Class = "NSMenuItem"; title = "Hide My Webcam"; ObjectID = "y1X-TH-vbk"; */
+"y1X-TH-vbk.title" = "Ocultar minha webcam";
+
+/* Class = "NSMenuItem"; title = "Hide webcams"; ObjectID = "yGu-Fo-9Cw"; */
+"yGu-Fo-9Cw.title" = "Ocultar webcams";
+
+/* Class = "NSTextFieldCell"; title = "<Participant Name> wants to share their screen.  "; ObjectID = "z2d-Q2-MYZ"; */
+"z2d-Q2-MYZ.title" = "<Participant Name> wants to share their screen.  ";

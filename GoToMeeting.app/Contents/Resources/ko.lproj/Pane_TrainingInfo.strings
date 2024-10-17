@@ -1,0 +1,10 @@
+/* Class = "NSTextFieldCell"; title = "TRAINING SUBJECT
+ Training ID: 000-000-000"; ObjectID = "28"; */
+"28.title" = "TRAINING SUBJECT
+Training ID: 000-000-000";
+
+/* Class = "NSView"; ibShadowedToolTip = "If you don't want to be recorded, mute yourself and don't share your screen. You may also leave the session."; ObjectID = "29"; */
+"29.ibShadowedToolTip" = "기록을 원하지 않는 경우 음소거하고 화면을 공유하지 마십시오. 또한 세션을 나갈 수도 있습니다.";
+
+/* Class = "NSTextFieldCell"; title = "This session is being recorded."; ObjectID = "33"; */
+"33.title" = "이 세션은 기록되고 있습니다.";

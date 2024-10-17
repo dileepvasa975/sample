@@ -1,0 +1,86 @@
+
+/* Class = "NSWindow"; title = "集成音频模式"; ObjectID = "1"; */
+"1.title" = "集成音频模式";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Audio Cancel Button"; ObjectID = "6"; */
+"6.ibExternalAccessibilityDescription" = "Edit Audio Cancel Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Audio OK Button"; ObjectID = "7"; */
+"7.ibExternalAccessibilityDescription" = "Edit Audio OK Button";
+
+/* Class = "NSButtonCell"; title = "确定"; ObjectID = "8"; */
+"8.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "取消"; ObjectID = "9"; */
+"9.title" = "取消";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Edit Audio Use VoIP Button"; ObjectID = "13"; */
+"13.ibExternalAccessibilityDescription" = "Edit Audio Use VoIP Button";
+
+/* Class = "NSButtonCell"; title = "仅提供 VoIP (需要麦克风和扬声器)"; ObjectID = "13"; */
+"13.title" = "仅提供 VoIP (需要麦克风和扬声器)";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Edit Audio Use PSTN Button"; ObjectID = "14"; */
+"14.ibExternalAccessibilityDescription" = "Edit Audio Use PSTN Button";
+
+/* Class = "NSButtonCell"; title = "仅提供会议的电话号码"; ObjectID = "14"; */
+"14.title" = "仅提供会议的电话号码";
+
+/* Class = "NSButtonCell"; title = "广播"; ObjectID = "15"; */
+"15.title" = "广播";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Edit Audio Use Hybrid Button"; ObjectID = "16"; */
+"16.ibExternalAccessibilityDescription" = "Edit Audio Use Hybrid Button";
+
+/* Class = "NSButtonCell"; title = "同时提供两者"; ObjectID = "16"; */
+"16.title" = "同时提供两者";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Edit Audio Use Integrated Button"; ObjectID = "17"; */
+"17.ibExternalAccessibilityDescription" = "Edit Audio Use Integrated Button";
+
+/* Class = "NSButtonCell"; title = "Use built-in audio"; ObjectID = "17"; */
+"17.title" = "使用内置音频";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Edit Audio Use Private Button"; ObjectID = "18"; */
+"18.ibExternalAccessibilityDescription" = "Edit Audio Use Private Button";
+
+/* Class = "NSButtonCell"; title = "Use my own conference call service"; ObjectID = "18"; */
+"18.title" = "使用我自己的电话会议服务";
+
+/* Class = "NSButtonCell"; title = "广播"; ObjectID = "19"; */
+"19.title" = "广播";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Audio Private Text Field"; ObjectID = "23"; */
+"23.ibExternalAccessibilityDescription" = "Edit Audio Private Text Field";
+
+/* Class = "NSWindow"; title = "私有音频模式"; ObjectID = "130"; */
+"130.title" = "私有音频模式";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Audio Private Info Text"; ObjectID = "132"; */
+"132.ibExternalAccessibilityDescription" = "Edit Audio Private Info Text";
+
+/* Class = "NSTextFieldCell"; title = "输入电话会议信息:"; ObjectID = "133"; */
+"133.title" = "输入电话会议信息:";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Audio Private Text Field"; ObjectID = "134"; */
+"134.ibExternalAccessibilityDescription" = "Edit Audio Private Text Field";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Audio Cancel Button"; ObjectID = "136"; */
+"136.ibExternalAccessibilityDescription" = "Edit Audio Cancel Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Audio OK Button"; ObjectID = "137"; */
+"137.ibExternalAccessibilityDescription" = "Edit Audio OK Button";
+
+/* Class = "NSButtonCell"; title = "确定"; ObjectID = "138"; */
+"138.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "取消"; ObjectID = "139"; */
+"139.title" = "取消";
+/* Class = "NSButtonCell"; title = "Phone number (long distance & toll-free)"; ObjectID = "14n-a5-Xhk"; */
+"14n-a5-Xhk.title" = "电话号码 (长途和免费)";
+/* Class = "NSTextFieldCell"; title = "You must select at least one built-in audio option"; ObjectID = "G3f-6z-FCZ"; */
+"G3f-6z-FCZ.title" = "必须至少选择一个内置音频选项";
+/* Class = "NSButtonCell"; title = "Computer audio (requires mic & speakers)"; ObjectID = "fMM-Kq-gwg"; */
+"fMM-Kq-gwg.title" = "计算机音频 (需要麦克风和扬声器)";
+/* Class = "NSButtonCell"; title = "Call me"; ObjectID = "w3R-88-GKm"; */
+"w3R-88-GKm.title" = "呼叫我";

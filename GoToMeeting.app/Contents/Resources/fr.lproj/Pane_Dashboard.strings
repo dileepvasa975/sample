@@ -1,0 +1,96 @@
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Dashboard TImer Text"; ObjectID = "130"; */
+"130.ibExternalAccessibilityDescription" = "Dashboard TImer Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Dashboard Attendance Text"; ObjectID = "131"; */
+"131.ibExternalAccessibilityDescription" = "Dashboard Attendance Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Dashboard Attentiveness Text"; ObjectID = "132"; */
+"132.ibExternalAccessibilityDescription" = "Dashboard Attentiveness Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Dashboard Questions Text"; ObjectID = "135"; */
+"135.ibExternalAccessibilityDescription" = "Dashboard Questions Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Dashboard Raised Hands Text"; ObjectID = "136"; */
+"136.ibExternalAccessibilityDescription" = "Dashboard Raised Hands Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Dashboard Polls Text"; ObjectID = "161"; */
+"161.ibExternalAccessibilityDescription" = "Dashboard Polls Text";
+
+/* Class = "NSTextFieldCell"; title = "Chronomètre :"; ObjectID = "171"; */
+"171.title" = "Chronomètre :";
+
+/* Class = "NSTextFieldCell"; title = "Participation :"; ObjectID = "172"; */
+"172.title" = "Participation :";
+
+/* Class = "NSTextFieldCell"; title = "Attentif :"; ObjectID = "173"; */
+"173.title" = "Attentif :";
+
+/* Class = "NSTextFieldCell"; title = "Questions :"; ObjectID = "175"; */
+"175.title" = "Questions :";
+
+/* Class = "NSTextFieldCell"; title = "Mains levées :"; ObjectID = "176"; */
+"176.title" = "Mains levées :";
+
+/* Class = "NSTextFieldCell"; title = "Sondages fournis :"; ObjectID = "179"; */
+"179.title" = "Sondages fournis :";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Dashboard Tests Given"; ObjectID = "181"; */
+"181.ibExternalAccessibilityDescription" = "Dashboard Tests Given";
+
+/* Class = "NSTextFieldCell"; title = "Tests fournis :"; ObjectID = "184"; */
+"184.title" = "Tests fournis :";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Dashboard Duration Display"; ObjectID = "190"; */
+"190.ibExternalAccessibilityDescription" = "Dashboard Duration Display";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Dashboard Tests Link"; ObjectID = "192"; */
+"192.ibExternalAccessibilityDescription" = "Dashboard Tests Link";
+
+/* Class = "NSTextFieldCell"; title = "99/99"; ObjectID = "193"; */
+"193.title" = "99/99";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Dashboard Polls Link"; ObjectID = "196"; */
+"196.ibExternalAccessibilityDescription" = "Dashboard Polls Link";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Nombre de sondages effectués/Nombre total de sondages\nCliquez ici pour ouvrir le panneau Sondages."; ObjectID = "196"; */
+"196.ibShadowedToolTip" = "Nombre de sondages effectués/Nombre total de sondages\nCliquez ici pour ouvrir le panneau Sondages.";
+
+/* Class = "NSTextFieldCell"; title = "99/99"; ObjectID = "197"; */
+"197.title" = "99/99";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Dashboard Attentiveness Bar"; ObjectID = "202"; */
+"202.ibExternalAccessibilityDescription" = "Dashboard Attentiveness Bar";
+
+/* Class = "NSView"; ibShadowedToolTip = "Affiche à gauche le pourcentage de personnes attentives et à droite celles dont le visualiseur est en arrière-plan."; ObjectID = "202"; */
+"202.ibShadowedToolTip" = "Affiche à gauche le pourcentage de personnes attentives et à droite celles dont le visualiseur est en arrière-plan.";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Dashboard Attendance Bar"; ObjectID = "204"; */
+"204.ibExternalAccessibilityDescription" = "Dashboard Attendance Bar";
+
+/* Class = "NSView"; ibShadowedToolTip = "Affiche le nombre de participants qui sont présents ou qui ont quitté la réunion."; ObjectID = "204"; */
+"204.ibShadowedToolTip" = "Affiche le nombre de participants qui sont présents ou qui ont quitté la réunion.";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Dashboard Timer Bar"; ObjectID = "207"; */
+"207.ibExternalAccessibilityDescription" = "Dashboard Timer Bar";
+
+/* Class = "NSView"; ibShadowedToolTip = "Affiche le temps écoulé à gauche et le temps restant à droite."; ObjectID = "207"; */
+"207.ibShadowedToolTip" = "Affiche le temps écoulé à gauche et le temps restant à droite.";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Dashboard Raised Hands Link"; ObjectID = "209"; */
+"209.ibExternalAccessibilityDescription" = "Dashboard Raised Hands Link";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Nombre de mains levées/Nombre de participants (en %)\nCliquez ici pour ouvrir la liste des participants."; ObjectID = "209"; */
+"209.ibShadowedToolTip" = "Nombre de mains levées/Nombre de participants (en %)\nCliquez ici pour ouvrir la liste des participants.";
+
+/* Class = "NSTextFieldCell"; title = "1000/1000 (100 %)"; ObjectID = "210"; */
+"210.title" = "1000/1000 (100 %)";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Dashboard Questions Link"; ObjectID = "213"; */
+"213.ibExternalAccessibilityDescription" = "Dashboard Questions Link";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Nombre de questions sans réponse\n Cliquez ici pour ouvrir le panneau de questions."; ObjectID = "213"; */
+"213.ibShadowedToolTip" = "Nombre de questions sans réponse\n Cliquez ici pour ouvrir le panneau de questions.";
+
+/* Class = "NSTextFieldCell"; title = "2000"; ObjectID = "214"; */
+"214.title" = "2000";

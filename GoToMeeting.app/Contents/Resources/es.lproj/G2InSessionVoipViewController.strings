@@ -1,0 +1,35 @@
+/* Class = "NSTextFieldCell"; title = "Multiline Label"; ObjectID = "3mY-yg-Ead"; */
+"3mY-yg-Ead.title" = "Multiline Label";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "4u3-xb-Aux"; */
+"4u3-xb-Aux.title" = "Elemento 3";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "Eau-Y3-N9A"; */
+"Eau-Y3-N9A.title" = "Elemento 2";
+
+/* Class = "NSMenuItem"; title = "Built-in Microphone"; ObjectID = "IOR-in-qoq"; */
+"IOR-in-qoq.title" = "Micrófono integrado";
+
+/* Class = "NSMenuItem"; title = "Built-in Output"; ObjectID = "OZb-cu-2fP"; */
+"OZb-cu-2fP.title" = "Sonido integrado";
+
+/* Class = "NSButtonCell"; title = "Allow microphone access"; ObjectID = "X7O-F2-GFT"; */
+"X7O-F2-GFT.title" = "Habilite el acceso al micrófono";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "dkt-T5-FSw"; */
+"dkt-T5-FSw.title" = "Elemento 2";
+
+/* Class = "NSTextFieldCell"; title = "Microphone"; ObjectID = "faw-lX-hwz"; */
+"faw-lX-hwz.title" = "Micrófono";
+
+/* Class = "NSTextFieldCell"; title = "Speakers"; ObjectID = "pQw-do-PI3"; */
+"pQw-do-PI3.title" = "Altavoces";
+
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "s1J-op-rRW"; */
+"s1J-op-rRW.title" = "Botón";
+
+/* Class = "NSMenu"; title = "Built-in Output"; ObjectID = "ss5-ra-EOi"; */
+"ss5-ra-EOi.title" = "Sonido integrado";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "zje-JA-3LW"; */
+"zje-JA-3LW.title" = "Elemento 3";

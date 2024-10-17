@@ -1,0 +1,125 @@
+
+/* Class = "NSWindow"; title = "G2W Integrierter Audiomodus"; ObjectID = "66"; */
+"66.title" = "G2W Integrierter Audiomodus";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Audio OK Button"; ObjectID = "75"; */
+"75.ibExternalAccessibilityDescription" = "Edit Audio OK Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Audio Cancel Button"; ObjectID = "76"; */
+"76.ibExternalAccessibilityDescription" = "Edit Audio Cancel Button";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Edit Audio Use VoIP Button"; ObjectID = "78"; */
+"78.ibExternalAccessibilityDescription" = "Edit Audio Use VoIP Button";
+
+/* Class = "NSButtonCell"; title = "Nur VoIP bereitstellen (erfordert Mikrofon und Lautsprecher)"; ObjectID = "78"; */
+"78.title" = "Nur VoIP bereitstellen (erfordert Mikrofon und Lautsprecher)";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Edit Audio Use PSTN Button"; ObjectID = "79"; */
+"79.ibExternalAccessibilityDescription" = "Edit Audio Use PSTN Button";
+
+/* Class = "NSButtonCell"; title = "Nur eine Telefonkonferenznummer bereitstellen"; ObjectID = "79"; */
+"79.title" = "Nur eine Telefonkonferenznummer bereitstellen";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "80"; */
+"80.title" = "Radio";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Edit Audio Use Hybrid Button"; ObjectID = "81"; */
+"81.ibExternalAccessibilityDescription" = "Edit Audio Use Hybrid Button";
+
+/* Class = "NSButtonCell"; title = "Beides bereitstellen"; ObjectID = "81"; */
+"81.title" = "Beides bereitstellen";
+
+/* Class = "NSButtonCell"; title = "Abbrechen"; ObjectID = "82"; */
+"82.title" = "Abbrechen";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "83"; */
+"83.title" = "OK";
+
+/* Class = "NSTextFieldCell"; title = "Organisatoren:"; ObjectID = "87"; */
+"87.title" = "Organisatoren:";
+
+/* Class = "NSTextFieldCell"; title = "Diskussionsteilnehmer:"; ObjectID = "91"; */
+"91.title" = "Referenten:";
+
+/* Class = "NSTextFieldCell"; title = "Teilnehmer:"; ObjectID = "95"; */
+"95.title" = "Teilnehmer:";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "96"; */
+"96.title" = "Radio";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Edit Audio Use Private Button"; ObjectID = "97"; */
+"97.ibExternalAccessibilityDescription" = "Edit Audio Use Private Button";
+
+/* Class = "NSButtonCell"; title = "Use my own conference call service"; ObjectID = "97"; */
+"97.title" = "Eigenen Telefonkonferenzdienst verwenden";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Edit Audio Use Integrated Button"; ObjectID = "98"; */
+"98.ibExternalAccessibilityDescription" = "Edit Audio Use Integrated Button";
+
+/* Class = "NSButtonCell"; title = "Use built-in audio"; ObjectID = "98"; */
+"98.title" = "Integrierte Audioanwendung verwenden";
+
+/* Class = "NSWindow"; title = "G2W Privater Audiomodus"; ObjectID = "115"; */
+"115.title" = "G2W Privater Audiomodus";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Audio Att Text"; ObjectID = "117"; */
+"117.ibExternalAccessibilityDescription" = "Edit Audio Att Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Audio Pan Text"; ObjectID = "119"; */
+"119.ibExternalAccessibilityDescription" = "Edit Audio Pan Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Audio Org Text"; ObjectID = "121"; */
+"121.ibExternalAccessibilityDescription" = "Edit Audio Org Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Audio Private Info Text"; ObjectID = "123"; */
+"123.ibExternalAccessibilityDescription" = "Edit Audio Private Info Text";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Audio Cancel Button"; ObjectID = "124"; */
+"124.ibExternalAccessibilityDescription" = "Edit Audio Cancel Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Audio OK Button"; ObjectID = "125"; */
+"125.ibExternalAccessibilityDescription" = "Edit Audio OK Button";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "126"; */
+"126.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Abbrechen"; ObjectID = "127"; */
+"127.title" = "Abbrechen";
+
+/* Class = "NSTextFieldCell"; title = "Geben Sie Ihre Telefonkonferenzdaten ein:"; ObjectID = "128"; */
+"128.title" = "Geben Sie Ihre Telefonkonferenzdaten ein:";
+
+/* Class = "NSTextFieldCell"; title = "Organisatoren:"; ObjectID = "132"; */
+"132.title" = "Organisatoren:";
+
+/* Class = "NSTextFieldCell"; title = "Diskussionsteilnehmer:"; ObjectID = "136"; */
+"136.title" = "Referenten:";
+
+/* Class = "NSTextFieldCell"; title = "Teilnehmer:"; ObjectID = "140"; */
+"140.title" = "Teilnehmer:";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Audio Private Org Field"; ObjectID = "160"; */
+"160.ibExternalAccessibilityDescription" = "Edit Audio Private Org Field";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Audio Private Pan Field"; ObjectID = "162"; */
+"162.ibExternalAccessibilityDescription" = "Edit Audio Private Pan Field";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Audio Private Att Field"; ObjectID = "164"; */
+"164.ibExternalAccessibilityDescription" = "Edit Audio Private Att Field";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Audio Private Org Field"; ObjectID = "166"; */
+"166.ibExternalAccessibilityDescription" = "Edit Audio Private Org Field";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Audio Private Pan Field"; ObjectID = "170"; */
+"170.ibExternalAccessibilityDescription" = "Edit Audio Private Pan Field";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Audio Private Att Field"; ObjectID = "172"; */
+"172.ibExternalAccessibilityDescription" = "Edit Audio Private Att Field";
+/* Class = "NSButtonCell"; title = "Computer audio (requires mic & speakers)"; ObjectID = "GcI-uN-wUm"; */
+"GcI-uN-wUm.title" = "Computer-Audio (Mikrofon und Lautsprecher erforderlich)";
+/* Class = "NSButtonCell"; title = "Call me"; ObjectID = "N4R-OP-mRp"; */
+"N4R-OP-mRp.title" = "Dial-out/Rückruf";
+/* Class = "NSTextFieldCell"; title = "You must select at least one built-in audio option"; ObjectID = "Xad-UN-jCI"; */
+"Xad-UN-jCI.title" = "Sie müssen mindestens eine integrierte Audio-Option auswählen";
+/* Class = "NSButtonCell"; title = "Phone number (long distance & toll-free)"; ObjectID = "moi-fE-DE1"; */
+"moi-fE-DE1.title" = "Telefonnummern (Festnetz- und gebührenfreie Nummern)";

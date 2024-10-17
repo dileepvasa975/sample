@@ -1,0 +1,24 @@
+
+/* Class = "NSTextFieldCell"; title = "Header text"; ObjectID = "1RG-wy-KKt"; */
+"1RG-wy-KKt.title" = "Header text";
+
+/* Class = "NSTextFieldCell"; title = "Body text Body text Body text Body text Body text Body text Body text Body text Body text Body text Body text Body text "; ObjectID = "1Xb-hs-9uc"; */
+"1Xb-hs-9uc.title" = "Body text Body text Body text Body text Body text Body text Body text Body text Body text Body text Body text Body text ";
+
+/* Class = "NSButtonCell"; title = "Remind me later"; ObjectID = "AQ9-34-gAF"; */
+"AQ9-34-gAF.title" = "Später erinnern";
+
+/* Class = "NSButtonCell"; title = "Next"; ObjectID = "K3N-MS-spD"; */
+"K3N-MS-spD.title" = "Next";
+
+/* Class = "NSButtonCell"; title = "Dismiss"; ObjectID = "XFu-gY-j1C"; */
+"XFu-gY-j1C.title" = "Dismiss";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Next Bubble Button"; ObjectID = "btc-Yb-lgO"; */
+"btc-Yb-lgO.ibExternalAccessibilityDescription" = "Next Bubble Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Skip Bubble Button"; ObjectID = "cdT-kD-MAy"; */
+"cdT-kD-MAy.ibExternalAccessibilityDescription" = "Skip Bubble Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Skip Bubble Button"; ObjectID = "wIN-Ye-MoM"; */
+"wIN-Ye-MoM.ibExternalAccessibilityDescription" = "Skip Bubble Button";

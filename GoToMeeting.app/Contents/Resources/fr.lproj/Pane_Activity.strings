@@ -1,0 +1,15 @@
+
+/* Class = "NSTextFieldCell"; title = "Visionnez une vidéo, collaborez sur un document ou réunissez-vous en petits groupes pour prendre part à des discussions !"; ObjectID = "2eg-mb-4xt"; */
+"2eg-mb-4xt.title" = "Visionnez une vidéo, collaborez sur un document ou réunissez-vous en petits groupes pour prendre part à des discussions !";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Breakout Button"; ObjectID = "Qa7-hZ-xRt"; */
+"Qa7-hZ-xRt.ibExternalAccessibilityDescription" = "Breakout Button";
+
+/* Class = "NSButtonCell"; title = "Discussions"; ObjectID = "kVa-p1-omA"; */
+"kVa-p1-omA.title" = "Discussions";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Web Activity Button"; ObjectID = "lSa-r0-rRI"; */
+"lSa-r0-rRI.ibExternalAccessibilityDescription" = "Web Activity Button";
+
+/* Class = "NSButtonCell"; title = "Choisissez une activité"; ObjectID = "rd9-lP-Oqo"; */
+"rd9-lP-Oqo.title" = "Choisissez une activité";

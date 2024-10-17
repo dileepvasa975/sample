@@ -1,0 +1,68 @@
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Break Timer Action Button"; ObjectID = "3"; */
+"3.ibExternalAccessibilityDescription" = "Break Timer Action Button";
+
+/* Class = "NSButtonCell"; title = "Start"; ObjectID = "4"; */
+"4.title" = "시작";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Break Timer Countdown Text"; ObjectID = "5"; */
+"5.ibExternalAccessibilityDescription" = "Break Timer Countdown Text";
+
+/* Class = "NSTextFieldCell"; placeholderString = "10:00"; ObjectID = "6"; */
+"6.placeholderString" = "10:00";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Break Timer Menu Button"; ObjectID = "12"; */
+"12.ibExternalAccessibilityDescription" = "Break Timer Menu Button";
+
+/* Class = "NSMenuItem"; title = "5 Minutes"; ObjectID = "19"; */
+"19.title" = "5분";
+
+/* Class = "NSMenuItem"; title = "10 Minutes"; ObjectID = "20"; */
+"20.title" = "10분";
+
+/* Class = "NSMenuItem"; title = "20 Minutes"; ObjectID = "21"; */
+"21.title" = "20분";
+
+/* Class = "NSMenuItem"; title = "25 Minutes"; ObjectID = "22"; */
+"22.title" = "25분";
+
+/* Class = "NSMenuItem"; title = "15 Minutes"; ObjectID = "23"; */
+"23.title" = "15분";
+
+/* Class = "NSMenuItem"; title = "30 Minutes"; ObjectID = "24"; */
+"24.title" = "30분";
+
+/* Class = "NSMenuItem"; title = "1 Hour"; ObjectID = "25"; */
+"25.title" = "1시간";
+
+/* Class = "NSMenuItem"; title = "2 Hours"; ObjectID = "26"; */
+"26.title" = "2시간";
+
+/* Class = "NSMenuItem"; title = "Set custom time..."; ObjectID = "27"; */
+"27.title" = "사용자 지정 시간 설정...";
+
+/* Class = "NSWindow"; title = "Set Time"; ObjectID = "40"; */
+"40.title" = "시간 설정";
+
+/* Class = "NSBox"; title = "Time in Minutes"; ObjectID = "42"; */
+"42.title" = "시간(분)";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Break Timer Set Time OK Button"; ObjectID = "43"; */
+"43.ibExternalAccessibilityDescription" = "Break Timer Set Time OK Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Break Timer Set Time Cancel Button"; ObjectID = "44"; */
+"44.ibExternalAccessibilityDescription" = "Break Timer Set Time Cancel Button";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "45"; */
+"45.title" = "취소";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "46"; */
+"46.title" = "확인";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Break Timer Set Time Field"; ObjectID = "47"; */
+"47.ibExternalAccessibilityDescription" = "Break Timer Set Time Field";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Dummy Timer Button"; ObjectID = "70"; */
+"70.ibExternalAccessibilityDescription" = "Dummy Timer Button";
+
+/* Class = "NSMenu"; title = "Break Time"; ObjectID = "72"; */
+"72.title" = "휴식 시간";

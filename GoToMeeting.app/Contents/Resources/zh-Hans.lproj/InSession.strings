@@ -1,0 +1,744 @@
+
+/* Class = "NSWindow"; title = "会议密码 - GoToMeeting"; ObjectID = "5"; */
+"5.title" = "会议密码 - GoToMeeting";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Password OK Button"; ObjectID = "7"; */
+"7.ibExternalAccessibilityDescription" = "Password OK Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Password Cancel Button"; ObjectID = "8"; */
+"8.ibExternalAccessibilityDescription" = "Password Cancel Button";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Password Instruction Text"; ObjectID = "9"; */
+"9.ibExternalAccessibilityDescription" = "Password Instruction Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Password Text Field"; ObjectID = "10"; */
+"10.ibExternalAccessibilityDescription" = "Password Text Field";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Password Text"; ObjectID = "11"; */
+"11.ibExternalAccessibilityDescription" = "Password Text";
+
+/* Class = "NSWindow"; title = "会议密码 - GoToMeeting"; ObjectID = "118"; */
+"118.title" = "会议密码 - GoToMeeting";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Org Password Text"; ObjectID = "120"; */
+"120.ibExternalAccessibilityDescription" = "Org Password Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Org Password Instruction Text"; ObjectID = "121"; */
+"121.ibExternalAccessibilityDescription" = "Org Password Instruction Text";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Org Password Cancel Button"; ObjectID = "122"; */
+"122.ibExternalAccessibilityDescription" = "Org Password Cancel Button";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Org Password Text Field"; ObjectID = "123"; */
+"123.ibExternalAccessibilityDescription" = "Org Password Text Field";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Org Password OK Button"; ObjectID = "124"; */
+"124.ibExternalAccessibilityDescription" = "Org Password OK Button";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Org Password Re-Type Text Field"; ObjectID = "126"; */
+"126.ibExternalAccessibilityDescription" = "Org Password Re-Type Text Field";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Org Password Re-Type Text"; ObjectID = "127"; */
+"127.ibExternalAccessibilityDescription" = "Org Password Re-Type Text";
+
+/* Class = "NSWindow"; title = "电话会议号码"; ObjectID = "138"; */
+"138.title" = "电话会议号码";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Additional Numbers List"; ObjectID = "140"; */
+"140.ibExternalAccessibilityDescription" = "Additional Numbers List";
+
+/* Class = "NSMenu"; title = "菜单"; ObjectID = "143"; */
+"143.title" = "菜单";
+
+/* Class = "NSMenuItem"; title = "笔"; ObjectID = "144"; */
+"144.title" = "笔";
+
+/* Class = "NSMenuItem"; title = "荧光笔"; ObjectID = "145"; */
+"145.title" = "荧光笔";
+
+/* Class = "NSMenuItem"; title = "指针"; ObjectID = "147"; */
+"147.title" = "指针";
+
+/* Class = "NSMenuItem"; title = "箭头"; ObjectID = "148"; */
+"148.title" = "箭头";
+
+/* Class = "NSWindow"; title = "编辑您的名称和电子邮件 - GoToMeeting"; ObjectID = "169"; */
+"169.title" = "编辑您的名称和电子邮件 - GoToMeeting";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Display Info Email Text"; ObjectID = "171"; */
+"171.ibExternalAccessibilityDescription" = "Edit Display Info Email Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Display Info Instruction Text"; ObjectID = "172"; */
+"172.ibExternalAccessibilityDescription" = "Edit Display Info Instruction Text";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Display Info OK Button"; ObjectID = "173"; */
+"173.ibExternalAccessibilityDescription" = "Edit Display Info OK Button";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Display Info Name Field"; ObjectID = "174"; */
+"174.ibExternalAccessibilityDescription" = "Edit Display Info Name Field";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Display Info Remember Check Box"; ObjectID = "175"; */
+"175.ibExternalAccessibilityDescription" = "Edit Display Info Remember Check Box";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Display Info Name Text"; ObjectID = "176"; */
+"176.ibExternalAccessibilityDescription" = "Edit Display Info Name Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Display Info Email Field"; ObjectID = "177"; */
+"177.ibExternalAccessibilityDescription" = "Edit Display Info Email Field";
+
+/* Class = "NSWindow"; title = "会议主题 - GoToMeeting"; ObjectID = "209"; */
+"209.title" = "会议主题 - GoToMeeting";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Meeting Subject Cancel Button"; ObjectID = "211"; */
+"211.ibExternalAccessibilityDescription" = "Meeting Subject Cancel Button";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Meeting Subject Instruction Text"; ObjectID = "213"; */
+"213.ibExternalAccessibilityDescription" = "Meeting Subject Instruction Text";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Meeting Subject OK Button"; ObjectID = "215"; */
+"215.ibExternalAccessibilityDescription" = "Meeting Subject OK Button";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Meeting Subject Field"; ObjectID = "220"; */
+"220.ibExternalAccessibilityDescription" = "Meeting Subject Field";
+
+/* Class = "NSWindow"; title = "Select an Organizer"; ObjectID = "228"; */
+"228.title" = "选择组织者";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Promote Attendee Instruction Text"; ObjectID = "230"; */
+"230.ibExternalAccessibilityDescription" = "Promote Attendee Instruction Text";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Promote Attendee Name List"; ObjectID = "231"; */
+"231.ibExternalAccessibilityDescription" = "Promote Attendee Name List";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Promote Attendee OK Button"; ObjectID = "235"; */
+"235.ibExternalAccessibilityDescription" = "Promote Attendee OK Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Promote Attendee Cancel Button"; ObjectID = "236"; */
+"236.ibExternalAccessibilityDescription" = "Promote Attendee Cancel Button";
+
+/* Class = "NSWindow"; title = "欢迎消息 - GoToMeeting"; ObjectID = "249"; */
+"249.title" = "欢迎消息 - GoToMeeting";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "W"; ObjectID = "250"; */
+"250.ibExternalAccessibilityDescription" = "W";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Welcome Message Field"; ObjectID = "251"; */
+"251.ibExternalAccessibilityDescription" = "Welcome Message Field";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Welcome Message Cancel Button"; ObjectID = "253"; */
+"253.ibExternalAccessibilityDescription" = "Welcome Message Cancel Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Welcome Message OK Button"; ObjectID = "254"; */
+"254.ibExternalAccessibilityDescription" = "Welcome Message OK Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Welcome Message Save Check Box"; ObjectID = "263"; */
+"263.ibExternalAccessibilityDescription" = "Welcome Message Save Check Box";
+
+/* Class = "NSWindow"; title = "输入音频 PIN 码"; ObjectID = "278"; */
+"278.title" = "输入音频 PIN 码";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Enter PIN Instruction Text"; ObjectID = "280"; */
+"280.ibExternalAccessibilityDescription" = "Enter PIN Instruction Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Enter PIN Audio PIN Number"; ObjectID = "281"; */
+"281.ibExternalAccessibilityDescription" = "Enter PIN Audio PIN Number";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Enter PIN OK Button"; ObjectID = "282"; */
+"282.ibExternalAccessibilityDescription" = "Enter PIN OK Button";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Make Presenter Name Text"; ObjectID = "296"; */
+"296.ibExternalAccessibilityDescription" = "Make Presenter Name Text";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter OK Button"; ObjectID = "297"; */
+"297.ibExternalAccessibilityDescription" = "Make Presenter OK Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter Cancel Button"; ObjectID = "298"; */
+"298.ibExternalAccessibilityDescription" = "Make Presenter Cancel Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter KBM Check Box"; ObjectID = "299"; */
+"299.ibExternalAccessibilityDescription" = "Make Presenter KBM Check Box";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Make Presenter Daisey Image"; ObjectID = "305"; */
+"305.ibExternalAccessibilityDescription" = "Make Presenter Daisey Image";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Make Presenter Instruction Text"; ObjectID = "306"; */
+"306.ibExternalAccessibilityDescription" = "Make Presenter Instruction Text";
+
+/* Class = "NSButtonCell"; title = "确定"; ObjectID = "310"; */
+"310.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "取消"; ObjectID = "311"; */
+"311.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "请输入会议密码。"; ObjectID = "312"; */
+"312.title" = "请输入会议密码。";
+
+/* Class = "NSTextFieldCell"; title = "密码:"; ObjectID = "314"; */
+"314.title" = "密码:";
+
+/* Class = "NSTextFieldCell"; title = "密码:"; ObjectID = "315"; */
+"315.title" = "密码:";
+
+/* Class = "NSTextFieldCell"; title = "请输入在发送给与会者的会议邀请中指定的会议密码。"; ObjectID = "316"; */
+"316.title" = "请输入在发送给与会者的会议邀请中指定的会议密码。";
+
+/* Class = "NSButtonCell"; title = "取消"; ObjectID = "317"; */
+"317.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "确定"; ObjectID = "319"; */
+"319.title" = "确定";
+
+/* Class = "NSTextFieldCell"; title = "再次输入密码:"; ObjectID = "321"; */
+"321.title" = "再次输入密码:";
+
+/* Class = "NSTextFieldCell"; title = "电子邮件:"; ObjectID = "322"; */
+"322.title" = "电子邮件:";
+
+/* Class = "NSTextFieldCell"; title = "编辑您希望向会议与会者显示的名称和电子邮件地址。"; ObjectID = "323"; */
+"323.title" = "编辑您希望向会议与会者显示的名称和电子邮件地址。";
+
+/* Class = "NSButtonCell"; title = "确定"; ObjectID = "324"; */
+"324.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "记住名称和电子邮件"; ObjectID = "326"; */
+"326.title" = "记住名称和电子邮件";
+
+/* Class = "NSTextFieldCell"; title = "名称:"; ObjectID = "327"; */
+"327.title" = "名称:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "（可选）"; ObjectID = "328"; */
+"328.placeholderString" = "（可选）";
+
+/* Class = "NSButtonCell"; title = "取消"; ObjectID = "330"; */
+"330.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "请输入会议主题。"; ObjectID = "331"; */
+"331.title" = "请输入会议主题。";
+
+/* Class = "NSButtonCell"; title = "确定"; ObjectID = "332"; */
+"332.title" = "确定";
+
+/* Class = "NSTextFieldCell"; title = "Choose someone to host the meeting as organizer before you leave."; ObjectID = "334"; */
+"334.title" = "在您离开之前选择某位与会者以组织者身份来主持会议。";
+
+/* Class = "NSButtonCell"; title = "Make organizer & leave"; ObjectID = "335"; */
+"335.title" = "设为组织者并离开";
+
+/* Class = "NSButtonCell"; title = "取消"; ObjectID = "336"; */
+"336.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "取消"; ObjectID = "338"; */
+"338.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "确定"; ObjectID = "339"; */
+"339.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "当与会者到会时，对其显示以下文字消息。"; ObjectID = "340"; */
+"340.title" = "当与会者到会时，对其显示以下文字消息。";
+
+/* Class = "NSTextFieldCell"; title = "要使音频控制可用，请立即在电话键盘上输入您的 PIN 码。"; ObjectID = "341"; */
+"341.title" = "要使音频控制可用，请立即在电话键盘上输入您的 PIN 码。";
+
+/* Class = "NSTextFieldCell"; title = "音频 PIN 码: #%1$@#"; ObjectID = "342"; */
+"342.title" = "音频 PIN 码: #%1$@#";
+
+/* Class = "NSButtonCell"; title = "确定"; ObjectID = "343"; */
+"343.title" = "确定";
+
+/* Class = "NSTextFieldCell"; title = "是否要将<Participant Name>设为演示者?"; ObjectID = "344"; */
+"344.title" = "是否要将<Participant Name>设为演示者?";
+
+/* Class = "NSButtonCell"; title = "确定"; ObjectID = "345"; */
+"345.title" = "确定";
+
+/* Class = "NSButtonCell"; title = "取消"; ObjectID = "346"; */
+"346.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "请求键盘和鼠标控制权"; ObjectID = "347"; */
+"347.title" = "请求键盘和鼠标控制权";
+
+/* Class = "NSTextFieldCell"; title = "单击“确定”可将此与会者设为演示者。\n\n将与会者设为工作组成员后，将无法撤消。"; ObjectID = "349"; */
+"349.title" = "单击“确定”可将此与会者设为演示者。\n\n将与会者设为工作组成员后，将无法撤消。";
+
+/* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Promote Attendee Name"; ObjectID = "350"; */
+"350.ibExternalAccessibilityDescription" = "Promote Attendee Name";
+
+/* Class = "NSMenuItem"; title = "选择笔的颜色"; ObjectID = "362"; */
+"362.title" = "选择笔的颜色";
+
+/* Class = "NSMenu"; title = "选择笔的颜色"; ObjectID = "363"; */
+"363.title" = "选择笔的颜色";
+
+/* Class = "NSMenuItem"; title = "红色"; ObjectID = "364"; */
+"364.title" = "红色";
+
+/* Class = "NSMenuItem"; title = "黑色"; ObjectID = "365"; */
+"365.title" = "黑色";
+
+/* Class = "NSMenuItem"; title = "绿色"; ObjectID = "366"; */
+"366.title" = "绿色";
+
+/* Class = "NSMenuItem"; title = "黄色"; ObjectID = "367"; */
+"367.title" = "黄色";
+
+/* Class = "NSMenuItem"; title = "蓝色"; ObjectID = "368"; */
+"368.title" = "蓝色";
+
+/* Class = "NSMenuItem"; title = "定制颜色..."; ObjectID = "370"; */
+"370.title" = "定制颜色...";
+
+/* Class = "NSMenuItem"; title = "橙色"; ObjectID = "371"; */
+"371.title" = "橙色";
+
+/* Class = "NSMenuItem"; title = "紫色"; ObjectID = "373"; */
+"373.title" = "紫色";
+
+/* Class = "NSMenuItem"; title = "粉红色"; ObjectID = "374"; */
+"374.title" = "粉红色";
+
+/* Class = "NSMenuItem"; title = "浅蓝色"; ObjectID = "375"; */
+"375.title" = "浅蓝色";
+
+/* Class = "NSMenuItem"; title = "棕色"; ObjectID = "376"; */
+"376.title" = "棕色";
+
+/* Class = "NSMenuItem"; title = "灰色"; ObjectID = "377"; */
+"377.title" = "灰色";
+
+/* Class = "NSMenuItem"; title = "深绿色"; ObjectID = "378"; */
+"378.title" = "深绿色";
+
+/* Class = "NSMenuItem"; title = "记住笔的颜色"; ObjectID = "380"; */
+"380.title" = "记住笔的颜色";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Meeting Full OK Button"; ObjectID = "401"; */
+"401.ibExternalAccessibilityDescription" = "Meeting Full OK Button";
+
+/* Class = "NSButtonCell"; title = "确定"; ObjectID = "402"; */
+"402.title" = "确定";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Meeting Full Daisey Image"; ObjectID = "403"; */
+"403.ibExternalAccessibilityDescription" = "Meeting Full Daisey Image";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Meeting Full Primary Instructions"; ObjectID = "409"; */
+"409.ibExternalAccessibilityDescription" = "Meeting Full Primary Instructions";
+
+/* Class = "NSTextFieldCell"; title = "<meeting>已达到 <number> 名的最大参会人数。"; ObjectID = "410"; */
+"410.title" = "<meeting>已达到 <number> 名的最大参会人数。";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Meeting Full Secondary Instructions"; ObjectID = "411"; */
+"411.ibExternalAccessibilityDescription" = "Meeting Full Secondary Instructions";
+
+/* Class = "NSTextFieldCell"; title = "如果您需要让其他人加入此会议，则必须请出某个当前与会者。"; ObjectID = "412"; */
+"412.title" = "如果您需要让其他人加入此会议，则必须请出某个当前与会者。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Meeting Full Check Box"; ObjectID = "428"; */
+"428.ibExternalAccessibilityDescription" = "Meeting Full Check Box";
+
+/* Class = "NSButtonCell"; title = "不再显示此内容"; ObjectID = "429"; */
+"429.title" = "不再显示此内容";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Entry Denied Secondary Instructions"; ObjectID = "442"; */
+"442.ibExternalAccessibilityDescription" = "Entry Denied Secondary Instructions";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Entry Denied Primary Instructions"; ObjectID = "443"; */
+"443.ibExternalAccessibilityDescription" = "Entry Denied Primary Instructions";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Entry Denied Daisey Image"; ObjectID = "444"; */
+"444.ibExternalAccessibilityDescription" = "Entry Denied Daisey Image";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Entry Denied OK Button"; ObjectID = "445"; */
+"445.ibExternalAccessibilityDescription" = "Entry Denied OK Button";
+
+/* Class = "NSButtonCell"; title = "确定"; ObjectID = "446"; */
+"446.title" = "确定";
+
+/* Class = "NSTextFieldCell"; title = "有人未获准加入此_meeting_，因为该会议已满员(最多 %d 人)。"; ObjectID = "448"; */
+"448.title" = "有人未获准加入此_meeting_，因为该会议已满员(最多 %d 人)。";
+
+/* Class = "NSTextFieldCell"; title = "如果您需要让其他人加入此会议，需要先请出某个当前与会者，方法是右键单击与会者列表中的相应名称并选择“请出”。"; ObjectID = "449"; */
+"449.title" = "如果您需要让其他人加入此会议，需要先请出某个当前与会者，方法是右键单击与会者列表中的相应名称并选择“请出”。";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Entry Denied Check Box"; ObjectID = "450"; */
+"450.ibExternalAccessibilityDescription" = "Entry Denied Check Box";
+
+/* Class = "NSButtonCell"; title = "不再显示此内容"; ObjectID = "450"; */
+"450.title" = "不再显示此内容";
+
+/* Class = "NSMenu"; title = "摄像头"; ObjectID = "469"; */
+"469.title" = "摄像头";
+
+/* Class = "NSMenuItem"; title = "首选项..."; ObjectID = "470"; */
+"470.title" = "首选项...";
+
+/* Class = "NSMenuItem"; title = "始终在前"; ObjectID = "473"; */
+"473.title" = "始终在前";
+
+/* Class = "NSMenuItem"; title = "打开摄像头"; ObjectID = "474"; */
+"474.title" = "打开摄像头";
+
+/* Class = "NSMenuItem"; title = "隐藏摄像头"; ObjectID = "475"; */
+"475.title" = "隐藏摄像头";
+
+/* Class = "NSMenuItem"; title = "摄像头位置:"; ObjectID = "477"; */
+"477.title" = "摄像头位置:";
+
+/* Class = "NSMenuItem"; title = "顶部"; ObjectID = "479"; */
+"479.title" = "顶部";
+
+/* Class = "NSMenuItem"; title = "右侧"; ObjectID = "480"; */
+"480.title" = "右侧";
+
+/* Class = "NSMenuItem"; title = "底部"; ObjectID = "481"; */
+"481.title" = "底部";
+
+/* Class = "NSMenuItem"; title = "左"; ObjectID = "482"; */
+"482.title" = "左";
+
+/* Class = "NSMenu"; title = "缩放"; ObjectID = "484"; */
+"484.title" = "缩放";
+
+/* Class = "NSMenuItem"; title = "实际大小"; ObjectID = "485"; */
+"485.title" = "实际大小";
+
+/* Class = "NSMenuItem"; title = "调整到合适大小"; ObjectID = "486"; */
+"486.title" = "调整到合适大小";
+
+/* Class = "NSMenuItem"; title = "缩放到"; ObjectID = "489"; */
+"489.title" = "缩放到";
+
+/* Class = "NSMenu"; title = "缩放到"; ObjectID = "492"; */
+"492.title" = "缩放到";
+
+/* Class = "NSMenuItem"; title = "100%"; ObjectID = "493"; */
+"493.title" = "100%";
+
+/* Class = "NSMenuItem"; title = "150%"; ObjectID = "494"; */
+"494.title" = "150%";
+
+/* Class = "NSMenuItem"; title = "200%"; ObjectID = "495"; */
+"495.title" = "200%";
+
+/* Class = "NSMenuItem"; title = "400%"; ObjectID = "497"; */
+"497.title" = "400%";
+
+/* Class = "NSMenuItem"; title = "定制..."; ObjectID = "498"; */
+"498.title" = "定制...";
+
+/* Class = "NSMenuItem"; title = "75%"; ObjectID = "499"; */
+"499.title" = "75%";
+
+/* Class = "NSMenuItem"; title = "50%"; ObjectID = "500"; */
+"500.title" = "50%";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter OK Button"; ObjectID = "525"; */
+"525.ibExternalAccessibilityDescription" = "Make Presenter OK Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter Cancel Button"; ObjectID = "526"; */
+"526.ibExternalAccessibilityDescription" = "Make Presenter Cancel Button";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Make Presenter Daisey Image"; ObjectID = "528"; */
+"528.ibExternalAccessibilityDescription" = "Make Presenter Daisey Image";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Make Presenter Instruction Text"; ObjectID = "529"; */
+"529.ibExternalAccessibilityDescription" = "Make Presenter Instruction Text";
+
+/* Class = "NSTextFieldCell"; title = "<Participant Name> 需要切换到桌面版 GoToMeeting 才能成为演示者。\n\n当您要求与会者演示时，对方需要一分钟时间下载该版本。"; ObjectID = "530"; */
+"530.title" = "<Participant Name> 需要切换到桌面版 GoToMeeting 才能成为演示者。\n\n当您要求与会者演示时，对方需要一分钟时间下载该版本。";
+
+/* Class = "NSButtonCell"; title = "取消"; ObjectID = "533"; */
+"533.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "发送演示和下载请求"; ObjectID = "534"; */
+"534.title" = "发送演示和下载请求";
+
+/* Class = "NSButtonCell"; title = "0"; ObjectID = "01X-RX-JpG"; */
+"01X-RX-JpG.title" = "0";
+
+/* Class = "NSTextFieldCell"; title = "Strongly agree"; ObjectID = "0Ig-0L-KRA"; */
+"0Ig-0L-KRA.title" = "强烈同意";
+
+/* Class = "NSButtonCell"; title = "8"; ObjectID = "0jJ-Cr-NKn"; */
+"0jJ-Cr-NKn.title" = "8";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES Verbatim Label"; ObjectID = "1Jl-3w-S43"; */
+"1Jl-3w-S43.ibExternalAccessibilityDescription" = "CES Verbatim Label";
+
+/* Class = "NSWindow"; title = "编辑姓名 - GoToMeeting"; ObjectID = "1Ub-1g-lAf"; */
+"1Ub-1g-lAf.title" = "编辑姓名 - GoToMeeting";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter OK Button"; ObjectID = "1gK-8C-v0R"; */
+"1gK-8C-v0R.ibExternalAccessibilityDescription" = "Make Presenter OK Button";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "2Fv-Vd-a4m"; */
+"2Fv-Vd-a4m.title" = "取消";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter Cancel Button"; ObjectID = "2mV-TE-MVg"; */
+"2mV-TE-MVg.ibExternalAccessibilityDescription" = "Make Presenter Cancel Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter OK Button"; ObjectID = "2tB-u6-ekA"; */
+"2tB-u6-ekA.ibExternalAccessibilityDescription" = "Make Presenter OK Button";
+
+/* Class = "NSMenuItem"; title = "进入全屏模式"; ObjectID = "3MU-Tw-ekD"; */
+"3MU-Tw-ekD.title" = "进入全屏模式";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Make Presenter Daisey Image"; ObjectID = "3Mk-g7-FGp"; */
+"3Mk-g7-FGp.ibExternalAccessibilityDescription" = "Make Presenter Daisey Image";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Email (optional)"; ObjectID = "3c1-9g-Oei"; */
+"3c1-9g-Oei.placeholderString" = "电子邮件(可选)";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES Status Text"; ObjectID = "3gL-7j-Uhx"; */
+"3gL-7j-Uhx.ibExternalAccessibilityDescription" = "CES Status Text";
+
+/* Class = "NSButtonCell"; title = "2"; ObjectID = "4a8-uQ-3tA"; */
+"4a8-uQ-3tA.title" = "2";
+
+/* Class = "NSButtonCell"; title = "取消"; ObjectID = "5Nt-bA-3e7"; */
+"5Nt-bA-3e7.title" = "取消";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Tell us why you feel that way."; ObjectID = "628-sX-2au"; */
+"628-sX-2au.placeholderString" = "请告诉我们您选择上述可能性的原因。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter Cancel Button"; ObjectID = "6te-FU-K5S"; */
+"6te-FU-K5S.ibExternalAccessibilityDescription" = "Make Presenter Cancel Button";
+
+/* Class = "NSTextFieldCell"; title = "Please explain where you experienced difficulty today."; ObjectID = "85C-DJ-ceG"; */
+"85C-DJ-ceG.title" = "请说明您目前遇到哪方面的难题。";
+
+/* Class = "NSMenuItem"; title = "指针"; ObjectID = "AMH-yj-Fva"; */
+"AMH-yj-Fva.title" = "指针";
+
+/* Class = "NSButtonCell"; title = "发送请求"; ObjectID = "AzK-ag-Go8"; */
+"AzK-ag-Go8.title" = "发送请求";
+
+/* Class = "NSButtonCell"; title = "2"; ObjectID = "BM0-fD-wzz"; */
+"BM0-fD-wzz.title" = "2";
+
+/* Class = "NSButtonCell"; title = "Submit"; ObjectID = "BYc-zv-dNm"; */
+"BYc-zv-dNm.title" = "提交";
+
+/* Class = "NSMenuItem"; title = "与会者可以绘图"; ObjectID = "C1U-BB-dtj"; */
+"C1U-BB-dtj.title" = "与会者可以绘图";
+
+/* Class = "NSTextFieldCell"; title = "<Product> was easy to use today."; ObjectID = "CEp-oC-nav"; */
+"CEp-oC-nav.title" = "<Product> was easy to use today.";
+
+/* Class = "NSButtonCell"; title = "取消"; ObjectID = "Cv4-I4-jH5"; */
+"Cv4-I4-jH5.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "4"; ObjectID = "CwP-Od-LWy"; */
+"CwP-Od-LWy.title" = "4";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "Evl-RH-eDX"; */
+"Evl-RH-eDX.title" = "关闭";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Make Presenter Instruction Text"; ObjectID = "GN2-Dl-Leo"; */
+"GN2-Dl-Leo.ibExternalAccessibilityDescription" = "Make Presenter Instruction Text";
+
+/* Class = "NSMenuItem"; title = "聚焦"; ObjectID = "GUY-vC-NQo"; */
+"GUY-vC-NQo.title" = "聚光灯";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 2 Button"; ObjectID = "H4H-YY-LzK"; */
+"H4H-YY-LzK.ibExternalAccessibilityDescription" = "CES Rating 2 Button";
+
+/* Class = "NSMenuItem"; title = "View everyone"; ObjectID = "Hew-yV-GIl"; */
+"Hew-yV-GIl.title" = "查看所有人";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "CES Image"; ObjectID = "HhR-m5-ReB"; */
+"HhR-m5-ReB.ibExternalAccessibilityDescription" = "CES Image";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter Cancel Button"; ObjectID = "Iof-6e-W4Q"; */
+"Iof-6e-W4Q.ibExternalAccessibilityDescription" = "Make Presenter Cancel Button";
+
+/* Class = "NSTextFieldCell"; title = "Edit name"; ObjectID = "JO5-ho-sK1"; */
+"JO5-ho-sK1.title" = "Edit name";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES Verbatim Text Field"; ObjectID = "JZn-M7-FCN"; */
+"JZn-M7-FCN.ibExternalAccessibilityDescription" = "CES Verbatim Text Field";
+
+/* Class = "NSWindow"; title = "共享绘图工具"; ObjectID = "L6D-za-iML"; */
+"L6D-za-iML.title" = "共享绘图工具";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Submit Button"; ObjectID = "L7c-t2-deb"; */
+"L7c-t2-deb.ibExternalAccessibilityDescription" = "CES Submit Button";
+
+/* Class = "NSButtonCell"; title = "3"; ObjectID = "LlQ-y6-U3K"; */
+"LlQ-y6-U3K.title" = "3";
+
+/* Class = "NSTextFieldCell"; title = "Not at all likely"; ObjectID = "MUE-gX-8mE"; */
+"MUE-gX-8mE.title" = "完全不可能";
+
+/* Class = "NSMenuItem"; title = "Undock Webcams"; ObjectID = "RHH-zh-Hps"; */
+"RHH-zh-Hps.title" = "分离摄像头";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 1 Button"; ObjectID = "RbM-MQ-ph2"; */
+"RbM-MQ-ph2.ibExternalAccessibilityDescription" = "CES Rating 1 Button";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Name (optional)"; ObjectID = "SPM-8W-ycI"; */
+"SPM-8W-ycI.placeholderString" = "姓名(可选)";
+
+/* Class = "NSButtonCell"; title = "取消"; ObjectID = "SWv-jr-bdi"; */
+"SWv-jr-bdi.title" = "取消";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 5 Button"; ObjectID = "SuR-nc-Gg5"; */
+"SuR-nc-Gg5.ibExternalAccessibilityDescription" = "CES Rating 5 Button";
+
+/* Class = "NSButtonCell"; title = "1"; ObjectID = "TBJ-mY-CMR"; */
+"TBJ-mY-CMR.title" = "1";
+
+/* Class = "NSButtonCell"; title = "Submit"; ObjectID = "TFm-L7-mhy"; */
+"TFm-L7-mhy.title" = "提交";
+
+/* Class = "NSButtonCell"; title = "4"; ObjectID = "UhS-JA-NWu"; */
+"UhS-JA-NWu.title" = "4";
+
+/* Class = "NSButtonCell"; title = "7"; ObjectID = "UvO-QL-8Y7"; */
+"UvO-QL-8Y7.title" = "7";
+
+/* Class = "NSTextFieldCell"; title = "Extremely likely"; ObjectID = "V8u-WI-emd"; */
+"V8u-WI-emd.title" = "极有可能";
+
+/* Class = "NSTextFieldCell"; title = "Strongly disagree"; ObjectID = "X0O-Vc-SqW"; */
+"X0O-Vc-SqW.title" = "非常不同意";
+
+/* Class = "NSButtonCell"; title = "Feedback Checkbox"; ObjectID = "XWk-I0-g7p"; */
+"XWk-I0-g7p.title" = "Feedback Checkbox";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Close Button"; ObjectID = "Xyl-d2-oa4"; */
+"Xyl-d2-oa4.ibExternalAccessibilityDescription" = "CES Close Button";
+
+/* Class = "NSButtonCell"; title = "Okay, Change Presenter"; ObjectID = "Y0X-ZJ-az1"; */
+"Y0X-ZJ-az1.title" = "Okay, Change Presenter";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 4 Button"; ObjectID = "Y8y-74-2fm"; */
+"Y8y-74-2fm.ibExternalAccessibilityDescription" = "CES Rating 4 Button";
+
+/* Class = "NSButtonCell"; title = "6"; ObjectID = "Ydb-8C-pCV"; */
+"Ydb-8C-pCV.title" = "6";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 6 Button"; ObjectID = "aSS-3t-wCB"; */
+"aSS-3t-wCB.ibExternalAccessibilityDescription" = "CES Rating 6 Button";
+
+/* Class = "NSButtonCell"; title = "3"; ObjectID = "bYb-0g-vvf"; */
+"bYb-0g-vvf.title" = "3";
+
+/* Class = "NSMenuItem"; title = "擦除所有绘图"; ObjectID = "bgx-kQ-SYt"; */
+"bgx-kQ-SYt.title" = "擦除所有绘图";
+
+/* Class = "NSButtonCell"; title = "Not Now"; ObjectID = "bkc-IM-Ie0"; */
+"bkc-IM-Ie0.title" = "Not Now";
+
+/* Class = "NSTextFieldCell"; title = "Please rate your agreement with the following statement."; ObjectID = "cTK-u3-wzy"; */
+"cTK-u3-wzy.title" = "请根据您对以下陈述的同意程度进行评分。";
+
+/* Class = "NSMenu"; title = "Webcam Filter"; ObjectID = "cVq-w9-MMe"; */
+"cVq-w9-MMe.title" = "摄像头筛选器";
+
+/* Class = "NSButtonCell"; title = "6"; ObjectID = "cv5-46-dfh"; */
+"cv5-46-dfh.title" = "6";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Make Presenter Instruction Text"; ObjectID = "cvJ-R6-0rP"; */
+"cvJ-R6-0rP.ibExternalAccessibilityDescription" = "Make Presenter Instruction Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES Low Rating Text"; ObjectID = "d1B-Ki-dx8"; */
+"d1B-Ki-dx8.ibExternalAccessibilityDescription" = "CES Low Rating Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Make Presenter Name Text"; ObjectID = "dKg-Ft-0Bi"; */
+"dKg-Ft-0Bi.ibExternalAccessibilityDescription" = "Make Presenter Name Text";
+
+/* Class = "NSButtonCell"; title = "5"; ObjectID = "dcs-x6-acz"; */
+"dcs-x6-acz.title" = "5";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 3 Button"; ObjectID = "eEa-I1-PZy"; */
+"eEa-I1-PZy.ibExternalAccessibilityDescription" = "CES Rating 3 Button";
+
+/* Class = "NSMenuItem"; title = "View who's talking"; ObjectID = "eFl-c9-u8C"; */
+"eFl-c9-u8C.title" = "查看发言者";
+
+/* Class = "NSButtonCell"; title = "1"; ObjectID = "foe-Al-9oI"; */
+"foe-Al-9oI.title" = "1";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES Question Text"; ObjectID = "gg5-jt-ARc"; */
+"gg5-jt-ARc.ibExternalAccessibilityDescription" = "CES Question Text";
+
+/* Class = "NSMenuItem"; title = "View presenter"; ObjectID = "i2F-aw-Jrz"; */
+"i2F-aw-Jrz.title" = "查看演示者";
+
+/* Class = "NSButtonCell"; title = "10"; ObjectID = "i5V-ic-IC0"; */
+"i5V-ic-IC0.title" = "10";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter OK Button"; ObjectID = "jvV-gM-wFW"; */
+"jvV-gM-wFW.ibExternalAccessibilityDescription" = "Make Presenter OK Button";
+
+/* Class = "NSButtonCell"; title = "确定"; ObjectID = "lAT-ho-Iqg"; */
+"lAT-ho-Iqg.title" = "确定";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 7 Button"; ObjectID = "mZn-6p-yXd"; */
+"mZn-6p-yXd.ibExternalAccessibilityDescription" = "CES Rating 7 Button";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "mwY-8g-bCX"; */
+"mwY-8g-bCX.title" = "关闭";
+
+/* Class = "NSButtonCell"; title = "9"; ObjectID = "nLd-Jh-Asa"; */
+"nLd-Jh-Asa.title" = "9";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Make Presenter Daisey Image"; ObjectID = "nb6-j9-0Jz"; */
+"nb6-j9-0Jz.ibExternalAccessibilityDescription" = "Make Presenter Daisey Image";
+
+/* Class = "NSMenu"; title = "查看"; ObjectID = "ncU-wF-hmL"; */
+"ncU-wF-hmL.title" = "查看";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES High Rating Text"; ObjectID = "pK6-3K-K5Z"; */
+"pK6-3K-K5Z.ibExternalAccessibilityDescription" = "CES High Rating Text";
+
+/* Class = "NSMenuItem"; title = "View everyone"; ObjectID = "pMX-Uy-lqs"; */
+"pMX-Uy-lqs.title" = "查看所有人";
+
+/* Class = "NSTextFieldCell"; title = "You've left the <meeting>."; ObjectID = "pwg-e3-nnT"; */
+"pwg-e3-nnT.title" = "You've left the <meeting>.";
+
+/* Class = "NSButtonCell"; title = "7"; ObjectID = "qNs-mT-Hr8"; */
+"qNs-mT-Hr8.title" = "7";
+
+/* Class = "NSMenuItem"; title = "Hide webcams"; ObjectID = "qh1-Ry-iRN"; */
+"qh1-Ry-iRN.title" = "隐藏摄像头";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES Question Label"; ObjectID = "r2c-Oe-0gB"; */
+"r2c-Oe-0gB.ibExternalAccessibilityDescription" = "CES Question Label";
+
+/* Class = "NSTextFieldCell"; title = "You've left the <meeting>."; ObjectID = "rS5-V1-vQr"; */
+"rS5-V1-vQr.title" = "You've left the <meeting>.";
+
+/* Class = "NSWindow"; title = "共享键盘和鼠标"; ObjectID = "rbZ-y7-E3u"; */
+"rbZ-y7-E3u.title" = "共享键盘和鼠标";
+
+/* Class = "NSButtonCell"; title = "发送请求"; ObjectID = "tD0-GV-h6J"; */
+"tD0-GV-h6J.title" = "发送请求";
+
+/* Class = "NSButtonCell"; title = "5"; ObjectID = "vfZ-eB-pBe"; */
+"vfZ-eB-pBe.title" = "5";
+
+/* Class = "NSMenuItem"; title = "View presenter"; ObjectID = "wI7-R4-I3R"; */
+"wI7-R4-I3R.title" = "查看演示者";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Make Presenter Daisey Image"; ObjectID = "wbi-Cn-57d"; */
+"wbi-Cn-57d.ibExternalAccessibilityDescription" = "Make Presenter Daisey Image";
+
+/* Class = "NSTextFieldCell"; title = "Based on your most recent experience, how likely are you to recommend <Product> to a friend or colleague?"; ObjectID = "xTB-1k-thW"; */
+"xTB-1k-thW.title" = "Based on your most recent experience, how likely are you to recommend <Product> to a friend or colleague?";
+
+/* Class = "NSMenuItem"; title = "View who's talking"; ObjectID = "xc8-35-2Us"; */
+"xc8-35-2Us.title" = "查看发言者";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "CES View"; ObjectID = "xf5-CR-cEV"; */
+"xf5-CR-cEV.ibExternalAccessibilityDescription" = "CES View";
+
+/* Class = "NSMenuItem"; title = "Hide My Webcam"; ObjectID = "y1X-TH-vbk"; */
+"y1X-TH-vbk.title" = "Hide My Webcam";
+
+/* Class = "NSMenuItem"; title = "Hide webcams"; ObjectID = "yGu-Fo-9Cw"; */
+"yGu-Fo-9Cw.title" = "隐藏摄像头";
+
+/* Class = "NSTextFieldCell"; title = "<Participant Name> wants to share their screen.  "; ObjectID = "z2d-Q2-MYZ"; */
+"z2d-Q2-MYZ.title" = "<Participant Name> wants to share their screen.  ";

@@ -1,0 +1,23 @@
+
+/* Class = "NSToolbarItem"; label = "Use one screen"; ObjectID = "2O2-iL-bGn"; */
+"2O2-iL-bGn.label" = "1 つの画面を使用する";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Use one screen"; ObjectID = "2O2-iL-bGn"; */
+"2O2-iL-bGn.paletteLabel" = "1 つの画面を使用する";
+
+"2O2-iL-bGn.toolTip" = "同じ画面上に画面共有と Web カメラを表示します。";
+
+/* Class = "NSToolbarItem"; label = "Webcam Filter"; ObjectID = "ifs-Sr-SUk"; */
+"ifs-Sr-SUk.label" = "Web カメラフィルタ";
+/* Class = "NSToolbarItem"; paletteLabel = "Webcam Filter"; ObjectID = "ifs-Sr-SUk"; */
+"ifs-Sr-SUk.paletteLabel" = "Web カメラフィルタ";
+/* Class = "NSToolbarItem"; toolTip = "Change webcam filter"; ObjectID = "ifs-Sr-SUk"; */
+"ifs-Sr-SUk.toolTip" = "Web カメラフィルタを変更";
+
+/* Class = "NSToolbarItem"; label = "Webcams"; ObjectID = "p9H-aq-Rdr"; */
+"p9H-aq-Rdr.label" = "Web カメラ";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Webcams"; ObjectID = "p9H-aq-Rdr"; */
+"p9H-aq-Rdr.paletteLabel" = "Web カメラ";
+/* Class = "NSToolbarItem"; toolTip = "Change webcam preferences"; ObjectID = "p9H-aq-Rdr"; */
+"p9H-aq-Rdr.toolTip" = "Web カメラの基本設定を変更";

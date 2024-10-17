@@ -1,0 +1,152 @@
+/* Class = "NSMenu"; title = "AMainMenu"; ObjectID = "29"; */
+"29.title" = "AMainMenu";
+
+/* Class = "NSMenuItem"; title = "GoToMeeting Recording Manager"; ObjectID = "56"; */
+"56.title" = "GoToMeeting Recording Manager";
+
+/* Class = "NSMenu"; title = "GoToMeeting Recording Manager"; ObjectID = "57"; */
+"57.title" = "GoToMeeting Recording Manager";
+
+/* Class = "NSMenuItem"; title = "About GoToMeeting Recording Manager"; ObjectID = "58"; */
+"58.title" = "GoToMeeting Recording Manager の製品情報";
+
+/* Class = "NSMenuItem"; title = "Select a Recording Folder..."; ObjectID = "72"; */
+"72.title" = "記録フォルダを選択...";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
+"81.title" = "ファイル";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
+"83.title" = "ファイル";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
+"130.title" = "サービス";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
+"131.title" = "サービス";
+
+/* Class = "NSMenuItem"; title = "Hide GoToMeeting Recording Manager"; ObjectID = "134"; */
+"134.title" = "GoToMeeting Recording Manager を非表示";
+
+/* Class = "NSMenuItem"; title = "Quit GoToMeeting Recording Manager"; ObjectID = "136"; */
+"136.title" = "GoToMeeting Recording Manager の終了";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
+"145.title" = "その他を隠す";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
+"150.title" = "すべて表示";
+
+/* Class = "NSWindow"; title = "GoToMeeting Recording Manager"; ObjectID = "371"; */
+"371.title" = "GoToMeeting Recording Manager";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "490"; */
+"490.title" = "ヘルプ";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "491"; */
+"491.title" = "ヘルプ";
+
+/* Class = "NSMenuItem"; title = "GoToMeeting Recording Manager Help"; ObjectID = "492"; */
+"492.title" = "GoToMeeting Recording Manager ヘルプ";
+
+/* Class = "NSButtonCell"; title = "Convert Recording"; ObjectID = "535"; */
+"535.title" = "記録の変換";
+
+/* Class = "NSTextFieldCell"; title = "Converting \"Meet Now\" (1/1)"; ObjectID = "539"; */
+"539.title" = "\"ミーティングを今すぐ開始する\" を変換しています（1／1）";
+
+/* Class = "NSTextFieldCell"; title = "Your recording needs to be converted before anyone can view it."; ObjectID = "556"; */
+"556.title" = "記録をだれでも視聴できるようにするには、まず記録を変換する必要があります。";
+
+/* Class = "NSTextFieldCell"; title = "You can do this now, or when it's convenient for you. You may also choose to convert additional recordings at this time."; ObjectID = "558"; */
+"558.title" = "この操作は、今すぐ行うことも都合の良いタイミングで行うこともできます。また、この時点で追加の記録を変換することもできます。";
+
+/* Class = "NSBox"; title = "Progress"; ObjectID = "572"; */
+"572.title" = "進行状況";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "574"; */
+"574.title" = "キャンセル";
+
+/* Class = "NSTextFieldCell"; title = "0% Complete"; ObjectID = "576"; */
+"576.title" = "0% 完了";
+
+/* Class = "NSButtonCell"; title = "Not Now"; ObjectID = "582"; */
+"582.title" = "後でします";
+
+/* Class = "NSTextFieldCell"; title = "Recordings You Need To Convert"; ObjectID = "616"; */
+"616.title" = "変換する必要がある記録";
+
+/* Class = "NSTextFieldCell"; title = "Recordings You Need To Convert"; ObjectID = "621"; */
+"621.title" = "変換する必要がある記録";
+
+/* Class = "NSTextFieldCell"; title = "Converted Recordings"; ObjectID = "625"; */
+"625.title" = "変換済みの記録";
+
+/* Class = "NSTextFieldCell"; title = "Converted Recordings"; ObjectID = "631"; */
+"631.title" = "変換済みの記録";
+
+/* Class = "NSTableColumn"; headerCell.title = "Session Title"; ObjectID = "645"; */
+"645.headerCell.title" = "セッションのタイトル";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "646"; */
+"646.title" = "テキストセル";
+
+/* Class = "NSButtonCell"; title = "Convert Recordings"; ObjectID = "649"; */
+"649.title" = "記録の変換";
+
+/* Class = "NSTableColumn"; headerCell.title = "Session Title"; ObjectID = "658"; */
+"658.headerCell.title" = "セッションのタイトル";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "659"; */
+"659.title" = "テキストセル";
+
+/* Class = "NSButtonCell"; title = "Open Recordings Folder"; ObjectID = "661"; */
+"661.title" = "記録フォルダを開く";
+
+/* Class = "NSTextFieldCell"; title = "Your recording needs to be converted before anyone can view it."; ObjectID = "686"; */
+"686.title" = "記録をだれでも視聴できるようにするには、まず記録を変換する必要があります。";
+
+/* Class = "NSTextFieldCell"; title = "You can do this now, or when it's convenient for you."; ObjectID = "688"; */
+"688.title" = "この操作は、今すぐ行うことも都合の良いタイミングで行うこともできます。";
+
+/* Class = "NSTextFieldCell"; title = "You have recordings that need to be converted before anyone can view them."; ObjectID = "697"; */
+"697.title" = "だれでも視聴できるようにするためにまず変換しなければならない記録があります。";
+
+/* Class = "NSTextFieldCell"; title = "You can do this now, or when it's convenient for you. You may choose to convert several recordings at once."; ObjectID = "699"; */
+"699.title" = "この操作は、今すぐ行うことも都合の良いタイミングで行うこともできます。一度に複数の記録を変換することもできます。";
+
+/* Class = "NSTextFieldCell"; title = "These recordings are saved on your computer and can be viewed or shared with anyone."; ObjectID = "702"; */
+"702.title" = "これらの記録はコンピュータに保存され、視聴したりほかの人と共有したりすることができます。";
+
+/* Class = "NSTextFieldCell"; title = "Your recordings are ready to be shared with anyone!"; ObjectID = "703"; */
+"703.title" = "記録をだれとでも共有できるようになりました。";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date and Time"; ObjectID = "705"; */
+"705.headerCell.title" = "日時";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "706"; */
+"706.title" = "テキストセル";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "712"; */
+"712.title" = "テキストセル";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "718"; */
+"718.title" = "チェック";
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "722"; */
+"722.title" = "文字列";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "738"; */
+"738.title" = "ウインドウ";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "739"; */
+"739.title" = "ウインドウ";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "740"; */
+"740.title" = "最小化";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "747"; */
+"747.title" = "閉じる";
+
+/* Class = "NSMenuItem"; title = "Select Default Recording Folder"; ObjectID = "749"; */
+"749.title" = "デフォルトの記録フォルダを選択";

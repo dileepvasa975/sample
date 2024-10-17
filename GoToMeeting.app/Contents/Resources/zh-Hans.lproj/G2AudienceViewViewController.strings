@@ -1,0 +1,8 @@
+/* Class = "NSTextFieldCell"; title = "People can see your screen."; ObjectID = "1tC-aZ-mTZ"; */
+"1tC-aZ-mTZ.title" = "其他人可以看到您的桌面。";
+
+/* Class = "NSTextFieldCell"; title = "No one has remote control"; ObjectID = "Bmk-FX-GDF"; */
+"Bmk-FX-GDF.title" = "与会者都无法进行远程控制";
+
+/* Class = "NSTextFieldCell"; title = "Waiting for people to see your screen"; ObjectID = "SWp-pR-Jeo"; */
+"SWp-pR-Jeo.title" = "正在等待其他人查看您的桌面";

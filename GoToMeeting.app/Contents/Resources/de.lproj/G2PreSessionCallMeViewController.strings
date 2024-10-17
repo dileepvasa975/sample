@@ -1,0 +1,11 @@
+/* Class = "NSButtonCell"; title = "Remember my number"; ObjectID = "SfV-aV-jLA"; */
+"SfV-aV-jLA.title" = "Meine Nummer speichern";
+
+/* Class = "NSTextFieldCell"; title = "Country"; ObjectID = "adx-Mp-FT3"; */
+"adx-Mp-FT3.title" = "Land";
+
+/* Class = "NSMenuItem"; title = "United States +1"; ObjectID = "d20-eO-e3y"; */
+"d20-eO-e3y.title" = "USA +1";
+
+/* Class = "NSTextFieldCell"; title = "Enter your phone number"; ObjectID = "vaU-Nm-wDC"; */
+"vaU-Nm-wDC.title" = "Geben Sie Ihre Telefonnummer ein";

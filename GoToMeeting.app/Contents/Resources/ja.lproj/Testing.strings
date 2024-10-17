@@ -1,0 +1,14 @@
+/* Class = "NSWindow"; title = "Testing"; ObjectID = "7"; */
+"7.title" = "テスト中";
+
+/* Class = "NSButtonCell"; alternateTitle = "Share Results"; ObjectID = "53"; */
+"53.alternateTitle" = "結果を共有";
+
+/* Class = "NSButtonCell"; title = "Close Results"; ObjectID = "53"; */
+"53.title" = "結果を閉じる";
+
+/* Class = "NSButtonCell"; alternateTitle = "Sharing Results"; ObjectID = "64"; */
+"64.alternateTitle" = "結果を共有しています";
+
+/* Class = "NSButtonCell"; title = "Share Results"; ObjectID = "64"; */
+"64.title" = "結果を共有";

@@ -1,0 +1,20 @@
+/* Class = "NSButtonCell"; title = "I don't need audio"; ObjectID = "FWg-1x-qJs"; */
+"FWg-1x-qJs.title" = "L'audio non è necessario";
+
+/* Class = "NSButtonCell"; title = "SAVE AND CONTINUE"; ObjectID = "JfM-x3-6CI"; */
+"JfM-x3-6CI.title" = "SALVA E CONTINUA";
+
+/* Class = "NSButtonCell"; title = "I'm already on the phone"; ObjectID = "WGU-7N-RrN"; */
+"WGU-7N-RrN.title" = "Sono già al telefono";
+
+/* Class = "NSButtonCell"; title = "Use computer audio instead"; ObjectID = "ZU9-qc-B27"; */
+"ZU9-qc-B27.title" = "Usa l'audio del computer";
+
+/* Class = "NSTextFieldCell"; title = "Dial In by Phone"; ObjectID = "hB5-eK-65X"; */
+"hB5-eK-65X.title" = "Componi il numero dal telefono";
+
+/* Class = "NSButtonCell"; title = "I want to GoToMeeting to call me"; ObjectID = "kGd-Ad-18l"; */
+"kGd-Ad-18l.title" = "Desidero che GoToMeeting mi chiami";
+
+/* Class = "NSTextFieldCell"; title = "The organizer wants you to use the phone for this meeting."; ObjectID = "r4E-13-QMN"; */
+"r4E-13-QMN.title" = "L'organizzatore desidera che tu utilizzi il telefono per questa riunione.";

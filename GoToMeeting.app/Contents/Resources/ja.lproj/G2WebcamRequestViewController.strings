@@ -1,0 +1,9 @@
+
+/* Class = "NSButtonCell"; title = "Share My Webcam"; ObjectID = "Nrz-2g-sBu"; */
+"Nrz-2g-sBu.title" = "マイ Web カメラを共有";
+
+/* Class = "NSButtonCell"; title = "Not Right Now"; ObjectID = "kTk-PX-l31"; */
+"kTk-PX-l31.title" = "後でする";
+
+/* Class = "NSTextFieldCell"; title = "The organizer would like you to share your webcam. Would you like to share it now?"; ObjectID = "yh2-LC-IMv"; */
+"yh2-LC-IMv.title" = "開催者から Web カメラを共有するように求められています。今すぐ共有しますか？";

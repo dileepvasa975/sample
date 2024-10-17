@@ -1,0 +1,128 @@
+/* Class = "NSWindow"; title = "G2W Integrated Audio Mode"; ObjectID = "66"; */
+"66.title" = "G2W 통합 오디오 모드";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Audio OK Button"; ObjectID = "75"; */
+"75.ibExternalAccessibilityDescription" = "오디오 편집: 확인 단추";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Audio Cancel Button"; ObjectID = "76"; */
+"76.ibExternalAccessibilityDescription" = "오디오 편집: 취소 단추";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Edit Audio Use VoIP Button"; ObjectID = "78"; */
+"78.ibExternalAccessibilityDescription" = "오디오 편집: 비공개 VoIP 단추";
+
+/* Class = "NSButtonCell"; title = "Provide VoIP only (requires microphone and speakers)"; ObjectID = "78"; */
+"78.title" = "VoIP만 제공(마이크 및 스피커 필요)";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Edit Audio Use PSTN Button"; ObjectID = "79"; */
+"79.ibExternalAccessibilityDescription" = "Edit Audio Use PSTN Button";
+
+/* Class = "NSButtonCell"; title = "Provide a conference call number only"; ObjectID = "79"; */
+"79.title" = "전화 회의 번호만 제공";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "80"; */
+"80.title" = "라디오";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Edit Audio Use Hybrid Button"; ObjectID = "81"; */
+"81.ibExternalAccessibilityDescription" = "Edit Audio Use Hybrid Button";
+
+/* Class = "NSButtonCell"; title = "Provide both"; ObjectID = "81"; */
+"81.title" = "두 가지 모두 제공";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "82"; */
+"82.title" = "취소";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "83"; */
+"83.title" = "확인";
+
+/* Class = "NSTextFieldCell"; title = "Organizers:"; ObjectID = "87"; */
+"87.title" = "주최자:";
+
+/* Class = "NSTextFieldCell"; title = "Panelists:"; ObjectID = "91"; */
+"91.title" = "패널:";
+
+/* Class = "NSTextFieldCell"; title = "Attendees:"; ObjectID = "95"; */
+"95.title" = "참석자:";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "96"; */
+"96.title" = "라디오";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Edit Audio Use Private Button"; ObjectID = "97"; */
+"97.ibExternalAccessibilityDescription" = "오디오 편집: 비공개 사용 단추";
+
+/* Class = "NSButtonCell"; title = "Provide your own conference call information"; ObjectID = "97"; */
+"97.title" = "본인의 전화 회의 정보 제공";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Edit Audio Use Integrated Button"; ObjectID = "98"; */
+"98.ibExternalAccessibilityDescription" = "오디오 편집: 통합 사용 단추";
+
+/* Class = "NSButtonCell"; title = "Use GoToMeeting integrated audio"; ObjectID = "98"; */
+"98.title" = "GoToMeeting 통합 오디오 사용";
+
+/* Class = "NSWindow"; title = "G2W Private Audio Mode"; ObjectID = "115"; */
+"115.title" = "G2W 비공개 오디오 모드";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Audio Att Text"; ObjectID = "117"; */
+"117.ibExternalAccessibilityDescription" = "오디오 편집: 참가자 텍스트";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Audio Pan Text"; ObjectID = "119"; */
+"119.ibExternalAccessibilityDescription" = "오디오 편집: 패널 텍스트";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Audio Org Text"; ObjectID = "121"; */
+"121.ibExternalAccessibilityDescription" = "오디오 편집: 주최자 텍스트";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Audio Private Info Text"; ObjectID = "123"; */
+"123.ibExternalAccessibilityDescription" = "오디오 편집: 비공개 정보 텍스트";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Audio Cancel Button"; ObjectID = "124"; */
+"124.ibExternalAccessibilityDescription" = "오디오 편집: 취소 단추";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Audio OK Button"; ObjectID = "125"; */
+"125.ibExternalAccessibilityDescription" = "오디오 편집: 확인 단추";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "126"; */
+"126.title" = "확인";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "127"; */
+"127.title" = "취소";
+
+/* Class = "NSTextFieldCell"; title = "Enter your conference call information:"; ObjectID = "128"; */
+"128.title" = "전화 회의 정보 입력:";
+
+/* Class = "NSTextFieldCell"; title = "Organizers:"; ObjectID = "132"; */
+"132.title" = "주최자:";
+
+/* Class = "NSTextFieldCell"; title = "Panelists:"; ObjectID = "136"; */
+"136.title" = "패널:";
+
+/* Class = "NSTextFieldCell"; title = "Attendees:"; ObjectID = "140"; */
+"140.title" = "참석자:";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Audio Private Org Field"; ObjectID = "160"; */
+"160.ibExternalAccessibilityDescription" = "오디오 편집: 비공개 주최자 필드";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Audio Private Pan Field"; ObjectID = "162"; */
+"162.ibExternalAccessibilityDescription" = "오디오 편집: 비공개 패널 필드";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Audio Private Att Field"; ObjectID = "164"; */
+"164.ibExternalAccessibilityDescription" = "오디오 편집: 비공개 참석자 필드";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Audio Private Org Field"; ObjectID = "166"; */
+"166.ibExternalAccessibilityDescription" = "오디오 편집: 비공개 주최자 필드";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Audio Private Pan Field"; ObjectID = "170"; */
+"170.ibExternalAccessibilityDescription" = "오디오 편집: 비공개 패널 필드";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Audio Private Att Field"; ObjectID = "172"; */
+"172.ibExternalAccessibilityDescription" = "오디오 편집: 비공개 참석자 필드";
+
+/* Class = "NSButtonCell"; title = "Computer audio (requires mic & speakers)"; ObjectID = "GcI-uN-wUm"; */
+"GcI-uN-wUm.title" = "컴퓨터 오디오(마이크 및 스피커 필요)";
+
+/* Class = "NSButtonCell"; title = "Call me"; ObjectID = "N4R-OP-mRp"; */
+"N4R-OP-mRp.title" = "통화";
+
+/* Class = "NSTextFieldCell"; title = "You must select at least one built-in audio option"; ObjectID = "Xad-UN-jCI"; */
+"Xad-UN-jCI.title" = "내장 오디오 옵션을 하나 이상 선택해야 합니다.";
+
+/* Class = "NSButtonCell"; title = "Phone number (long distance & toll-free)"; ObjectID = "moi-fE-DE1"; */
+"moi-fE-DE1.title" = "전화 번호(장거리 전화 및 무료 전화)";

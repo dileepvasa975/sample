@@ -1,0 +1,155 @@
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Polls Status Text"; ObjectID = "128"; */
+"128.ibExternalAccessibilityDescription" = "Polls Status Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Polls No Polls Text"; ObjectID = "131"; */
+"131.ibExternalAccessibilityDescription" = "Polls No Polls Text";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "140"; */
+"140.title" = "メニュー";
+
+/* Class = "NSMenuItem"; title = "Create a New Poll"; ObjectID = "142"; */
+"142.title" = "新しい投票の作成";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Polls List"; ObjectID = "148"; */
+"148.ibExternalAccessibilityDescription" = "Polls List";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "152"; */
+"152.title" = "Box";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Polls Launch Button"; ObjectID = "154"; */
+"154.ibExternalAccessibilityDescription" = "Polls Launch Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Polls Manage Button"; ObjectID = "157"; */
+"157.ibExternalAccessibilityDescription" = "Polls Manage Button";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Polls Voted Text"; ObjectID = "158"; */
+"158.ibExternalAccessibilityDescription" = "Polls Voted Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Polls Timer Text"; ObjectID = "159"; */
+"159.ibExternalAccessibilityDescription" = "Polls Timer Text";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Polls Selector"; ObjectID = "160"; */
+"160.ibExternalAccessibilityDescription" = "Polls Selector";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "161"; */
+"161.title" = "そのほかの表示";
+
+/* Class = "NSMenuItem"; title = "Select a Poll..."; ObjectID = "164"; */
+"164.title" = "投票を選択...";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "No Polls Manage Button"; ObjectID = "191"; */
+"191.ibExternalAccessibilityDescription" = "No Polls Manage Button";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Polls Promoted No Polls Text"; ObjectID = "200"; */
+"200.ibExternalAccessibilityDescription" = "Polls Promoted No Polls Text";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "204"; */
+"204.title" = "メニュー";
+
+/* Class = "NSMenuItem"; title = "Manage Polls"; ObjectID = "206"; */
+"206.title" = "投票の管理";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "210"; */
+"210.title" = "Box";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Tests Selector"; ObjectID = "212"; */
+"212.ibExternalAccessibilityDescription" = "Tests Selector";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "213"; */
+"213.title" = "そのほかの表示";
+
+/* Class = "NSMenuItem"; title = "Select a Test..."; ObjectID = "214"; */
+"214.title" = "テストを選択...";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Tests Timer Text"; ObjectID = "215"; */
+"215.ibExternalAccessibilityDescription" = "Tests Timer Text";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Tests Launch Button"; ObjectID = "216"; */
+"216.ibExternalAccessibilityDescription" = "Tests Launch Button";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Tests Submitted Text"; ObjectID = "217"; */
+"217.ibExternalAccessibilityDescription" = "Tests Submitted Text";
+
+/* Class = "NSTabViewItem"; ibExternalAccessibilityDescription = "Polls Tab"; ObjectID = "263"; */
+"263.ibExternalAccessibilityDescription" = "Polls Tab";
+
+/* Class = "NSTabViewItem"; label = "Polls"; ObjectID = "263"; */
+"263.label" = "投票";
+
+/* Class = "NSTabViewItem"; ibExternalAccessibilityDescription = "Tests Tab"; ObjectID = "265"; */
+"265.ibExternalAccessibilityDescription" = "Tests Tab";
+
+/* Class = "NSTabViewItem"; label = "Tests"; ObjectID = "265"; */
+"265.label" = "テスト";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Tests No Tests Text"; ObjectID = "285"; */
+"285.ibExternalAccessibilityDescription" = "Tests No Tests Text";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Tests Manage Button"; ObjectID = "287"; */
+"287.ibExternalAccessibilityDescription" = "Tests Manage Button";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Tests Promoted No Tests Text"; ObjectID = "297"; */
+"297.ibExternalAccessibilityDescription" = "Tests Promoted No Tests Text";
+
+/* Class = "NSTextFieldCell"; title = "Status Text"; ObjectID = "312"; */
+"312.title" = "Status Text";
+
+/* Class = "NSButtonCell"; title = "Share Results"; ObjectID = "313"; */
+"313.title" = "結果を共有";
+
+/* Class = "NSButtonCell"; title = "Manage Polls"; ObjectID = "314"; */
+"314.title" = "投票の管理";
+
+/* Class = "NSTextFieldCell"; title = "100% Voted"; ObjectID = "315"; */
+"315.title" = "100% 投票済み";
+
+/* Class = "NSTextFieldCell"; title = "POLL CLOSED"; ObjectID = "316"; */
+"316.title" = "投票終了";
+
+/* Class = "NSTextFieldCell"; title = "There are no polls associated with this training."; ObjectID = "318"; */
+"318.title" = "このトレーニングには投票が関連付けられていません。";
+
+/* Class = "NSButtonCell"; title = "Create a New Poll"; ObjectID = "319"; */
+"319.title" = "新しい投票の作成";
+
+/* Class = "NSTextFieldCell"; title = "There are no polls associated with this Webinar"; ObjectID = "320"; */
+"320.title" = "このウェビナーには投票が関連付けられていません";
+
+/* Class = "NSTextFieldCell"; title = "00:00:00"; ObjectID = "322"; */
+"322.title" = "00:00:00";
+
+/* Class = "NSButtonCell"; title = "Launch"; ObjectID = "323"; */
+"323.title" = "起動";
+
+/* Class = "NSTextFieldCell"; title = "100% Submitted"; ObjectID = "324"; */
+"324.title" = "100% 送信済み";
+
+/* Class = "NSButtonCell"; title = "Manage Tests"; ObjectID = "325"; */
+"325.title" = "テストの管理";
+
+/* Class = "NSTextFieldCell"; title = "There are no tests associated with this training."; ObjectID = "326"; */
+"326.title" = "このトレーニングにはテストが関連付けられていません。";
+
+/* Class = "NSTextFieldCell"; title = "There are no tests associated with this training\n"; ObjectID = "328"; */
+"328.title" = "このトレーニングにはテストが関連付けられていません\n";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Tests Status Text"; ObjectID = "336"; */
+"336.ibExternalAccessibilityDescription" = "Tests Status Text";
+
+/* Class = "NSTextFieldCell"; title = "Attendees are now viewing: Test in Progress"; ObjectID = "337"; */
+"337.title" = "参加者に次が表示されています：テストが進行中です";
+
+/* Class = "NSBox"; title = "Extra"; ObjectID = "7NU-ds-coT"; */
+"7NU-ds-coT.title" = "追加";
+
+/* Class = "NSButtonCell"; title = "Manage Tests"; ObjectID = "FUY-JH-kvk"; */
+"FUY-JH-kvk.title" = "テストの管理";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "No Tests Manage Button"; ObjectID = "RBo-8F-tdo"; */
+"RBo-8F-tdo.ibExternalAccessibilityDescription" = "No Tests Manage Button";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "bCk-sJ-b5I"; */
+"bCk-sJ-b5I.title" = "ラベル";
+
+/* Class = "NSTextFieldCell"; title = "Polls cannot be launched during a video."; ObjectID = "lmu-NE-Nuf"; */
+"lmu-NE-Nuf.title" = "ビデオの再生中に投票を開始することはできません。";

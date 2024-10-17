@@ -1,0 +1,77 @@
+/* Class = "NSTextFieldCell"; title = "Call up to 5 people. An automated call from GoToMeeting will invite each person to join the meeting audio."; ObjectID = "25a-kr-ZVb"; */
+"25a-kr-ZVb.title" = "最多呼叫 5 个人。来自 GoToMeeting 的自动呼叫将邀请每个人加入会议音频。";
+
+/* Class = "NSTextFieldCell"; placeholderString = "+1 (805) 123-4567"; ObjectID = "2BP-LZ-8hV"; */
+"2BP-LZ-8hV.placeholderString" = "+1 (805) 123-4567";
+
+/* Class = "NSTextFieldCell"; placeholderString = "+1"; ObjectID = "34k-Dr-HtY"; */
+"34k-Dr-HtY.placeholderString" = "+1";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Cancel"; ObjectID = "5dQ-Vn-l9D"; */
+"5dQ-Vn-l9D.ibExternalAccessibilityDescription" = "取消";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Cancel calling this number."; ObjectID = "5dQ-Vn-l9D"; */
+"5dQ-Vn-l9D.ibShadowedToolTip" = "取消呼叫此号码。";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "7ws-Ft-sV9"; */
+"7ws-Ft-sV9.title" = "Box";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Call or retry all numbers not connected."; ObjectID = "D7a-pu-uU9"; */
+"D7a-pu-uU9.ibShadowedToolTip" = "呼叫或重试所有未连接的号码。";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Hbp-M4-rrS"; */
+"Hbp-M4-rrS.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Call"; ObjectID = "QQN-sL-sey"; */
+"QQN-sL-sey.title" = "呼叫";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Enter the name of the person to call."; ObjectID = "Sco-dw-BQT"; */
+"Sco-dw-BQT.ibShadowedToolTip" = "输入被呼叫者姓名。 ";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "CallMePhoneEntryView"; ObjectID = "VZA-Ua-7vT"; */
+"VZA-Ua-7vT.ibExternalAccessibilityDescription" = "CallMePhoneEntryView";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Name (optional)"; ObjectID = "auP-jk-fPx"; */
+"auP-jk-fPx.placeholderString" = "姓名(可选)";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Enter number to call."; ObjectID = "clx-oC-oz0"; */
+"clx-oC-oz0.ibShadowedToolTip" = "输入要呼叫的号码。";
+
+/* Class = "NSButtonCell"; title = "Add attendee"; ObjectID = "iDV-LG-wWa"; */
+"iDV-LG-wWa.title" = "添加与会者";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add another phone number to call."; ObjectID = "lOt-EM-1se"; */
+"lOt-EM-1se.ibShadowedToolTip" = "添加要呼叫的另一个电话号码。";
+
+/* Class = "NSTextFieldCell"; title = "Calling"; ObjectID = "lwE-ET-Y9l"; */
+"lwE-ET-Y9l.title" = "正在呼叫";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Delete this row."; ObjectID = "mLv-tg-RqJ"; */
+"mLv-tg-RqJ.ibShadowedToolTip" = "删除此行。";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "The attendee hung up."; ObjectID = "mp3-Xm-wsn"; */
+"mp3-Xm-wsn.ibShadowedToolTip" = "The attendee hung up.";
+
+/* Class = "NSBox"; ibExternalAccessibilityDescription = "CallMePhoneEntryBox"; ObjectID = "neZ-CL-HCv"; */
+"neZ-CL-HCv.ibExternalAccessibilityDescription" = "CallMePhoneEntryBox";
+
+/* Class = "NSTextFieldCell"; placeholderString = "(555) 555-5555"; ObjectID = "nk6-7d-sWw"; */
+"nk6-7d-sWw.placeholderString" = "(555) 555-5555";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Name (optional)"; ObjectID = "oyj-S2-DV8"; */
+"oyj-S2-DV8.placeholderString" = "姓名(可选)";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Prefix number for the selected country."; ObjectID = "rPv-bl-SRM"; */
+"rPv-bl-SRM.ibShadowedToolTip" = "所选国家/地区的前缀号码。";
+
+/* Class = "NSTextFieldCell"; title = "Hung up"; ObjectID = "sKu-7j-h87"; */
+"sKu-7j-h87.title" = "挂断";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "xcF-o0-Ur9"; */
+"xcF-o0-Ur9.title" = "取消";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Select country to call."; ObjectID = "xxD-Eq-T8Z"; */
+"xxD-Eq-T8Z.ibShadowedToolTip" = "选择要呼叫的国家/地区。";
+
+/* Class = "NSTextFieldCell"; title = "Call up to 5 people. An automated call from GoToMeeting will invite each person to join the meeting audio."; ObjectID = "25a-kr-ZVb"; */
+"25a-kr-ZVb.title" = "最多呼叫 5 个人。来自 GoToMeeting 的自动呼叫将邀请每个人加入会议音频。";

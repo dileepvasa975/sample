@@ -1,0 +1,30 @@
+
+/* Class = "NSWindow"; title = "Zoom To Custom % - GoToMeeting"; ObjectID = "86"; */
+"86.title" = "Zoom até % Personalizada - GoToMeeting";
+
+/* Class = "NSTextFieldCell"; title = "Enter a zoom percentage between 50 and 400:"; ObjectID = "137"; */
+"137.title" = "Insira uma porcentagem de zoom entre 50 e 400:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "139"; */
+"139.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "140"; */
+"140.title" = "Cancelar";
+
+/* Class = "NSTextFieldCell"; title = "Time Remaining:"; ObjectID = "160"; */
+"160.title" = "Tempo restante:";
+
+/* Class = "NSWindow"; title = "Share My Webcam"; ObjectID = "373"; */
+"373.title" = "Compartilhar Minha Webcam";
+
+/* Class = "NSTextFieldCell"; title = "The organizer would like you to share your webcam. Would you like to share it now?"; ObjectID = "381"; */
+"381.title" = "O organizador deseja que você compartilhe sua webcam. Deseja compartilhá-la agora?";
+
+/* Class = "NSButtonCell"; title = "Share My Webcam"; ObjectID = "383"; */
+"383.title" = "Compartilhar Minha Webcam";
+
+/* Class = "NSButtonCell"; title = "Not Right Now"; ObjectID = "384"; */
+"384.title" = "Agora Não";
+
+/* Class = "NSTextFieldCell"; title = "Webcam Preferences"; ObjectID = "430"; */
+"430.title" = "Preferências de Webcam";

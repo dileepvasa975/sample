@@ -1,0 +1,10 @@
+/* Class = "NSTextFieldCell"; title = "WEBINAR SUBJECT
+ Webinar ID: 000-000-000"; ObjectID = "19"; */
+"19.title" = "WEBINAR SUBJECT
+Webinar ID: 000-000-000";
+
+/* Class = "NSView"; ibShadowedToolTip = "If you don't want to be recorded, mute yourself and don't share your screen. You may also leave the session."; ObjectID = "20"; */
+"20.ibShadowedToolTip" = "記録されたくない場合は、自分でミュートして画面を共有しないようにすることができます。また、セッションを退席することもできます。";
+
+/* Class = "NSTextFieldCell"; title = "This session is being recorded."; ObjectID = "25"; */
+"25.title" = "このセッションは記録中です。";

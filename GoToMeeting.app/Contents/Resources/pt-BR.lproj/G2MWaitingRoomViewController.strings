@@ -1,0 +1,14 @@
+/* Class = "NSTextFieldCell"; title = "Additional call info"; ObjectID = "06M-kT-GnQ"; */
+"06M-kT-GnQ.title" = "Informações adicionais da chamada";
+
+/* Class = "NSTextFieldCell"; title = "This is the meeting subject"; ObjectID = "57L-Om-0fC"; */
+"57L-Om-0fC.title" = "Este é o assunto da reunião";
+
+/* Class = "NSTextFieldCell"; title = "This is the participant info"; ObjectID = "C7x-HE-Tii"; */
+"C7x-HE-Tii.title" = "Estas são as informações do participante";
+
+/* Class = "NSTextFieldCell"; title = "This is the call info"; ObjectID = "R1B-oV-oPz"; */
+"R1B-oV-oPz.title" = "Estas são as informações da chamada";
+
+/* Class = "NSTextFieldCell"; title = "This is the dialing info"; ObjectID = "xwJ-5l-b98"; */
+"xwJ-5l-b98.title" = "Estas são as informações de discagem";

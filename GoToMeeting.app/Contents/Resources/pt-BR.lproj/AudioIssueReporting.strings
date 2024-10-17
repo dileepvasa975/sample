@@ -1,0 +1,63 @@
+
+/* Class = "NSTextFieldCell"; title = "Optional description:"; ObjectID = "0K6-s4-woc"; */
+"0K6-s4-woc.title" = "Descrição opcional:";
+
+/* Class = "NSTextFieldCell"; title = "Looking for support?"; ObjectID = "31U-Yt-cdC"; */
+"31U-Yt-cdC.title" = "Procurando suporte?";
+
+/* Class = "NSButtonCell"; title = "Distorted audio"; ObjectID = "ApV-1b-1SO"; */
+"ApV-1b-1SO.title" = "Áudio distorcido";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Ceg-q5-W1J"; */
+"Ceg-q5-W1J.title" = "Cancelar";
+
+/* Class = "NSWindow"; title = "Report audio issues"; ObjectID = "FOu-pi-IaL"; */
+"FOu-pi-IaL.title" = "Comunicar problemas de áudio";
+
+/* Class = "NSButtonCell"; title = "Start Recording"; ObjectID = "FPy-ba-ExK"; */
+"FPy-ba-ExK.title" = "Iniciar gravação";
+
+/* Class = "NSButtonCell"; title = "Echo or feedback"; ObjectID = "NLd-gj-Bu3"; */
+"NLd-gj-Bu3.title" = "Eco ou retorno";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Describe your audio issues."; ObjectID = "OtH-O0-hbm"; */
+"OtH-O0-hbm.placeholderString" = "Descreva seus problemas de áudio.";
+
+/* Class = "NSWindow"; title = "Report audio issues"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "Comunicar problemas de áudio";
+
+/* Class = "NSTextFieldCell"; title = "We want to thank you for providing us feedback.  This will help us to improve our software and to make your conferencing experience better."; ObjectID = "RbA-Ov-Knv"; */
+"RbA-Ov-Knv.title" = "Queremos agradecer-lhe pelo seu feedback. Isso nos ajudará a melhorar nosso software e aumentar a qualidade das conferências.";
+
+/* Class = "NSTextFieldCell"; title = "We will record a few seconds of your meeting to analyze your issues.  This will help us to find a solution."; ObjectID = "S4V-o6-W3Q"; */
+"S4V-o6-W3Q.title" = "Gravaremos alguns segundos de sua reunião para analisar os seus problemas. Isto nos ajudará a encontrar uma solução.";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "ZU8-Qv-2wg"; */
+"ZU8-Qv-2wg.title" = "Verificar";
+
+/* Class = "NSButtonCell"; title = "Didn't have audio or was cut off"; ObjectID = "d5a-8V-uIx"; */
+"d5a-8V-uIx.title" = "Não tem áudio ou foi cortado";
+
+/* Class = "NSTextFieldCell"; title = "Send Feedback and Recording"; ObjectID = "ege-ea-nLc"; */
+"ege-ea-nLc.title" = "Enviar feedback e gravação";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "mWx-5C-wSz"; */
+"mWx-5C-wSz.title" = "Cancelar";
+
+/* Class = "NSTextFieldCell"; title = "Privacy policy"; ObjectID = "qMv-Xs-pTw"; */
+"qMv-Xs-pTw.title" = "Política de privacidade";
+
+/* Class = "NSButtonCell"; title = "Inconsistent volume level"; ObjectID = "sHi-1q-vRl"; */
+"sHi-1q-vRl.title" = "Nível de volume inconsistente";
+
+/* Class = "NSButtonCell"; title = "Voices were delayed"; ObjectID = "uUb-oC-a7w"; */
+"uUb-oC-a7w.title" = "Vozes estão com atraso";
+
+/* Class = "NSButtonCell"; title = "Send Feedback and Recording"; ObjectID = "uk8-kb-OWX"; */
+"uk8-kb-OWX.title" = "Enviar feedback e gravação";
+
+/* Class = "NSTextFieldCell"; title = "Which problems to you face?"; ObjectID = "xIO-Wa-Cpn"; */
+"xIO-Wa-Cpn.title" = "Quais problemas você tem?";
+
+/* Class = "NSTextFieldCell"; title = "Recording is done and ready to be sent."; ObjectID = "xOM-Bp-YoH"; */
+"xOM-Bp-YoH.title" = "A gravação está feita e pronta para ser enviada.";

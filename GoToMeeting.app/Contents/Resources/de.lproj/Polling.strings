@@ -1,0 +1,78 @@
+
+/* Class = "NSWindow"; title = "Kurzumfrage"; ObjectID = "5"; */
+"5.title" = "Kurzumfrage";
+
+/* Class = "NSTabViewItem"; label = "SingleChoice"; ObjectID = "36"; */
+"36.label" = "SingleChoice";
+
+/* Class = "NSTabViewItem"; label = "MultipleChoice"; ObjectID = "37"; */
+"37.label" = "MultipleChoice";
+
+/* Class = "NSButtonCell"; title = "  Dies ist ein Platzhaltertext für eine Kurzumfrage-Antwort."; ObjectID = "41"; */
+"41.title" = "  Dies ist ein Platzhaltertext für eine Kurzumfrage-Antwort.";
+
+/* Class = "NSButtonCell"; title = "  Dies ist ein Platzhaltertext für eine Kurzumfrage-Antwort."; ObjectID = "42"; */
+"42.title" = "  Dies ist ein Platzhaltertext für eine Kurzumfrage-Antwort.";
+
+/* Class = "NSButtonCell"; title = "  Dies ist ein Platzhaltertext für eine Kurzumfrage-Antwort."; ObjectID = "43"; */
+"43.title" = "  Dies ist ein Platzhaltertext für eine Kurzumfrage-Antwort.";
+
+/* Class = "NSButtonCell"; title = "  Dies ist ein Platzhaltertext für eine Kurzumfrage-Antwort."; ObjectID = "44"; */
+"44.title" = "  Dies ist ein Platzhaltertext für eine Kurzumfrage-Antwort.";
+
+/* Class = "NSButtonCell"; title = "  Dies ist ein Platzhaltertext für eine Kurzumfrage-Antwort."; ObjectID = "45"; */
+"45.title" = "  Dies ist ein Platzhaltertext für eine Kurzumfrage-Antwort.";
+
+/* Class = "NSTabViewItem"; label = "Ergebnisse"; ObjectID = "46"; */
+"46.label" = "Ergebnisse";
+
+/* Class = "NSButtonCell"; title = "  Dies ist ein Platzhaltertext für eine Kurzumfrage-Antwort."; ObjectID = "49"; */
+"49.title" = "  Dies ist ein Platzhaltertext für eine Kurzumfrage-Antwort.";
+
+/* Class = "NSButtonCell"; title = "  Dies ist ein Platzhaltertext für eine Kurzumfrage-Antwort."; ObjectID = "50"; */
+"50.title" = "  Dies ist ein Platzhaltertext für eine Kurzumfrage-Antwort.";
+
+/* Class = "NSButtonCell"; title = "  Dies ist ein Platzhaltertext für eine Kurzumfrage-Antwort."; ObjectID = "51"; */
+"51.title" = "  Dies ist ein Platzhaltertext für eine Kurzumfrage-Antwort.";
+
+/* Class = "NSButtonCell"; title = "  Dies ist ein Platzhaltertext für eine Kurzumfrage-Antwort."; ObjectID = "52"; */
+"52.title" = "  Dies ist ein Platzhaltertext für eine Kurzumfrage-Antwort.";
+
+/* Class = "NSButtonCell"; title = "  Dies ist ein Platzhaltertext für eine Kurzumfrage-Antwort."; ObjectID = "53"; */
+"53.title" = "  Dies ist ein Platzhaltertext für eine Kurzumfrage-Antwort.";
+
+/* Class = "NSTabViewItem"; label = "Warten..."; ObjectID = "69"; */
+"69.label" = "Warten...";
+
+/* Class = "NSTextFieldCell"; title = "KURZUMFRAGE"; ObjectID = "94"; */
+"94.title" = "KURZUMFRAGE";
+
+/* Class = "NSTextFieldCell"; title = "This is placeholder text for the quick poll question and it needs to support two lines of text. Really, three lines. giggity"; ObjectID = "95"; */
+"95.title" = "This is placeholder text for the quick poll question and it needs to support two lines of text. Really, three lines. giggity";
+
+/* Class = "NSButtonCell"; title = "Senden"; ObjectID = "96"; */
+"96.title" = "Senden";
+
+/* Class = "NSTextFieldCell"; title = "Aktivieren Sie eine der folgenden Optionen:"; ObjectID = "97"; */
+"97.title" = "Aktivieren Sie eine der folgenden Optionen:";
+
+/* Class = "NSTextFieldCell"; title = "Aktivieren Sie eine oder mehrere der folgenden Optionen:"; ObjectID = "98"; */
+"98.title" = "Aktivieren Sie eine oder mehrere der folgenden Optionen:";
+
+/* Class = "NSTextFieldCell"; title = "Ergebnisse der Kurzumfrage:"; ObjectID = "99"; */
+"99.title" = "Ergebnisse der Kurzumfrage:";
+
+/* Class = "NSTextFieldCell"; title = "Ihre Umfrageantworten wurden übermittelt."; ObjectID = "100"; */
+"100.title" = "Ihre Umfrageantworten wurden übermittelt.";
+
+/* Class = "NSTextFieldCell"; title = "Die Kurzumfrage wird nur für Teilnehmer durchgeführt."; ObjectID = "101"; */
+"101.title" = "Die Kurzumfrage wird nur für Teilnehmer durchgeführt.";
+
+/* Class = "NSButtonCell"; title = "Dies ist ein Platzhaltertext"; ObjectID = "102"; */
+"102.title" = "Dies ist ein Platzhaltertext";
+
+/* Class = "NSButtonCell"; title = "Dies ist ein Platzhaltertext"; ObjectID = "103"; */
+"103.title" = "Dies ist ein Platzhaltertext";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "first result bar"; ObjectID = "109"; */
+"109.ibExternalAccessibilityDescription" = "first result bar";

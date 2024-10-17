@@ -1,0 +1,99 @@
+
+/* Class = "NSMenuItem"; title = "Report Audio Issues..."; ObjectID = "0iq-Hr-K07"; */
+"0iq-Hr-K07.title" = "Comunicar problemas de áudio…";
+
+/* Class = "NSMenuItem"; title = "Share My Webcam"; ObjectID = "3ke-9j-G0L"; */
+"3ke-9j-G0L.title" = "Compartilhar minha webcam";
+
+/* Class = "NSMenuItem"; title = "Attendees Can View Attendee List"; ObjectID = "4LR-tF-JpH"; */
+"4LR-tF-JpH.title" = "Participantes podem ver a lista de participantes";
+
+/* Class = "NSMenuItem"; title = "Built-in Microphone"; ObjectID = "4Px-WL-zOU"; */
+"4Px-WL-zOU.title" = "Microfone integrado";
+
+/* Class = "NSMenuItem"; title = "Actual Size"; ObjectID = "BBp-tc-i4z"; */
+"BBp-tc-i4z.title" = "Tamanho real";
+
+/* Class = "NSMenuItem"; title = "Webcams on Top"; ObjectID = "CWL-v2-bmZ"; */
+"CWL-v2-bmZ.title" = "Webcams na parte superior";
+
+/* Class = "NSMenu"; title = "Webcam Menu"; ObjectID = "CmJ-G1-Yft"; */
+"CmJ-G1-Yft.title" = "Menu de webcam";
+
+/* Class = "NSMenuItem"; title = "Hide Everyone"; ObjectID = "DPJ-rw-qRx"; */
+"DPJ-rw-qRx.title" = "Ocultar todos";
+
+/* Class = "NSMenuItem"; title = "No Audio"; ObjectID = "E3i-3V-efc"; */
+"E3i-3V-efc.title" = "Sem áudio";
+
+/* Class = "NSMenuItem"; title = "Webcams on Left"; ObjectID = "IZo-wN-qmi"; */
+"IZo-wN-qmi.title" = "Webcams à esquerda";
+
+/* Class = "NSMenuItem"; title = "Webcam Preferences"; ObjectID = "ImG-26-qK9"; */
+"ImG-26-qK9.title" = "Preferências da webcam";
+
+/* Class = "NSMenuItem"; title = "Webcams on Bottom"; ObjectID = "Irh-bw-3X5"; */
+"Irh-bw-3X5.title" = "Webcams na parte inferior";
+
+/* Class = "NSMenuItem"; title = "View Active Cameras"; ObjectID = "Irs-BQ-UMu"; */
+"Irs-BQ-UMu.title" = "Ver as câmeras ativas";
+
+/* Class = "NSMenu"; title = "Zoom Menu"; ObjectID = "JCQ-63-j95"; */
+"JCQ-63-j95.title" = "Menu de zoom";
+
+/* Class = "NSMenuItem"; title = "Attendees Can Share Webcams"; ObjectID = "R8g-uF-SeD"; */
+"R8g-uF-SeD.title" = "Participantes podem compartilhar webcams";
+
+/* Class = "NSMenuItem"; title = "Scale To Fit"; ObjectID = "U5t-aP-w2m"; */
+"U5t-aP-w2m.title" = "Dimensionar para ajustar";
+
+/* Class = "NSMenuItem"; title = "Audio Input"; ObjectID = "UdF-A7-62O"; */
+"UdF-A7-62O.title" = "Entrada de áudio";
+
+/* Class = "NSMenuItem"; title = "Built-in Output"; ObjectID = "Vll-cd-XZH"; */
+"Vll-cd-XZH.title" = "Saída integrada";
+
+/* Class = "NSMenuItem"; title = "Attendees Can Chat"; ObjectID = "Y3y-Qj-7XU"; */
+"Y3y-Qj-7XU.title" = "Participantes podem usar o chat";
+
+/* Class = "NSMenuItem"; title = "Keep Cameras In Front"; ObjectID = "Y7J-9b-eK8"; */
+"Y7J-9b-eK8.title" = "Manter as câmeras em primeiro plano";
+
+/* Class = "NSMenuItem"; title = "Webcams on Right"; ObjectID = "Z9a-Dg-rYb"; */
+"Z9a-Dg-rYb.title" = "Webcams à direita";
+
+/* Class = "NSMenuItem"; title = "View Everyone"; ObjectID = "aIL-VS-95K"; */
+"aIL-VS-95K.title" = "Ver todos";
+
+/* Class = "NSMenuItem"; title = "View Who's Talking"; ObjectID = "caB-vI-ed9"; */
+"caB-vI-ed9.title" = "Mostrar quem está falando";
+
+/* Class = "NSMenuItem"; title = "Mute Me"; ObjectID = "dGW-IY-XLT"; */
+"dGW-IY-XLT.title" = "Desativar o meu som";
+
+/* Class = "NSMenuItem"; title = "100%"; ObjectID = "f6Z-vw-xu4"; */
+"f6Z-vw-xu4.title" = "100%";
+
+/* Class = "NSMenuItem"; title = "Use Mic & Speakers"; ObjectID = "kG0-Mw-9ya"; */
+"kG0-Mw-9ya.title" = "Usar microfone e alto-falantes";
+
+/* Class = "NSMenuItem"; title = "Show Audio Statistics..."; ObjectID = "lt7-Va-LJJ"; */
+"lt7-Va-LJJ.title" = "Mostrar estatísticas de áudio...";
+
+/* Class = "NSMenuItem"; title = "Use Telephone"; ObjectID = "mDU-At-19M"; */
+"mDU-At-19M.title" = "Usar telefone";
+
+/* Class = "NSMenuItem"; title = "Zoom To"; ObjectID = "mtS-01-77y"; */
+"mtS-01-77y.title" = "Nível de zoom";
+
+/* Class = "NSMenu"; title = "Audio"; ObjectID = "mxC-zn-GvT"; */
+"mxC-zn-GvT.title" = "Áudio";
+
+/* Class = "NSMenuItem"; title = "Audio Output"; ObjectID = "pLp-41-8qZ"; */
+"pLp-41-8qZ.title" = "Saída de áudio";
+
+/* Class = "NSMenuItem"; title = "50%"; ObjectID = "sKf-v3-QTg"; */
+"sKf-v3-QTg.title" = "50%";
+
+/* Class = "NSMenuItem"; title = "75%"; ObjectID = "uhx-qP-RHm"; */
+"uhx-qP-RHm.title" = "75%";

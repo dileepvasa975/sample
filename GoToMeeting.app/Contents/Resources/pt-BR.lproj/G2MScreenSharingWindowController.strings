@@ -1,0 +1,30 @@
+
+/* Class = "NSTabViewItem"; label = "Screen"; ObjectID = "2mp-KV-UBQ"; */
+"2mp-KV-UBQ.label" = "Tela";
+
+/* Class = "NSButtonCell"; title = "Skip preview"; ObjectID = "Ajc-rL-d5w"; */
+"Ajc-rL-d5w.title" = "Ignorar visualização";
+
+/* Class = "NSButtonCell"; title = "Share"; ObjectID = "E7v-W9-Fdj"; */
+"E7v-W9-Fdj.title" = "Compartilhar";
+
+/* Class = "NSWindow"; title = "Share my screen"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Compartilhar minha tela";
+
+/* Class = "NSTabViewItem"; label = "Applications"; ObjectID = "Krc-L2-d6k"; */
+"Krc-L2-d6k.label" = "Aplicativos";
+
+/* Class = "NSButtonCell"; title = "Include media sound"; ObjectID = "L48-d9-foE"; */
+"L48-d9-foE.title" = "Incluir som de mídia (Beta)";
+
+/* Class = "NSTextFieldCell"; title = "Include sound from video clips, music, and notifications during screen sharing."; ObjectID = "MuG-h1-Cgh"; */
+"MuG-h1-Cgh.title" = "Incluir som de vídeo clips, música e notificações durante o compartilhamento de tela.";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Rqt-7c-q8p"; */
+"Rqt-7c-q8p.title" = "Cancelar";
+
+/* Class = "NSTextFieldCell"; title = "Share your current screen by default. You can change this any time in Preferences."; ObjectID = "mKc-YD-pxK"; */
+"mKc-YD-pxK.title" = "Compartilhar sua tela como padrão. Você pode alterar isso nas Preferências sempre que desejar.";
+
+/* Class = "NSTextFieldCell"; title = "You have been made the Presenter. Please close confidential windows."; ObjectID = "s6P-Sp-KLX"; */
+"s6P-Sp-KLX.title" = "Você agora se tornou o apresentador. Feche as janelas confidenciais.";

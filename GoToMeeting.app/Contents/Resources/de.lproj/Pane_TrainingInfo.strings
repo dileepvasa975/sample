@@ -1,0 +1,15 @@
+
+/* Class = "NSBox"; title = "Titel"; ObjectID = "23"; */
+"23.title" = "Titel";
+
+/* Class = "NSTextFieldCell"; title = "SCHULUNGS-TITEL\nSchulungs-ID: 000-000-000"; ObjectID = "28"; */
+"28.title" = "SCHULUNGS-TITEL\nSchulungs-ID: 000-000-000";
+
+/* Class = "NSView"; ibShadowedToolTip = "Wenn Sie nicht aufgezeichnet werden möchten, schalten Sie sich stumm und übertragen Sie nicht Ihren Bildschirm. Sie können die Sitzung aber auch verlassen."; ObjectID = "29"; */
+"29.ibShadowedToolTip" = "Wenn Sie nicht aufgezeichnet werden möchten, schalten Sie sich stumm und übertragen Sie nicht Ihren Bildschirm. Sie können die Sitzung aber auch verlassen.";
+
+
+/* Class = "NSTextFieldCell"; title = "This session is being recorded."; ObjectID = "33"; */
+"33.title" = "Diese Sitzung wird aufgezeichnet.";
+/* Class = "NSBox"; title = "Box"; ObjectID = "jZ3-te-6tP"; */
+"jZ3-te-6tP.title" = "Box";

@@ -1,0 +1,21 @@
+
+/* Class = "NSButtonCell"; title = "Remote control"; ObjectID = "IT6-KX-dRl"; */
+"IT6-KX-dRl.title" = "Contrôle à distance";
+
+/* Class = "NSMenuItem"; title = "Include Media Sound"; ObjectID = "Sad-IK-wdM"; */
+"Sad-IK-wdM.title" = "Inclure le son du contenu multimédia (bêta)";
+
+/* Class = "NSButtonCell"; title = "Options"; ObjectID = "ZIK-jF-vYv"; */
+"ZIK-jF-vYv.title" = "Options";
+
+/* Class = "NSButtonCell"; title = "Drawing tools"; ObjectID = "cM7-lH-rL6"; */
+"cM7-lH-rL6.title" = "Outils de dessin";
+
+/* Class = "NSMenuItem"; title = "Item"; ObjectID = "mhq-3Q-dWW"; */
+"mhq-3Q-dWW.title" = "Item";
+
+/* Class = "NSMenuItem"; title = "Make Presenter"; ObjectID = "qB4-UF-tl6"; */
+"qB4-UF-tl6.title" = "Désigner comme présentateur";
+
+/* Class = "NSMenu"; title = "Make Presenter"; ObjectID = "ven-66-PDG"; */
+"ven-66-PDG.title" = "Désigner comme présentateur";

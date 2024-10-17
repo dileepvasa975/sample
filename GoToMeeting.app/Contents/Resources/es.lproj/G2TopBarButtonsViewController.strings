@@ -1,0 +1,26 @@
+/* Class = "NSMenuItem"; title = "Meeting details"; ObjectID = "CM5-2R-fJd"; */
+"CM5-2R-fJd.title" = "Detalles de la reunión";
+
+/* Class = "NSMenuItem"; title = "Keyboard shortcuts"; ObjectID = "CX2-4i-0n1"; */
+"CX2-4i-0n1.title" = "Atajos de teclado";
+
+/* Class = "NSMenuItem"; title = "About GoToMeeting"; ObjectID = "KzK-dw-MgI"; */
+"KzK-dw-MgI.title" = "Acerca de GoToMeeting";
+
+/* Class = "NSView"; MaQ-KS-KOb.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "unread message"; ObjectID = "MaQ-KS-KOb"; */
+"MaQ-KS-KOb.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "mensaje sin leer";
+
+/* Class = "NSView"; MaQ-KS-KOb.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[1] = "unread messages"; ObjectID = "MaQ-KS-KOb"; */
+"MaQ-KS-KOb.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[1]" = "mensajes sin leer";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Camera & audio settings"; ObjectID = "Scp-0E-cX6"; */
+"Scp-0E-cX6.ibShadowedToolTip" = "Ajustes de cámara y audio";
+
+/* Class = "NSMenuItem"; title = "Support"; ObjectID = "WgX-9U-WED"; */
+"WgX-9U-WED.title" = "Asistencia";
+
+/* Class = "NSButton"; ibShadowedToolTip = "More options"; ObjectID = "ter-ds-9iU"; */
+"ter-ds-9iU.ibShadowedToolTip" = "Más opciones";
+
+/* Class = "NSMenuItem"; title = "Take the tour"; ObjectID = "uFE-Dk-4vg"; */
+"uFE-Dk-4vg.title" = "Iniciar visita";

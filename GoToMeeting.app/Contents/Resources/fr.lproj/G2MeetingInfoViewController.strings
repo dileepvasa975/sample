@@ -1,0 +1,14 @@
+/* Class = "NSTextFieldCell"; title = "Sam's Meeting"; ObjectID = "87J-jk-vWj"; */
+"87J-jk-vWj.title" = "Réunion de Pascal";
+
+/* Class = "NSTextFieldCell"; title = "Meeting ID"; ObjectID = "NaB-0P-Ixn"; */
+"NaB-0P-Ixn.title" = "Identifiant de la réunion";
+
+/* Class = "NSTextFieldCell"; title = "gotomeet.me/sam.smith"; ObjectID = "O2l-lj-tXY"; */
+"O2l-lj-tXY.title" = "gotomeet.me/pascal.durand";
+
+/* Class = "NSTextFieldCell"; title = "Meeting Link"; ObjectID = "mhA-wj-oNP"; */
+"mhA-wj-oNP.title" = "Lien de la réunion";
+
+/* Class = "NSTextFieldCell"; title = "208-521-733"; ObjectID = "stu-sG-wGE"; */
+"stu-sG-wGE.title" = "208-521-733";

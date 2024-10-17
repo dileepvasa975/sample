@@ -1,0 +1,6 @@
+
+/* Class = "NSCollectionView"; ibExternalAccessibilityDescription = "Apps Collection View"; ObjectID = "HGr-kv-KZX"; */
+"HGr-kv-KZX.ibExternalAccessibilityDescription" = "Apps Collection View";
+
+/* Class = "NSTextFieldCell"; title = "No applications are open at this time. To share an application, launch the application and choose Share."; ObjectID = "P36-lq-bVu"; */
+"P36-lq-bVu.title" = "Nessuna applicazione attualmente aperta. Per condividere un'applicazione, avvia l'applicazione e scegli Condividi.";

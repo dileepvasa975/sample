@@ -1,0 +1,5 @@
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Grab Tab Slider Button"; ObjectID = "8"; */
+"8.ibExternalAccessibilityDescription" = "Grab Tab Slider Button";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Hide or show control panel."; ObjectID = "8"; */
+"8.ibShadowedToolTip" = "Ocultar ou mostrar painel de controle.";

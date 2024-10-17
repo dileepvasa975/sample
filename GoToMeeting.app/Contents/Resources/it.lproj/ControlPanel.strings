@@ -1,0 +1,21 @@
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Grab Tab Slider Button"; ObjectID = "8"; */
+"8.ibExternalAccessibilityDescription" = "Grab Tab Slider Button";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Nascondi o mostra Pannello di controllo."; ObjectID = "8"; */
+"8.ibShadowedToolTip" = "Nascondi o mostra Pannello di controllo.";
+
+/* Class = "NSBox"; title = "Titolo"; ObjectID = "16"; */
+"16.title" = "Titolo";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Start Broadcast Button"; ObjectID = "18"; */
+"18.ibExternalAccessibilityDescription" = "Start Broadcast Button";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Start Broadcast Text"; ObjectID = "19"; */
+"19.ibExternalAccessibilityDescription" = "Start Broadcast Text";
+
+/* Class = "NSButtonCell"; title = "Avvia trasmissione"; ObjectID = "32"; */
+"32.title" = "Avvia trasmissione";
+
+/* Class = "NSTextFieldCell"; title = "Partecipanti in attesa"; ObjectID = "33"; */
+"33.title" = "Partecipanti in attesa";

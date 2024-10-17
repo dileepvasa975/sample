@@ -1,0 +1,12 @@
+
+/* Class = "NSButton"; ibShadowedToolTip = "单击可将您自己静音/取消静音。"; ObjectID = "38"; */
+"38.ibShadowedToolTip" = "单击可将您自己静音/取消静音。";
+
+/* Class = "NSBox"; title = "摄像头完整视图"; ObjectID = "43"; */
+"43.title" = "摄像头完整视图";
+
+/* Class = "NSTextFieldCell"; title = "汤姆·马耶"; ObjectID = "48"; */
+"48.title" = "汤姆·马耶";
+
+/* Class = "NSTextFieldCell"; title = "已暂停"; ObjectID = "62"; */
+"62.title" = "已暂停";

@@ -1,0 +1,5 @@
+/* Class = "NSTextFieldCell"; title = "Meeting Title"; ObjectID = "kXZ-Ln-jXB"; */
+"kXZ-Ln-jXB.title" = "会议标题";
+
+/* Class = "NSTextFieldCell"; title = "Talking:"; ObjectID = "wMz-Q0-Vvw"; */
+"wMz-Q0-Vvw.title" = "正在发言:";

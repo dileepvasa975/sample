@@ -1,0 +1,12 @@
+
+/* Class = "NSButton"; ibShadowedToolTip = "Haga clic para silenciarse o activar su sonido."; ObjectID = "38"; */
+"38.ibShadowedToolTip" = "Haga clic para silenciarse o activar su sonido.";
+
+/* Class = "NSBox"; title = "Vista completa de cámara web"; ObjectID = "43"; */
+"43.title" = "Vista completa de cámara web";
+
+/* Class = "NSTextFieldCell"; title = "Albert Calvo"; ObjectID = "48"; */
+"48.title" = "Albert Calvo";
+
+/* Class = "NSTextFieldCell"; title = "En pausa"; ObjectID = "62"; */
+"62.title" = "En pausa";

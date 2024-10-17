@@ -1,0 +1,26 @@
+/* Class = "NSButtonCell"; title = "I don't need audio"; ObjectID = "3l8-QN-G5L"; */
+"3l8-QN-G5L.title" = "我不需要音频";
+
+/* Class = "NSTextFieldCell"; title = "Computer"; ObjectID = "5zH-sG-Hep"; */
+"5zH-sG-Hep.title" = "计算机";
+
+/* Class = "NSButtonCell"; title = "I'm already on the phone"; ObjectID = "Dtw-ps-Akc"; */
+"Dtw-ps-Akc.title" = "我已通过电话加入";
+
+/* Class = "NSTextFieldCell"; title = "Join by Computer or Phone"; ObjectID = "dKn-MO-ej4"; */
+"dKn-MO-ej4.title" = "通过计算机或电话加入";
+
+/* Class = "NSTextFieldCell"; title = "OR"; ObjectID = "dRV-OR-mxW"; */
+"dRV-OR-mxW.title" = "或";
+
+/* Class = "NSButtonCell"; title = "SAVE AND CONTINUE"; ObjectID = "eKu-Wa-jxC"; */
+"eKu-Wa-jxC.title" = "保存并继续";
+
+/* Class = "NSTextFieldCell"; title = "Dial in on your phone or we can call you."; ObjectID = "ifl-Pt-XXv"; */
+"ifl-Pt-XXv.title" = "通过您的电话拨入或者我们给您打电话。";
+
+/* Class = "NSTextFieldCell"; title = "Phone"; ObjectID = "rLq-Qj-btO"; */
+"rLq-Qj-btO.title" = "电话";
+
+/* Class = "NSTextFieldCell"; title = "Connect using a headset or your mic & speakers."; ObjectID = "zWm-W5-cNJ"; */
+"zWm-W5-cNJ.title" = "使用耳麦或您的麦克风和扬声器进行连接。";

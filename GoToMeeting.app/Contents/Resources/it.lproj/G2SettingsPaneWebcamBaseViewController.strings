@@ -1,0 +1,14 @@
+/* Class = "NSButtonCell"; title = "4:3 Standard"; ObjectID = "6N5-g7-jC3"; */
+"6N5-g7-jC3.title" = "4:3 standard";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "IrJ-wo-vfA"; */
+"IrJ-wo-vfA.title" = "Voce 2";
+
+/* Class = "NSTextFieldCell"; title = "Webcam"; ObjectID = "ghp-E8-ftY"; */
+"ghp-E8-ftY.title" = "Webcam";
+
+/* Class = "NSMenuItem"; title = "FaceTime HD Camera"; ObjectID = "lHe-WK-G5w"; */
+"lHe-WK-G5w.title" = "Fotocamera HD FaceTime";
+
+/* Class = "NSButtonCell"; title = "16:9 Widescreen"; ObjectID = "vR1-ki-4bC"; */
+"vR1-ki-4bC.title" = "16:9 widescreen";

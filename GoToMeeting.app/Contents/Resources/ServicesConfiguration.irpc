@@ -1,0 +1,66 @@
+
+name:         "ServicesConfiguration"
+projectBuild: "GoToMeeting $(Maj) $(Min) $(Build)"
+idlfilename:  "IGoToMeeting"
+
+precompiledHeader: "\"stdafx.h\""
+
+dependency { headerFile: "\"Types/BasicTypes.h\"" }
+dependency { headerFile: "ECJsonValue.h" }
+
+namespace { name:"ServicesConfigurationService"
+
+
+rpcinterface { name:"IServicesConfigurationCallback"
+    referenceType: shared
+    redistributable: true
+
+	method { name: "handleSuccess" 
+        parameter { pass:in type:"ECJsonValue" name:"configuration" }
+    }
+	method { name: "handleFailure" 
+        parameter { pass:in type:"ECResult" name:"error" }
+    }
+}
+
+rpcinterface { name:"IServicesConfiguration"
+    rpcFactory:         "void"
+    referenceType: shared
+    redistributable: true
+
+    /**
+     * Asynchronously fetches the services configuration.
+     *
+     * If an update is forced, and a request is NOT already in flight, a new request to fetch the current services configuration will be sent,
+     * and the callback will be queued for a new result. If a request is already in flight the callback will be queued for the next result.
+     * The cache won't be reset until the result arrives.
+     *
+     * If an update is NOT forced, and a result is already cached, the callback will be called immediately with the cached result.
+     * It's up to the client to decide if the value is expired, and if so to make a forced update.
+     *
+     * If a result is NOT cached, and a request is already in flight, the callback will be queued for the next result.
+     *
+     * Otherwise a new request to fetch the current services configuration will be sent,
+     * and the callback will be queued for the new result.
+     *
+     * The callback can be empty if only a cache update is desired.
+     * It's up to the consumer of the services configuration to schedule and enforce cache updates based on internal logic or
+     * expiration policies from the services configuration itself.
+     */
+    method { name: "fetch"
+        parameter { pass:in type:"bool" name:"forceUpdate" }
+        parameter { pass:in type:"IServicesConfigurationCallbackPtr" name:"callback" pointer:rpc_interface }
+    }
+
+    /**
+     * Returns the timestamp of the last successful cached fetch.
+     * If the cache is empty, eBadState is returned;
+     * If the last fetch failed returns the fetch error;
+     * If a successful cache exists, returns eNoError and sets lastFetchTime to the fetch timestamp.
+     */
+    method { name: "getLastFetchTime"
+        parameter { pass:out type:"time_t" name:"lastFetchTime" typedefof:"int64" }
+    }
+}
+
+}

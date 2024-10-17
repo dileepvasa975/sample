@@ -1,0 +1,15 @@
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Control Panel Pane Title"; ObjectID = "10"; */
+"10.ibExternalAccessibilityDescription" = "Control Panel Pane Title";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Control Panel Pane Custom Text"; ObjectID = "21"; */
+"21.ibExternalAccessibilityDescription" = "Control Panel Pane Custom Text";
+
+/* Class = "NSTextFieldCell"; title = "Titel"; ObjectID = "28"; */
+"28.title" = "Titel";
+
+/* Class = "NSTextFieldCell"; title = "Benutzerdefinierter Text"; ObjectID = "29"; */
+"29.title" = "Benutzerdefinierter Text";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Fenster von dem Bedienpanel abdocken"; ObjectID = "30"; */
+"30.ibShadowedToolTip" = "Fenster von dem Bedienpanel abdocken";

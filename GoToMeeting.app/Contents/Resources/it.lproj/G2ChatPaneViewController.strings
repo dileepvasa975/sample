@@ -1,0 +1,26 @@
+/* Class = "NSTextFieldCell"; placeholderString = "Write something…"; ObjectID = "9eO-ML-0b6"; */
+"9eO-ML-0b6.placeholderString" = "Scrivi qualcosa…";
+
+/* Class = "WebView"; ibExternalAccessibilityDescription = "Chat Log Display"; ObjectID = "Ba9-7j-psz"; */
+"Ba9-7j-psz.ibExternalAccessibilityDescription" = "Visualizzazione registro chat";
+
+/* Class = "NSView"; DAK-ld-yyL.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "CHAT"; ObjectID = "DAK-ld-yyL"; */
+"DAK-ld-yyL.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "CHAT";
+
+/* Class = "NSButtonCell"; title = "Send"; ObjectID = "L5P-nT-RjS"; */
+"L5P-nT-RjS.title" = "Invia";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Send Button"; ObjectID = "VXT-ng-qZl"; */
+"VXT-ng-qZl.ibExternalAccessibilityDescription" = "Pulsante Invia";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Chat recipient chooser"; ObjectID = "e0P-dQ-jsW"; */
+"e0P-dQ-jsW.ibExternalAccessibilityDescription" = "Selettore destinatari chat";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Chat Text Field"; ObjectID = "gb3-KX-WHH"; */
+"gb3-KX-WHH.ibExternalAccessibilityDescription" = "Campo di testo chat";
+
+/* Class = "NSMenuItem"; title = "Everyone"; ObjectID = "tyN-gI-IUC"; */
+"tyN-gI-IUC.title" = "Tutti";
+
+/* Class = "NSTextFieldCell"; title = "To:"; ObjectID = "Ohh-1t-yJC"; */
+"Ohh-1t-yJC.title" = "A:";

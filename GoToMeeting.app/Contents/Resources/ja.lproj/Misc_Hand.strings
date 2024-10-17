@@ -1,0 +1,11 @@
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Show Raised Hand Button"; ObjectID = "16"; */
+"16.ibExternalAccessibilityDescription" = "Show Raised Hand Button";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Click to view attendee list for raised hands."; ObjectID = "16"; */
+"16.ibShadowedToolTip" = "参加者一覧で挙手を確認する場合にクリックします。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Grab RaiseLower Hand Button"; ObjectID = "19"; */
+"19.ibExternalAccessibilityDescription" = "Grab RaiseLower Hand Button";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Raise / Lower your hand."; ObjectID = "19"; */
+"19.ibShadowedToolTip" = "手を挙げたり下げたりします。";

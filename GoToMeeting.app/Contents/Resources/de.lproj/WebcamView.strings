@@ -1,0 +1,12 @@
+
+/* Class = "NSButton"; ibShadowedToolTip = "Klicken Sie hier, um sich selbst stummzuschalten oder die Stummschaltung aufzuheben."; ObjectID = "38"; */
+"38.ibShadowedToolTip" = "Klicken Sie hier, um sich selbst stummzuschalten oder die Stummschaltung aufzuheben.";
+
+/* Class = "NSBox"; title = "Webcam-Gesamtansicht"; ObjectID = "43"; */
+"43.title" = "Webcam-Gesamtansicht";
+
+/* Class = "NSTextFieldCell"; title = "Thomas Schmidt"; ObjectID = "48"; */
+"48.title" = "Thomas Schmidt";
+
+/* Class = "NSTextFieldCell"; title = "Pausiert"; ObjectID = "62"; */
+"62.title" = "Pausiert";

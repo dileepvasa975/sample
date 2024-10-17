@@ -1,0 +1,15 @@
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Control Panel Pane Title"; ObjectID = "10"; */
+"10.ibExternalAccessibilityDescription" = "Control Panel Pane Title";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Control Panel Pane Custom Text"; ObjectID = "21"; */
+"21.ibExternalAccessibilityDescription" = "Control Panel Pane Custom Text";
+
+/* Class = "NSTextFieldCell"; title = "Titre"; ObjectID = "28"; */
+"28.title" = "Titre";
+
+/* Class = "NSTextFieldCell"; title = "Texte personnalisé"; ObjectID = "29"; */
+"29.title" = "Texte personnalisé";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Supprimer le panneau du Panneau de configuration"; ObjectID = "30"; */
+"30.ibShadowedToolTip" = "Supprimer le panneau du Panneau de configuration";

@@ -1,0 +1,26 @@
+
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Handouts List"; ObjectID = "H54-fe-vpW"; */
+"H54-fe-vpW.ibExternalAccessibilityDescription" = "Handouts List";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "I5e-w8-fFb"; */
+"I5e-w8-fFb.title" = "Text Cell";
+
+
+/* Class = "NSButtonCell"; title = "Choose a file"; ObjectID = "QhL-XV-sWp"; */
+"QhL-XV-sWp.title" = "Elegir un archivo";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "UP5-sk-GQq"; */
+"UP5-sk-GQq.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "WrU-vz-nvf"; */
+"WrU-vz-nvf.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Drag & drop a file"; ObjectID = "XxY-vn-pY4"; */
+"XxY-vn-pY4.title" = "Arrastre un archivo y\ncolóquelo aquí";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "iDR-iz-Qfo"; */
+"iDR-iz-Qfo.title" = "Box";
+
+/* Class = "NSTextFieldCell"; placeholderString = "XXX %"; ObjectID = "uMj-3e-qLN"; */
+"uMj-3e-qLN.placeholderString" = "XXX %";

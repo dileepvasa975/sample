@@ -1,0 +1,11 @@
+/* Class = "NSButton"; ibShadowedToolTip = "Click to mute / unmute yourself."; ObjectID = "38"; */
+"38.ibShadowedToolTip" = "ミュートとミュート解除を切り替える場合にクリックします。";
+
+/* Class = "NSBox"; title = "Webcam Full View"; ObjectID = "43"; */
+"43.title" = "Webcam Full View";
+
+/* Class = "NSTextFieldCell"; title = "Tom Mahieu"; ObjectID = "48"; */
+"48.title" = "Tom Mahieu";
+
+/* Class = "NSTextFieldCell"; title = "Paused"; ObjectID = "62"; */
+"62.title" = "一時停止済み";

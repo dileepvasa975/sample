@@ -1,0 +1,23 @@
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "5a0-TN-AJs"; */
+"5a0-TN-AJs.title" = "ボタン";
+
+/* Class = "NSButtonCell"; title = "Remember my number"; ObjectID = "L9y-rl-Ahj"; */
+"L9y-rl-Ahj.title" = "番号を保存";
+
+/* Class = "NSMenuItem"; title = "United States +1"; ObjectID = "Lup-lS-YVd"; */
+"Lup-lS-YVd.title" = "米国 +1";
+
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "Nxk-rd-MpE"; */
+"Nxk-rd-MpE.title" = "Button";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "Udk-F2-rds"; */
+"Udk-F2-rds.title" = "ラベル";
+
+/* Class = "NSTextFieldCell"; title = "Enter your phone number"; ObjectID = "WZx-0E-Z7Z"; */
+"WZx-0E-Z7Z.title" = "電話番号を入力してください";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "ZoJ-JI-qKe"; */
+"ZoJ-JI-qKe.title" = "ラベル";
+
+/* Class = "NSTextFieldCell"; title = "Country"; ObjectID = "aG7-3z-S1N"; */
+"aG7-3z-S1N.title" = "国";

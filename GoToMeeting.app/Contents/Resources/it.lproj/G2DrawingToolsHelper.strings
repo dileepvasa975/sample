@@ -1,0 +1,75 @@
+
+/* Class = "NSMenuItem"; title = "Erase all drawings"; ObjectID = "3Dd-4V-IWz"; */
+"3Dd-4V-IWz.title" = "Cancella tutti i disegni";
+
+/* Class = "NSMenuItem"; title = "Choose Pen Color"; ObjectID = "4Vl-K5-foE"; */
+"4Vl-K5-foE.title" = "Scegli il colore per la penna";
+
+/* Class = "NSMenuItem"; title = "Arrow"; ObjectID = "5Sv-3d-FKW"; */
+"5Sv-3d-FKW.title" = "Freccia";
+
+/* Class = "NSMenuItem"; title = "Dark green"; ObjectID = "9qM-6l-dgi"; */
+"9qM-6l-dgi.title" = "Verde scuro";
+
+/* Class = "NSMenuItem"; title = "Attendees can draw"; ObjectID = "F6A-qM-Ba8"; */
+"F6A-qM-Ba8.title" = "I partecipanti possono disegnare";
+
+/* Class = "NSMenuItem"; title = "Custom color..."; ObjectID = "Ft7-DH-V34"; */
+"Ft7-DH-V34.title" = "Colore personalizzato…";
+
+/* Class = "NSMenuItem"; title = "Red"; ObjectID = "K54-Fv-npS"; */
+"K54-Fv-npS.title" = "Rosso";
+
+/* Class = "NSMenuItem"; title = "Highlighter"; ObjectID = "ODq-Gs-T57"; */
+"ODq-Gs-T57.title" = "Evidenziatore";
+
+/* Class = "NSMenuItem"; title = "Pink"; ObjectID = "Rqk-Vs-Gm5"; */
+"Rqk-Vs-Gm5.title" = "Rosa";
+
+/* Class = "NSMenuItem"; title = "Purple"; ObjectID = "Ufz-Ez-hfg"; */
+"Ufz-Ez-hfg.title" = "Viola";
+
+/* Class = "NSMenuItem"; title = "Spotlight"; ObjectID = "VH8-Hs-OE5"; */
+"VH8-Hs-OE5.title" = "Riflettore";
+
+/* Class = "NSMenuItem"; title = "Black"; ObjectID = "Yic-U9-6rN"; */
+"Yic-U9-6rN.title" = "Nero";
+
+/* Class = "NSMenuItem"; title = "Pointer"; ObjectID = "bKc-da-zec"; */
+"bKc-da-zec.title" = "Puntatore";
+
+/* Class = "NSMenuItem"; title = "Orange"; ObjectID = "c9H-e1-ZFy"; */
+"c9H-e1-ZFy.title" = "Arancione";
+
+/* Class = "NSMenuItem"; title = "Remember this pen color"; ObjectID = "cfK-ne-NFg"; */
+"cfK-ne-NFg.title" = "Memorizza colore per la penna";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "d4f-X8-JIg"; */
+"d4f-X8-JIg.title" = "Menu";
+
+/* Class = "NSMenuItem"; title = "Light blue"; ObjectID = "drz-Q5-IwU"; */
+"drz-Q5-IwU.title" = "Blu chiaro";
+
+/* Class = "NSMenuItem"; title = "Brown"; ObjectID = "e5f-W7-K3D"; */
+"e5f-W7-K3D.title" = "Marrone";
+
+/* Class = "NSMenuItem"; title = "Pen"; ObjectID = "fvw-Ke-AVz"; */
+"fvw-Ke-AVz.title" = "Penna";
+
+/* Class = "NSMenuItem"; title = "Title Item"; ObjectID = "gEF-Si-2qI"; */
+"gEF-Si-2qI.title" = "Title Item";
+
+/* Class = "NSMenuItem"; title = "Blue"; ObjectID = "gN4-fu-Ard"; */
+"gN4-fu-Ard.title" = "Blu";
+
+/* Class = "NSMenuItem"; title = "Green"; ObjectID = "i0H-BR-v2d"; */
+"i0H-BR-v2d.title" = "Verde";
+
+/* Class = "NSMenuItem"; title = "Yellow"; ObjectID = "l4W-Zk-YPU"; */
+"l4W-Zk-YPU.title" = "Giallo";
+
+/* Class = "NSMenu"; title = "Choose Pen Color"; ObjectID = "l9S-eJ-ya3"; */
+"l9S-eJ-ya3.title" = "Scegli il colore per la penna";
+
+/* Class = "NSMenuItem"; title = "Gray"; ObjectID = "s8x-xe-Cfl"; */
+"s8x-xe-Cfl.title" = "Grigio";

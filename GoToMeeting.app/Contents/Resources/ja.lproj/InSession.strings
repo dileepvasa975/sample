@@ -1,0 +1,750 @@
+
+/* Class = "NSWindow"; title = "Meeting Password - GoToMeeting"; ObjectID = "5"; */
+"5.title" = "ミーティングのパスワード - GoToMeeting";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Password OK Button"; ObjectID = "7"; */
+"7.ibExternalAccessibilityDescription" = "パスワードの OK ボタン";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Password Cancel Button"; ObjectID = "8"; */
+"8.ibExternalAccessibilityDescription" = "パスワードのキャンセルボタン";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Password Instruction Text"; ObjectID = "9"; */
+"9.ibExternalAccessibilityDescription" = "パスワードの指示テキスト";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Password Text Field"; ObjectID = "10"; */
+"10.ibExternalAccessibilityDescription" = "パスワードのテキストフィールド";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Password Text"; ObjectID = "11"; */
+"11.ibExternalAccessibilityDescription" = "パスワードのテキスト";
+
+/* Class = "NSWindow"; title = "Meeting Password - GoToMeeting"; ObjectID = "118"; */
+"118.title" = "ミーティングのパスワード - GoToMeeting";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Org Password Text"; ObjectID = "120"; */
+"120.ibExternalAccessibilityDescription" = "開催者のパスワードテキスト";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Org Password Instruction Text"; ObjectID = "121"; */
+"121.ibExternalAccessibilityDescription" = "開催者のパスワード指示テキスト";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Org Password Cancel Button"; ObjectID = "122"; */
+"122.ibExternalAccessibilityDescription" = "開催者のパスワードキャンセルボタン";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Org Password Text Field"; ObjectID = "123"; */
+"123.ibExternalAccessibilityDescription" = "開催者のパスワードテキストフィールド";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Org Password OK Button"; ObjectID = "124"; */
+"124.ibExternalAccessibilityDescription" = "開催者のパスワード OK ボタン";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Org Password Re-Type Text Field"; ObjectID = "126"; */
+"126.ibExternalAccessibilityDescription" = "開催者のパスワード再入力テキストフィールド";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Org Password Re-Type Text"; ObjectID = "127"; */
+"127.ibExternalAccessibilityDescription" = "開催者のパスワード再入力テキスト";
+
+/* Class = "NSWindow"; title = "Conference Call Numbers"; ObjectID = "138"; */
+"138.title" = "電話会議番号";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Additional Numbers List"; ObjectID = "140"; */
+"140.ibExternalAccessibilityDescription" = "その他の番号リスト";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "143"; */
+"143.title" = "メニュー";
+
+/* Class = "NSMenuItem"; title = "Pen"; ObjectID = "144"; */
+"144.title" = "ペン";
+
+/* Class = "NSMenuItem"; title = "Highlighter"; ObjectID = "145"; */
+"145.title" = "蛍光ペン";
+
+/* Class = "NSMenuItem"; title = "Title Item"; ObjectID = "147"; */
+"147.title" = "タイトル項目";
+
+/* Class = "NSMenuItem"; title = "Arrow"; ObjectID = "148"; */
+"148.title" = "矢印";
+
+/* Class = "NSWindow"; title = "Edit Your Name and Email - GoToMeeting"; ObjectID = "169"; */
+"169.title" = "名前とメールアドレスを編集 - GoToMeeting";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Display Info Email Text"; ObjectID = "171"; */
+"171.ibExternalAccessibilityDescription" = "表示情報編集のメールテキスト";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Display Info Instruction Text"; ObjectID = "172"; */
+"172.ibExternalAccessibilityDescription" = "表示情報編集の指示テキスト";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Display Info OK Button"; ObjectID = "173"; */
+"173.ibExternalAccessibilityDescription" = "表示情報編集の OK ボタン";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Display Info Name Field"; ObjectID = "174"; */
+"174.ibExternalAccessibilityDescription" = "表示情報編集の名前フィールド";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Display Info Remember Check Box"; ObjectID = "175"; */
+"175.ibExternalAccessibilityDescription" = "表示情報編集の保存チェックボックス";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Display Info Name Text"; ObjectID = "176"; */
+"176.ibExternalAccessibilityDescription" = "表示情報編集の名前テキスト";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Display Info Email Field"; ObjectID = "177"; */
+"177.ibExternalAccessibilityDescription" = "表示情報編集のメールフィールド";
+
+/* Class = "NSWindow"; title = "Meeting Subject - GoToMeeting"; ObjectID = "209"; */
+"209.title" = "ミーティングの題 - GoToMeeting";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Meeting Subject Cancel Button"; ObjectID = "211"; */
+"211.ibExternalAccessibilityDescription" = "ミーティングの題のキャンセルボタン";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Meeting Subject Instruction Text"; ObjectID = "213"; */
+"213.ibExternalAccessibilityDescription" = "ミーティングの題の指示テキスト";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Meeting Subject OK Button"; ObjectID = "215"; */
+"215.ibExternalAccessibilityDescription" = "ミーティングの題の OK ボタン";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Meeting Subject Field"; ObjectID = "220"; */
+"220.ibExternalAccessibilityDescription" = "ミーティングの題のフィールド";
+
+/* Class = "NSWindow"; title = "Select an Organizer"; ObjectID = "228"; */
+"228.title" = "開催者の選択";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Promote Attendee Instruction Text"; ObjectID = "230"; */
+"230.ibExternalAccessibilityDescription" = "参加者の昇格の指示テキスト";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Promote Attendee Name List"; ObjectID = "231"; */
+"231.ibExternalAccessibilityDescription" = "参加者の昇格の名前リスト";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Promote Attendee OK Button"; ObjectID = "235"; */
+"235.ibExternalAccessibilityDescription" = "参加者の昇格の OK ボタン";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Promote Attendee Cancel Button"; ObjectID = "236"; */
+"236.ibExternalAccessibilityDescription" = "参加者の昇格のキャンセルボタン";
+
+/* Class = "NSWindow"; title = "Welcome Message - GoToMeeting"; ObjectID = "249"; */
+"249.title" = "ウェルカムメッセージ - GoToMeeting";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "W"; ObjectID = "250"; */
+"250.ibExternalAccessibilityDescription" = "W";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Welcome Message Field"; ObjectID = "251"; */
+"251.ibExternalAccessibilityDescription" = "ウェルカムメッセージのフィールド";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Welcome Message Cancel Button"; ObjectID = "253"; */
+"253.ibExternalAccessibilityDescription" = "ウェルカムメッセージのキャンセルボタン";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Welcome Message OK Button"; ObjectID = "254"; */
+"254.ibExternalAccessibilityDescription" = "ウェルカムメッセージの OK ボタン";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Welcome Message Save Check Box"; ObjectID = "263"; */
+"263.ibExternalAccessibilityDescription" = "ウェルカムメッセージの保存チェックボックス";
+
+/* Class = "NSWindow"; title = "Enter Audio PIN"; ObjectID = "278"; */
+"278.title" = "オーディオ PIN を入力";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Enter PIN Instruction Text"; ObjectID = "280"; */
+"280.ibExternalAccessibilityDescription" = "PIN 入力の指示テキスト";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Enter PIN Audio PIN Number"; ObjectID = "281"; */
+"281.ibExternalAccessibilityDescription" = "PIN 入力のオーディオ PIN 番号";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Enter PIN OK Button"; ObjectID = "282"; */
+"282.ibExternalAccessibilityDescription" = "PIN 入力の OK ボタン";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Make Presenter Name Text"; ObjectID = "296"; */
+"296.ibExternalAccessibilityDescription" = "「発表者にする」の名前テキスト";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter OK Button"; ObjectID = "297"; */
+"297.ibExternalAccessibilityDescription" = "「発表者にする」の OK ボタン";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter Cancel Button"; ObjectID = "298"; */
+"298.ibExternalAccessibilityDescription" = "「発表者にする」のキャンセルボタン";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter KBM Check Box"; ObjectID = "299"; */
+"299.ibExternalAccessibilityDescription" = "「発表者にする」の KBM チェックボックス";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Make Presenter Daisey Image"; ObjectID = "305"; */
+"305.ibExternalAccessibilityDescription" = "「発表者にする」の Daisey イメージ";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Make Presenter Instruction Text"; ObjectID = "306"; */
+"306.ibExternalAccessibilityDescription" = "「発表者にする」の指示テキスト";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "310"; */
+"310.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "311"; */
+"311.title" = "キャンセル";
+
+/* Class = "NSTextFieldCell"; title = "Please enter the meeting password."; ObjectID = "312"; */
+"312.title" = "ミーティングのパスワードを入力してください。";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "314"; */
+"314.title" = "パスワード：";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "315"; */
+"315.title" = "パスワード：";
+
+/* Class = "NSTextFieldCell"; title = "Please enter the meeting password you specified in the meeting invitation sent to attendees."; ObjectID = "316"; */
+"316.title" = "参加者に送信されたミーティングの招待状内に示されているミーティングのパスワードを入力してください。";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "317"; */
+"317.title" = "キャンセル";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "319"; */
+"319.title" = "OK";
+
+/* Class = "NSTextFieldCell"; title = "Re-type Password:"; ObjectID = "321"; */
+"321.title" = "パスワードの再入力：";
+
+/* Class = "NSTextFieldCell"; title = "Email:"; ObjectID = "322"; */
+"322.title" = "メール：";
+
+/* Class = "NSTextFieldCell"; title = "Edit your name and email address as you would like them to appear to the meeting attendees."; ObjectID = "323"; */
+"323.title" = "ミーティング参加者に表示される自分の名前とメールアドレスを編集します。";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "324"; */
+"324.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Remember name and email"; ObjectID = "326"; */
+"326.title" = "名前とメールアドレスを保存";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "327"; */
+"327.title" = "名前：";
+
+/* Class = "NSTextFieldCell"; placeholderString = "(optional)"; ObjectID = "328"; */
+"328.placeholderString" = "（オプション）";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "330"; */
+"330.title" = "キャンセル";
+
+/* Class = "NSTextFieldCell"; title = "Please enter the meeting subject."; ObjectID = "331"; */
+"331.title" = "ミーティングの題を入力してください。";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "332"; */
+"332.title" = "OK";
+
+/* Class = "NSTextFieldCell"; title = "Choose someone to host the meeting as organizer before you leave."; ObjectID = "334"; */
+"334.title" = "退席する前に、ミーティングの別の開催者を選択します。";
+
+/* Class = "NSButtonCell"; title = "Make organizer & leave"; ObjectID = "335"; */
+"335.title" = "開催者を設定して退席";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "336"; */
+"336.title" = "キャンセル";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "338"; */
+"338.title" = "キャンセル";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "339"; */
+"339.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "When attendees arrive, show them this chat message."; ObjectID = "340"; */
+"340.title" = "参加者の到着時にこのチャットメッセージを表示する。";
+
+/* Class = "NSTextFieldCell"; title = "To enable audio controls, please enter your PIN on your telephone keypad now."; ObjectID = "341"; */
+"341.title" = "オーディオコントロールを有効にするには、今すぐ電話のキーパッドで PIN を入力してください。";
+
+/* Class = "NSTextFieldCell"; title = "Audio PIN: #%1$@#"; ObjectID = "342"; */
+"342.title" = "オーディオ PIN：#%1$@#";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "343"; */
+"343.title" = "OK";
+
+/* Class = "NSTextFieldCell"; title = "Make <Participant Name> the presenter?"; ObjectID = "344"; */
+"344.title" = "<参加者名> を発表者にしますか？";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "345"; */
+"345.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "346"; */
+"346.title" = "キャンセル";
+
+/* Class = "NSButtonCell"; title = "Request Keyboard and Mouse Control"; ObjectID = "347"; */
+"347.title" = "キーボードとマウスの制御をリクエスト";
+
+/* Class = "NSTextFieldCell"; title = "Clicking OK will make this attendee the presenter.\n\nOnce someone is a panelist it cannot be revoked."; ObjectID = "349"; */
+"349.title" = "“OK”をクリックすると、この参加者が発表者になります。\n\nパネリストの役割は、一度付与すると取り消せません。";
+
+/* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Promote Attendee Name"; ObjectID = "350"; */
+"350.ibExternalAccessibilityDescription" = "「参加者の昇格」の名前";
+
+/* Class = "NSMenuItem"; title = "Choose Pen Color"; ObjectID = "362"; */
+"362.title" = "ペンの色を選択";
+
+/* Class = "NSMenu"; title = "Choose Pen Color"; ObjectID = "363"; */
+"363.title" = "ペンの色を選択";
+
+/* Class = "NSMenuItem"; title = "Red"; ObjectID = "364"; */
+"364.title" = "赤";
+
+/* Class = "NSMenuItem"; title = "Black"; ObjectID = "365"; */
+"365.title" = "黒";
+
+/* Class = "NSMenuItem"; title = "Green"; ObjectID = "366"; */
+"366.title" = "緑";
+
+/* Class = "NSMenuItem"; title = "Yellow"; ObjectID = "367"; */
+"367.title" = "黄";
+
+/* Class = "NSMenuItem"; title = "Blue"; ObjectID = "368"; */
+"368.title" = "青";
+
+/* Class = "NSMenuItem"; title = "Custom color..."; ObjectID = "370"; */
+"370.title" = "カスタムの色...";
+
+/* Class = "NSMenuItem"; title = "Orange"; ObjectID = "371"; */
+"371.title" = "オレンジ";
+
+/* Class = "NSMenuItem"; title = "Purple"; ObjectID = "373"; */
+"373.title" = "紫";
+
+/* Class = "NSMenuItem"; title = "Pink"; ObjectID = "374"; */
+"374.title" = "ピンク";
+
+/* Class = "NSMenuItem"; title = "Light blue"; ObjectID = "375"; */
+"375.title" = "薄い青";
+
+/* Class = "NSMenuItem"; title = "Brown"; ObjectID = "376"; */
+"376.title" = "茶";
+
+/* Class = "NSMenuItem"; title = "Gray"; ObjectID = "377"; */
+"377.title" = "灰色";
+
+/* Class = "NSMenuItem"; title = "Dark green"; ObjectID = "378"; */
+"378.title" = "濃い緑";
+
+/* Class = "NSMenuItem"; title = "Remember this pen color"; ObjectID = "380"; */
+"380.title" = "このペンの色を保存";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Meeting Full OK Button"; ObjectID = "401"; */
+"401.ibExternalAccessibilityDescription" = "「ミーティングは定員の上限に達しています」の OK ボタン";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "402"; */
+"402.title" = "OK";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Meeting Full Daisey Image"; ObjectID = "403"; */
+"403.ibExternalAccessibilityDescription" = "「ミーティングは定員の上限に達しています」の Daisey イメージ";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Meeting Full Primary Instructions"; ObjectID = "409"; */
+"409.ibExternalAccessibilityDescription" = "「ミーティングは定員の上限に達しています」の主な指示";
+
+/* Class = "NSTextFieldCell"; title = "The <meeting> has reached the maximum number of <number> attendees."; ObjectID = "410"; */
+"410.title" = "<ミーティング>は参加者の最大数 <数値> に達しました。";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Meeting Full Secondary Instructions"; ObjectID = "411"; */
+"411.ibExternalAccessibilityDescription" = "「ミーティングは定員の上限に達しています」のサブ指示";
+
+/* Class = "NSTextFieldCell"; title = "If you need to let another person join this meeting, you will have to dismiss one of the current attendees."; ObjectID = "412"; */
+"412.title" = "このミーティングに別の人が参加できるようにするには、現在の参加者の 1 人を却下する必要があります。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Meeting Full Check Box"; ObjectID = "428"; */
+"428.ibExternalAccessibilityDescription" = "「ミーティングは定員の上限に達しています」のチェックボックス";
+
+/* Class = "NSButtonCell"; title = "Do not show this again"; ObjectID = "429"; */
+"429.title" = "次回からこのメッセージを表示しない";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Entry Denied Secondary Instructions"; ObjectID = "442"; */
+"442.ibExternalAccessibilityDescription" = "拒否済みエントリのサブ指示";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Entry Denied Primary Instructions"; ObjectID = "443"; */
+"443.ibExternalAccessibilityDescription" = "拒否済みエントリの主な指示";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Entry Denied Daisey Image"; ObjectID = "444"; */
+"444.ibExternalAccessibilityDescription" = "拒否済みエントリの Daisey イメージ";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Entry Denied OK Button"; ObjectID = "445"; */
+"445.ibExternalAccessibilityDescription" = "拒否済みエントリの OK ボタン";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "446"; */
+"446.title" = "OK";
+
+/* Class = "NSTextFieldCell"; title = "Someone was not allowed to enter this _meeting_ because it is full (maximum is %d)."; ObjectID = "448"; */
+"448.title" = "この_meeting_が定員の上限に達しているので（上限は %d）、参加できなかった人がいます。";
+
+/* Class = "NSTextFieldCell"; title = "If you need to let another person join this meeting, dismiss one of the current attendees by right-clicking a name in the Attendee List and selecting Dismiss."; ObjectID = "449"; */
+"449.title" = "このミーティングに別の人が参加できるようにするには、参加者一覧で名前を右クリックして“却下”を選択し、現在の参加者の 1 人を却下してください。";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Entry Denied Check Box"; ObjectID = "450"; */
+"450.ibExternalAccessibilityDescription" = "拒否済みエントリのチェックボックス";
+
+/* Class = "NSButtonCell"; title = "Do not show this again"; ObjectID = "450"; */
+"450.title" = "次回からこのメッセージを表示しない";
+
+/* Class = "NSMenu"; title = "Webcams"; ObjectID = "469"; */
+"469.title" = "Web カメラ";
+
+/* Class = "NSMenuItem"; title = "Preferences..."; ObjectID = "470"; */
+"470.title" = "基本設定...";
+
+/* Class = "NSMenuItem"; title = "Always in Front"; ObjectID = "473"; */
+"473.title" = "常に前面";
+
+/* Class = "NSMenuItem"; title = "Share My Webcam"; ObjectID = "474"; */
+"474.title" = "マイ Web カメラを共有";
+
+/* Class = "NSMenuItem"; title = "Hide All Webcams"; ObjectID = "475"; */
+"475.title" = "すべての Web カメラを非表示";
+
+/* Class = "NSMenuItem"; title = "Webcam Position:"; ObjectID = "477"; */
+"477.title" = "Web カメラの位置：";
+
+/* Class = "NSMenuItem"; title = "Top"; ObjectID = "479"; */
+"479.title" = "上";
+
+/* Class = "NSMenuItem"; title = "Right"; ObjectID = "480"; */
+"480.title" = "右";
+
+/* Class = "NSMenuItem"; title = "Bottom"; ObjectID = "481"; */
+"481.title" = "下";
+
+/* Class = "NSMenuItem"; title = "Left"; ObjectID = "482"; */
+"482.title" = "左";
+
+/* Class = "NSMenu"; title = "Zoom"; ObjectID = "484"; */
+"484.title" = "ズーム";
+
+/* Class = "NSMenuItem"; title = "Actual Size"; ObjectID = "485"; */
+"485.title" = "実寸";
+
+/* Class = "NSMenuItem"; title = "Scale to Fit"; ObjectID = "486"; */
+"486.title" = "ウインドウに合わせる";
+
+/* Class = "NSMenuItem"; title = "Zoom to"; ObjectID = "489"; */
+"489.title" = "倍率";
+
+/* Class = "NSMenu"; title = "Zoom to"; ObjectID = "492"; */
+"492.title" = "倍率";
+
+/* Class = "NSMenuItem"; title = "100%"; ObjectID = "493"; */
+"493.title" = "100%";
+
+/* Class = "NSMenuItem"; title = "150%"; ObjectID = "494"; */
+"494.title" = "150%";
+
+/* Class = "NSMenuItem"; title = "200%"; ObjectID = "495"; */
+"495.title" = "200%";
+
+/* Class = "NSMenuItem"; title = "400%"; ObjectID = "497"; */
+"497.title" = "400%";
+
+/* Class = "NSMenuItem"; title = "Custom…"; ObjectID = "498"; */
+"498.title" = "カスタム…";
+
+/* Class = "NSMenuItem"; title = "75%"; ObjectID = "499"; */
+"499.title" = "75%";
+
+/* Class = "NSMenuItem"; title = "50%"; ObjectID = "500"; */
+"500.title" = "50%";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter OK Button"; ObjectID = "525"; */
+"525.ibExternalAccessibilityDescription" = "「発表者にする」の OK ボタン";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter Cancel Button"; ObjectID = "526"; */
+"526.ibExternalAccessibilityDescription" = "「発表者にする」のキャンセルボタン";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Make Presenter Daisey Image"; ObjectID = "528"; */
+"528.ibExternalAccessibilityDescription" = "「発表者にする」の Daisey イメージ";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Make Presenter Instruction Text"; ObjectID = "529"; */
+"529.ibExternalAccessibilityDescription" = "「発表者にする」の指示テキスト";
+
+/* Class = "NSTextFieldCell"; title = "<Participant Name> needs to switch to the desktop version of GoToMeeting to be a presenter.\n\nIt'll take them a minute to download it when you ask them to present."; ObjectID = "530"; */
+"530.title" = "<参加者名> は、発表者になるにはデスクトップバージョンの GoToMeeting に切り替える必要があります。\n\nプレゼンテーションするように依頼する場合、この GoToMeeting のダウンロードにしばらくかかります。";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "533"; */
+"533.title" = "キャンセル";
+
+/* Class = "NSButtonCell"; title = "Send Present & Download Request"; ObjectID = "534"; */
+"534.title" = "プレゼンテーションとダウンロードのリクエストを送信";
+
+/* Class = "NSButtonCell"; title = "0"; ObjectID = "01X-RX-JpG"; */
+"01X-RX-JpG.title" = "0";
+
+/* Class = "NSTextFieldCell"; title = "Strongly agree"; ObjectID = "0Ig-0L-KRA"; */
+"0Ig-0L-KRA.title" = "非常にそう思う";
+
+/* Class = "NSButtonCell"; title = "8"; ObjectID = "0jJ-Cr-NKn"; */
+"0jJ-Cr-NKn.title" = "8";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES Verbatim Label"; ObjectID = "1Jl-3w-S43"; */
+"1Jl-3w-S43.ibExternalAccessibilityDescription" = "CES Verbatim Label";
+
+/* Class = "NSWindow"; title = "Edit Name - GoToMeeting"; ObjectID = "1Ub-1g-lAf"; */
+"1Ub-1g-lAf.title" = "名前の編集 - GoToMeeting";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter OK Button"; ObjectID = "1gK-8C-v0R"; */
+"1gK-8C-v0R.ibExternalAccessibilityDescription" = "「発表者にする」の OK ボタン";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "2Fv-Vd-a4m"; */
+"2Fv-Vd-a4m.title" = "キャンセル";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter Cancel Button"; ObjectID = "2mV-TE-MVg"; */
+"2mV-TE-MVg.ibExternalAccessibilityDescription" = "「発表者にする」のキャンセルボタン";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter OK Button"; ObjectID = "2tB-u6-ekA"; */
+"2tB-u6-ekA.ibExternalAccessibilityDescription" = "「発表者にする」の OK ボタン";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "3MU-Tw-ekD"; */
+"3MU-Tw-ekD.title" = "全画面モードにする";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Make Presenter Daisey Image"; ObjectID = "3Mk-g7-FGp"; */
+"3Mk-g7-FGp.ibExternalAccessibilityDescription" = "「発表者にする」の Daisey イメージ";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Email (optional)"; ObjectID = "3c1-9g-Oei"; */
+"3c1-9g-Oei.placeholderString" = "メール (オプション)";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES Status Text"; ObjectID = "3gL-7j-Uhx"; */
+"3gL-7j-Uhx.ibExternalAccessibilityDescription" = "CES Status Text";
+
+/* Class = "NSButtonCell"; title = "2"; ObjectID = "4a8-uQ-3tA"; */
+"4a8-uQ-3tA.title" = "2";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "5Nt-bA-3e7"; */
+"5Nt-bA-3e7.title" = "キャンセル";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Tell us why you feel that way."; ObjectID = "628-sX-2au"; */
+"628-sX-2au.placeholderString" = "なぜそのように感じたのかを教えてください。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter Cancel Button"; ObjectID = "6te-FU-K5S"; */
+"6te-FU-K5S.ibExternalAccessibilityDescription" = "「発表者にする」のキャンセルボタン";
+
+/* Class = "NSTextFieldCell"; title = "Please explain where you experienced difficulty today."; ObjectID = "85C-DJ-ceG"; */
+"85C-DJ-ceG.title" = "今日難しいと感じたところを教えてください。";
+
+/* Class = "NSMenuItem"; title = "Pointer"; ObjectID = "AMH-yj-Fva"; */
+"AMH-yj-Fva.title" = "ポインター";
+
+/* Class = "NSButtonCell"; title = "Send Request"; ObjectID = "AzK-ag-Go8"; */
+"AzK-ag-Go8.title" = "リクエストを送信";
+
+/* Class = "NSButtonCell"; title = "2"; ObjectID = "BM0-fD-wzz"; */
+"BM0-fD-wzz.title" = "2";
+
+/* Class = "NSButtonCell"; title = "Submit"; ObjectID = "BYc-zv-dNm"; */
+"BYc-zv-dNm.title" = "送信";
+
+/* Class = "NSMenuItem"; title = "Attendees can draw"; ObjectID = "C1U-BB-dtj"; */
+"C1U-BB-dtj.title" = "参加者は描画できます";
+
+/* Class = "NSTextFieldCell"; title = "<Product> was easy to use today."; ObjectID = "CEp-oC-nav"; */
+"CEp-oC-nav.title" = "<Product> was easy to use today.";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Cv4-I4-jH5"; */
+"Cv4-I4-jH5.title" = "キャンセル";
+
+/* Class = "NSButtonCell"; title = "4"; ObjectID = "CwP-Od-LWy"; */
+"CwP-Od-LWy.title" = "4";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "Evl-RH-eDX"; */
+"Evl-RH-eDX.title" = "閉じる";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Make Presenter Instruction Text"; ObjectID = "GN2-Dl-Leo"; */
+"GN2-Dl-Leo.ibExternalAccessibilityDescription" = "「発表者にする」の指示テキスト";
+
+/* Class = "NSMenuItem"; title = "Spotlight"; ObjectID = "GUY-vC-NQo"; */
+"GUY-vC-NQo.title" = "スポットライト";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 2 Button"; ObjectID = "H4H-YY-LzK"; */
+"H4H-YY-LzK.ibExternalAccessibilityDescription" = "CES Rating 2 Button";
+
+/* Class = "NSMenuItem"; title = "View everyone"; ObjectID = "Hew-yV-GIl"; */
+"Hew-yV-GIl.title" = "全員を表示する";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "CES Image"; ObjectID = "HhR-m5-ReB"; */
+"HhR-m5-ReB.ibExternalAccessibilityDescription" = "CES Image";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter Cancel Button"; ObjectID = "Iof-6e-W4Q"; */
+"Iof-6e-W4Q.ibExternalAccessibilityDescription" = "「発表者にする」のキャンセルボタン";
+
+/* Class = "NSTextFieldCell"; title = "Edit name"; ObjectID = "JO5-ho-sK1"; */
+"JO5-ho-sK1.title" = "名前を編集";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES Verbatim Text Field"; ObjectID = "JZn-M7-FCN"; */
+"JZn-M7-FCN.ibExternalAccessibilityDescription" = "CES Verbatim Text Field";
+
+/* Class = "NSWindow"; title = "Share drawing tools"; ObjectID = "L6D-za-iML"; */
+"L6D-za-iML.title" = "描画ツールを共有";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Submit Button"; ObjectID = "L7c-t2-deb"; */
+"L7c-t2-deb.ibExternalAccessibilityDescription" = "CES Submit Button";
+
+/* Class = "NSButtonCell"; title = "3"; ObjectID = "LlQ-y6-U3K"; */
+"LlQ-y6-U3K.title" = "3";
+
+/* Class = "NSTextFieldCell"; title = "Not at all likely"; ObjectID = "MUE-gX-8mE"; */
+"MUE-gX-8mE.title" = "まったくそう思わない";
+
+/* Class = "NSMenuItem"; title = "Undock Webcams"; ObjectID = "RHH-zh-Hps"; */
+"RHH-zh-Hps.title" = "Web カメラをドッキング解除";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 1 Button"; ObjectID = "RbM-MQ-ph2"; */
+"RbM-MQ-ph2.ibExternalAccessibilityDescription" = "CES Rating 1 Button";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Name (optional)"; ObjectID = "SPM-8W-ycI"; */
+"SPM-8W-ycI.placeholderString" = "名前 (オプション)";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "SWv-jr-bdi"; */
+"SWv-jr-bdi.title" = "キャンセル";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 5 Button"; ObjectID = "SuR-nc-Gg5"; */
+"SuR-nc-Gg5.ibExternalAccessibilityDescription" = "CES Rating 5 Button";
+
+/* Class = "NSButtonCell"; title = "1"; ObjectID = "TBJ-mY-CMR"; */
+"TBJ-mY-CMR.title" = "1";
+
+/* Class = "NSButtonCell"; title = "Submit"; ObjectID = "TFm-L7-mhy"; */
+"TFm-L7-mhy.title" = "送信";
+
+/* Class = "NSButtonCell"; title = "4"; ObjectID = "UhS-JA-NWu"; */
+"UhS-JA-NWu.title" = "4";
+
+/* Class = "NSButtonCell"; title = "7"; ObjectID = "UvO-QL-8Y7"; */
+"UvO-QL-8Y7.title" = "7";
+
+/* Class = "NSTextFieldCell"; title = "The following attendees need to switch to the desktop version of GoToMeeting (on a Mac or Windows computer) to control your keyboard & mouse:\n\n            <attendee name>\n            <attendee name>\n            <attendee name>\n            <attendee name>\n            and <12> others\n\nIt takes a minute to download once you send the request."; ObjectID = "V6a-bn-gnO"; */
+"V6a-bn-gnO.title" = "次の参加者は、あなたのキーボードとマウスを操作するにはデスクトップバージョンの GoToMeeting（Mac または Windows コンピュータ上）に切り替える必要があります：\n\n            <参加者名>\n            <参加者名>\n            <参加者名>\n            <参加者名>\n            とその他 <12> 人\n\nリクエストの送信後、ダウンロードにしばらくかかります。";
+
+/* Class = "NSTextFieldCell"; title = "Extremely likely"; ObjectID = "V8u-WI-emd"; */
+"V8u-WI-emd.title" = "強くそう思う";
+
+/* Class = "NSTextFieldCell"; title = "Strongly disagree"; ObjectID = "X0O-Vc-SqW"; */
+"X0O-Vc-SqW.title" = "まったくそう思わない";
+
+/* Class = "NSButtonCell"; title = "Feedback Checkbox"; ObjectID = "XWk-I0-g7p"; */
+"XWk-I0-g7p.title" = "Feedback Checkbox";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Close Button"; ObjectID = "Xyl-d2-oa4"; */
+"Xyl-d2-oa4.ibExternalAccessibilityDescription" = "CES Close Button";
+
+/* Class = "NSButtonCell"; title = "Okay, Change Presenter"; ObjectID = "Y0X-ZJ-az1"; */
+"Y0X-ZJ-az1.title" = "はい、発表者を変更します";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 4 Button"; ObjectID = "Y8y-74-2fm"; */
+"Y8y-74-2fm.ibExternalAccessibilityDescription" = "CES Rating 4 Button";
+
+/* Class = "NSButtonCell"; title = "6"; ObjectID = "Ydb-8C-pCV"; */
+"Ydb-8C-pCV.title" = "6";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 6 Button"; ObjectID = "aSS-3t-wCB"; */
+"aSS-3t-wCB.ibExternalAccessibilityDescription" = "CES Rating 6 Button";
+
+/* Class = "NSButtonCell"; title = "3"; ObjectID = "bYb-0g-vvf"; */
+"bYb-0g-vvf.title" = "3";
+
+/* Class = "NSMenuItem"; title = "Erase all drawings"; ObjectID = "bgx-kQ-SYt"; */
+"bgx-kQ-SYt.title" = "すべての描画を消去";
+
+/* Class = "NSButtonCell"; title = "Not Now"; ObjectID = "bkc-IM-Ie0"; */
+"bkc-IM-Ie0.title" = "後でします";
+
+/* Class = "NSTextFieldCell"; title = "Please rate your agreement with the following statement."; ObjectID = "cTK-u3-wzy"; */
+"cTK-u3-wzy.title" = "次の文についてどれくらい同意できるかを評価してください。";
+
+/* Class = "NSMenu"; title = "Webcam Filter"; ObjectID = "cVq-w9-MMe"; */
+"cVq-w9-MMe.title" = "Web カメラフィルタ";
+
+/* Class = "NSButtonCell"; title = "6"; ObjectID = "cv5-46-dfh"; */
+"cv5-46-dfh.title" = "6";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Make Presenter Instruction Text"; ObjectID = "cvJ-R6-0rP"; */
+"cvJ-R6-0rP.ibExternalAccessibilityDescription" = "「発表者にする」の指示テキスト";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES Low Rating Text"; ObjectID = "d1B-Ki-dx8"; */
+"d1B-Ki-dx8.ibExternalAccessibilityDescription" = "CES Low Rating Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Make Presenter Name Text"; ObjectID = "dKg-Ft-0Bi"; */
+"dKg-Ft-0Bi.ibExternalAccessibilityDescription" = "「発表者にする」の名前テキスト";
+
+/* Class = "NSButtonCell"; title = "5"; ObjectID = "dcs-x6-acz"; */
+"dcs-x6-acz.title" = "5";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 3 Button"; ObjectID = "eEa-I1-PZy"; */
+"eEa-I1-PZy.ibExternalAccessibilityDescription" = "CES Rating 3 Button";
+
+/* Class = "NSMenuItem"; title = "View who's talking"; ObjectID = "eFl-c9-u8C"; */
+"eFl-c9-u8C.title" = "発言者を表示する";
+
+/* Class = "NSTextFieldCell"; title = "The following attendees need to switch to the desktop version of GoToMeeting (on a Mac or Windows computer) to use drawing tools:\n\n            <attendee name>\n            <attendee name>\n            <attendee name>\n            <attendee name>\n            and <12> others\n\nIt takes a minute to download once you send the request."; ObjectID = "f2i-Pa-Huc"; */
+"f2i-Pa-Huc.title" = "次の参加者は、描画ツールを使用するにはデスクトップバージョンの GoToMeeting（Mac または Windows コンピュータ上）に切り替える必要があります：\n\n            <参加者名>\n            <参加者名>\n            <参加者名>\n            <参加者名>\n            とその他 <12> 人\n\nリクエストの送信後、ダウンロードにしばらくかかります。";
+
+/* Class = "NSButtonCell"; title = "1"; ObjectID = "foe-Al-9oI"; */
+"foe-Al-9oI.title" = "1";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES Question Text"; ObjectID = "gg5-jt-ARc"; */
+"gg5-jt-ARc.ibExternalAccessibilityDescription" = "CES Question Text";
+
+/* Class = "NSMenuItem"; title = "View presenter"; ObjectID = "i2F-aw-Jrz"; */
+"i2F-aw-Jrz.title" = "発表者を表示する";
+
+/* Class = "NSButtonCell"; title = "10"; ObjectID = "i5V-ic-IC0"; */
+"i5V-ic-IC0.title" = "10";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter OK Button"; ObjectID = "jvV-gM-wFW"; */
+"jvV-gM-wFW.ibExternalAccessibilityDescription" = "「発表者にする」の OK ボタン";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "lAT-ho-Iqg"; */
+"lAT-ho-Iqg.title" = "OK";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 7 Button"; ObjectID = "mZn-6p-yXd"; */
+"mZn-6p-yXd.ibExternalAccessibilityDescription" = "CES Rating 7 Button";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "mwY-8g-bCX"; */
+"mwY-8g-bCX.title" = "閉じる";
+
+/* Class = "NSButtonCell"; title = "9"; ObjectID = "nLd-Jh-Asa"; */
+"nLd-Jh-Asa.title" = "9";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Make Presenter Daisey Image"; ObjectID = "nb6-j9-0Jz"; */
+"nb6-j9-0Jz.ibExternalAccessibilityDescription" = "「発表者にする」の Daisey イメージ";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "ncU-wF-hmL"; */
+"ncU-wF-hmL.title" = "表示";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES High Rating Text"; ObjectID = "pK6-3K-K5Z"; */
+"pK6-3K-K5Z.ibExternalAccessibilityDescription" = "CES High Rating Text";
+
+/* Class = "NSMenuItem"; title = "View everyone"; ObjectID = "pMX-Uy-lqs"; */
+"pMX-Uy-lqs.title" = "全員を表示する";
+
+/* Class = "NSTextFieldCell"; title = "You've left the <meeting>."; ObjectID = "pwg-e3-nnT"; */
+"pwg-e3-nnT.title" = "You've left the <meeting>.";
+
+/* Class = "NSButtonCell"; title = "7"; ObjectID = "qNs-mT-Hr8"; */
+"qNs-mT-Hr8.title" = "7";
+
+/* Class = "NSMenuItem"; title = "Hide webcams"; ObjectID = "qh1-Ry-iRN"; */
+"qh1-Ry-iRN.title" = "Web カメラを非表示";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES Question Label"; ObjectID = "r2c-Oe-0gB"; */
+"r2c-Oe-0gB.ibExternalAccessibilityDescription" = "CES Question Label";
+
+/* Class = "NSTextFieldCell"; title = "You've left the <meeting>."; ObjectID = "rS5-V1-vQr"; */
+"rS5-V1-vQr.title" = "You've left the <meeting>.";
+
+/* Class = "NSWindow"; title = "Share keyboard & mouse"; ObjectID = "rbZ-y7-E3u"; */
+"rbZ-y7-E3u.title" = "キーボードとマウスを共有";
+
+/* Class = "NSButtonCell"; title = "Send Request"; ObjectID = "tD0-GV-h6J"; */
+"tD0-GV-h6J.title" = "リクエストを送信";
+
+/* Class = "NSButtonCell"; title = "5"; ObjectID = "vfZ-eB-pBe"; */
+"vfZ-eB-pBe.title" = "5";
+
+/* Class = "NSMenuItem"; title = "View presenter"; ObjectID = "wI7-R4-I3R"; */
+"wI7-R4-I3R.title" = "発表者を表示する";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Make Presenter Daisey Image"; ObjectID = "wbi-Cn-57d"; */
+"wbi-Cn-57d.ibExternalAccessibilityDescription" = "「発表者にする」の Daisey イメージ";
+
+/* Class = "NSTextFieldCell"; title = "Based on your most recent experience, how likely are you to recommend <Product> to a friend or colleague?"; ObjectID = "xTB-1k-thW"; */
+"xTB-1k-thW.title" = "Based on your most recent experience, how likely are you to recommend <Product> to a friend or colleague?";
+
+/* Class = "NSMenuItem"; title = "View who's talking"; ObjectID = "xc8-35-2Us"; */
+"xc8-35-2Us.title" = "発言者を表示する";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "CES View"; ObjectID = "xf5-CR-cEV"; */
+"xf5-CR-cEV.ibExternalAccessibilityDescription" = "CES View";
+
+/* Class = "NSMenuItem"; title = "Hide My Webcam"; ObjectID = "y1X-TH-vbk"; */
+"y1X-TH-vbk.title" = "マイ Web カメラを非表示";
+
+/* Class = "NSMenuItem"; title = "Hide webcams"; ObjectID = "yGu-Fo-9Cw"; */
+"yGu-Fo-9Cw.title" = "Web カメラを非表示";
+
+/* Class = "NSTextFieldCell"; title = "<Participant Name> wants to share their screen.  "; ObjectID = "z2d-Q2-MYZ"; */
+"z2d-Q2-MYZ.title" = "<Participant Name> wants to share their screen.  ";

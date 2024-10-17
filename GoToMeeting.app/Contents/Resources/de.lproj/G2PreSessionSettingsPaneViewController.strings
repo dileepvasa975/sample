@@ -1,0 +1,41 @@
+/* Class = "NSTextFieldCell"; title = "Message from the organizer:"; ObjectID = "4vF-vX-8ak"; */
+"4vF-vX-8ak.title" = "Nachricht vom Organisator:";
+
+/* Class = "NSViewController"; title = "G2SettingsPaneWebcamBaseViewController"; ObjectID = "JFg-Zi-izg"; */
+"JFg-Zi-izg.title" = "G2SettingsPaneWebcamBaseViewController";
+
+/* Class = "NSViewController"; title = "G2PreSessionDialInViewController"; ObjectID = "QLo-pf-fU0"; */
+"QLo-pf-fU0.title" = "G2PreSessionDialInViewController";
+
+/* Class = "NSButtonCell"; title = "Open Preferences"; ObjectID = "TCW-XG-gRR"; */
+"TCW-XG-gRR.title" = "Einstellungen öffnen";
+
+/* Class = "NSButtonCell"; title = "Phone"; ObjectID = "V64-np-8II"; */
+"V64-np-8II.title" = "Telefon";
+
+/* Class = "NSTextFieldCell"; title = "The organizer is using their own audio service for this meeting."; ObjectID = "WGK-gN-peg"; */
+"WGK-gN-peg.title" = "Der Organisator verwendet einen eigenen Audiodienst für dieses Meeting.";
+
+/* Class = "NSViewController"; title = "G2PreSessionCallMeViewController"; ObjectID = "XWR-wk-p2f"; */
+"XWR-wk-p2f.title" = "G2PreSessionCallMeViewController";
+
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "bId-N6-3VV"; */
+"bId-N6-3VV.title" = "Schaltfläche";
+
+/* Class = "NSButtonCell"; title = "Computer"; ObjectID = "eW5-fs-l6e"; */
+"eW5-fs-l6e.title" = "Computer";
+
+/* Class = "NSView"; jnj-Th-K0J.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "SETTINGS"; ObjectID = "jnj-Th-K0J"; */
+"jnj-Th-K0J.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "EINSTELLUNGEN";
+
+/* Class = "NSViewController"; title = "G2SettingsPaneVoipViewController"; ObjectID = "oyf-ZF-k38"; */
+"oyf-ZF-k38.title" = "G2SettingsPaneVoipViewController";
+
+/* Class = "NSButtonCell"; title = "Remember my settings"; ObjectID = "rge-e5-Sud"; */
+"rge-e5-Sud.title" = "Einstellungen speichern";
+
+/* Class = "NSButtonCell"; title = "Phone"; ObjectID = "yZF-q6-hma"; */
+"yZF-q6-hma.title" = "Telefon";
+
+/* Class = "NSTextFieldCell"; title = "When the meeting starts,\nwe'll call you at"; ObjectID = "ytj-ca-vSH"; */
+"ytj-ca-vSH.title" = "Wenn das Meeting beginnt, rufen\nwir Sie unter folgender Nummer an:";

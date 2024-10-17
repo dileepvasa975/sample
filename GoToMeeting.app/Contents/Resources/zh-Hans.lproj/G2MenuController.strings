@@ -1,0 +1,99 @@
+
+/* Class = "NSMenuItem"; title = "Report Audio Issues..."; ObjectID = "0iq-Hr-K07"; */
+"0iq-Hr-K07.title" = "报告音频问题…";
+
+/* Class = "NSMenuItem"; title = "Share My Webcam"; ObjectID = "3ke-9j-G0L"; */
+"3ke-9j-G0L.title" = "共享我的摄像头";
+
+/* Class = "NSMenuItem"; title = "Attendees Can View Attendee List"; ObjectID = "4LR-tF-JpH"; */
+"4LR-tF-JpH.title" = "与会者可以查看与会者列表";
+
+/* Class = "NSMenuItem"; title = "Built-in Microphone"; ObjectID = "4Px-WL-zOU"; */
+"4Px-WL-zOU.title" = "内置麦克风";
+
+/* Class = "NSMenuItem"; title = "Actual Size"; ObjectID = "BBp-tc-i4z"; */
+"BBp-tc-i4z.title" = "实际大小";
+
+/* Class = "NSMenuItem"; title = "Webcams on Top"; ObjectID = "CWL-v2-bmZ"; */
+"CWL-v2-bmZ.title" = "顶部摄像头";
+
+/* Class = "NSMenu"; title = "Webcam Menu"; ObjectID = "CmJ-G1-Yft"; */
+"CmJ-G1-Yft.title" = "摄像头菜单";
+
+/* Class = "NSMenuItem"; title = "Hide Everyone"; ObjectID = "DPJ-rw-qRx"; */
+"DPJ-rw-qRx.title" = "隐藏所有人";
+
+/* Class = "NSMenuItem"; title = "No Audio"; ObjectID = "E3i-3V-efc"; */
+"E3i-3V-efc.title" = "无音频";
+
+/* Class = "NSMenuItem"; title = "Webcams on Left"; ObjectID = "IZo-wN-qmi"; */
+"IZo-wN-qmi.title" = "左侧摄像头";
+
+/* Class = "NSMenuItem"; title = "Webcam Preferences"; ObjectID = "ImG-26-qK9"; */
+"ImG-26-qK9.title" = "摄像头首选项";
+
+/* Class = "NSMenuItem"; title = "Webcams on Bottom"; ObjectID = "Irh-bw-3X5"; */
+"Irh-bw-3X5.title" = "底部摄像头";
+
+/* Class = "NSMenuItem"; title = "View Active Cameras"; ObjectID = "Irs-BQ-UMu"; */
+"Irs-BQ-UMu.title" = "查看活动相机";
+
+/* Class = "NSMenu"; title = "Zoom Menu"; ObjectID = "JCQ-63-j95"; */
+"JCQ-63-j95.title" = "缩放菜单";
+
+/* Class = "NSMenuItem"; title = "Attendees Can Share Webcams"; ObjectID = "R8g-uF-SeD"; */
+"R8g-uF-SeD.title" = "与会者可以共享摄像头";
+
+/* Class = "NSMenuItem"; title = "Scale To Fit"; ObjectID = "U5t-aP-w2m"; */
+"U5t-aP-w2m.title" = "调整为合适大小";
+
+/* Class = "NSMenuItem"; title = "Audio Input"; ObjectID = "UdF-A7-62O"; */
+"UdF-A7-62O.title" = "音频输入";
+
+/* Class = "NSMenuItem"; title = "Built-in Output"; ObjectID = "Vll-cd-XZH"; */
+"Vll-cd-XZH.title" = "内置输出";
+
+/* Class = "NSMenuItem"; title = "Attendees Can Chat"; ObjectID = "Y3y-Qj-7XU"; */
+"Y3y-Qj-7XU.title" = "与会者可以发送文字消息";
+
+/* Class = "NSMenuItem"; title = "Keep Cameras In Front"; ObjectID = "Y7J-9b-eK8"; */
+"Y7J-9b-eK8.title" = "将相机保留在前面";
+
+/* Class = "NSMenuItem"; title = "Webcams on Right"; ObjectID = "Z9a-Dg-rYb"; */
+"Z9a-Dg-rYb.title" = "右侧摄像头";
+
+/* Class = "NSMenuItem"; title = "View Everyone"; ObjectID = "aIL-VS-95K"; */
+"aIL-VS-95K.title" = "查看所有人";
+
+/* Class = "NSMenuItem"; title = "View Who's Talking"; ObjectID = "caB-vI-ed9"; */
+"caB-vI-ed9.title" = "查看发言者";
+
+/* Class = "NSMenuItem"; title = "Mute Me"; ObjectID = "dGW-IY-XLT"; */
+"dGW-IY-XLT.title" = "自我静音";
+
+/* Class = "NSMenuItem"; title = "100%"; ObjectID = "f6Z-vw-xu4"; */
+"f6Z-vw-xu4.title" = "100%";
+
+/* Class = "NSMenuItem"; title = "Use Mic & Speakers"; ObjectID = "kG0-Mw-9ya"; */
+"kG0-Mw-9ya.title" = "使用麦克风和扬声器";
+
+/* Class = "NSMenuItem"; title = "Show Audio Statistics..."; ObjectID = "lt7-Va-LJJ"; */
+"lt7-Va-LJJ.title" = "显示音频统计信息...";
+
+/* Class = "NSMenuItem"; title = "Use Telephone"; ObjectID = "mDU-At-19M"; */
+"mDU-At-19M.title" = "使用电话";
+
+/* Class = "NSMenuItem"; title = "Zoom To"; ObjectID = "mtS-01-77y"; */
+"mtS-01-77y.title" = "缩放至";
+
+/* Class = "NSMenu"; title = "Audio"; ObjectID = "mxC-zn-GvT"; */
+"mxC-zn-GvT.title" = "音频";
+
+/* Class = "NSMenuItem"; title = "Audio Output"; ObjectID = "pLp-41-8qZ"; */
+"pLp-41-8qZ.title" = "音频输出";
+
+/* Class = "NSMenuItem"; title = "50%"; ObjectID = "sKf-v3-QTg"; */
+"sKf-v3-QTg.title" = "50%";
+
+/* Class = "NSMenuItem"; title = "75%"; ObjectID = "uhx-qP-RHm"; */
+"uhx-qP-RHm.title" = "75%";

@@ -1,0 +1,29 @@
+/* Class = "NSTextFieldCell"; title = "Choose someone to host the meeting as organizer before you leave."; ObjectID = "07A-SQ-SSC"; */
+"07A-SQ-SSC.title" = "미팅에서 나가기 전에  주최자로 미팅을 주최할 다른 사용자를 선택하십시오.";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "0FK-wN-iKj"; */
+"0FK-wN-iKj.title" = "취소";
+
+/* Class = "NSButtonCell"; title = "Make organizer & leave"; ObjectID = "9gm-T3-AOT"; */
+"9gm-T3-AOT.title" = "주최자 설정 및 나가기";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Promote Attendee Cancel Button"; ObjectID = "LdT-pP-0Qp"; */
+"LdT-pP-0Qp.ibExternalAccessibilityDescription" = "참석자 승격: 취소 단추";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Qdr-ts-Z0g"; */
+"Qdr-ts-Z0g.title" = "테이블 보기 셀";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Promote Attendee OK Button"; ObjectID = "cND-aF-Brg"; */
+"cND-aF-Brg.ibExternalAccessibilityDescription" = "참석자 승격: 확인 단추";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "kFk-8b-NIf"; */
+"kFk-8b-NIf.title" = "창";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Promote Attendee Instruction Text"; ObjectID = "qQk-ZS-GVk"; */
+"qQk-ZS-GVk.ibExternalAccessibilityDescription" = "참석자 승격: 지침 텍스트";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "rim-Cv-Y8O"; */
+"rim-Cv-Y8O.title" = "텍스트 셀";
+
+/* Class = "NSTableColumn"; headerCell.title = "Display name"; ObjectID = "vXA-Ch-odB"; */
+"vXA-Ch-odB.headerCell.title" = "표시 이름";

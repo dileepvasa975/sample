@@ -1,0 +1,23 @@
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "5a0-TN-AJs"; */
+"5a0-TN-AJs.title" = "Bouton";
+
+/* Class = "NSButtonCell"; title = "Remember my number"; ObjectID = "L9y-rl-Ahj"; */
+"L9y-rl-Ahj.title" = "Mémoriser mon numéro";
+
+/* Class = "NSMenuItem"; title = "United States +1"; ObjectID = "Lup-lS-YVd"; */
+"Lup-lS-YVd.title" = "États-Unis +1";
+
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "Nxk-rd-MpE"; */
+"Nxk-rd-MpE.title" = "Button";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "Udk-F2-rds"; */
+"Udk-F2-rds.title" = "Étiquette";
+
+/* Class = "NSTextFieldCell"; title = "Enter your phone number"; ObjectID = "WZx-0E-Z7Z"; */
+"WZx-0E-Z7Z.title" = "Entrez votre numéro de téléphone";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "ZoJ-JI-qKe"; */
+"ZoJ-JI-qKe.title" = "Étiquette";
+
+/* Class = "NSTextFieldCell"; title = "Country"; ObjectID = "aG7-3z-S1N"; */
+"aG7-3z-S1N.title" = "Pays";

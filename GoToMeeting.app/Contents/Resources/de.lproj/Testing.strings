@@ -1,0 +1,15 @@
+
+/* Class = "NSWindow"; title = "Test überprüfen"; ObjectID = "7"; */
+"7.title" = "Test überprüfen";
+
+/* Class = "NSButtonCell"; alternateTitle = "Ergebnisse übertragen"; ObjectID = "53"; */
+"53.alternateTitle" = "Ergebnisse übertragen";
+
+/* Class = "NSButtonCell"; title = "Ergebnisse schließen"; ObjectID = "53"; */
+"53.title" = "Ergebnisse schließen";
+
+/* Class = "NSButtonCell"; alternateTitle = "Ergebnisse werden übertragen"; ObjectID = "64"; */
+"64.alternateTitle" = "Ergebnisse werden übertragen";
+
+/* Class = "NSButtonCell"; title = "Ergebnisse übertragen"; ObjectID = "64"; */
+"64.title" = "Ergebnisse übertragen";

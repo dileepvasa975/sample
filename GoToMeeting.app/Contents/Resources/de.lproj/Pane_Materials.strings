@@ -1,0 +1,24 @@
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "No Materials Manage Button"; ObjectID = "216"; */
+"216.ibExternalAccessibilityDescription" = "No Materials Manage Button";
+
+/* Class = "NSTextFieldCell"; title = "Mit dieser Schulung sind keine Unterlagen verknüpft.\n"; ObjectID = "230"; */
+"230.title" = "Mit dieser Schulung sind keine Unterlagen verknüpft.\n";
+
+/* Class = "NSButtonCell"; title = "Unterlagen verwalten"; ObjectID = "231"; */
+"231.title" = "Unterlagen verwalten";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "249"; */
+"249.title" = "Box";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Materials Manage Button"; ObjectID = "256"; */
+"256.ibExternalAccessibilityDescription" = "Materials Manage Button";
+
+/* Class = "NSButtonCell"; title = "Unterlagen verwalten"; ObjectID = "257"; */
+"257.title" = "Unterlagen verwalten";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Materials List"; ObjectID = "265"; */
+"265.ibExternalAccessibilityDescription" = "Materials List";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "270"; */
+"270.title" = "Text Cell";
