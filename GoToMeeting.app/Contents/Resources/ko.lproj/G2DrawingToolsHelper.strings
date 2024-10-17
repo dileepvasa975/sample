@@ -1,0 +1,75 @@
+
+/* Class = "NSMenuItem"; title = "Erase all drawings"; ObjectID = "3Dd-4V-IWz"; */
+"3Dd-4V-IWz.title" = "모든 그림 지우기";
+
+/* Class = "NSMenuItem"; title = "Choose Pen Color"; ObjectID = "4Vl-K5-foE"; */
+"4Vl-K5-foE.title" = "펜 색상 선택";
+
+/* Class = "NSMenuItem"; title = "Arrow"; ObjectID = "5Sv-3d-FKW"; */
+"5Sv-3d-FKW.title" = "화살표";
+
+/* Class = "NSMenuItem"; title = "Dark green"; ObjectID = "9qM-6l-dgi"; */
+"9qM-6l-dgi.title" = "진한 녹색";
+
+/* Class = "NSMenuItem"; title = "Attendees can draw"; ObjectID = "F6A-qM-Ba8"; */
+"F6A-qM-Ba8.title" = "참석자가 그리기 가능";
+
+/* Class = "NSMenuItem"; title = "Custom color..."; ObjectID = "Ft7-DH-V34"; */
+"Ft7-DH-V34.title" = "사용자 지정 색상…";
+
+/* Class = "NSMenuItem"; title = "Red"; ObjectID = "K54-Fv-npS"; */
+"K54-Fv-npS.title" = "빨강";
+
+/* Class = "NSMenuItem"; title = "Highlighter"; ObjectID = "ODq-Gs-T57"; */
+"ODq-Gs-T57.title" = "형광펜";
+
+/* Class = "NSMenuItem"; title = "Pink"; ObjectID = "Rqk-Vs-Gm5"; */
+"Rqk-Vs-Gm5.title" = "분홍";
+
+/* Class = "NSMenuItem"; title = "Purple"; ObjectID = "Ufz-Ez-hfg"; */
+"Ufz-Ez-hfg.title" = "보라색";
+
+/* Class = "NSMenuItem"; title = "Spotlight"; ObjectID = "VH8-Hs-OE5"; */
+"VH8-Hs-OE5.title" = "추천";
+
+/* Class = "NSMenuItem"; title = "Black"; ObjectID = "Yic-U9-6rN"; */
+"Yic-U9-6rN.title" = "검정";
+
+/* Class = "NSMenuItem"; title = "Pointer"; ObjectID = "bKc-da-zec"; */
+"bKc-da-zec.title" = "포인터";
+
+/* Class = "NSMenuItem"; title = "Orange"; ObjectID = "c9H-e1-ZFy"; */
+"c9H-e1-ZFy.title" = "주황색";
+
+/* Class = "NSMenuItem"; title = "Remember this pen color"; ObjectID = "cfK-ne-NFg"; */
+"cfK-ne-NFg.title" = "이 펜 색상 저장";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "d4f-X8-JIg"; */
+"d4f-X8-JIg.title" = "Menu";
+
+/* Class = "NSMenuItem"; title = "Light blue"; ObjectID = "drz-Q5-IwU"; */
+"drz-Q5-IwU.title" = "연한 파랑";
+
+/* Class = "NSMenuItem"; title = "Brown"; ObjectID = "e5f-W7-K3D"; */
+"e5f-W7-K3D.title" = "갈색";
+
+/* Class = "NSMenuItem"; title = "Pen"; ObjectID = "fvw-Ke-AVz"; */
+"fvw-Ke-AVz.title" = "펜";
+
+/* Class = "NSMenuItem"; title = "Title Item"; ObjectID = "gEF-Si-2qI"; */
+"gEF-Si-2qI.title" = "Title Item";
+
+/* Class = "NSMenuItem"; title = "Blue"; ObjectID = "gN4-fu-Ard"; */
+"gN4-fu-Ard.title" = "파랑";
+
+/* Class = "NSMenuItem"; title = "Green"; ObjectID = "i0H-BR-v2d"; */
+"i0H-BR-v2d.title" = "녹색";
+
+/* Class = "NSMenuItem"; title = "Yellow"; ObjectID = "l4W-Zk-YPU"; */
+"l4W-Zk-YPU.title" = "노랑";
+
+/* Class = "NSMenu"; title = "Choose Pen Color"; ObjectID = "l9S-eJ-ya3"; */
+"l9S-eJ-ya3.title" = "펜 색상 선택";
+
+/* Class = "NSMenuItem"; title = "Gray"; ObjectID = "s8x-xe-Cfl"; */
+"s8x-xe-Cfl.title" = "회색";

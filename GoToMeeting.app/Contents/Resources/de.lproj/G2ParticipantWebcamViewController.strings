@@ -1,0 +1,9 @@
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "WebcamNameTextField"; ObjectID = "3Hx-Mm-g9t"; */
+"3Hx-Mm-g9t.ibExternalAccessibilityDescription" = "WebcamNameTextField";
+
+/* Class = "NSTextFieldCell"; title = "Attendee Name"; ObjectID = "Bbt-QO-XZA"; */
+"Bbt-QO-XZA.title" = "Attendee Name";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "WebcamAudioToggleMute"; ObjectID = "Ku0-rR-5l0"; */
+"Ku0-rR-5l0.ibExternalAccessibilityDescription" = "WebcamAudioToggleMute";

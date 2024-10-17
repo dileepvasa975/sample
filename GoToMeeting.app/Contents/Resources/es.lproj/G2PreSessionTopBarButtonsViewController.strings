@@ -1,0 +1,17 @@
+/* Class = "NSButtonCell"; title = "Sign in"; ObjectID = "0Jd-sk-f41"; */
+"0Jd-sk-f41.title" = "Iniciar sesión";
+
+/* Class = "NSMenuItem"; title = "Meeting details"; ObjectID = "CM5-2R-fJd"; */
+"CM5-2R-fJd.title" = "Detalles de la reunión";
+
+/* Class = "NSMenuItem"; title = "Keyboard shortcuts"; ObjectID = "CX2-4i-0n1"; */
+"CX2-4i-0n1.title" = "Atajos de teclado";
+
+/* Class = "NSMenuItem"; title = "About GoToMeeting"; ObjectID = "KzK-dw-MgI"; */
+"KzK-dw-MgI.title" = "Acerca de GoToMeeting";
+
+/* Class = "NSMenuItem"; title = "Support"; ObjectID = "WgX-9U-WED"; */
+"WgX-9U-WED.title" = "Asistencia";
+
+/* Class = "NSMenuItem"; title = "Take the tour"; ObjectID = "uFE-Dk-4vg"; */
+"uFE-Dk-4vg.title" = "Iniciar visita";

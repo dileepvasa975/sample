@@ -1,0 +1,24 @@
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "No Materials Manage Button"; ObjectID = "216"; */
+"216.ibExternalAccessibilityDescription" = "No Materials Manage Button";
+
+/* Class = "NSTextFieldCell"; title = "没有给此培训分配资料。\n"; ObjectID = "230"; */
+"230.title" = "没有给此培训分配资料。\n";
+
+/* Class = "NSButtonCell"; title = "管理材料"; ObjectID = "231"; */
+"231.title" = "管理材料";
+
+/* Class = "NSBox"; title = "框"; ObjectID = "249"; */
+"249.title" = "框";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Materials Manage Button"; ObjectID = "256"; */
+"256.ibExternalAccessibilityDescription" = "Materials Manage Button";
+
+/* Class = "NSButtonCell"; title = "管理材料"; ObjectID = "257"; */
+"257.title" = "管理材料";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Materials List"; ObjectID = "265"; */
+"265.ibExternalAccessibilityDescription" = "Materials List";
+
+/* Class = "NSTextFieldCell"; title = "文本单元格"; ObjectID = "270"; */
+"270.title" = "文本单元格";

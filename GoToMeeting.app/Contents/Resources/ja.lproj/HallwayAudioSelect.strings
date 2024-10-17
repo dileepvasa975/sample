@@ -1,0 +1,765 @@
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Message Text"; ObjectID = "03d-Fk-JRN"; */
+"03d-Fk-JRN.ibExternalAccessibilityDescription" = "Message Text";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Country Select"; ObjectID = "0V4-Pa-joq"; */
+"0V4-Pa-joq.ibExternalAccessibilityDescription" = "国の選択";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Phone Number Text"; ObjectID = "0fD-RU-gEh"; */
+"0fD-RU-gEh.ibExternalAccessibilityDescription" = "Phone Number Text";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "0lY-bf-j0d"; */
+"0lY-bf-j0d.title" = "OK";
+
+/* Class = "NSTextFieldCell"; title = "The meeting will begin when the organizer arrives"; ObjectID = "1HY-6O-D7P"; */
+"1HY-6O-D7P.title" = "ミーティングは開催者が到着すると開始されます";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Hallway Text"; ObjectID = "1RD-RT-dbH"; */
+"1RD-RT-dbH.ibExternalAccessibilityDescription" = "Hallway Text";
+
+/* Class = "NSTextFieldCell"; title = "+1 (408) 123-4567"; ObjectID = "1Sg-up-GcT"; */
+"1Sg-up-GcT.title" = "+1 (408) 123-4567";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Message Text"; ObjectID = "1Xd-Ce-vBz"; */
+"1Xd-Ce-vBz.ibExternalAccessibilityDescription" = "メッセージ テキスト";
+
+/* Class = "NSButtonCell"; title = "Choose an audio option"; ObjectID = "1oo-dS-rl2"; */
+"1oo-dS-rl2.title" = "オーディオオプションを選択してください";
+
+/* Class = "NSTextFieldCell"; title = "Your audio PIN:"; ObjectID = "1ug-5U-LhN"; */
+"1ug-5U-LhN.title" = "オーディオ PIN：";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Country Select"; ObjectID = "1yE-1z-9qX"; */
+"1yE-1z-9qX.ibExternalAccessibilityDescription" = "国の選択";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Call Me Number"; ObjectID = "2DN-zl-c68"; */
+"2DN-zl-c68.ibExternalAccessibilityDescription" = "折り返し先番号";
+
+/* Class = "NSButtonCell"; title = "Switch to computer audio"; ObjectID = "2kP-Ds-BdD"; */
+"2kP-Ds-BdD.title" = "コンピュータのオーディオに切り替え";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Choose Audio Button"; ObjectID = "2zy-Y5-ic5"; */
+"2zy-Y5-ic5.ibExternalAccessibilityDescription" = "Choose Audio Button";
+
+/* Class = "NSTextFieldCell"; title = "000-000-000"; ObjectID = "35k-eD-8R5"; */
+"35k-eD-8R5.title" = "000-000-000";
+
+/* Class = "NSTabViewItem"; label = "pageHallwayPSTNDialIn"; ObjectID = "3LJ-ks-GGr"; */
+"3LJ-ks-GGr.label" = "pageHallwayPSTNDialIn";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Hallway Text"; ObjectID = "3SC-Gm-9bn"; */
+"3SC-Gm-9bn.ibExternalAccessibilityDescription" = "Hallway Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Message Text"; ObjectID = "3Vx-Ix-5t2"; */
+"3Vx-Ix-5t2.ibExternalAccessibilityDescription" = "メッセージ テキスト";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Don't Show Again"; ObjectID = "3Xf-ww-jDv"; */
+"3Xf-ww-jDv.ibExternalAccessibilityDescription" = "今後表示しない";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Sign In Button"; ObjectID = "3zS-Zh-iIB"; */
+"3zS-Zh-iIB.ibExternalAccessibilityDescription" = "Sign In Button";
+
+/* Class = "NSButtonCell"; title = "Don't use audio"; ObjectID = "4NA-ZL-dr5"; */
+"4NA-ZL-dr5.title" = "オーディオを使用しない";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Switch Audio Button"; ObjectID = "4oQ-Wd-vZ8"; */
+"4oQ-Wd-vZ8.ibExternalAccessibilityDescription" = "Choose Audio Button";
+
+/* Class = "NSButtonCell"; title = "Switch to computer audio"; ObjectID = "4rM-B9-Vrh"; */
+"4rM-B9-Vrh.title" = "コンピュータのオーディオに切り替え";
+
+/* Class = "NSTabViewItem"; label = "pageAudioSelect"; ObjectID = "4y0-8h-igC"; */
+"4y0-8h-igC.label" = "pageAudioSelect";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Phone Options Button"; ObjectID = "5cG-dl-4NQ"; */
+"5cG-dl-4NQ.ibExternalAccessibilityDescription" = "携帯電話オプション ボタン";
+
+/* Class = "NSButtonCell"; title = "Call me"; ObjectID = "60x-On-lkK"; */
+"60x-On-lkK.title" = "折り返し先";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Choose Audio Button"; ObjectID = "6C9-UH-ig3"; */
+"6C9-UH-ig3.ibExternalAccessibilityDescription" = "Choose Audio Button";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Hallway Title"; ObjectID = "6OB-oG-PmJ"; */
+"6OB-oG-PmJ.ibExternalAccessibilityDescription" = "ロビーのタイトル";
+
+/* Class = "NSTextFieldCell"; title = "SPEAKERS"; ObjectID = "6na-Ss-5Id"; */
+"6na-Ss-5Id.title" = "スピーカー";
+
+/* Class = "NSTextFieldCell"; title = "Meeting Subject"; ObjectID = "6qi-LE-jaw"; */
+"6qi-LE-jaw.title" = "ミーティングの題";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Message Text"; ObjectID = "78P-Ke-CEK"; */
+"78P-Ke-CEK.ibExternalAccessibilityDescription" = "メッセージ テキスト";
+
+/* Class = "NSButtonCell"; title = "Switch to computer audio"; ObjectID = "7Rk-aH-11v"; */
+"7Rk-aH-11v.title" = "コンピュータのオーディオに切り替え";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Stop the test"; ObjectID = "7Uh-9B-TLv"; */
+"7Uh-9B-TLv.ibExternalAccessibilityDescription" = "テストの停止";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Message Text"; ObjectID = "7qa-1N-OtN"; */
+"7qa-1N-OtN.ibExternalAccessibilityDescription" = "メッセージ テキスト";
+
+/* Class = "NSButtonCell"; title = "Don't use audio"; ObjectID = "7yB-6A-GVq"; */
+"7yB-6A-GVq.title" = "オーディオを使用しない";
+
+/* Class = "NSTextFieldCell"; title = "MUTED"; ObjectID = "818-ha-wau"; */
+"818-ha-wau.title" = "ミュート済み";
+
+/* Class = "NSTextFieldCell"; title = "You are muted by the organizer"; ObjectID = "81U-FO-Wkq"; */
+"81U-FO-Wkq.title" = "開催者によってミュートされています";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Cancel Button"; ObjectID = "8Eq-PD-YUf"; */
+"8Eq-PD-YUf.ibExternalAccessibilityDescription" = "Cancel Button";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Ex. 1 (555) 555-5555"; ObjectID = "8hu-R6-bn0"; */
+"8hu-R6-bn0.placeholderString" = "例：1 (555) 555-5555";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Audio Input Popup"; ObjectID = "8vz-v6-XjS"; */
+"8vz-v6-XjS.ibExternalAccessibilityDescription" = "オーディオ入力ポップアップ";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Computer Options Button"; ObjectID = "92x-gt-WHd"; */
+"92x-gt-WHd.ibExternalAccessibilityDescription" = "コンピューター オプション ボタン";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Switch Audio Button"; ObjectID = "9Uh-f5-fiX"; */
+"9Uh-f5-fiX.ibExternalAccessibilityDescription" = "Choose Audio Button";
+
+/* Class = "NSTextFieldCell"; title = "Message from the organizer"; ObjectID = "9bJ-vd-q6C"; */
+"9bJ-vd-q6C.title" = "開催者からのメッセージ";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Choose Audio Button"; ObjectID = "9jQ-sv-6o2"; */
+"9jQ-sv-6o2.ibExternalAccessibilityDescription" = "Choose Audio Button";
+
+/* Class = "NSTabViewItem"; label = "pageHallwayCustomAudio"; ObjectID = "A6B-uv-P0Z"; */
+"A6B-uv-P0Z.label" = "pageHallwayCustomAudio";
+
+/* Class = "NSTextFieldCell"; title = "+1 (408) 650-3113"; ObjectID = "AGi-Ye-vFB"; */
+"AGi-Ye-vFB.title" = "+1 (408) 650-3113";
+
+/* Class = "NSTextFieldCell"; title = "The meeting will begin when the organizer arrives"; ObjectID = "AIl-ft-gmW"; */
+"AIl-ft-gmW.title" = "ミーティングは開催者が到着すると開始されます";
+
+/* Class = "NSTextFieldCell"; title = "Hmm, the call failed. Please try again. 12345678901234567890"; ObjectID = "AO0-fW-vi9"; */
+"AO0-fW-vi9.title" = "呼び出しに失敗しました。もう一度やり直してください。12345678901234567890";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Hallway Title"; ObjectID = "Aug-4j-6OX"; */
+"Aug-4j-6OX.ibExternalAccessibilityDescription" = "ロビーのタイトル";
+
+/* Class = "NSButtonCell"; title = "Don't use audio"; ObjectID = "BoZ-Q2-yoB"; */
+"BoZ-Q2-yoB.title" = "オーディオを使用しない";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "CPN-yK-ea6"; */
+"CPN-yK-ea6.title" = "続行";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Choose Audio Button"; ObjectID = "CcY-nd-lgE"; */
+"CcY-nd-lgE.ibExternalAccessibilityDescription" = "オーディオ ボタンを選択";
+
+/* Class = "NSTextFieldCell"; title = "Dial in now"; ObjectID = "Cco-Lj-Iqp"; */
+"Cco-Lj-Iqp.title" = "今すぐダイヤルイン";
+
+/* Class = "NSButtonCell"; title = "Switch to computer audio"; ObjectID = "Cf0-1a-TZc"; */
+"Cf0-1a-TZc.title" = "コンピュータのオーディオに切り替え";
+
+/* Class = "NSTabViewItem"; label = "pageVoIP"; ObjectID = "Cga-Mr-Rkd"; */
+"Cga-Mr-Rkd.label" = "pageVoIP";
+
+/* Class = "NSTextFieldCell"; title = "Dial in now"; ObjectID = "D8d-Zy-jBD"; */
+"D8d-Zy-jBD.title" = "今すぐダイヤルイン";
+
+/* Class = "NSButtonCell"; title = "Phone options"; ObjectID = "DUJ-zO-j49"; */
+"DUJ-zO-j49.title" = "電話オプション";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Message Text"; ObjectID = "DZr-yo-HLB"; */
+"DZr-yo-HLB.ibExternalAccessibilityDescription" = "メッセージ テキスト";
+
+/* Class = "NSTextFieldCell"; title = "Dial:"; ObjectID = "Dfm-XM-QPc"; */
+"Dfm-XM-QPc.title" = "ダイヤル：";
+
+/* Class = "NSTextFieldCell"; title = "Hey folks,\nPlease use my AT&T conference call number.\n1-800-555-5555, code: 456789.\nThanks! Now is the time for all good men to come to the aid of their country."; ObjectID = "Dns-WD-qxu"; */
+"Dns-WD-qxu.title" = "各位\n私の AT&T 電話会議番号を使用してください。\n1-800-555-5555、コード：456789。\nよろしくお願いします。今こそすべての優れた人材が国のために立ち上がるときです。";
+
+/* Class = "NSButtonCell"; title = "Test your sound"; ObjectID = "DuE-u2-m9w"; */
+"DuE-u2-m9w.title" = "サウンドのテスト";
+
+/* Class = "NSTextFieldCell"; title = "You'll sound best with a headset"; ObjectID = "Ecu-sI-PTl"; */
+"Ecu-sI-PTl.title" = "ヘッドセットを使用すると最適なサウンドが得られます";
+
+/* Class = "NSButtonCell"; title = "Don't Show Again"; ObjectID = "EhY-NM-lWc"; */
+"EhY-NM-lWc.title" = "今後表示しない";
+
+/* Class = "NSButtonCell"; title = "Sign in now"; ObjectID = "Er8-oe-gg3"; */
+"Er8-oe-gg3.title" = "今すぐサインイン";
+
+/* Class = "NSTextFieldCell"; title = "Access code:"; ObjectID = "Etf-Zw-N4l"; */
+"Etf-Zw-N4l.title" = "アクセスコード：";
+
+/* Class = "NSWindow"; title = "Audio Selection"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "オーディオの選択";
+
+/* Class = "NSTextFieldCell"; title = "The meeting will begin when the organizer arrives"; ObjectID = "F5Z-oG-lm8"; */
+"F5Z-oG-lm8.title" = "ミーティングは開催者が到着すると開始されます";
+
+/* Class = "NSTextFieldCell"; title = "1-555-555-1111"; ObjectID = "FWh-cE-slg"; */
+"FWh-cE-slg.title" = "1-555-555-1111";
+
+/* Class = "NSButtonCell"; title = "Remember my number"; ObjectID = "Fsd-vS-xVs"; */
+"Fsd-vS-xVs.title" = "番号を保存";
+
+/* Class = "NSTextFieldCell"; title = "+1 (408) 123-4567"; ObjectID = "GQ6-er-FOT"; */
+"GQ6-er-FOT.title" = "+1 (408) 123-4567";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Message Text"; ObjectID = "GTe-kC-98h"; */
+"GTe-kC-98h.ibExternalAccessibilityDescription" = "Message Text";
+
+/* Class = "NSTextFieldCell"; title = "Enter your phone number"; ObjectID = "GlM-1g-RMT"; */
+"GlM-1g-RMT.title" = "電話番号を入力してください";
+
+/* Class = "NSButtonCell"; title = "Choose an audio option"; ObjectID = "Gyy-yJ-Wl9"; */
+"Gyy-yJ-Wl9.title" = "オーディオオプションを選択してください";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Hallway Text"; ObjectID = "H1k-J6-o6x"; */
+"H1k-J6-o6x.ibExternalAccessibilityDescription" = "Hallway Text";
+
+/* Class = "NSTabViewItem"; label = "pageCustomAudio"; ObjectID = "HEu-OO-sRM"; */
+"HEu-OO-sRM.label" = "pageCustomAudio";
+
+/* Class = "NSTextFieldCell"; title = "MUTED"; ObjectID = "HJN-LE-cdV"; */
+"HJN-LE-cdV.title" = "ミュート済み";
+
+/* Class = "NSButtonCell"; title = "Remember my number"; ObjectID = "Ibo-ay-tlo"; */
+"Ibo-ay-tlo.title" = "番号を保存";
+
+/* Class = "NSTextFieldCell"; title = "Dial in now"; ObjectID = "Iru-UC-r5b"; */
+"Iru-UC-r5b.title" = "今すぐダイヤルイン";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Choose Audio Button"; ObjectID = "J55-cl-HF9"; */
+"J55-cl-HF9.ibExternalAccessibilityDescription" = "Choose Audio Button";
+
+/* Class = "NSButtonCell"; title = "Don't Show Again"; ObjectID = "J9z-IH-Q1f"; */
+"J9z-IH-Q1f.title" = "今後表示しない";
+
+/* Class = "NSTextFieldCell"; title = "The meeting will begin when the organizer arrives"; ObjectID = "JJc-76-6pH"; */
+"JJc-76-6pH.title" = "ミーティングは開催者が到着すると開始されます";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Don't Show Again"; ObjectID = "Jgc-B5-aMf"; */
+"Jgc-B5-aMf.ibExternalAccessibilityDescription" = "今後表示しない";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Phone Number Text"; ObjectID = "K8E-mb-80L"; */
+"K8E-mb-80L.ibExternalAccessibilityDescription" = "Phone Number Text";
+
+/* Class = "NSTabView"; ibExternalAccessibilityDescription = "PSTN Tab View"; ObjectID = "KA8-gs-2Dy"; */
+"KA8-gs-2Dy.ibExternalAccessibilityDescription" = "PSTN Tab View";
+
+/* Class = "NSTabViewItem"; label = "pageHallwayPSTNCallMe"; ObjectID = "KCV-C3-R8t"; */
+"KCV-C3-R8t.label" = "pageHallwayPSTNCallMe";
+
+/* Class = "NSTextFieldCell"; title = "+1 (408) 650-3113"; ObjectID = "KHO-Kp-Fiu"; */
+"KHO-Kp-Fiu.title" = "+1 (408) 650-3113";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Speaker Select"; ObjectID = "KPW-W7-cOo"; */
+"KPW-W7-cOo.ibExternalAccessibilityDescription" = "スピーカーの選択";
+
+/* Class = "NSButtonCell"; title = "Stop the test"; ObjectID = "KWa-J1-QHu"; */
+"KWa-J1-QHu.title" = "テストの停止";
+
+/* Class = "NSTabViewItem"; label = "pageCallMeProgress"; ObjectID = "KXv-4y-4UP"; */
+"KXv-4y-4UP.label" = "pageCallMeProgress";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Hallway Title"; ObjectID = "Kz3-Xs-W9L"; */
+"Kz3-Xs-W9L.ibExternalAccessibilityDescription" = "ロビーのタイトル";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Computer Audio Button"; ObjectID = "LDB-sS-xvg"; */
+"LDB-sS-xvg.ibExternalAccessibilityDescription" = "Computer Audio Button";
+
+/* Class = "NSTextFieldCell"; title = "MUTED"; ObjectID = "LlW-f0-fsw"; */
+"LlW-f0-fsw.title" = "ミュート済み";
+
+/* Class = "NSButtonCell"; title = "Don't Show Again"; ObjectID = "M5J-MB-dFd"; */
+"M5J-MB-dFd.title" = "今後表示しない";
+
+/* Class = "NSButtonCell"; title = "Don't use audio"; ObjectID = "MS7-T8-Ram"; */
+"MS7-T8-Ram.title" = "オーディオを使用しない";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Choose Audio Button"; ObjectID = "MYO-ZN-6j5"; */
+"MYO-ZN-6j5.ibExternalAccessibilityDescription" = "Choose Audio Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Choose Audio Button"; ObjectID = "MuW-2J-E2Z"; */
+"MuW-2J-E2Z.ibExternalAccessibilityDescription" = "オーディオ ボタンを選択";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Choose Audio Button"; ObjectID = "MvL-VA-8XB"; */
+"MvL-VA-8XB.ibExternalAccessibilityDescription" = "オーディオ ボタンを選択";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "OK Button"; ObjectID = "NOj-cV-f30"; */
+"NOj-cV-f30.ibExternalAccessibilityDescription" = "OK Button";
+
+/* Class = "NSTextFieldCell"; title = "Long distance:"; ObjectID = "NfU-ti-FOm"; */
+"NfU-ti-FOm.title" = "市外通話:";
+
+/* Class = "NSTextFieldCell"; title = "|\nOR\n|"; ObjectID = "Nkl-df-kjT"; */
+"Nkl-df-kjT.title" = "|\nまたは\n|";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "NnM-2V-nsK"; */
+"NnM-2V-nsK.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Dial:"; ObjectID = "NzW-t7-FqK"; */
+"NzW-t7-FqK.title" = "ダイヤル：";
+
+/* Class = "NSButtonCell"; title = "Sign in now"; ObjectID = "OAG-Td-t04"; */
+"OAG-Td-t04.title" = "今すぐサインイン";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Listen Only Text"; ObjectID = "OcW-07-1w8"; */
+"OcW-07-1w8.ibExternalAccessibilityDescription" = "Listen Only Text";
+
+/* Class = "NSButtonCell"; title = "Sign in now"; ObjectID = "Oup-LK-nPZ"; */
+"Oup-LK-nPZ.title" = "今すぐサインイン";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Call Me Error Message"; ObjectID = "Pek-AE-sca"; */
+"Pek-AE-sca.ibExternalAccessibilityDescription" = "折り返し先エラーメッセージ";
+
+/* Class = "NSButtonCell"; title = "Don't use audio"; ObjectID = "Pfq-He-a4H"; */
+"Pfq-He-a4H.title" = "オーディオを使用しない";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Don't Show Again"; ObjectID = "Pkj-CJ-7eP"; */
+"Pkj-CJ-7eP.ibExternalAccessibilityDescription" = "今後表示しない";
+
+/* Class = "NSButtonCell"; title = "Phone Call"; ObjectID = "Pxg-4u-FCS"; */
+"Pxg-4u-FCS.title" = "音声通話";
+
+/* Class = "NSButtonCell"; title = "Don't use audio"; ObjectID = "Q9M-As-MHV"; */
+"Q9M-As-MHV.title" = "オーディオを使用しない";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Switch Audio Button"; ObjectID = "Q9X-hq-hRc"; */
+"Q9X-hq-hRc.ibExternalAccessibilityDescription" = "Choose Audio Button";
+
+/* Class = "NSTextFieldCell"; title = "MUTED"; ObjectID = "ROF-EP-7Qz"; */
+"ROF-EP-7Qz.title" = "ミュート済み";
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "Rt7-x2-PON"; */
+"Rt7-x2-PON.title" = "0";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Sign In Button"; ObjectID = "SM1-qt-OyJ"; */
+"SM1-qt-OyJ.ibExternalAccessibilityDescription" = "Sign In Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Switch Audio Button"; ObjectID = "SRR-6P-s3H"; */
+"SRR-6P-s3H.ibExternalAccessibilityDescription" = "Choose Audio Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Switch Audio Button"; ObjectID = "SfB-qd-dHt"; */
+"SfB-qd-dHt.ibExternalAccessibilityDescription" = "Choose Audio Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Switch Audio Button"; ObjectID = "Sxa-Se-gkL"; */
+"Sxa-Se-gkL.ibExternalAccessibilityDescription" = "オーディオ ボタンを切り替え";
+
+/* Class = "NSTabViewItem"; label = "Call Me"; ObjectID = "TKb-tb-gsJ"; */
+"TKb-tb-gsJ.label" = "折り返し先";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "PIN Text"; ObjectID = "TVI-uV-Vq2"; */
+"TVI-uV-Vq2.ibExternalAccessibilityDescription" = "PIN Text";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Choose Audio Button"; ObjectID = "TXg-iY-sg4"; */
+"TXg-iY-sg4.ibExternalAccessibilityDescription" = "Choose Audio Button";
+
+/* Class = "NSButtonCell"; title = "Switch to computer audio"; ObjectID = "Tmw-gH-9gV"; */
+"Tmw-gH-9gV.title" = "コンピュータのオーディオに切り替え";
+
+/* Class = "NSTextFieldCell"; title = "You won't be able to hear the meeting or talk with other meeting attendees or organizers."; ObjectID = "Tp0-M0-M4D"; */
+"Tp0-M0-M4D.title" = "会議の音声を聞いたり、会議の他の参加者や開催者と会話することはできません。";
+
+/* Class = "NSButtonCell"; title = "Switch to computer audio"; ObjectID = "Tst-NM-TeL"; */
+"Tst-NM-TeL.title" = "コンピュータのオーディオに切り替え";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Choose Audio Button"; ObjectID = "TxR-iO-8gC"; */
+"TxR-iO-8gC.ibExternalAccessibilityDescription" = "オーディオ ボタンを選択";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Switch Audio Button"; ObjectID = "U2c-aP-Zmt"; */
+"U2c-aP-Zmt.ibExternalAccessibilityDescription" = "Choose Audio Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Choose Audio Button"; ObjectID = "UVD-1P-LFB"; */
+"UVD-1P-LFB.ibExternalAccessibilityDescription" = "オーディオ ボタンを選択";
+
+/* Class = "NSTextFieldCell"; title = "Are you the organizer or a co-organizer?"; ObjectID = "UjC-Nn-xWp"; */
+"UjC-Nn-xWp.title" = "開催者または共同開催者ですか？";
+
+/* Class = "NSTextFieldCell"; title = "Don't use audio"; ObjectID = "Uvu-hY-1Kf"; */
+"Uvu-hY-1Kf.title" = "オーディオを使用しない";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Continue Button"; ObjectID = "UwM-Ys-sBi"; */
+"UwM-Ys-sBi.ibExternalAccessibilityDescription" = "Continue Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Continue Button"; ObjectID = "V0W-FX-ccc"; */
+"V0W-FX-ccc.ibExternalAccessibilityDescription" = "Continue Button";
+
+/* Class = "NSTabView"; ibExternalAccessibilityDescription = "Page Tab View"; ObjectID = "Vjw-Td-VZk"; */
+"Vjw-Td-VZk.ibExternalAccessibilityDescription" = "Page Tab View";
+
+/* Class = "NSButtonCell"; title = "Computer audio options"; ObjectID = "VuR-Ru-00z"; */
+"VuR-Ru-00z.title" = "コンピュータオーディオオプション";
+
+/* Class = "NSButtonCell"; title = "Switch to computer audio"; ObjectID = "W1z-Ka-Qba"; */
+"W1z-Ka-Qba.title" = "コンピュータのオーディオに切り替え";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Call Me Button"; ObjectID = "WIi-qd-hIo"; */
+"WIi-qd-hIo.ibExternalAccessibilityDescription" = "Call Me Button";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Subject Text Field"; ObjectID = "WWj-X0-ZGV"; */
+"WWj-X0-ZGV.ibExternalAccessibilityDescription" = "Subject Text Field";
+
+/* Class = "NSTabViewItem"; label = "pagePhone"; ObjectID = "WeI-aY-ubg"; */
+"WeI-aY-ubg.label" = "pagePhone";
+
+/* Class = "NSTextFieldCell"; title = "Are you the organizer or a co-organizer?"; ObjectID = "Wwm-a1-ydd"; */
+"Wwm-a1-ydd.title" = "開催者または共同開催者ですか？";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "PIN Text"; ObjectID = "X3E-vp-fwq"; */
+"X3E-vp-fwq.ibExternalAccessibilityDescription" = "PIN Text";
+
+/* Class = "NSButtonCell"; title = "Sign in now"; ObjectID = "XSg-xr-PYj"; */
+"XSg-xr-PYj.title" = "今すぐサインイン";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Sign In Button"; ObjectID = "YEd-t2-RXX"; */
+"YEd-t2-RXX.ibExternalAccessibilityDescription" = "Sign In Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Don't Show Again"; ObjectID = "YJr-gq-mdN"; */
+"YJr-gq-mdN.ibExternalAccessibilityDescription" = "今後表示しない";
+
+/* Class = "NSTextFieldCell"; title = "The meeting will begin when the organizer arrives"; ObjectID = "YfE-80-7LU"; */
+"YfE-80-7LU.title" = "ミーティングは開催者が到着すると開始されます";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Phone Number Text"; ObjectID = "ZQF-uj-fXv"; */
+"ZQF-uj-fXv.ibExternalAccessibilityDescription" = "Phone Number Text";
+
+/* Class = "NSTextFieldCell"; title = "Dial:"; ObjectID = "Ze8-A3-FVo"; */
+"Ze8-A3-FVo.title" = "ダイヤル：";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Sign In Button"; ObjectID = "ZmB-gt-ieD"; */
+"ZmB-gt-ieD.ibExternalAccessibilityDescription" = "Sign In Button";
+
+/* Class = "NSButtonCell"; title = "Switch to phone call"; ObjectID = "aBs-Ae-oVR"; */
+"aBs-Ae-oVR.title" = "携帯電話の通話に切り替え";
+
+/* Class = "NSTextFieldCell"; title = "Hey folks,\nPlease use my AT&T conference call number.\n1-800-555-5555, code: 456789.\nThanks! Now is the time for all good men to come to the aid of their country."; ObjectID = "aGM-JW-ITO"; */
+"aGM-JW-ITO.title" = "各位\n私の AT&T 電話会議番号を使用してください。\n1-800-555-5555、コード：456789。\nよろしくお願いします。今こそすべての優れた人材が国のために立ち上がるときです。";
+
+/* Class = "NSButtonCell"; title = "Choose an audio option"; ObjectID = "aHr-4Z-StL"; */
+"aHr-4Z-StL.title" = "オーディオオプションを選択してください";
+
+/* Class = "NSButtonCell"; title = "Don't Show Again"; ObjectID = "aKj-WH-iIR"; */
+"aKj-WH-iIR.title" = "今後表示しない";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Sign In Button"; ObjectID = "avT-9B-bIN"; */
+"avT-9B-bIN.ibExternalAccessibilityDescription" = "Sign In Button";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Audio Input Popup"; ObjectID = "axd-8r-v2n"; */
+"axd-8r-v2n.ibExternalAccessibilityDescription" = "オーディオ入力ポップアップ";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Message Text"; ObjectID = "b5Q-Ms-Gfc"; */
+"b5Q-Ms-Gfc.ibExternalAccessibilityDescription" = "メッセージ テキスト";
+
+/* Class = "NSTextFieldCell"; title = "MUTED"; ObjectID = "bxi-SK-pF6"; */
+"bxi-SK-pF6.title" = "ミュート済み";
+
+/* Class = "NSTextFieldCell"; title = "1-555-555-1111"; ObjectID = "cNk-9R-tit"; */
+"cNk-9R-tit.title" = "1-555-555-1111";
+
+/* Class = "NSTextFieldCell"; title = "When the meeting starts,\nwe'll call you at"; ObjectID = "cSh-yJ-ihe"; */
+"cSh-yJ-ihe.title" = "ミーティングが開始されたら、\nこちらから次の番号に発信します";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Remember My Number"; ObjectID = "cWt-rf-FWu"; */
+"cWt-rf-FWu.ibExternalAccessibilityDescription" = "番号を保存";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Ex. 1 (555) 555-5555"; ObjectID = "caY-CX-oNV"; */
+"caY-CX-oNV.placeholderString" = "例：1 (555) 555-5555";
+
+/* Class = "NSTextFieldCell"; title = "1-xxx-xxx-xxxx"; ObjectID = "ch9-FA-45w"; */
+"ch9-FA-45w.title" = "1-xxx-xxx-xxxx";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Mute Checkbox"; ObjectID = "d1f-of-2l5"; */
+"d1f-of-2l5.ibExternalAccessibilityDescription" = "Mute Checkbox";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Message Text"; ObjectID = "dA9-jR-RTJ"; */
+"dA9-jR-RTJ.ibExternalAccessibilityDescription" = "メッセージ テキスト";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Phone Number Text"; ObjectID = "dZd-Lw-qft"; */
+"dZd-Lw-qft.ibExternalAccessibilityDescription" = "Phone Number Text";
+
+/* Class = "NSTextFieldCell"; title = "Test your sound"; ObjectID = "dlL-qn-bk5"; */
+"dlL-qn-bk5.title" = "サウンドのテスト";
+
+/* Class = "NSTextFieldCell"; title = "Long distance:"; ObjectID = "dtX-hV-ncW"; */
+"dtX-hV-ncW.title" = "市外通話:";
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "duK-gu-vKu"; */
+"duK-gu-vKu.title" = "0";
+
+/* Class = "NSTextFieldCell"; title = "MICROPHONE"; ObjectID = "e5i-J7-DBn"; */
+"e5i-J7-DBn.title" = "マイク";
+
+/* Class = "NSButtonCell"; title = "Call me"; ObjectID = "egq-Qi-RJ0"; */
+"egq-Qi-RJ0.title" = "折り返し先";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Message Text"; ObjectID = "emw-k7-O1x"; */
+"emw-k7-O1x.ibExternalAccessibilityDescription" = "メッセージ テキスト";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Call Me Error Message"; ObjectID = "ewr-QD-hSk"; */
+"ewr-QD-hSk.ibExternalAccessibilityDescription" = "折り返し先エラーメッセージ";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Access Code Text"; ObjectID = "fHN-uy-LGc"; */
+"fHN-uy-LGc.ibExternalAccessibilityDescription" = "Access Code Text";
+
+/* Class = "NSButtonCell"; title = "Sign in now"; ObjectID = "fZ9-9W-BE3"; */
+"fZ9-9W-BE3.title" = "今すぐサインイン";
+
+/* Class = "NSTextFieldCell"; title = "Access code:"; ObjectID = "fwV-9v-976"; */
+"fwV-9v-976.title" = "アクセスコード：";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "No Audio Description"; ObjectID = "g2x-oj-XVM"; */
+"g2x-oj-XVM.ibExternalAccessibilityDescription" = "No Audio Description";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Phone Number Text"; ObjectID = "gAg-FC-11O"; */
+"gAg-FC-11O.ibExternalAccessibilityDescription" = "Phone Number Text";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Country Select"; ObjectID = "gGP-dm-BP9"; */
+"gGP-dm-BP9.ibExternalAccessibilityDescription" = "国の選択";
+
+/* Class = "NSTextFieldCell"; title = "Are you the organizer or a co-organizer?"; ObjectID = "gNo-4o-yzg"; */
+"gNo-4o-yzg.title" = "開催者または共同開催者ですか？";
+
+/* Class = "NSButtonCell"; title = "Don't Show Again"; ObjectID = "gOk-FH-BG6"; */
+"gOk-FH-BG6.title" = "今後表示しない";
+
+/* Class = "NSTextFieldCell"; title = "Date and time"; ObjectID = "gSO-Xo-hac"; */
+"gSO-Xo-hac.title" = "日時";
+
+/* Class = "NSTextFieldCell"; title = "You'll sound best with a headset"; ObjectID = "gcw-Qd-Ddx"; */
+"gcw-Qd-Ddx.title" = "ヘッドセットを使用すると最適なサウンドが得られます";
+
+/* Class = "NSTabViewItem"; label = "pageHallwayVoIP"; ObjectID = "hIO-MT-E7i"; */
+"hIO-MT-E7i.label" = "pageHallwayVoIP";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Choose Audio Button"; ObjectID = "hPx-7C-c0b"; */
+"hPx-7C-c0b.ibExternalAccessibilityDescription" = "Choose Audio Button";
+
+/* Class = "NSTextFieldCell"; title = "Access code:"; ObjectID = "hPz-YL-8EN"; */
+"hPz-YL-8EN.title" = "アクセスコード：";
+
+/* Class = "NSTextFieldCell"; title = "+1 (408) 650-3113"; ObjectID = "hhx-2l-ahY"; */
+"hhx-2l-ahY.title" = "+1 (408) 650-3113";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Mic Select"; ObjectID = "hvi-Xj-jvT"; */
+"hvi-Xj-jvT.ibExternalAccessibilityDescription" = "マイクの選択";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Phone Number Text"; ObjectID = "i00-Rt-Tkf"; */
+"i00-Rt-Tkf.ibExternalAccessibilityDescription" = "Phone Number Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Hallway Title"; ObjectID = "imk-pX-2Cz"; */
+"imk-pX-2Cz.ibExternalAccessibilityDescription" = "ロビーのタイトル";
+
+/* Class = "NSTextFieldCell"; title = "You are muted by the organizer"; ObjectID = "itr-SP-Vhu"; */
+"itr-SP-Vhu.title" = "開催者によってミュートされています";
+
+/* Class = "NSTextFieldCell"; title = "Are you the organizer or a co-organizer?"; ObjectID = "joo-vZ-dZj"; */
+"joo-vZ-dZj.title" = "開催者または共同開催者ですか？";
+
+/* Class = "NSButtonCell"; title = "Switch to phone call"; ObjectID = "k7N-eQ-zRj"; */
+"k7N-eQ-zRj.title" = "携帯電話の通話に切り替え";
+
+/* Class = "NSButtonCell"; title = "Choose an audio option"; ObjectID = "kF9-3l-xep"; */
+"kF9-3l-xep.title" = "オーディオオプションを選択してください";
+
+/* Class = "NSTextFieldCell"; title = "Computer audio"; ObjectID = "kKm-f1-nFi"; */
+"kKm-f1-nFi.title" = "コンピュータオーディオ";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Message Text"; ObjectID = "kLe-IY-xxh"; */
+"kLe-IY-xxh.ibExternalAccessibilityDescription" = "メッセージ テキスト";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Hang Up Button"; ObjectID = "kTq-fL-6Ha"; */
+"kTq-fL-6Ha.ibExternalAccessibilityDescription" = "Hang Up Button";
+
+/* Class = "NSTabViewItem"; label = "Dial In"; ObjectID = "kgp-eh-hi1"; */
+"kgp-eh-hi1.label" = "ダイヤルイン";
+
+/* Class = "NSButtonCell"; title = "Computer Audio"; ObjectID = "l1o-4k-en9"; */
+"l1o-4k-en9.title" = "コンピュータオーディオ";
+
+/* Class = "NSTabViewItem"; label = "pagePSTNCallMe"; ObjectID = "l3P-D8-AUL"; */
+"l3P-D8-AUL.label" = "pagePSTNCallMe";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Don't Show Again"; ObjectID = "l9n-34-0WZ"; */
+"l9n-34-0WZ.ibExternalAccessibilityDescription" = "今後表示しない";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Message Text"; ObjectID = "lpF-oS-lkM"; */
+"lpF-oS-lkM.ibExternalAccessibilityDescription" = "Message Text";
+
+/* Class = "NSTextFieldCell"; title = "Choose an audio option"; ObjectID = "m4p-Pp-kr2"; */
+"m4p-Pp-kr2.title" = "オーディオオプションを選択してください";
+
+/* Class = "NSTextFieldCell"; title = "Enter your phone number"; ObjectID = "mB3-aY-p2j"; */
+"mB3-aY-p2j.title" = "電話番号を入力してください";
+
+/* Class = "NSButtonCell"; title = "Cancel the call"; ObjectID = "mZI-sz-ZNM"; */
+"mZI-sz-ZNM.title" = "通話をキャンセル";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Call Me Button"; ObjectID = "mdB-8n-t9A"; */
+"mdB-8n-t9A.ibExternalAccessibilityDescription" = "Call Me Button";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Access Code Text"; ObjectID = "n3S-aS-oFu"; */
+"n3S-aS-oFu.ibExternalAccessibilityDescription" = "Access Code Text";
+
+/* Class = "NSTabViewItem"; label = "pagePSTNDialIn"; ObjectID = "nEh-Lx-cG9"; */
+"nEh-Lx-cG9.label" = "pagePSTNDialIn";
+
+/* Class = "NSTextFieldCell"; title = "000-000-000"; ObjectID = "nXO-ZT-ecK"; */
+"nXO-ZT-ecK.title" = "000-000-000";
+
+/* Class = "NSTabViewItem"; label = "HCM"; ObjectID = "nY4-zQ-WKf"; */
+"nY4-zQ-WKf.label" = "pageHallwayPSTNCallMe";
+
+/* Class = "NSLevelIndicator"; ibExternalAccessibilityDescription = "Audio VoIP Output Level"; ObjectID = "nrS-og-CgI"; */
+"nrS-og-CgI.ibExternalAccessibilityDescription" = "オーディオ VoIP 出力レベル";
+
+/* Class = "NSLevelIndicator"; ibShadowedToolTip = "Audio output device volume."; ObjectID = "nrS-og-CgI"; */
+"nrS-og-CgI.ibShadowedToolTip" = "オーディオ出力デバイスのボリューム。";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Message Text"; ObjectID = "oD7-Aj-IdB"; */
+"oD7-Aj-IdB.ibExternalAccessibilityDescription" = "メッセージ テキスト";
+
+/* Class = "NSButtonCell"; title = "Don't use audio"; ObjectID = "oeZ-LJ-0Gw"; */
+"oeZ-LJ-0Gw.title" = "オーディオを使用しない";
+
+/* Class = "NSButtonCell"; title = "Don't use audio"; ObjectID = "ofd-dm-Xhr"; */
+"ofd-dm-Xhr.title" = "オーディオを使用しない";
+
+/* Class = "NSTextFieldCell"; title = "Calling"; ObjectID = "p0O-U9-lBC"; */
+"p0O-U9-lBC.title" = "通話中";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Hallway Title"; ObjectID = "p5D-lj-q3r"; */
+"p5D-lj-q3r.ibExternalAccessibilityDescription" = "ロビーのタイトル";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Remember My Number"; ObjectID = "pBH-fI-j1q"; */
+"pBH-fI-j1q.ibExternalAccessibilityDescription" = "番号を保存";
+
+/* Class = "NSTextFieldCell"; title = "Your audio PIN:"; ObjectID = "pV2-oh-NZA"; */
+"pV2-oh-NZA.title" = "オーディオ PIN：";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Switch Audio Button"; ObjectID = "ptP-AR-7hb"; */
+"ptP-AR-7hb.ibExternalAccessibilityDescription" = "Choose Audio Button";
+
+/* Class = "NSButtonCell"; title = "Choose an audio option"; ObjectID = "pwM-9t-UiM"; */
+"pwM-9t-UiM.title" = "オーディオオプションを選択してください";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Call Me Number"; ObjectID = "qCv-HY-2Xe"; */
+"qCv-HY-2Xe.ibExternalAccessibilityDescription" = "折り返し先番号";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "qO7-qX-g7r"; */
+"qO7-qX-g7r.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Choose an audio option"; ObjectID = "qR4-65-q2i"; */
+"qR4-65-q2i.title" = "オーディオオプションを選択してください";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Phone Number Text"; ObjectID = "qm8-aq-mPH"; */
+"qm8-aq-mPH.ibExternalAccessibilityDescription" = "Phone Number Text";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "rFZ-MN-DxL"; */
+"rFZ-MN-DxL.title" = "OK";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Switch Audio Button"; ObjectID = "rPn-JX-906"; */
+"rPn-JX-906.ibExternalAccessibilityDescription" = "Choose Audio Button";
+
+/* Class = "NSButtonCell"; title = "Switch to phone call"; ObjectID = "rbD-E7-u49"; */
+"rbD-E7-u49.title" = "携帯電話の通話に切り替え";
+
+/* Class = "NSButtonCell"; title = "Don't Show Again"; ObjectID = "ro5-CX-WxE"; */
+"ro5-CX-WxE.title" = "今後表示しない";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "OK Button"; ObjectID = "tbX-hr-h6J"; */
+"tbX-hr-h6J.ibExternalAccessibilityDescription" = "OK Button";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "PIN Text"; ObjectID = "thI-ma-BPQ"; */
+"thI-ma-BPQ.ibExternalAccessibilityDescription" = "PIN Text";
+
+/* Class = "NSTextFieldCell"; title = "Your audio PIN:"; ObjectID = "tqW-gr-hIc"; */
+"tqW-gr-hIc.title" = "オーディオ PIN：";
+
+/* Class = "NSButtonCell"; title = "Mute me when joining"; ObjectID = "u3l-lo-KnQ"; */
+"u3l-lo-KnQ.title" = "参加時に自分をミュート";
+
+/* Class = "NSButtonCell"; title = "Remember my number"; ObjectID = "uC8-ai-Zfj"; */
+"uC8-ai-Zfj.title" = "番号を保存";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Phone Call Button"; ObjectID = "uUi-Tq-H1b"; */
+"uUi-Tq-H1b.ibExternalAccessibilityDescription" = "Phone Call Button";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Access Code Text"; ObjectID = "ulo-4t-sSJ"; */
+"ulo-4t-sSJ.ibExternalAccessibilityDescription" = "Access Code Text";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Test Sound"; ObjectID = "urM-Gv-raC"; */
+"urM-Gv-raC.ibExternalAccessibilityDescription" = "サウンドのテスト";
+
+/* Class = "NSButtonCell"; title = "Don't use audio"; ObjectID = "vaG-nF-zo6"; */
+"vaG-nF-zo6.title" = "オーディオを使用しない";
+
+/* Class = "NSTextFieldCell"; title = "MUTED"; ObjectID = "vbM-7l-i2e"; */
+"vbM-7l-i2e.title" = "ミュート済み";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Message Text"; ObjectID = "vfC-NE-3Dy"; */
+"vfC-NE-3Dy.ibExternalAccessibilityDescription" = "メッセージ テキスト";
+
+/* Class = "NSTextFieldCell"; title = "You are muted by the organizer"; ObjectID = "vvq-4Q-Ya4"; */
+"vvq-4Q-Ya4.title" = "開催者によってミュートされています";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Switch Audio Button"; ObjectID = "w2O-bc-xma"; */
+"w2O-bc-xma.ibExternalAccessibilityDescription" = "Choose Audio Button";
+
+/* Class = "NSTextFieldCell"; title = "000-000-000"; ObjectID = "w51-uG-wYt"; */
+"w51-uG-wYt.title" = "000-000-000";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Don't Show Again"; ObjectID = "wZz-4P-mOq"; */
+"wZz-4P-mOq.ibExternalAccessibilityDescription" = "今後表示しない";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Switch Audio Button"; ObjectID = "weJ-8X-q81"; */
+"weJ-8X-q81.ibExternalAccessibilityDescription" = "Choose Audio Button";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Message Text"; ObjectID = "wv1-a2-Aro"; */
+"wv1-a2-Aro.ibExternalAccessibilityDescription" = "メッセージ テキスト";
+
+/* Class = "NSTextFieldCell"; title = "Long distance:"; ObjectID = "x4T-1J-U77"; */
+"x4T-1J-U77.title" = "市外通話:";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Remember My Number"; ObjectID = "x84-59-Atq"; */
+"x84-59-Atq.ibExternalAccessibilityDescription" = "番号を保存";
+
+/* Class = "NSTextFieldCell"; title = "Hmm, the call failed. Please try again. 12345678901234567890"; ObjectID = "xAT-Hr-jbQ"; */
+"xAT-Hr-jbQ.title" = "呼び出しに失敗しました。もう一度やり直してください。12345678901234567890";
+
+/* Class = "NSTextFieldCell"; title = "Are you the organizer or a co-organizer?"; ObjectID = "xsf-ir-430"; */
+"xsf-ir-430.title" = "開催者または共同開催者ですか？";
+
+/* Class = "NSLevelIndicator"; ibExternalAccessibilityDescription = "Audio VoIP Input Level"; ObjectID = "yCk-Y1-LB2"; */
+"yCk-Y1-LB2.ibExternalAccessibilityDescription" = "オーディオ VoIP 入力レベル";
+
+/* Class = "NSLevelIndicator"; ibShadowedToolTip = "Audio input device volume."; ObjectID = "yCk-Y1-LB2"; */
+"yCk-Y1-LB2.ibShadowedToolTip" = "オーディオ入力デバイスのボリューム。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Don't use audio"; ObjectID = "yEw-cc-EGf"; */
+"yEw-cc-EGf.ibExternalAccessibilityDescription" = "オーディオを使用しない";
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "yUt-FD-Uy6"; */
+"yUt-FD-Uy6.title" = "0";
+
+/* Class = "NSTextFieldCell"; title = "MUTED"; ObjectID = "yaB-rE-DqR"; */
+"yaB-rE-DqR.title" = "ミュート済み";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "yd9-UH-U0T"; */
+"yd9-UH-U0T.title" = "続行";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Hallway Text"; ObjectID = "ymO-Uk-NOs"; */
+"ymO-Uk-NOs.ibExternalAccessibilityDescription" = "Hallway Text";
+
+/* Class = "NSTextFieldCell"; title = "You will join in listen only mode"; ObjectID = "zF3-Wn-gxs"; */
+"zF3-Wn-gxs.title" = "聞き取り専用モードで参加します";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Meeting Time Text Field"; ObjectID = "zVN-xw-zon"; */
+"zVN-xw-zon.ibExternalAccessibilityDescription" = "Meeting Time Text Field";
+
+/* Class = "NSButtonCell"; title = "Hang up"; ObjectID = "zmq-vK-Lls"; */
+"zmq-vK-Lls.title" = "電話を切る";

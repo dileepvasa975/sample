@@ -1,0 +1,30 @@
+
+/* Class = "NSWindow"; title = "Nivel de zoom personalizado - GoToMeeting"; ObjectID = "86"; */
+"86.title" = "Nivel de zoom personalizado - GoToMeeting";
+
+/* Class = "NSTextFieldCell"; title = "Especifique un porcentaje de zoom entre 50 y 400:"; ObjectID = "137"; */
+"137.title" = "Especifique un porcentaje de zoom entre 50 y 400:";
+
+/* Class = "NSButtonCell"; title = "Aceptar"; ObjectID = "139"; */
+"139.title" = "Aceptar";
+
+/* Class = "NSButtonCell"; title = "Cancelar"; ObjectID = "140"; */
+"140.title" = "Cancelar";
+
+/* Class = "NSTextFieldCell"; title = "Tiempo restante:"; ObjectID = "160"; */
+"160.title" = "Tiempo restante:";
+
+/* Class = "NSWindow"; title = "Compartir mi cámara web"; ObjectID = "373"; */
+"373.title" = "Compartir mi cámara web";
+
+/* Class = "NSTextFieldCell"; title = "El organizador quiere que comparta su cámara web. ¿Quiere compartirla ahora?"; ObjectID = "381"; */
+"381.title" = "El organizador quiere que comparta su cámara web. ¿Quiere compartirla ahora?";
+
+/* Class = "NSButtonCell"; title = "Compartir mi cámara web"; ObjectID = "383"; */
+"383.title" = "Compartir mi cámara web";
+
+/* Class = "NSButtonCell"; title = "Ahora mismo no"; ObjectID = "384"; */
+"384.title" = "Ahora mismo no";
+
+/* Class = "NSTextFieldCell"; title = "Preferencias de cámara web"; ObjectID = "430"; */
+"430.title" = "Preferencias de cámara web";

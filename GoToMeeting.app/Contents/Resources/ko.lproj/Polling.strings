@@ -1,0 +1,77 @@
+/* Class = "NSWindow"; title = "QuickPoll"; ObjectID = "5"; */
+"5.title" = "빠른 설문";
+
+/* Class = "NSTabViewItem"; label = "SingleChoice"; ObjectID = "36"; */
+"36.label" = "SingleChoice";
+
+/* Class = "NSTabViewItem"; label = "MultipleChoice"; ObjectID = "37"; */
+"37.label" = "MultipleChoice";
+
+/* Class = "NSButtonCell"; title = "  This is placeholder text for a quick poll answer."; ObjectID = "41"; */
+"41.title" = "  This is placeholder text for a quick poll answer.";
+
+/* Class = "NSButtonCell"; title = "  This is placeholder text for a quick poll answer."; ObjectID = "42"; */
+"42.title" = "  This is placeholder text for a quick poll answer.";
+
+/* Class = "NSButtonCell"; title = "  This is placeholder text for a quick poll answer."; ObjectID = "43"; */
+"43.title" = "  This is placeholder text for a quick poll answer.";
+
+/* Class = "NSButtonCell"; title = "  This is placeholder text for a quick poll answer."; ObjectID = "44"; */
+"44.title" = "  This is placeholder text for a quick poll answer.";
+
+/* Class = "NSButtonCell"; title = "  This is placeholder text for a quick poll answer."; ObjectID = "45"; */
+"45.title" = "  This is placeholder text for a quick poll answer.";
+
+/* Class = "NSTabViewItem"; label = "Results"; ObjectID = "46"; */
+"46.label" = "결과";
+
+/* Class = "NSButtonCell"; title = "  This is placeholder text for a quick poll answer."; ObjectID = "49"; */
+"49.title" = "  This is placeholder text for a quick poll answer.";
+
+/* Class = "NSButtonCell"; title = "  This is placeholder text for a quick poll answer."; ObjectID = "50"; */
+"50.title" = "  This is placeholder text for a quick poll answer.";
+
+/* Class = "NSButtonCell"; title = "  This is placeholder text for a quick poll answer."; ObjectID = "51"; */
+"51.title" = "  This is placeholder text for a quick poll answer.";
+
+/* Class = "NSButtonCell"; title = "  This is placeholder text for a quick poll answer."; ObjectID = "52"; */
+"52.title" = "  This is placeholder text for a quick poll answer.";
+
+/* Class = "NSButtonCell"; title = "  This is placeholder text for a quick poll answer."; ObjectID = "53"; */
+"53.title" = "  This is placeholder text for a quick poll answer.";
+
+/* Class = "NSTabViewItem"; label = "Waiting"; ObjectID = "69"; */
+"69.label" = "대기 중";
+
+/* Class = "NSTextFieldCell"; title = "QUICKPOLL"; ObjectID = "94"; */
+"94.title" = "빠른 설문";
+
+/* Class = "NSTextFieldCell"; title = "This is placeholder text for the quick poll question and it needs to support two lines of text. Really, three lines. giggity"; ObjectID = "95"; */
+"95.title" = "This is placeholder text for the quick poll question and it needs to support two lines of text. Really, three lines. giggity";
+
+/* Class = "NSButtonCell"; title = "Submit"; ObjectID = "96"; */
+"96.title" = "제출";
+
+/* Class = "NSTextFieldCell"; title = "Select one of the following:"; ObjectID = "97"; */
+"97.title" = "다음 중 하나를 선택하십시오.";
+
+/* Class = "NSTextFieldCell"; title = "Select one or more of the following:"; ObjectID = "98"; */
+"98.title" = "다음 중 하나 이상을 선택하십시오.";
+
+/* Class = "NSTextFieldCell"; title = "Poll Results:"; ObjectID = "99"; */
+"99.title" = "설문 결과:";
+
+/* Class = "NSTextFieldCell"; title = "Your poll answers have been submitted."; ObjectID = "100"; */
+"100.title" = "설문 응답이 제출되었습니다.";
+
+/* Class = "NSTextFieldCell"; title = "Poll in progress for attendees only."; ObjectID = "101"; */
+"101.title" = "참석자만 진행 중인 설문의 대상입니다.";
+
+/* Class = "NSButtonCell"; title = "This is placeholder text"; ObjectID = "102"; */
+"102.title" = "This is placeholder text";
+
+/* Class = "NSButtonCell"; title = "This is placeholder text"; ObjectID = "103"; */
+"103.title" = "This is placeholder text";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "first result bar"; ObjectID = "109"; */
+"109.ibExternalAccessibilityDescription" = "first result bar";

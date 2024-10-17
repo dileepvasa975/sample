@@ -1,0 +1,23 @@
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Webcam Share Button"; ObjectID = "8"; */
+"8.ibExternalAccessibilityDescription" = "摄像头共享按钮";
+/* Class = "NSButton"; ibShadowedToolTip = "别人看不到您。"; ObjectID = "8"; */
+"8.ibShadowedToolTip" = "别人看不到您。";
+
+/* Class = "NSTextFieldCell"; title = "打开摄像头"; ObjectID = "98"; */
+"98.title" = "打开摄像头";
+
+/* Class = "NSButton"; ibShadowedToolTip = "别人看不到您。"; ObjectID = "142"; */
+"142.ibShadowedToolTip" = "别人看不到您。";
+
+/* Class = "NSButtonCell"; title = "摄像头"; ObjectID = "206"; */
+"206.title" = "摄像头";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Authorize Video Button"; ObjectID = "Gwa-eD-PQs"; */
+"Gwa-eD-PQs.ibExternalAccessibilityDescription" = "Authorize Video Button";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Grant access to the camera so that it can be used by the application"; ObjectID = "Gwa-eD-PQs"; */
+"Gwa-eD-PQs.ibShadowedToolTip" = "授予对相机的访问权限，以便应用程序可以使用它";
+
+/* Class = "NSButtonCell"; title = "Authorize Video Input..."; ObjectID = "j9a-aG-5lX"; */
+"j9a-aG-5lX.title" = "授权视频输入...";

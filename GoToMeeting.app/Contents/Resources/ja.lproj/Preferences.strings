@@ -1,0 +1,207 @@
+
+/* Class = "NSWindow"; title = "Preferences - GoToMeeting"; ObjectID = "136"; */
+"136.title" = "基本設定 - GoToMeeting";
+
+/* Class = "NSTabViewItem"; label = "Meetings"; ObjectID = "260"; */
+"260.label" = "ミーティング";
+
+/* Class = "NSBox"; title = "Attendee Settings"; ObjectID = "262"; */
+"262.title" = "参加者設定";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "304"; */
+"304.label" = "一般";
+
+/* Class = "NSBox"; title = "Display Name"; ObjectID = "306"; */
+"306.title" = "表示名";
+
+/* Class = "NSWindow"; title = "Authenticating"; ObjectID = "364"; */
+"364.title" = "認証しています";
+
+/* Class = "NSTextFieldCell"; title = "By default, attendees can:"; ObjectID = "384"; */
+"384.title" = "デフォルトで、参加者は次を実行できます：";
+
+/* Class = "NSButtonCell"; title = "Chat"; ObjectID = "385"; */
+"385.title" = "チャット";
+
+/* Class = "NSButtonCell"; title = "View the Attendee List"; ObjectID = "386"; */
+"386.title" = "参加者一覧を表示";
+
+/* Class = "NSButtonCell"; title = "When attendees arrive, send a welcome message:"; ObjectID = "387"; */
+"387.title" = "参加者の到着時にウェルカムメッセージを送信する：";
+
+/* Class = "NSTextFieldCell"; title = "Email Address"; ObjectID = "388"; */
+"388.title" = "電子メールアドレス";
+
+/* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "390"; */
+"390.title" = "名前";
+
+/* Class = "NSButtonCell"; title = "Always show my name and email like this"; ObjectID = "391"; */
+"391.title" = "自分の名前とメールアドレスを常に次のように表示する";
+
+/* Class = "NSTextFieldCell"; title = "Verifying e-mail and password..."; ObjectID = "395"; */
+"395.title" = "メールアドレスとパスワードを確認しています...";
+
+/* Class = "NSTabViewItem"; label = "Webcam"; ObjectID = "410"; */
+"410.label" = "Web カメラ";
+
+/* Class = "NSTextFieldCell"; title = "Connecting..."; ObjectID = "420"; */
+"420.title" = "接続しています...";
+
+/* Class = "NSBox"; title = "Webcam"; ObjectID = "439"; */
+"439.title" = "Web カメラ";
+
+/* Class = "NSTextFieldCell"; title = "Single Camera Name"; ObjectID = "443"; */
+"443.title" = "単一のカメラ名";
+
+/* Class = "NSTextFieldCell"; title = "Select a display format:"; ObjectID = "460"; */
+"460.title" = "表示形式を選択：";
+
+/* Class = "NSButtonCell"; title = "4:3 (Normal)"; ObjectID = "462"; */
+"462.title" = "4:3（標準）";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "464"; */
+"464.title" = "Radio";
+
+/* Class = "NSButtonCell"; title = "16:9 (Widescreen)"; ObjectID = "465"; */
+"465.title" = "16:9（ワイドスクリーン）";
+
+/* Class = "NSBox"; title = "Sign In"; ObjectID = "514"; */
+"514.title" = "サインイン";
+
+/* Class = "NSButtonCell"; title = "Remember me on this computer"; ObjectID = "522"; */
+"522.title" = "このコンピュータで自動ログオン";
+
+/* Class = "NSTextFieldCell"; title = "Signed in as:"; ObjectID = "524"; */
+"524.title" = "サインインユーザ：";
+
+/* Class = "NSBox"; title = "Email Integration"; ObjectID = "544"; */
+"544.title" = "メールの統合";
+
+/* Class = "NSButtonCell"; title = "Use GoToMeeting with default email application"; ObjectID = "546"; */
+"546.title" = "GoToMeeting とデフォルトのメールアプリケーションを併用する";
+
+/* Class = "NSTextFieldCell"; title = "Multiline Label"; ObjectID = "566"; */
+"566.title" = "Multiline Label";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "576"; */
+"576.title" = "テキストセル";
+
+/* Class = "NSTabViewItem"; label = "Recordings"; ObjectID = "596"; */
+"596.label" = "記録";
+
+/* Class = "NSBox"; title = "Saved Recordings"; ObjectID = "598"; */
+"598.title" = "保存済みの記録";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Choose Recording Path Button"; ObjectID = "599"; */
+"599.ibExternalAccessibilityDescription" = "Choose Recording Path Button";
+
+/* Class = "NSTextFieldCell"; title = "Save in:"; ObjectID = "602"; */
+"602.title" = "保存先:";
+
+/* Class = "NSButtonCell"; title = "Choose..."; ObjectID = "604"; */
+"604.title" = "選択...";
+
+/* Class = "NSBox"; title = "Cloud Recordings"; ObjectID = "613"; */
+"613.title" = "クラウド記録";
+
+/* Class = "NSTabViewItem"; label = "Updates"; ObjectID = "653"; */
+"653.label" = "更新";
+
+/* Class = "NSBox"; title = "Automatic Updates"; ObjectID = "657"; */
+"657.title" = "自動更新";
+
+/* Class = "NSTextFieldCell"; title = "Visit our website to learn about our latest updates."; ObjectID = "687"; */
+"687.title" = "最新のアップデートについては、当社の Web サイトを参照してください。";
+
+/* Class = "NSButtonCell"; title = "Automatically install updates (recommended)"; ObjectID = "699"; */
+"699.title" = "自動的に更新をインストールする（推奨）";
+
+/* Class = "NSButtonCell"; title = "Show me audio options before connecting"; ObjectID = "00g-ST-RcZ"; */
+"00g-ST-RcZ.title" = "接続する前にオーディオのオプションを表示する";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Convert Recordings Now Button"; ObjectID = "0dT-Er-yF6"; */
+"0dT-Er-yF6.ibExternalAccessibilityDescription" = "Convert Recordings Now Button";
+
+/* Class = "NSButtonCell"; title = "Convert Recordings Now..."; ObjectID = "4Ko-7w-Qeq"; */
+"4Ko-7w-Qeq.title" = "記録を今すぐ変換...";
+
+/* Class = "NSButtonCell"; title = "Test the new GoToMeeting interface"; ObjectID = "72y-Nf-rMC"; */
+"72y-Nf-rMC.title" = "新しいGoToMeetingインターフェイスをテストします";
+
+/* Class = "NSBox"; title = "Chat Logs"; ObjectID = "8Bd-k3-7GP"; */
+"8Bd-k3-7GP.title" = "チャット ログ";
+
+/* Class = "NSButtonCell"; title = "When the meeting ends, save my chat history on this computer"; ObjectID = "BK3-ZH-goS"; */
+"BK3-ZH-goS.title" = "会議が終了したら、このコンピューターにチャットの履歴を保存する";
+
+/* Class = "NSBox"; title = "New GoToMeeting User Interface"; ObjectID = "DOZ-QP-bam"; */
+"DOZ-QP-bam.title" = "新しいGoToMeetingのユーザーインターフェイスです";
+
+/* Class = "NSButtonCell"; title = "Open System Preferences"; ObjectID = "F4C-Qh-0jm"; */
+"F4C-Qh-0jm.title" = "システム環境設定を開く";
+
+/* Class = "NSButtonCell"; title = "Meetings"; ObjectID = "Guv-78-PEn"; */
+"Guv-78-PEn.title" = "ミーティング";
+
+/* Class = "NSButtonCell"; title = "Webinars"; ObjectID = "IRG-oh-gbp"; */
+"IRG-oh-gbp.title" = "ウェビナー";
+
+/* Class = "NSButtonCell"; title = "Mute me automatically"; ObjectID = "LSs-pk-Pdb"; */
+"LSs-pk-Pdb.title" = "自動的に自分をミュート";
+
+/* Class = "NSButtonCell"; title = "Don't remind me"; ObjectID = "LcA-zq-fzG"; */
+"LcA-zq-fzG.title" = "通知しない";
+
+/* Class = "NSTextFieldCell"; title = "Join meetings with your camera off."; ObjectID = "Ntb-5q-EFI"; */
+"Ntb-5q-EFI.title" = "カメラをオフにしてミーティングに参加してください。";
+
+/* Class = "NSBox"; title = "Start of Meeting"; ObjectID = "Qny-o4-ZjU"; */
+"Qny-o4-ZjU.title" = "ミーティングの開始";
+
+/* Class = "NSButtonCell"; title = "Trainings"; ObjectID = "UUo-XU-nUV"; */
+"UUo-XU-nUV.title" = "トレーニング";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Choose Chat History Path"; ObjectID = "Uve-hs-eyz"; */
+"Uve-hs-eyz.ibExternalAccessibilityDescription" = "Choose Chat History Path";
+
+/* Class = "NSButtonCell"; title = "Skip screen preview and share your current screen by default"; ObjectID = "W0l-iW-RDx"; */
+"W0l-iW-RDx.title" = "デフォルトで画面のプレビューをスキップして現在の画面を共有する";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "X3o-ph-mck"; */
+"X3o-ph-mck.title" = "Radio";
+
+/* Class = "NSButtonCell"; title = "Skip camera preview when joining a meeting"; ObjectID = "XHW-EI-ofq"; */
+"XHW-EI-ofq.title" = "ミーティングに参加するときカメラのプレビューをスキップします";
+
+/* Class = "NSTextFieldCell"; title = "To preview your webcam, allow GoToMeeting to access your camera in System Preferences > Security & Privacy."; ObjectID = "YNZ-Lt-Ha3"; */
+"YNZ-Lt-Ha3.title" = "Web カメラをプレビューするには、［システム環境設定］>［セキュリティとプライバシー］で、GoToMeetingに対してカメラへのアクセスを許可します。";
+
+/* Class = "NSTextFieldCell"; title = "View and share your recordings online"; ObjectID = "YSm-Mh-uSf"; */
+"YSm-Mh-uSf.title" = "記録をオンラインで表示および共有";
+
+/* Class = "NSButtonCell"; title = "Choose..."; ObjectID = "Yoa-iC-h9F"; */
+"Yoa-iC-h9F.title" = "選択...";
+
+/* Class = "NSBox"; title = "Audio"; ObjectID = "d8u-U6-Zom"; */
+"d8u-U6-Zom.title" = "オーディオ";
+
+/* Class = "NSButtonCell"; title = "Always show meeting controls (new design only)"; ObjectID = "dZF-In-k3X"; */
+"dZF-In-k3X.title" = "ミーティングコントロールを常に表示（新しいデザインのみ）";
+
+/* Class = "NSBox"; title = "Local Recordings"; ObjectID = "fAz-Cb-h6e"; */
+"fAz-Cb-h6e.title" = "ローカル記録";
+
+/* Class = "NSBox"; title = "Meeting controls"; ObjectID = "h9f-Po-ISL"; */
+"h9f-Po-ISL.title" = "ミーティングコントロール";
+
+/* Class = "NSTextFieldCell"; title = "Save in:"; ObjectID = "v4x-YG-nwp"; */
+"v4x-YG-nwp.title" = "保存先:";
+
+/* Class = "NSBox"; title = "Screen Sharing"; ObjectID = "vdh-Rg-b48"; */
+"vdh-Rg-b48.title" = "画面共有";
+
+/* Class = "NSButtonCell"; title = "Remind me to convert recordings"; ObjectID = "xRp-Jb-msJ"; */
+"xRp-Jb-msJ.title" = "記録の変換について通知しない";
+
+/* Class = "NSTextFieldCell"; title = "Recordings must be converted before anyone can view them."; ObjectID = "zur-jE-lvd"; */
+"zur-jE-lvd.title" = "記録をだれでも視聴できるようにするには、まず記録を変換する必要があります。";

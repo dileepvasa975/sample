@@ -1,0 +1,141 @@
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Attendee Pane"; ObjectID = "6"; */
+"6.ibExternalAccessibilityDescription" = "Attendee Pane";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Attendee List Scrollview"; ObjectID = "7"; */
+"7.ibExternalAccessibilityDescription" = "Attendee List Scrollview";
+
+/* Class = "NSTableView"; ibExternalAccessibilityDescription = "Attendee List Table"; ObjectID = "8"; */
+"8.ibExternalAccessibilityDescription" = "Attendee List Table";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "12"; */
+"12.headerCell.title" = "Nome";
+
+/* Class = "NSTableColumn"; ibExternalAccessibilityDescription = "Attendee List Name Column"; ObjectID = "12"; */
+"12.ibExternalAccessibilityDescription" = "Attendee List Name Column";
+
+/* Class = "NSTableColumn"; ibExternalAccessibilityDescription = "Attendee List Drawing Column"; ObjectID = "13"; */
+"13.ibExternalAccessibilityDescription" = "Attendee List Drawing Column";
+
+/* Class = "NSTableColumn"; ibExternalAccessibilityDescription = "Attendee List Sharing Column"; ObjectID = "35"; */
+"35.ibExternalAccessibilityDescription" = "Attendee List Sharing Column";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Invite people"; ObjectID = "90"; */
+"90.ibShadowedToolTip" = "Convidar pessoas";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Attendee List Invite Button"; ObjectID = "90"; */
+"90.ibExternalAccessibilityDescription" = "Attendee List Invite Button";
+
+/* Class = "NSTableColumn"; ibExternalAccessibilityDescription = "Attendee List Muted Column"; ObjectID = "97"; */
+"97.ibExternalAccessibilityDescription" = "Attendee List Muted Column";
+
+/* Class = "NSTableColumn"; ibExternalAccessibilityDescription = "Attendee List Hand Column"; ObjectID = "102"; */
+"102.ibExternalAccessibilityDescription" = "Attendee List Hand Column";
+
+/* Class = "NSTableColumn"; ibExternalAccessibilityDescription = "Attendee List Attentive Column"; ObjectID = "107"; */
+"107.ibExternalAccessibilityDescription" = "Attendee List Attentive Column";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Mute all other participants."; ObjectID = "112"; */
+"112.ibShadowedToolTip" = "Desativar som de todos os participantes.";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Attendee List Mute All Button"; ObjectID = "112"; */
+"112.ibExternalAccessibilityDescription" = "Attendee List Mute All Button";
+
+/* Class = "NSTableColumn"; ibExternalAccessibilityDescription = "Attendee List Questions Column"; ObjectID = "116"; */
+"116.ibExternalAccessibilityDescription" = "Attendee List Questions Column";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Unmute all participants."; ObjectID = "121"; */
+"121.ibShadowedToolTip" = "Ativar som de todos os participantes.";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Attendee List Unmute All Button"; ObjectID = "121"; */
+"121.ibExternalAccessibilityDescription" = "Attendee List Unmute All Button";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Lower all currently raised hands."; ObjectID = "124"; */
+"124.ibShadowedToolTip" = "Abaixar todas as mãos levantadas no momento.";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Attendee List Lower All Button"; ObjectID = "124"; */
+"124.ibExternalAccessibilityDescription" = "Attendee List Lower All Button";
+
+/* Class = "NSButtonCell"; title = "Invite"; ObjectID = "131"; */
+"131.title" = "Convidar";
+
+/* Class = "NSButtonCell"; title = "All"; ObjectID = "132"; */
+"132.title" = "Todos";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Attendee List Unmute All Button"; ObjectID = "133"; */
+"133.ibExternalAccessibilityDescription" = "Attendee List Unmute All Button";
+
+/* Class = "NSButtonCell"; title = "All"; ObjectID = "133"; */
+"133.title" = "Todos";
+
+/* Class = "NSButtonCell"; title = "All"; ObjectID = "134"; */
+"134.title" = "Todos";
+
+/* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Attendee List Name"; ObjectID = "138"; */
+"138.ibExternalAccessibilityDescription" = "Attendee List Name";
+
+/* Class = "NSImageCell"; ibExternalAccessibilityDescription = "Attendee List Sharing"; ObjectID = "139"; */
+"139.ibExternalAccessibilityDescription" = "Attendee List Sharing";
+
+/* Class = "NSImageCell"; ibExternalAccessibilityDescription = "Attendee List Mute State"; ObjectID = "140"; */
+"140.ibExternalAccessibilityDescription" = "Attendee List Mute State";
+
+/* Class = "NSImageCell"; ibExternalAccessibilityDescription = "Attendee List Raised Hand"; ObjectID = "141"; */
+"141.ibExternalAccessibilityDescription" = "Attendee List Raised Hand";
+
+/* Class = "NSImageCell"; ibExternalAccessibilityDescription = "Attendee List Attentive"; ObjectID = "142"; */
+"142.ibExternalAccessibilityDescription" = "Attendee List Attentive";
+
+/* Class = "NSImageCell"; ibExternalAccessibilityDescription = "Attendee List Question"; ObjectID = "143"; */
+"143.ibExternalAccessibilityDescription" = "Attendee List Question";
+
+/* Class = "NSTableHeaderView"; ibExternalAccessibilityDescription = "Attendee List Table Header"; ObjectID = "146"; */
+"146.ibExternalAccessibilityDescription" = "Attendee List Table Header";
+
+/* Class = "NSTableColumn"; ibExternalAccessibilityDescription = "Attendee List Webcam Column"; ObjectID = "168"; */
+"168.ibExternalAccessibilityDescription" = "Attendee List Webcam Column";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Attendee List Pop Up Button"; ObjectID = "178"; */
+"178.ibExternalAccessibilityDescription" = "Attendee List Pop Up Button";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "180"; */
+"180.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "181"; */
+"181.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "182"; */
+"182.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "183"; */
+"183.title" = "Item 3";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Attendee List Header Pop Up Button"; ObjectID = "184"; */
+"184.ibExternalAccessibilityDescription" = "Attendee List Header Pop Up Button";
+
+/* Class = "NSMenu"; title = "HeaderMenu"; ObjectID = "186"; */
+"186.title" = "Menu de cabeçalho";
+
+/* Class = "NSMenuItem"; title = "HeaderMenuItem"; ObjectID = "187"; */
+"187.title" = "HeaderMenuItem";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "188"; */
+"188.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "189"; */
+"189.title" = "Item 3";
+
+/* Class = "NSTableColumn"; ibExternalAccessibilityDescription = "Attendee List Avatar Column"; ObjectID = "192"; */
+"192.ibExternalAccessibilityDescription" = "Attendee List Avatar Column";
+
+/* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Attendee List Name"; ObjectID = "8OD-eD-LSp"; */
+"8OD-eD-LSp.ibExternalAccessibilityDescription" = "Attendee List Name";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Attendee List Call Button"; ObjectID = "hWQ-RN-y4e"; */
+"hWQ-RN-y4e.ibExternalAccessibilityDescription" = "Attendee List Call Button";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Invite by phone."; ObjectID = "hWQ-RN-y4e"; */
+"hWQ-RN-y4e.ibShadowedToolTip" = "Chamar outras pessoas.";
+
+/* Class = "NSButtonCell"; title = "Call"; ObjectID = "ilL-7z-mwN"; */
+"ilL-7z-mwN.title" = "Chamar";

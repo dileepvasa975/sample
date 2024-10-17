@@ -1,0 +1,186 @@
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Screen Sharing Status Text"; ObjectID = "7"; */
+"7.ibExternalAccessibilityDescription" = "Screen Sharing Status Text";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Screen Sharing Play Button"; ObjectID = "8"; */
+"8.ibExternalAccessibilityDescription" = "Screen Sharing Play Button";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Start or stop sharing your screen."; ObjectID = "8"; */
+"8.ibShadowedToolTip" = "Comienza a compartir la pantalla o deja de hacerlo.";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Grab Tab Stop Button"; ObjectID = "27"; */
+"27.ibExternalAccessibilityDescription" = "Grab Tab Stop Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Grab Tab Play Button"; ObjectID = "35"; */
+"35.ibExternalAccessibilityDescription" = "Grab Tab Play Button";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Start or pause sharing your screen."; ObjectID = "35"; */
+"35.ibShadowedToolTip" = "Inicia o pausa el uso compartido de la pantalla.";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Grab Tab CP Button"; ObjectID = "37"; */
+"37.ibExternalAccessibilityDescription" = "Grab Tab CP Button";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Make another attendee the presenter."; ObjectID = "37"; */
+"37.ibShadowedToolTip" = "Convierte a otro asistente en presentador.";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Grab Tab GKM Button"; ObjectID = "38"; */
+"38.ibExternalAccessibilityDescription" = "Grab Tab GKM Button";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Give control of keyboard and mouse to attendee."; ObjectID = "38"; */
+"38.ibShadowedToolTip" = "Cede el control del teclado y del cursor a un asistente.";
+
+/* Class = "NSTextFieldCell"; title = "PAUSED: Showing frozen."; ObjectID = "94"; */
+"94.title" = "PAUSED: Showing frozen.";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Screen Sharing Screen Selector"; ObjectID = "140"; */
+"140.ibExternalAccessibilityDescription" = "Screen Sharing Screen Selector";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "142"; */
+"142.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Main Screen"; ObjectID = "143"; */
+"143.title" = "Pantalla principal";
+
+/* Class = "NSMenu"; title = "Screen"; ObjectID = "157"; */
+"157.title" = "Pantalla";
+
+/* Class = "NSTextFieldCell"; title = "My\nScreen"; ObjectID = "184"; */
+"184.title" = "Mi\npantalla";
+
+/* Class = "NSButtonCell"; alternateTitle = " Recording"; ObjectID = "208"; */
+"208.alternateTitle" = " Grabando";
+
+/* Class = "NSButtonCell"; title = " Record"; ObjectID = "208"; */
+"208.title" = " Grabar";
+
+/* Class = "NSTextFieldCell"; title = "Low disk space"; ObjectID = "219"; */
+"219.title" = "Poco espacio\nen disco";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Screen Sharing Menu Button"; ObjectID = "228"; */
+"228.ibExternalAccessibilityDescription" = "Screen Sharing Menu Button";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "230"; */
+"230.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "nothing"; ObjectID = "231"; */
+"231.title" = "dummy";
+
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "2jM-l5-waR"; */
+"2jM-l5-waR.title" = "All";
+
+/* Class = "NSTextFieldCell"; title = "Just an\nApp"; ObjectID = "2xB-lu-Yzq"; */
+"2xB-lu-Yzq.title" = "Una\naplicación";
+
+/* Class = "NSTextFieldCell"; title = "Give\nKeyboard\n& Mouse"; ObjectID = "75F-FP-kUF"; */
+"75F-FP-kUF.title" = "Ceder\nteclado\ny cursor";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Screen Sharing CP Text"; ObjectID = "76E-0O-bD6"; */
+"76E-0O-bD6.ibExternalAccessibilityDescription" = "Screen Sharing CP Text";
+
+/* Class = "NSMenuItem"; title = "Timmy Toddle"; ObjectID = "8qD-zQ-XOu"; */
+"8qD-zQ-XOu.title" = "Timmy Toddle";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Screen Sharing GKM Button"; ObjectID = "BAj-q6-M8P"; */
+"BAj-q6-M8P.ibExternalAccessibilityDescription" = "Screen Sharing GKM Button";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Give control of keyboard and mouse to attendee."; ObjectID = "BAj-q6-M8P"; */
+"BAj-q6-M8P.ibShadowedToolTip" = "Cede el control del teclado y del cursor a un asistente.";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Keyboard Mouse Selector"; ObjectID = "DqI-BS-g9v"; */
+"DqI-BS-g9v.ibExternalAccessibilityDescription" = "Keyboard Mouse Selector";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Show App Sharing Options"; ObjectID = "FPg-pq-cvX"; */
+"FPg-pq-cvX.ibExternalAccessibilityDescription" = "Show App Sharing Options";
+
+/* Class = "NSButtonCell"; title = "Settings"; ObjectID = "Ges-Ed-PaW"; *//* Class = "NSMenu"; title = "Apps"; ObjectID = "HYs-W6-7Yf"; */
+"Ges-Ed-PaW.title" = "Ajustes";"HYs-W6-7Yf.title" = "Aplicaciones";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "HDv-3D-MDr"; */
+"HDv-3D-MDr.title" = "OtherViews";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Screen Sharing CP Button"; ObjectID = "Hds-Ih-uza"; */
+"Hds-Ih-uza.ibExternalAccessibilityDescription" = "Screen Sharing CP Button";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Make another attendee the presenter."; ObjectID = "Hds-Ih-uza"; */
+"Hds-Ih-uza.ibShadowedToolTip" = "Convierte a otro asistente en presentador.";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "App Sharing Play Button"; ObjectID = "I8i-NA-405"; */
+"I8i-NA-405.ibExternalAccessibilityDescription" = "App Sharing Play Button";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Start or stop sharing selected app."; ObjectID = "I8i-NA-405"; */
+"I8i-NA-405.ibShadowedToolTip" = "Comienza a compartir la aplicación seleccionada o deja de hacerlo.";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Change Presenter Selector"; ObjectID = "IVy-fj-Lwu"; */
+"IVy-fj-Lwu.ibExternalAccessibilityDescription" = "Change Presenter Selector";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Hide App Sharing Options"; ObjectID = "JPm-hs-tUq"; */
+"JPm-hs-tUq.ibExternalAccessibilityDescription" = "Hide App Sharing Options";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "JYe-hL-H27"; */
+"JYe-hL-H27.title" = "OtherViews";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Screen Sharing CP Text"; ObjectID = "Jtz-U2-5xo"; */
+"Jtz-U2-5xo.ibExternalAccessibilityDescription" = "Screen Sharing CP Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Screen Sharing CP Text"; ObjectID = "L7V-er-sjW"; */
+"L7V-er-sjW.ibExternalAccessibilityDescription" = "Screen Sharing CP Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Screen Sharing CP Text"; ObjectID = "VfP-8n-9fu"; */
+"VfP-8n-9fu.ibExternalAccessibilityDescription" = "Screen Sharing CP Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Presenter Text"; ObjectID = "WcB-WW-FTe"; */
+"WcB-WW-FTe.ibExternalAccessibilityDescription" = "Presenter Text";
+
+/* Class = "NSTextFieldCell"; title = "Show only:"; ObjectID = "WcH-Bg-PCo"; */
+"WcH-Bg-PCo.title" = "Mostrar solamente:";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Hide Screen Sharing Options"; ObjectID = "ZIH-ih-zlu"; */
+"ZIH-ih-zlu.ibExternalAccessibilityDescription" = "Hide Screen Sharing Options";
+
+/* Class = "NSTextFieldCell"; title = "Presenter:"; ObjectID = "ZaV-FW-eBc"; */
+"ZaV-FW-eBc.title" = "Presentador:";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Hide Screen Sharing Options"; ObjectID = "gwv-HG-sHO"; */
+"gwv-HG-sHO.ibExternalAccessibilityDescription" = "Hide Screen Sharing Options";
+
+/* Class = "NSTextFieldCell"; title = "Change\nPresenter"; ObjectID = "hqT-YS-1Sm"; */
+"hqT-YS-1Sm.title" = "Cambiar\npresentador";
+
+/* Class = "NSMenuItem"; title = "Select App"; ObjectID = "iJO-su-FK1"; */
+"iJO-su-FK1.title" = "Seleccione una aplicación";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Pause Resume Sharing Button"; ObjectID = "krj-M1-fNv"; */
+"krj-M1-fNv.ibExternalAccessibilityDescription" = "Pause Resume Sharing Button";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Pause or resume sharing your content."; ObjectID = "krj-M1-fNv"; */
+"krj-M1-fNv.ibShadowedToolTip" = "Pausa o reanuda el uso compartido de contenido.";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Show App Sharing Options"; ObjectID = "mqA-yA-2H0"; */
+"mqA-yA-2H0.ibExternalAccessibilityDescription" = "Show App Sharing Options";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Hide Screen Sharing Options"; ObjectID = "qdf-be-XRz"; */
+"qdf-be-XRz.ibExternalAccessibilityDescription" = "Hide Screen Sharing Options";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Screen Sharing CP Text"; ObjectID = "r8d-29-peY"; */
+"r8d-29-peY.ibExternalAccessibilityDescription" = "Screen Sharing CP Text";
+
+/* Class = "NSTextFieldCell"; title = "Show my:"; ObjectID = "uRE-aC-Ghu"; */
+"uRE-aC-Ghu.title" = "Mostrar mi:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "uUN-xx-BsR"; */
+"uUN-xx-BsR.title" = "OtherViews";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Show App Sharing Options"; ObjectID = "wEi-cj-dDU"; */
+"wEi-cj-dDU.ibExternalAccessibilityDescription" = "Show App Sharing Options";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Record Settings"; ObjectID = "x4q-Qg-fxr"; */
+"x4q-Qg-fxr.ibExternalAccessibilityDescription" = "Record Settings";
+
+
+"xS9-fp-6cR.ibExternalAccessibilityDescription" = "Show Screen Sharing Options";
+
+/* Class = "NSTextFieldCell"; title = "Give mouse/keyboard control to:"; ObjectID = "y4C-U2-Isw"; */
+"y4C-U2-Isw.title" = "Ceder control del teclado y del cursor a:";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Screen Sharing CP Text"; ObjectID = "z8I-HB-VJz"; */
+"z8I-HB-VJz.ibExternalAccessibilityDescription" = "Screen Sharing CP Text";

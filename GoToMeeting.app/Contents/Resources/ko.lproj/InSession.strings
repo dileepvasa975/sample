@@ -1,0 +1,747 @@
+
+/* Class = "NSWindow"; title = "Meeting Password - GoToMeeting"; ObjectID = "5"; */
+"5.title" = "미팅 암호 - GoToMeeting";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Password OK Button"; ObjectID = "7"; */
+"7.ibExternalAccessibilityDescription" = "암호: 확인 단추";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Password Cancel Button"; ObjectID = "8"; */
+"8.ibExternalAccessibilityDescription" = "암호: 취소 단추";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Password Instruction Text"; ObjectID = "9"; */
+"9.ibExternalAccessibilityDescription" = "암호: 지침 텍스트";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Password Text Field"; ObjectID = "10"; */
+"10.ibExternalAccessibilityDescription" = "암호: 텍스트 필드";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Password Text"; ObjectID = "11"; */
+"11.ibExternalAccessibilityDescription" = "암호: 텍스트";
+
+/* Class = "NSWindow"; title = "Meeting Password - GoToMeeting"; ObjectID = "118"; */
+"118.title" = "미팅 암호 - GoToMeeting";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Org Password Text"; ObjectID = "120"; */
+"120.ibExternalAccessibilityDescription" = "주최자 암호: 텍스트";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Org Password Instruction Text"; ObjectID = "121"; */
+"121.ibExternalAccessibilityDescription" = "주최자 암호: 지침 텍스트";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Org Password Cancel Button"; ObjectID = "122"; */
+"122.ibExternalAccessibilityDescription" = "주최자 암호: 취소 단추";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Org Password Text Field"; ObjectID = "123"; */
+"123.ibExternalAccessibilityDescription" = "주최자 암호: 텍스트 필드";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Org Password OK Button"; ObjectID = "124"; */
+"124.ibExternalAccessibilityDescription" = "주최자 암호: 확인 단추";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Org Password Re-Type Text Field"; ObjectID = "126"; */
+"126.ibExternalAccessibilityDescription" = "주최자 암호: 다시 입력 텍스트 필드";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Org Password Re-Type Text"; ObjectID = "127"; */
+"127.ibExternalAccessibilityDescription" = "주최자 암호: 다시 입력 텍스트";
+
+/* Class = "NSWindow"; title = "Conference Call Numbers"; ObjectID = "138"; */
+"138.title" = "전화 회의 번호";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Additional Numbers List"; ObjectID = "140"; */
+"140.ibExternalAccessibilityDescription" = "추가적인 번호 목록";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "143"; */
+"143.title" = "메뉴";
+
+/* Class = "NSMenuItem"; title = "Pen"; ObjectID = "144"; */
+"144.title" = "펜";
+
+/* Class = "NSMenuItem"; title = "Highlighter"; ObjectID = "145"; */
+"145.title" = "형광펜";
+
+/* Class = "NSMenuItem"; title = "Title Item"; ObjectID = "147"; */
+"147.title" = "제목 항목";
+
+/* Class = "NSMenuItem"; title = "Arrow"; ObjectID = "148"; */
+"148.title" = "화살표";
+
+/* Class = "NSWindow"; title = "Edit Your Name and Email - GoToMeeting"; ObjectID = "169"; */
+"169.title" = "이름 및 전자 메일 편집 - GoToMeeting";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Display Info Email Text"; ObjectID = "171"; */
+"171.ibExternalAccessibilityDescription" = "편집: 정보 표시: 전자 메일 텍스트";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Display Info Instruction Text"; ObjectID = "172"; */
+"172.ibExternalAccessibilityDescription" = "편집: 정보 표시: 지침 텍스트";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Display Info OK Button"; ObjectID = "173"; */
+"173.ibExternalAccessibilityDescription" = "편집: 정보 표시: 확인 텍스트";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Display Info Name Field"; ObjectID = "174"; */
+"174.ibExternalAccessibilityDescription" = "편집: 정보 표시: 이름 필드";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Display Info Remember Check Box"; ObjectID = "175"; */
+"175.ibExternalAccessibilityDescription" = "편집: 정보 표시: 저장 확인란";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Display Info Name Text"; ObjectID = "176"; */
+"176.ibExternalAccessibilityDescription" = "편집: 정보 표시: 이름 텍스트";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Edit Display Info Email Field"; ObjectID = "177"; */
+"177.ibExternalAccessibilityDescription" = "편집: 정보 표시: 전자 메일 필드";
+
+/* Class = "NSWindow"; title = "Meeting Subject - GoToMeeting"; ObjectID = "209"; */
+"209.title" = "미팅 제목 - GoToMeeting";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Meeting Subject Cancel Button"; ObjectID = "211"; */
+"211.ibExternalAccessibilityDescription" = "미팅 제목: 취소 단추";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Meeting Subject Instruction Text"; ObjectID = "213"; */
+"213.ibExternalAccessibilityDescription" = "미팅 제목: 지침 텍스트";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Meeting Subject OK Button"; ObjectID = "215"; */
+"215.ibExternalAccessibilityDescription" = "미팅 제목: 확인 단추";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Meeting Subject Field"; ObjectID = "220"; */
+"220.ibExternalAccessibilityDescription" = "미팅 제목: 필드";
+
+/* Class = "NSWindow"; title = "Select an Organizer"; ObjectID = "228"; */
+"228.title" = "주최자 선택";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Promote Attendee Instruction Text"; ObjectID = "230"; */
+"230.ibExternalAccessibilityDescription" = "참석자 승격: 지침 텍스트";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Promote Attendee Name List"; ObjectID = "231"; */
+"231.ibExternalAccessibilityDescription" = "참석자 승격: 이름 목록";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Promote Attendee OK Button"; ObjectID = "235"; */
+"235.ibExternalAccessibilityDescription" = "참석자 승격: 확인 단추";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Promote Attendee Cancel Button"; ObjectID = "236"; */
+"236.ibExternalAccessibilityDescription" = "참석자 승격: 취소 단추";
+
+/* Class = "NSWindow"; title = "Welcome Message - GoToMeeting"; ObjectID = "249"; */
+"249.title" = "환영 메시지 - GoToMeeting";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Welcome Message Field"; ObjectID = "251"; */
+"251.ibExternalAccessibilityDescription" = "환영 메시지 필드";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Welcome Message Cancel Button"; ObjectID = "253"; */
+"253.ibExternalAccessibilityDescription" = "환영 메시지: 취소 단추";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Welcome Message OK Button"; ObjectID = "254"; */
+"254.ibExternalAccessibilityDescription" = "환영 메시지: 확인 단추";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Welcome Message Save Check Box"; ObjectID = "263"; */
+"263.ibExternalAccessibilityDescription" = "Welcome Message Save Check Box";
+
+/* Class = "NSWindow"; title = "Enter Audio PIN"; ObjectID = "278"; */
+"278.title" = "오디오 PIN 입력";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Enter PIN Instruction Text"; ObjectID = "280"; */
+"280.ibExternalAccessibilityDescription" = "PIN 입력: 지침 텍스트";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Enter PIN Audio PIN Number"; ObjectID = "281"; */
+"281.ibExternalAccessibilityDescription" = "PIN 입력: 오디오 PIN 번호";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Enter PIN OK Button"; ObjectID = "282"; */
+"282.ibExternalAccessibilityDescription" = "PIN 입력: 확인 단추";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Make Presenter Name Text"; ObjectID = "296"; */
+"296.ibExternalAccessibilityDescription" = "발표자로 설정: 이름 텍스트";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter OK Button"; ObjectID = "297"; */
+"297.ibExternalAccessibilityDescription" = "발표자로 설정: 확인 단추";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter Cancel Button"; ObjectID = "298"; */
+"298.ibExternalAccessibilityDescription" = "발표자로 설정: 취소 단추";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter KBM Check Box"; ObjectID = "299"; */
+"299.ibExternalAccessibilityDescription" = "발표자로 설정: KBM 확인란";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Make Presenter Daisey Image"; ObjectID = "305"; */
+"305.ibExternalAccessibilityDescription" = "발표자로 설정: Daisey 이미지";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Make Presenter Instruction Text"; ObjectID = "306"; */
+"306.ibExternalAccessibilityDescription" = "발표자로 설정: 지침 텍스트";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "310"; */
+"310.title" = "확인";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "311"; */
+"311.title" = "취소";
+
+/* Class = "NSTextFieldCell"; title = "Please enter the meeting password."; ObjectID = "312"; */
+"312.title" = "미팅 암호를 입력하십시오.";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "314"; */
+"314.title" = "암호:";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "315"; */
+"315.title" = "암호:";
+
+/* Class = "NSTextFieldCell"; title = "Please enter the meeting password you specified in the meeting invitation sent to attendees."; ObjectID = "316"; */
+"316.title" = "참석자에게 보낸 미팅 초대에 지정되어 있는 미팅 암호를 입력하십시오.";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "317"; */
+"317.title" = "취소";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "319"; */
+"319.title" = "확인";
+
+/* Class = "NSTextFieldCell"; title = "Re-type Password:"; ObjectID = "321"; */
+"321.title" = "암호 다시 입력:";
+
+/* Class = "NSTextFieldCell"; title = "Email:"; ObjectID = "322"; */
+"322.title" = "전자 메일:";
+
+/* Class = "NSTextFieldCell"; title = "Edit your name and email address as you would like them to appear to the meeting attendees."; ObjectID = "323"; */
+"323.title" = "미팅 참석자에게 표시할 본인의 이름과 전자 메일 주소를 편집하십시오.";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "324"; */
+"324.title" = "확인";
+
+/* Class = "NSButtonCell"; title = "Remember name and email"; ObjectID = "326"; */
+"326.title" = "이름 및 전자 메일 저장";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "327"; */
+"327.title" = "이름:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "(optional)"; ObjectID = "328"; */
+"328.placeholderString" = "(선택 사항)";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "330"; */
+"330.title" = "취소";
+
+/* Class = "NSTextFieldCell"; title = "Please enter the meeting subject."; ObjectID = "331"; */
+"331.title" = "미팅 제목을 입력하십시오.";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "332"; */
+"332.title" = "확인";
+
+/* Class = "NSTextFieldCell"; title = "Choose someone to host the meeting as organizer before you leave."; ObjectID = "334"; */
+"334.title" = "미팅에서 나가기 전에  주최자로 미팅을 주최할 다른 사용자를 선택하십시오.";
+
+/* Class = "NSButtonCell"; title = "Make organizer & leave"; ObjectID = "335"; */
+"335.title" = "주최자 설정 및 나가기";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "336"; */
+"336.title" = "취소";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "338"; */
+"338.title" = "취소";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "339"; */
+"339.title" = "확인";
+
+/* Class = "NSButtonCell"; title = "When attendees arrive, show them this chat message."; ObjectID = "340"; */
+"340.title" = "참석자가 도착할 때 이 채팅 메시지를 참석자에게 표시합니다.";
+
+/* Class = "NSTextFieldCell"; title = "To enable audio controls, please enter your PIN on your telephone keypad now."; ObjectID = "341"; */
+"341.title" = "오디오 컨트롤을 활성화하려면 지금 전화 키패드에서 PIN을 입력하십시오.";
+
+/* Class = "NSTextFieldCell"; title = "Audio PIN: #%1$@#"; ObjectID = "342"; */
+"342.title" = "오디오 PIN: #%1$@#";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "343"; */
+"343.title" = "확인";
+
+/* Class = "NSTextFieldCell"; title = "Make <Participant Name> the presenter?"; ObjectID = "344"; */
+"344.title" = "<참가자 이름>을(를) 발표자로 설정하시겠습니까?";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "345"; */
+"345.title" = "확인";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "346"; */
+"346.title" = "취소";
+
+/* Class = "NSButtonCell"; title = "Request Keyboard and Mouse Control"; ObjectID = "347"; */
+"347.title" = "키보드 및 마우스 제어 권한 요청";
+
+/* Class = "NSTextFieldCell"; title = "Clicking OK will make this attendee the presenter.\n\nOnce someone is a panelist it cannot be revoked."; ObjectID = "349"; */
+"349.title" = "[확인]을 클릭하면 이 참석자가 발표자가 됩니다.\n\n사용자를 패널로 설정한 후에는 취소할 수 없습니다.";
+
+/* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Promote Attendee Name"; ObjectID = "350"; */
+"350.ibExternalAccessibilityDescription" = "참석자 승격: 이름";
+
+/* Class = "NSMenuItem"; title = "Choose Pen Color"; ObjectID = "362"; */
+"362.title" = "펜 색상 선택";
+
+/* Class = "NSMenu"; title = "Choose Pen Color"; ObjectID = "363"; */
+"363.title" = "펜 색상 선택";
+
+/* Class = "NSMenuItem"; title = "Red"; ObjectID = "364"; */
+"364.title" = "빨강";
+
+/* Class = "NSMenuItem"; title = "Black"; ObjectID = "365"; */
+"365.title" = "검정";
+
+/* Class = "NSMenuItem"; title = "Green"; ObjectID = "366"; */
+"366.title" = "녹색";
+
+/* Class = "NSMenuItem"; title = "Yellow"; ObjectID = "367"; */
+"367.title" = "노랑";
+
+/* Class = "NSMenuItem"; title = "Blue"; ObjectID = "368"; */
+"368.title" = "파랑";
+
+/* Class = "NSMenuItem"; title = "Custom color..."; ObjectID = "370"; */
+"370.title" = "사용자 지정 색상...";
+
+/* Class = "NSMenuItem"; title = "Orange"; ObjectID = "371"; */
+"371.title" = "주황색";
+
+/* Class = "NSMenuItem"; title = "Purple"; ObjectID = "373"; */
+"373.title" = "보라색";
+
+/* Class = "NSMenuItem"; title = "Pink"; ObjectID = "374"; */
+"374.title" = "분홍";
+
+/* Class = "NSMenuItem"; title = "Light blue"; ObjectID = "375"; */
+"375.title" = "연한 파랑";
+
+/* Class = "NSMenuItem"; title = "Brown"; ObjectID = "376"; */
+"376.title" = "갈색";
+
+/* Class = "NSMenuItem"; title = "Gray"; ObjectID = "377"; */
+"377.title" = "회색";
+
+/* Class = "NSMenuItem"; title = "Dark green"; ObjectID = "378"; */
+"378.title" = "진한 녹색";
+
+/* Class = "NSMenuItem"; title = "Remember this pen color"; ObjectID = "380"; */
+"380.title" = "이 펜 색상 저장";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Meeting Full OK Button"; ObjectID = "401"; */
+"401.ibExternalAccessibilityDescription" = "미팅 정원 가득 참: 확인 단추";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "402"; */
+"402.title" = "확인";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Meeting Full Daisey Image"; ObjectID = "403"; */
+"403.ibExternalAccessibilityDescription" = "미팅 정원 가득 참: Daisey 이미지";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Meeting Full Primary Instructions"; ObjectID = "409"; */
+"409.ibExternalAccessibilityDescription" = "미팅 정원 가득 참: 기본 지침";
+
+/* Class = "NSTextFieldCell"; title = "The <meeting> has reached the maximum number of <number> attendees."; ObjectID = "410"; */
+"410.title" = "<meeting>의 최대 참석자 수(<number>명)에 도달했습니다.";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Meeting Full Secondary Instructions"; ObjectID = "411"; */
+"411.ibExternalAccessibilityDescription" = "미팅 정원 가득 참: 보조 지침";
+
+/* Class = "NSTextFieldCell"; title = "If you need to let another person join this meeting, you will have to dismiss one of the current attendees."; ObjectID = "412"; */
+"412.title" = "다른 사용자가 이 미팅에 참가해야 할 경우 현재 참석자 중 한 명을 퇴장 조치해야 합니다.";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Meeting Full Check Box"; ObjectID = "428"; */
+"428.ibExternalAccessibilityDescription" = "미팅 정원 가득 참: 확인란";
+
+/* Class = "NSButtonCell"; title = "Do not show this again"; ObjectID = "429"; */
+"429.title" = "이 대화 상자를 다시 표시하지 않음";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Entry Denied Secondary Instructions"; ObjectID = "442"; */
+"442.ibExternalAccessibilityDescription" = "입장 거부됨: 보조 지침";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Entry Denied Primary Instructions"; ObjectID = "443"; */
+"443.ibExternalAccessibilityDescription" = "입장 거부됨: 기본 지침";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Entry Denied Daisey Image"; ObjectID = "444"; */
+"444.ibExternalAccessibilityDescription" = "입장 거부됨: Daisey 이미지";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Entry Denied OK Button"; ObjectID = "445"; */
+"445.ibExternalAccessibilityDescription" = "입장 거부됨: 확인 단추";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "446"; */
+"446.title" = "확인";
+
+/* Class = "NSTextFieldCell"; title = "Someone was not allowed to enter this _meeting_ because it is full (maximum is %d)."; ObjectID = "448"; */
+"448.title" = "정원이 가득 찼기 때문에(최대 %d명) 이 _meeting_에 참가하지 못한 사용자가 있습니다.";
+
+/* Class = "NSTextFieldCell"; title = "If you need to let another person join this meeting, dismiss one of the current attendees by right-clicking a name in the Attendee List and selecting Dismiss."; ObjectID = "449"; */
+"449.title" = "다른 사용자가 이 미팅에 참가해야 할 경우 참석자 목록에서 해당 이름을 마우스 오른쪽 단추로 클릭한 후 [퇴장]을 선택하여 현재 참석자 중 한 명을 퇴장 조치하십시오.";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Entry Denied Check Box"; ObjectID = "450"; */
+"450.ibExternalAccessibilityDescription" = "입장 거부됨: 확인란";
+
+/* Class = "NSButtonCell"; title = "Do not show this again"; ObjectID = "450"; */
+"450.title" = "이 대화 상자를 다시 표시하지 않음";
+
+/* Class = "NSMenu"; title = "Webcams"; ObjectID = "469"; */
+"469.title" = "웹캠";
+
+/* Class = "NSMenuItem"; title = "Preferences..."; ObjectID = "470"; */
+"470.title" = "기본 설정...";
+
+/* Class = "NSMenuItem"; title = "Always in Front"; ObjectID = "473"; */
+"473.title" = "항상 앞에";
+
+/* Class = "NSMenuItem"; title = "Share My Webcam"; ObjectID = "474"; */
+"474.title" = "내 웹캠 공유";
+
+/* Class = "NSMenuItem"; title = "Hide All Webcams"; ObjectID = "475"; */
+"475.title" = "모든 웹캠 숨기기";
+
+/* Class = "NSMenuItem"; title = "Webcam Position:"; ObjectID = "477"; */
+"477.title" = "웹캠 위치:";
+
+/* Class = "NSMenuItem"; title = "Top"; ObjectID = "479"; */
+"479.title" = "위쪽";
+
+/* Class = "NSMenuItem"; title = "Right"; ObjectID = "480"; */
+"480.title" = "오른쪽";
+
+/* Class = "NSMenuItem"; title = "Bottom"; ObjectID = "481"; */
+"481.title" = "아래쪽";
+
+/* Class = "NSMenuItem"; title = "Left"; ObjectID = "482"; */
+"482.title" = "왼쪽";
+
+/* Class = "NSMenu"; title = "Zoom"; ObjectID = "484"; */
+"484.title" = "확대/축소";
+
+/* Class = "NSMenuItem"; title = "Actual Size"; ObjectID = "485"; */
+"485.title" = "실제 크기";
+
+/* Class = "NSMenuItem"; title = "Scale to Fit"; ObjectID = "486"; */
+"486.title" = "화면 크기에 맞춤";
+
+/* Class = "NSMenuItem"; title = "Zoom to"; ObjectID = "489"; */
+"489.title" = "배율";
+
+/* Class = "NSMenu"; title = "Zoom to"; ObjectID = "492"; */
+"492.title" = "배율";
+
+/* Class = "NSMenuItem"; title = "100%"; ObjectID = "493"; */
+"493.title" = "100%";
+
+/* Class = "NSMenuItem"; title = "150%"; ObjectID = "494"; */
+"494.title" = "150%";
+
+/* Class = "NSMenuItem"; title = "200%"; ObjectID = "495"; */
+"495.title" = "200%";
+
+/* Class = "NSMenuItem"; title = "400%"; ObjectID = "497"; */
+"497.title" = "400%";
+
+/* Class = "NSMenuItem"; title = "Custom…"; ObjectID = "498"; */
+"498.title" = "사용자 지정...";
+
+/* Class = "NSMenuItem"; title = "75%"; ObjectID = "499"; */
+"499.title" = "75%";
+
+/* Class = "NSMenuItem"; title = "50%"; ObjectID = "500"; */
+"500.title" = "50%";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter OK Button"; ObjectID = "525"; */
+"525.ibExternalAccessibilityDescription" = "발표자로 설정: 확인 단추";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter Cancel Button"; ObjectID = "526"; */
+"526.ibExternalAccessibilityDescription" = "발표자로 설정: 취소 단추";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Make Presenter Daisey Image"; ObjectID = "528"; */
+"528.ibExternalAccessibilityDescription" = "발표자로 설정: Daisey 이미지";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Make Presenter Instruction Text"; ObjectID = "529"; */
+"529.ibExternalAccessibilityDescription" = "발표자로 설정: 지침 텍스트";
+
+/* Class = "NSTextFieldCell"; title = "<Participant Name> needs to switch to the desktop version of GoToMeeting to be a presenter.\n\nIt'll take them a minute to download it when you ask them to present."; ObjectID = "530"; */
+"530.title" = "<참석자 이름>이(가) 발표자가 되려면 데스크톱 버전의 GoToMeeting으로 전환해야 합니다.\n\n발표자 역할을 요청한 후 데스크톱 버전을 다운로드하는 데 1분 정도 걸립니다.";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "533"; */
+"533.title" = "취소";
+
+/* Class = "NSButtonCell"; title = "Send Present & Download Request"; ObjectID = "534"; */
+"534.title" = "발표 및 다운로드 요청 보내기";
+
+/* Class = "NSButtonCell"; title = "0"; ObjectID = "01X-RX-JpG"; */
+"01X-RX-JpG.title" = "0";
+
+/* Class = "NSTextFieldCell"; title = "Strongly agree"; ObjectID = "0Ig-0L-KRA"; */
+"0Ig-0L-KRA.title" = "매우 동의";
+
+/* Class = "NSButtonCell"; title = "8"; ObjectID = "0jJ-Cr-NKn"; */
+"0jJ-Cr-NKn.title" = "8";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES Verbatim Label"; ObjectID = "1Jl-3w-S43"; */
+"1Jl-3w-S43.ibExternalAccessibilityDescription" = "CES Verbatim Label";
+
+/* Class = "NSWindow"; title = "Edit Name - GoToMeeting"; ObjectID = "1Ub-1g-lAf"; */
+"1Ub-1g-lAf.title" = "이름 편집 - GoToMeeting";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter OK Button"; ObjectID = "1gK-8C-v0R"; */
+"1gK-8C-v0R.ibExternalAccessibilityDescription" = "발표자로 설정: 확인 단추";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "2Fv-Vd-a4m"; */
+"2Fv-Vd-a4m.title" = "취소";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter Cancel Button"; ObjectID = "2mV-TE-MVg"; */
+"2mV-TE-MVg.ibExternalAccessibilityDescription" = "발표자로 설정: 취소 단추";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter OK Button"; ObjectID = "2tB-u6-ekA"; */
+"2tB-u6-ekA.ibExternalAccessibilityDescription" = "발표자로 설정: 확인 단추";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "3MU-Tw-ekD"; */
+"3MU-Tw-ekD.title" = "전체 화면으로 전환";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Make Presenter Daisey Image"; ObjectID = "3Mk-g7-FGp"; */
+"3Mk-g7-FGp.ibExternalAccessibilityDescription" = "발표자로 설정: Daisey 이미지";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Email (optional)"; ObjectID = "3c1-9g-Oei"; */
+"3c1-9g-Oei.placeholderString" = "전자 메일(선택 사항)";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES Status Text"; ObjectID = "3gL-7j-Uhx"; */
+"3gL-7j-Uhx.ibExternalAccessibilityDescription" = "CES Status Text";
+
+/* Class = "NSButtonCell"; title = "2"; ObjectID = "4a8-uQ-3tA"; */
+"4a8-uQ-3tA.title" = "2";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "5Nt-bA-3e7"; */
+"5Nt-bA-3e7.title" = "취소";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Tell us why you feel that way."; ObjectID = "628-sX-2au"; */
+"628-sX-2au.placeholderString" = "그렇게 느끼신 이유를 말씀해주십시오.";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter Cancel Button"; ObjectID = "6te-FU-K5S"; */
+"6te-FU-K5S.ibExternalAccessibilityDescription" = "발표자로 설정: 취소 단추";
+
+/* Class = "NSTextFieldCell"; title = "Please explain where you experienced difficulty today."; ObjectID = "85C-DJ-ceG"; */
+"85C-DJ-ceG.title" = "오늘 어느 부분에서 어려움을 겪었는지 설명해 주십시오.";
+
+/* Class = "NSMenuItem"; title = "Pointer"; ObjectID = "AMH-yj-Fva"; */
+"AMH-yj-Fva.title" = "포인터";
+
+/* Class = "NSButtonCell"; title = "Send Request"; ObjectID = "AzK-ag-Go8"; */
+"AzK-ag-Go8.title" = "요청 보내기";
+
+/* Class = "NSButtonCell"; title = "2"; ObjectID = "BM0-fD-wzz"; */
+"BM0-fD-wzz.title" = "2";
+
+/* Class = "NSButtonCell"; title = "Submit"; ObjectID = "BYc-zv-dNm"; */
+"BYc-zv-dNm.title" = "제출";
+
+/* Class = "NSMenuItem"; title = "Attendees can draw"; ObjectID = "C1U-BB-dtj"; */
+"C1U-BB-dtj.title" = "참석자가 그리기 가능";
+
+/* Class = "NSTextFieldCell"; title = "<Product> was easy to use today."; ObjectID = "CEp-oC-nav"; */
+"CEp-oC-nav.title" = "<Product> was easy to use today.";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Cv4-I4-jH5"; */
+"Cv4-I4-jH5.title" = "취소";
+
+/* Class = "NSButtonCell"; title = "4"; ObjectID = "CwP-Od-LWy"; */
+"CwP-Od-LWy.title" = "4";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "Evl-RH-eDX"; */
+"Evl-RH-eDX.title" = "닫기";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Make Presenter Instruction Text"; ObjectID = "GN2-Dl-Leo"; */
+"GN2-Dl-Leo.ibExternalAccessibilityDescription" = "발표자로 설정: 지침 텍스트";
+
+/* Class = "NSMenuItem"; title = "Spotlight"; ObjectID = "GUY-vC-NQo"; */
+"GUY-vC-NQo.title" = "추천";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 2 Button"; ObjectID = "H4H-YY-LzK"; */
+"H4H-YY-LzK.ibExternalAccessibilityDescription" = "CES Rating 2 Button";
+
+/* Class = "NSMenuItem"; title = "View everyone"; ObjectID = "Hew-yV-GIl"; */
+"Hew-yV-GIl.title" = "모든 사용자 보기";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "CES Image"; ObjectID = "HhR-m5-ReB"; */
+"HhR-m5-ReB.ibExternalAccessibilityDescription" = "CES Image";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter Cancel Button"; ObjectID = "Iof-6e-W4Q"; */
+"Iof-6e-W4Q.ibExternalAccessibilityDescription" = "발표자로 설정: 취소 단추";
+
+/* Class = "NSTextFieldCell"; title = "Edit name"; ObjectID = "JO5-ho-sK1"; */
+"JO5-ho-sK1.title" = "이름 편집";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES Verbatim Text Field"; ObjectID = "JZn-M7-FCN"; */
+"JZn-M7-FCN.ibExternalAccessibilityDescription" = "CES Verbatim Text Field";
+
+/* Class = "NSWindow"; title = "Share drawing tools"; ObjectID = "L6D-za-iML"; */
+"L6D-za-iML.title" = "그리기 도구 공유";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Submit Button"; ObjectID = "L7c-t2-deb"; */
+"L7c-t2-deb.ibExternalAccessibilityDescription" = "CES Submit Button";
+
+/* Class = "NSButtonCell"; title = "3"; ObjectID = "LlQ-y6-U3K"; */
+"LlQ-y6-U3K.title" = "3";
+
+/* Class = "NSTextFieldCell"; title = "Not at all likely"; ObjectID = "MUE-gX-8mE"; */
+"MUE-gX-8mE.title" = "추천 안 함";
+
+/* Class = "NSMenuItem"; title = "Undock Webcams"; ObjectID = "RHH-zh-Hps"; */
+"RHH-zh-Hps.title" = "웹캠 고정 해제";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 1 Button"; ObjectID = "RbM-MQ-ph2"; */
+"RbM-MQ-ph2.ibExternalAccessibilityDescription" = "CES Rating 1 Button";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Name (optional)"; ObjectID = "SPM-8W-ycI"; */
+"SPM-8W-ycI.placeholderString" = "이름(선택 사항)";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "SWv-jr-bdi"; */
+"SWv-jr-bdi.title" = "취소";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 5 Button"; ObjectID = "SuR-nc-Gg5"; */
+"SuR-nc-Gg5.ibExternalAccessibilityDescription" = "CES Rating 5 Button";
+
+/* Class = "NSButtonCell"; title = "1"; ObjectID = "TBJ-mY-CMR"; */
+"TBJ-mY-CMR.title" = "1";
+
+/* Class = "NSButtonCell"; title = "Submit"; ObjectID = "TFm-L7-mhy"; */
+"TFm-L7-mhy.title" = "제출";
+
+/* Class = "NSButtonCell"; title = "4"; ObjectID = "UhS-JA-NWu"; */
+"UhS-JA-NWu.title" = "4";
+
+/* Class = "NSButtonCell"; title = "7"; ObjectID = "UvO-QL-8Y7"; */
+"UvO-QL-8Y7.title" = "7";
+
+/* Class = "NSTextFieldCell"; title = "The following attendees need to switch to the desktop version of GoToMeeting (on a Mac or Windows computer) to control your keyboard & mouse:\n\n            <attendee name>\n            <attendee name>\n            <attendee name>\n            <attendee name>\n            and <12> others\n\nIt takes a minute to download once you send the request."; ObjectID = "V6a-bn-gnO"; */
+"V6a-bn-gnO.title" = "다음 참석자는 귀하의 키보드 및 마우스를 제어하기 위해 데스크톱 버전의 GoToMeeting(Mac 또는 Windows 컴퓨터)으로 전환해야 합니다.\n\n            <참석자 이름>\n            <참석자 이름>\n            <참석자 이름>\n            <참석자 이름>\n            및 기타 <12>명\n\n요청을 보낸 후 다운로드하는 데 1분이 걸립니다.";
+
+/* Class = "NSTextFieldCell"; title = "Extremely likely"; ObjectID = "V8u-WI-emd"; */
+"V8u-WI-emd.title" = "적극 추천";
+
+/* Class = "NSTextFieldCell"; title = "Strongly disagree"; ObjectID = "X0O-Vc-SqW"; */
+"X0O-Vc-SqW.title" = "매우 동의 안 함";
+
+/* Class = "NSButtonCell"; title = "Feedback Checkbox"; ObjectID = "XWk-I0-g7p"; */
+"XWk-I0-g7p.title" = "Feedback Checkbox";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Close Button"; ObjectID = "Xyl-d2-oa4"; */
+"Xyl-d2-oa4.ibExternalAccessibilityDescription" = "CES Close Button";
+
+/* Class = "NSButtonCell"; title = "Okay, Change Presenter"; ObjectID = "Y0X-ZJ-az1"; */
+"Y0X-ZJ-az1.title" = "예, 발표자를 변경합니다.";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 4 Button"; ObjectID = "Y8y-74-2fm"; */
+"Y8y-74-2fm.ibExternalAccessibilityDescription" = "CES Rating 4 Button";
+
+/* Class = "NSButtonCell"; title = "6"; ObjectID = "Ydb-8C-pCV"; */
+"Ydb-8C-pCV.title" = "6";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 6 Button"; ObjectID = "aSS-3t-wCB"; */
+"aSS-3t-wCB.ibExternalAccessibilityDescription" = "CES Rating 6 Button";
+
+/* Class = "NSButtonCell"; title = "3"; ObjectID = "bYb-0g-vvf"; */
+"bYb-0g-vvf.title" = "3";
+
+/* Class = "NSMenuItem"; title = "Erase all drawings"; ObjectID = "bgx-kQ-SYt"; */
+"bgx-kQ-SYt.title" = "모든 그림 지우기";
+
+/* Class = "NSButtonCell"; title = "Not Now"; ObjectID = "bkc-IM-Ie0"; */
+"bkc-IM-Ie0.title" = "나중에";
+
+/* Class = "NSTextFieldCell"; title = "Please rate your agreement with the following statement."; ObjectID = "cTK-u3-wzy"; */
+"cTK-u3-wzy.title" = "다음 설명에 동의하는 정도를 평점으로 매겨주십시오.";
+
+/* Class = "NSMenu"; title = "Webcam Filter"; ObjectID = "cVq-w9-MMe"; */
+"cVq-w9-MMe.title" = "웹캠 필터";
+
+/* Class = "NSButtonCell"; title = "6"; ObjectID = "cv5-46-dfh"; */
+"cv5-46-dfh.title" = "6";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Make Presenter Instruction Text"; ObjectID = "cvJ-R6-0rP"; */
+"cvJ-R6-0rP.ibExternalAccessibilityDescription" = "발표자로 설정: 지침 텍스트";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES Low Rating Text"; ObjectID = "d1B-Ki-dx8"; */
+"d1B-Ki-dx8.ibExternalAccessibilityDescription" = "CES Low Rating Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Make Presenter Name Text"; ObjectID = "dKg-Ft-0Bi"; */
+"dKg-Ft-0Bi.ibExternalAccessibilityDescription" = "발표자로 설정: 이름 텍스트";
+
+/* Class = "NSButtonCell"; title = "5"; ObjectID = "dcs-x6-acz"; */
+"dcs-x6-acz.title" = "5";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 3 Button"; ObjectID = "eEa-I1-PZy"; */
+"eEa-I1-PZy.ibExternalAccessibilityDescription" = "CES Rating 3 Button";
+
+/* Class = "NSMenuItem"; title = "View who's talking"; ObjectID = "eFl-c9-u8C"; */
+"eFl-c9-u8C.title" = "현재 발언자 보기";
+
+/* Class = "NSTextFieldCell"; title = "The following attendees need to switch to the desktop version of GoToMeeting (on a Mac or Windows computer) to use drawing tools:\n\n            <attendee name>\n            <attendee name>\n            <attendee name>\n            <attendee name>\n            and <12> others\n\nIt takes a minute to download once you send the request."; ObjectID = "f2i-Pa-Huc"; */
+"f2i-Pa-Huc.title" = "다음 참석자는 그리기 도구를 사용하기 위해 데스크톱 버전의 GoToMeeting(Mac 또는 Windows 컴퓨터)으로 전환해야 합니다.\n\n            <참석자 이름>\n            <참석자 이름>\n            <참석자 이름>\n            <참석자 이름>\n            및 기타 <12>명\n\n요청을 보낸 후 다운로드하는 데 1분이 걸립니다.";
+
+/* Class = "NSButtonCell"; title = "1"; ObjectID = "foe-Al-9oI"; */
+"foe-Al-9oI.title" = "1";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES Question Text"; ObjectID = "gg5-jt-ARc"; */
+"gg5-jt-ARc.ibExternalAccessibilityDescription" = "CES Question Text";
+
+/* Class = "NSMenuItem"; title = "View presenter"; ObjectID = "i2F-aw-Jrz"; */
+"i2F-aw-Jrz.title" = "발표자 보기";
+
+/* Class = "NSButtonCell"; title = "10"; ObjectID = "i5V-ic-IC0"; */
+"i5V-ic-IC0.title" = "10";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Make Presenter OK Button"; ObjectID = "jvV-gM-wFW"; */
+"jvV-gM-wFW.ibExternalAccessibilityDescription" = "발표자로 설정: 확인 단추";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "lAT-ho-Iqg"; */
+"lAT-ho-Iqg.title" = "확인";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CES Rating 7 Button"; ObjectID = "mZn-6p-yXd"; */
+"mZn-6p-yXd.ibExternalAccessibilityDescription" = "CES Rating 7 Button";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "mwY-8g-bCX"; */
+"mwY-8g-bCX.title" = "닫기";
+
+/* Class = "NSButtonCell"; title = "9"; ObjectID = "nLd-Jh-Asa"; */
+"nLd-Jh-Asa.title" = "9";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Make Presenter Daisey Image"; ObjectID = "nb6-j9-0Jz"; */
+"nb6-j9-0Jz.ibExternalAccessibilityDescription" = "발표자로 설정: Daisey 이미지";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "ncU-wF-hmL"; */
+"ncU-wF-hmL.title" = "보기";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES High Rating Text"; ObjectID = "pK6-3K-K5Z"; */
+"pK6-3K-K5Z.ibExternalAccessibilityDescription" = "CES High Rating Text";
+
+/* Class = "NSMenuItem"; title = "View everyone"; ObjectID = "pMX-Uy-lqs"; */
+"pMX-Uy-lqs.title" = "모든 사용자 보기";
+
+/* Class = "NSTextFieldCell"; title = "You've left the <meeting>."; ObjectID = "pwg-e3-nnT"; */
+"pwg-e3-nnT.title" = "You've left the <meeting>.";
+
+/* Class = "NSButtonCell"; title = "7"; ObjectID = "qNs-mT-Hr8"; */
+"qNs-mT-Hr8.title" = "7";
+
+/* Class = "NSMenuItem"; title = "Hide webcams"; ObjectID = "qh1-Ry-iRN"; */
+"qh1-Ry-iRN.title" = "웹캠 숨기기";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CES Question Label"; ObjectID = "r2c-Oe-0gB"; */
+"r2c-Oe-0gB.ibExternalAccessibilityDescription" = "CES Question Label";
+
+/* Class = "NSTextFieldCell"; title = "You've left the <meeting>."; ObjectID = "rS5-V1-vQr"; */
+"rS5-V1-vQr.title" = "You've left the <meeting>.";
+
+/* Class = "NSWindow"; title = "Share keyboard & mouse"; ObjectID = "rbZ-y7-E3u"; */
+"rbZ-y7-E3u.title" = "키보드 및 마우스 공유";
+
+/* Class = "NSButtonCell"; title = "Send Request"; ObjectID = "tD0-GV-h6J"; */
+"tD0-GV-h6J.title" = "요청 보내기";
+
+/* Class = "NSButtonCell"; title = "5"; ObjectID = "vfZ-eB-pBe"; */
+"vfZ-eB-pBe.title" = "5";
+
+/* Class = "NSMenuItem"; title = "View presenter"; ObjectID = "wI7-R4-I3R"; */
+"wI7-R4-I3R.title" = "발표자 보기";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Make Presenter Daisey Image"; ObjectID = "wbi-Cn-57d"; */
+"wbi-Cn-57d.ibExternalAccessibilityDescription" = "발표자로 설정: Daisey 이미지";
+
+/* Class = "NSTextFieldCell"; title = "Based on your most recent experience, how likely are you to recommend <Product> to a friend or colleague?"; ObjectID = "xTB-1k-thW"; */
+"xTB-1k-thW.title" = "Based on your most recent experience, how likely are you to recommend <Product> to a friend or colleague?";
+
+/* Class = "NSMenuItem"; title = "View who's talking"; ObjectID = "xc8-35-2Us"; */
+"xc8-35-2Us.title" = "현재 발언자 보기";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "CES View"; ObjectID = "xf5-CR-cEV"; */
+"xf5-CR-cEV.ibExternalAccessibilityDescription" = "CES View";
+
+/* Class = "NSMenuItem"; title = "Hide My Webcam"; ObjectID = "y1X-TH-vbk"; */
+"y1X-TH-vbk.title" = "내 웹캠 숨기기";
+
+/* Class = "NSMenuItem"; title = "Hide webcams"; ObjectID = "yGu-Fo-9Cw"; */
+"yGu-Fo-9Cw.title" = "웹캠 숨기기";
+
+/* Class = "NSTextFieldCell"; title = "<Participant Name> wants to share their screen.  "; ObjectID = "z2d-Q2-MYZ"; */
+"z2d-Q2-MYZ.title" = "<Participant Name> wants to share their screen.  ";

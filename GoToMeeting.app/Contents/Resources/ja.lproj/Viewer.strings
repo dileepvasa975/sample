@@ -1,0 +1,99 @@
+
+/* Class = "NSMenuItem"; title = "Find menu in InSession.xib"; ObjectID = "1aw-uu-RTO"; */
+"1aw-uu-RTO.title" = "InSession.xib でメニューを検索";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "2R0-iJ-exI"; */
+"2R0-iJ-exI.title" = "そのほかの表示";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "322"; */
+"322.title" = "そのほかの表示";
+
+/* Class = "NSMenuItem"; title = "Find menu in InSession.xib"; ObjectID = "323"; */
+"323.title" = "InSession.xib でメニューを検索";
+
+/* Class = "NSMenuItem"; title = "This is a stand in menu."; ObjectID = "324"; */
+"324.title" = "これは stand in メニューです。";
+
+/* Class = "NSToolbarItem"; label = "Webcams"; ObjectID = "422"; */
+"422.label" = "Web カメラ";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Webcams"; ObjectID = "422"; */
+"422.paletteLabel" = "Web カメラ";
+
+/* Class = "NSToolbarItem"; toolTip = "Change webcam preferences"; ObjectID = "422"; */
+"422.toolTip" = "Web カメラの基本設定を変更";
+
+/* Class = "NSMenuItem"; title = "Find menu in InSession.xib"; ObjectID = "1aw-uu-RTO"; */
+"1aw-uu-RTO.title" = "Find menu in InSession.xib";
+
+/* Class = "NSWindow"; title = "Viewer"; ObjectID = "5"; */
+"5.title" = "ビューア";
+
+/* Class = "NSToolbarItem"; label = "Highlighter"; ObjectID = "D4u-DQ-T3k"; */
+"D4u-DQ-T3k.label" = "蛍光ペン";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Highlighter"; ObjectID = "D4u-DQ-T3k"; */
+"D4u-DQ-T3k.paletteLabel" = "蛍光ペン";
+
+/* Class = "NSToolbarItem"; label = "Arrow"; ObjectID = "FsG-nU-Wo7"; */
+"FsG-nU-Wo7.label" = "矢印";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Arrow"; ObjectID = "FsG-nU-Wo7"; */
+"FsG-nU-Wo7.paletteLabel" = "矢印";
+
+/* Class = "NSToolbarItem"; label = "Zoom: 100%"; ObjectID = "PTy-Jt-SxH"; */
+"PTy-Jt-SxH.label" = "ズーム：100%";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Zoom: 100%"; ObjectID = "PTy-Jt-SxH"; */
+"PTy-Jt-SxH.paletteLabel" = "ズーム：100%";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "S0Y-zL-UJr"; */
+"S0Y-zL-UJr.title" = "そのほかの表示";
+
+/* Class = "NSToolbarItem"; label = "Webcam Filter"; ObjectID = "T8b-sx-so1"; */
+"T8b-sx-so1.label" = "Webcam Filter";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Webcam Filter"; ObjectID = "T8b-sx-so1"; */
+"T8b-sx-so1.paletteLabel" = "Webcam Filter";
+
+/* Class = "NSToolbarItem"; toolTip = "Change webcam filter"; ObjectID = "T8b-sx-so1"; */
+"T8b-sx-so1.toolTip" = "Web カメラフィルタを変更";
+
+/* Class = "NSToolbarItem"; label = "Pen"; ObjectID = "bEN-26-Sg7"; */
+"bEN-26-Sg7.label" = "ペン";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Pen"; ObjectID = "bEN-26-Sg7"; */
+"bEN-26-Sg7.paletteLabel" = "ペン";
+
+/* Class = "NSToolbarItem"; label = "Screenshot"; ObjectID = "bM9-gd-q9B"; */
+"bM9-gd-q9B.label" = "スクリーンショット";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Screenshot"; ObjectID = "bM9-gd-q9B"; */
+"bM9-gd-q9B.paletteLabel" = "スクリーンショット";
+
+/* Class = "NSToolbarItem"; toolTip = "Click to save a picture to your desktop."; ObjectID = "bM9-gd-q9B"; */
+"bM9-gd-q9B.toolTip" = "画像をデスクトップに保存するにはクリックしてください。";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "h8Z-N7-H5J"; */
+"h8Z-N7-H5J.title" = "Item 2";
+
+/* Class = "NSToolbarItem"; label = "Use two screens"; ObjectID = "riE-LX-CiE"; */
+"riE-LX-CiE.label" = "2 つの画面を使用する";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Use two screens"; ObjectID = "riE-LX-CiE"; */
+"riE-LX-CiE.paletteLabel" = "2 つの画面を使用する";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "skX-EO-RQt"; */
+"skX-EO-RQt.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "This is a stand in menu."; ObjectID = "vhI-9b-LvY"; */
+"vhI-9b-LvY.title" = "これは stand in メニューです。";
+
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "wKB-63-6br"; */
+"wKB-63-6br.title" = "ボタン";
+
+/* Class = "NSToolbarItem"; label = "Pointer"; ObjectID = "yJQ-N0-fej"; */
+"yJQ-N0-fej.label" = "ポインター";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Pointer"; ObjectID = "yJQ-N0-fej"; */
+"yJQ-N0-fej.paletteLabel" = "ポインター";

@@ -1,0 +1,15 @@
+
+/* Class = "NSButtonCell"; title = "Ok, I'm Ready"; ObjectID = "3aT-AU-vSK"; */
+"3aT-AU-vSK.title" = "OK, c'est bon";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Join with your camera off and muted "; ObjectID = "6a7-8d-hdw"; */
+"6a7-8d-hdw.ibShadowedToolTip" = "Rejoindre avec la caméra désactivée et le son coupé";
+
+/* Class = "NSTextFieldCell"; title = "Here's how you'll appear in the meeting."; ObjectID = "VqV-Gn-zFa"; */
+"VqV-Gn-zFa.title" = "Voici comment les participants vous verront au cours de cette réunion.";
+
+/* Class = "NSButtonCell"; title = "Skip preview next time"; ObjectID = "jJT-d4-dfE"; */
+"jJT-d4-dfE.title" = "Ignorer l'aperçu la prochaine fois";
+
+/* Class = "NSTextFieldCell"; title = " Your meeting has started.\nHere's how you'll appear when you join."; ObjectID = "lB3-g6-UhT"; */
+"lB3-g6-UhT.title" = "Votre réunion a commencé. \nVoici comment les participants vous verront à la connexion.";

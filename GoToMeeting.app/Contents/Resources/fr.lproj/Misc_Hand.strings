@@ -1,0 +1,12 @@
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Show Raised Hand Button"; ObjectID = "16"; */
+"16.ibExternalAccessibilityDescription" = "Show Raised Hand Button";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Cliquez ici pour afficher la liste des participants aux mains levées."; ObjectID = "16"; */
+"16.ibShadowedToolTip" = "Cliquez ici pour afficher la liste des participants aux mains levées.";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Grab RaiseLower Hand Button"; ObjectID = "19"; */
+"19.ibExternalAccessibilityDescription" = "Grab RaiseLower Hand Button";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Levez / Baissez la main."; ObjectID = "19"; */
+"19.ibShadowedToolTip" = "Levez / Baissez la main.";

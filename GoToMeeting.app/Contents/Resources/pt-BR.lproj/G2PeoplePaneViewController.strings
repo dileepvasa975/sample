@@ -1,0 +1,56 @@
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "0Zh-vJ-2HE"; */
+"0Zh-vJ-2HE.headerCell.title" = "Nome";
+
+/* Class = "NSButtonCell"; title = "Call"; ObjectID = "57K-Ig-XHI"; */
+"57K-Ig-XHI.title" = "Chamar";
+
+/* Class = "NSButtonCell"; title = "Unmute All"; ObjectID = "AZ9-f2-t1f"; */
+"AZ9-f2-t1f.title" = "Todos";
+
+/* Class = "NSButtonCell"; title = "Mute All"; ObjectID = "BTP-1d-R4M"; */
+"BTP-1d-R4M.title" = "Todos";
+
+/* Class = "NSTextFieldCell"; title = "Count Indicator"; ObjectID = "GlQ-Mj-II1"; */
+"GlQ-Mj-II1.title" = "Indicador de contagem";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Jmi-Kt-geO"; */
+"Jmi-Kt-geO.title" = "Célula de texto";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "MyR-yo-iSS"; */
+"MyR-yo-iSS.title" = "Célula de exibição de tabela";
+
+/* Class = "NSTextFieldCell"; title = "MEETING ID: xxx-xxx-xxx"; ObjectID = "OKe-Iu-QF9"; */
+"OKe-Iu-QF9.title" = "ID DA REUNIÃO: xxx-xxx-xxx";
+
+/* Class = "NSTextFieldCell"; title = "Meeting is unlocked "; ObjectID = "P2H-kx-DQT"; */
+"P2H-kx-DQT.title" = "A reunião está desbloqueada ";
+
+/* Class = "NSTableColumn"; headerCell.title = "Chevron"; ObjectID = "Umh-Ii-tWQ"; */
+"Umh-Ii-tWQ.headerCell.title" = "Chevron";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "XBX-4o-Mtm"; */
+"XBX-4o-Mtm.title" = "Célula de texto";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "cHY-d6-fuD"; */
+"cHY-d6-fuD.title" = "Célula de texto";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "cVm-XV-bko"; */
+"cVm-XV-bko.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Invite"; ObjectID = "f58-jy-Gj7"; */
+"f58-jy-Gj7.title" = "Convidar";
+
+/* Class = "NSButtonCell"; title = "Copy Meeting Link"; ObjectID = "gkA-V0-JaW"; */
+"gkA-V0-JaW.title" = "Copiar link da reunião";
+
+/* Class = "NSView"; jnj-Th-K0J.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "PEOPLE"; ObjectID = "jnj-Th-K0J"; */
+"jnj-Th-K0J.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "PESSOAS";
+
+/* Class = "NSTableColumn"; headerCell.title = "IsPresenter"; ObjectID = "krs-x4-zp2"; */
+"krs-x4-zp2.headerCell.title" = "IsPresenter";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "lqq-k6-w8T"; */
+"lqq-k6-w8T.title" = "Célula de texto";
+
+/* Class = "NSTableColumn"; headerCell.title = "Audio"; ObjectID = "wjy-3x-f9p"; */
+"wjy-3x-f9p.headerCell.title" = "Áudio";

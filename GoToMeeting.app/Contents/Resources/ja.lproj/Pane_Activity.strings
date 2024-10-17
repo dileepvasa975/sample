@@ -1,0 +1,14 @@
+/* Class = "NSTextFieldCell"; title = "Play a video, work together on a document, or start a breakout for small groups!"; ObjectID = "2eg-mb-4xt"; */
+"2eg-mb-4xt.title" = "ビデオを再生したり、ドキュメント上で共同作業を行ったり、少人数グループでブレークアウトを開始したりしましょう。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Breakout Button"; ObjectID = "Qa7-hZ-xRt"; */
+"Qa7-hZ-xRt.ibExternalAccessibilityDescription" = "Breakout Button";
+
+/* Class = "NSButtonCell"; title = "Breakout"; ObjectID = "kVa-p1-omA"; */
+"kVa-p1-omA.title" = "ブレークアウト";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Web Activity Button"; ObjectID = "lSa-r0-rRI"; */
+"lSa-r0-rRI.ibExternalAccessibilityDescription" = "Web Activity Button";
+
+/* Class = "NSButtonCell"; title = "Choose an Activity"; ObjectID = "rd9-lP-Oqo"; */
+"rd9-lP-Oqo.title" = "アクティビティの選択";

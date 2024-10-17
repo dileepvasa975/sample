@@ -1,0 +1,12 @@
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Collection View Item Thumbnail"; ObjectID = "U5n-tB-S1e"; */
+"U5n-tB-S1e.ibExternalAccessibilityDescription" = "Collection View Item Thumbnail";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Sharing Collection View Background Item"; ObjectID = "ULi-IU-wrG"; */
+"ULi-IU-wrG.ibExternalAccessibilityDescription" = "Sharing Collection View Background Item";
+
+/* Class = "NSTextFieldCell"; title = "Main Screen"; ObjectID = "jhr-y7-8Hu"; */
+"jhr-y7-8Hu.title" = "Tela principal";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Collection View Item Name"; ObjectID = "tvL-gC-vox"; */
+"tvL-gC-vox.ibExternalAccessibilityDescription" = "Collection View Item Name";

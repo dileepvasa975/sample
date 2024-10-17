@@ -1,0 +1,152 @@
+/* Class = "NSMenu"; title = "AMainMenu"; ObjectID = "29"; */
+"29.title" = "AMainMenu";
+
+/* Class = "NSMenuItem"; title = "GoToMeeting Recording Manager"; ObjectID = "56"; */
+"56.title" = "Gerenciador de Gravação do GoToMeeting";
+
+/* Class = "NSMenu"; title = "GoToMeeting Recording Manager"; ObjectID = "57"; */
+"57.title" = "Gerenciador de Gravação do GoToMeeting";
+
+/* Class = "NSMenuItem"; title = "About GoToMeeting Recording Manager"; ObjectID = "58"; */
+"58.title" = "Sobre o Gerenciador de Gravação do GoToMeeting";
+
+/* Class = "NSMenuItem"; title = "Select a Recording Folder..."; ObjectID = "72"; */
+"72.title" = "Selecione uma Pasta de Reuniões...";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
+"81.title" = "Arquivo";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
+"83.title" = "Arquivo";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
+"130.title" = "Serviços";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
+"131.title" = "Serviços";
+
+/* Class = "NSMenuItem"; title = "Hide GoToMeeting Recording Manager"; ObjectID = "134"; */
+"134.title" = "Ocultar Gerenciador de Gravação do GoToMeeting";
+
+/* Class = "NSMenuItem"; title = "Quit GoToMeeting Recording Manager"; ObjectID = "136"; */
+"136.title" = "Sair do Gerenciador de Gravação do GoToMeeting";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
+"145.title" = "Ocultar outros";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
+"150.title" = "Mostrar tudo";
+
+/* Class = "NSWindow"; title = "GoToMeeting Recording Manager"; ObjectID = "371"; */
+"371.title" = "Gerenciador de Gravação do GoToMeeting";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "490"; */
+"490.title" = "Ajuda";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "491"; */
+"491.title" = "Ajuda";
+
+/* Class = "NSMenuItem"; title = "GoToMeeting Recording Manager Help"; ObjectID = "492"; */
+"492.title" = "Ajuda do Gerenciador de Gravação do GoToMeeting";
+
+/* Class = "NSButtonCell"; title = "Convert Recording"; ObjectID = "535"; */
+"535.title" = "Converter Gravação";
+
+/* Class = "NSTextFieldCell"; title = "Converting \"Meet Now\" (1/1)"; ObjectID = "539"; */
+"539.title" = "Convertendo \"Reunir agora\" (1/1)";
+
+/* Class = "NSTextFieldCell"; title = "Your recording needs to be converted before anyone can view it."; ObjectID = "556"; */
+"556.title" = "Sua gravação precisa ser convertida antes que alguém possa visualizá-la.";
+
+/* Class = "NSTextFieldCell"; title = "You can do this now, or when it's convenient for you. You may also choose to convert additional recordings at this time."; ObjectID = "558"; */
+"558.title" = "Você pode fazer isso agora ou quando for mais conveniente. Também existe a opção de converter gravações adicionais neste momento.";
+
+/* Class = "NSBox"; title = "Progress"; ObjectID = "572"; */
+"572.title" = "Progresso";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "574"; */
+"574.title" = "Cancelar";
+
+/* Class = "NSTextFieldCell"; title = "0% Complete"; ObjectID = "576"; */
+"576.title" = "0% Concluído";
+
+/* Class = "NSButtonCell"; title = "Not Now"; ObjectID = "582"; */
+"582.title" = "Agora Não";
+
+/* Class = "NSTextFieldCell"; title = "Recordings You Need To Convert"; ObjectID = "616"; */
+"616.title" = "Gravações que Você Precisa Converter";
+
+/* Class = "NSTextFieldCell"; title = "Recordings You Need To Convert"; ObjectID = "621"; */
+"621.title" = "Gravações que Você Precisa Converter";
+
+/* Class = "NSTextFieldCell"; title = "Converted Recordings"; ObjectID = "625"; */
+"625.title" = "Gravações Convertidas";
+
+/* Class = "NSTextFieldCell"; title = "Converted Recordings"; ObjectID = "631"; */
+"631.title" = "Gravações Convertidas";
+
+/* Class = "NSTableColumn"; headerCell.title = "Session Title"; ObjectID = "645"; */
+"645.headerCell.title" = "Título da Sessão";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "646"; */
+"646.title" = "Célula de Texto";
+
+/* Class = "NSButtonCell"; title = "Convert Recordings"; ObjectID = "649"; */
+"649.title" = "Converter Gravações";
+
+/* Class = "NSTableColumn"; headerCell.title = "Session Title"; ObjectID = "658"; */
+"658.headerCell.title" = "Título da sessão";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "659"; */
+"659.title" = "Célula de Texto";
+
+/* Class = "NSButtonCell"; title = "Open Recordings Folder"; ObjectID = "661"; */
+"661.title" = "Abrir Pasta de Gravações";
+
+/* Class = "NSTextFieldCell"; title = "Your recording needs to be converted before anyone can view it."; ObjectID = "686"; */
+"686.title" = "Sua gravação precisa ser convertida antes que alguém possa visualizá-la.";
+
+/* Class = "NSTextFieldCell"; title = "You can do this now, or when it's convenient for you."; ObjectID = "688"; */
+"688.title" = "Você pode fazer isso agora ou quando for mais conveniente.";
+
+/* Class = "NSTextFieldCell"; title = "You have recordings that need to be converted before anyone can view them."; ObjectID = "697"; */
+"697.title" = "Você tem gravações que precisam ser convertidas antes que alguém possa visualizá-las.";
+
+/* Class = "NSTextFieldCell"; title = "You can do this now, or when it's convenient for you. You may choose to convert several recordings at once."; ObjectID = "699"; */
+"699.title" = "Você pode fazer isso agora ou quando for mais conveniente. Também existe a opção de converter várias gravações ao mesmo tempo.";
+
+/* Class = "NSTextFieldCell"; title = "These recordings are saved on your computer and can be viewed or shared with anyone."; ObjectID = "702"; */
+"702.title" = "Essas gravações são salvas no seu computador e podem ser visualizadas ou compartilhadas com qualquer pessoa.";
+
+/* Class = "NSTextFieldCell"; title = "Your recordings are ready to be shared with anyone!"; ObjectID = "703"; */
+"703.title" = "Suas gravações estão prontas para serem compartilhadas com qualquer pessoa!";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date and Time"; ObjectID = "705"; */
+"705.headerCell.title" = "Data e Hora";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "706"; */
+"706.title" = "Célula de Texto";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "712"; */
+"712.title" = "Célula de Texto";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "718"; */
+"718.title" = "Verificar";
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "722"; */
+"722.title" = "Text";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "738"; */
+"738.title" = "Janela";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "739"; */
+"739.title" = "Janela";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "740"; */
+"740.title" = "Minimizar";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "747"; */
+"747.title" = "Fechar";
+
+/* Class = "NSMenuItem"; title = "Select Default Recording Folder"; ObjectID = "749"; */
+"749.title" = "Selecionar Pasta de Gravações Padrão";

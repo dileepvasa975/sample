@@ -1,0 +1,15 @@
+
+/* Class = "NSTextFieldCell"; title = "Puede reproducir vídeos, trabajar en equipo en un documento o iniciar una mesa redonda para grupos pequeños."; ObjectID = "2eg-mb-4xt"; */
+"2eg-mb-4xt.title" = "Puede reproducir vídeos, trabajar en equipo en un documento o iniciar una mesa redonda para grupos pequeños.";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Breakout Button"; ObjectID = "Qa7-hZ-xRt"; */
+"Qa7-hZ-xRt.ibExternalAccessibilityDescription" = "Breakout Button";
+
+/* Class = "NSButtonCell"; title = "Mesa redonda"; ObjectID = "kVa-p1-omA"; */
+"kVa-p1-omA.title" = "Mesa redonda";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Web Activity Button"; ObjectID = "lSa-r0-rRI"; */
+"lSa-r0-rRI.ibExternalAccessibilityDescription" = "Web Activity Button";
+
+/* Class = "NSButtonCell"; title = "Elija una actividad"; ObjectID = "rd9-lP-Oqo"; */
+"rd9-lP-Oqo.title" = "Elija una actividad";

@@ -1,0 +1,14 @@
+/* Class = "NSWindow"; title = "Testing"; ObjectID = "7"; */
+"7.title" = "Testando";
+
+/* Class = "NSButtonCell"; alternateTitle = "Share Results"; ObjectID = "53"; */
+"53.alternateTitle" = "Compartilhar Resultados";
+
+/* Class = "NSButtonCell"; title = "Close Results"; ObjectID = "53"; */
+"53.title" = "Fechar Resultados";
+
+/* Class = "NSButtonCell"; alternateTitle = "Sharing Results"; ObjectID = "64"; */
+"64.alternateTitle" = "Compartilhando Resultados";
+
+/* Class = "NSButtonCell"; title = "Share Results"; ObjectID = "64"; */
+"64.title" = "Compartilhar resultados";

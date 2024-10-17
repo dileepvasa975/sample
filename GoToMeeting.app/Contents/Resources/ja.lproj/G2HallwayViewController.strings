@@ -1,0 +1,8 @@
+/* Class = "NSButtonCell"; title = "Sign In Now"; ObjectID = "6l3-aD-TgF"; */
+"6l3-aD-TgF.title" = "今すぐ登録する";
+
+/* Class = "NSTextFieldCell"; title = "Are you Sam Smith or a co-organizer?"; ObjectID = "Jsh-zd-j03"; */
+"Jsh-zd-j03.title" = "Sam Smith または共同開催者ですか？";
+
+/* Class = "NSTextFieldCell"; title = "Waiting for organizer"; ObjectID = "NLR-Sz-yc5"; */
+"NLR-Sz-yc5.title" = "開催者を待っています";

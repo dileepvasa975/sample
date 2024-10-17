@@ -1,0 +1,29 @@
+/* Class = "NSTextFieldCell"; title = "Choose someone to host the meeting as organizer before you leave."; ObjectID = "07A-SQ-SSC"; */
+"07A-SQ-SSC.title" = "Antes de marcharse, elija a un organizador para la reunión.";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "0FK-wN-iKj"; */
+"0FK-wN-iKj.title" = "Cancelar";
+
+/* Class = "NSButtonCell"; title = "Make organizer & leave"; ObjectID = "9gm-T3-AOT"; */
+"9gm-T3-AOT.title" = "Convertir en organizador y marcharme";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Promote Attendee Cancel Button"; ObjectID = "LdT-pP-0Qp"; */
+"LdT-pP-0Qp.ibExternalAccessibilityDescription" = "Botón para cancelar el ascenso de un asistente";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Qdr-ts-Z0g"; */
+"Qdr-ts-Z0g.title" = "Celda de vista de tabla";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Promote Attendee OK Button"; ObjectID = "cND-aF-Brg"; */
+"cND-aF-Brg.ibExternalAccessibilityDescription" = "Botón para aceptar el ascenso de un asistente";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "kFk-8b-NIf"; */
+"kFk-8b-NIf.title" = "Ventana";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Promote Attendee Instruction Text"; ObjectID = "qQk-ZS-GVk"; */
+"qQk-ZS-GVk.ibExternalAccessibilityDescription" = "Texto con instrucciones para cambiar el rol de un asistente";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "rim-Cv-Y8O"; */
+"rim-Cv-Y8O.title" = "Celda de texto";
+
+/* Class = "NSTableColumn"; headerCell.title = "Display name"; ObjectID = "vXA-Ch-odB"; */
+"vXA-Ch-odB.headerCell.title" = "Nombre visible";

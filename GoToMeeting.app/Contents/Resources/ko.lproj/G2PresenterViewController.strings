@@ -1,0 +1,29 @@
+/* Class = "NSButton"; ibShadowedToolTip = "Detach camera viewer"; ObjectID = "Gen-Ke-9F2"; */
+"Gen-Ke-9F2.ibShadowedToolTip" = "카메라 뷰어 분리";
+
+/* Class = "NSMenuItem"; title = "Keyboard shortcuts"; ObjectID = "LuU-VA-iVZ"; */
+"LuU-VA-iVZ.title" = "바로 가기 키";
+
+/* Class = "NSMenuItem"; title = "Take the tour"; ObjectID = "PQQ-WG-NiC"; */
+"PQQ-WG-NiC.title" = "둘러보기";
+
+/* Class = "NSTextFieldCell"; title = "Camera viewer is detached."; ObjectID = "QRU-kW-hRd"; */
+"QRU-kW-hRd.title" = "카메라 뷰어가 분리되었습니다.";
+
+/* Class = "NSView"; ZqR-SV-02I.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "unread message"; ObjectID = "ZqR-SV-02I"; */
+"ZqR-SV-02I.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "읽지 않은 메시지";
+
+/* Class = "NSView"; ZqR-SV-02I.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[1] = "unread messages"; ObjectID = "ZqR-SV-02I"; */
+"ZqR-SV-02I.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[1]" = "읽지 않은 메시지";
+
+/* Class = "NSMenuItem"; title = "Support"; ObjectID = "bZQ-ya-IC8"; */
+"bZQ-ya-IC8.title" = "지원";
+
+/* Class = "NSMenuItem"; title = "About GoToMeeting"; ObjectID = "g1l-Kv-unQ"; */
+"g1l-Kv-unQ.title" = "GoToMeeting 정보";
+
+/* Class = "NSMenuItem"; title = "Meeting details"; ObjectID = "pdM-DU-y02"; */
+"pdM-DU-y02.title" = "미팅 세부 정보";
+
+/* Class = "NSTextFieldCell"; title = "Talking:"; ObjectID = "v3k-rN-w7b"; */
+"v3k-rN-w7b.title" = "발언 중:";

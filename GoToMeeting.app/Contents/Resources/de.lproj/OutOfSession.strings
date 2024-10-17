@@ -1,0 +1,552 @@
+
+/* Class = "NSMenuItem"; title = "Alle in den Vordergrund"; ObjectID = "5"; */
+"5.title" = "Alle in den Vordergrund";
+
+/* Class = "NSMenuItem"; title = "Fenster"; ObjectID = "19"; */
+"19.title" = "Fenster";
+
+/* Class = "NSMenuItem"; title = "Minimieren"; ObjectID = "23"; */
+"23.title" = "Minimieren";
+
+/* Class = "NSMenu"; title = "Fenster"; ObjectID = "24"; */
+"24.title" = "Fenster";
+
+/* Class = "NSMenu"; title = "MainMenu"; ObjectID = "29"; */
+"29.title" = "MainMenu";
+
+/* Class = "NSMenuItem"; title = "GoToMeeting"; ObjectID = "56"; */
+"56.title" = "GoToMeeting";
+
+/* Class = "NSMenu"; title = "GoToMeeting"; ObjectID = "57"; */
+"57.title" = "GoToMeeting";
+
+/* Class = "NSMenuItem"; title = "Info zu GoToMeeting"; ObjectID = "58"; */
+"58.title" = "Info zu GoToMeeting";
+
+/* Class = "NSMenuItem"; title = "Hilfe"; ObjectID = "103"; */
+"103.title" = "Hilfe";
+
+/* Class = "NSMenu"; title = "Hilfe"; ObjectID = "106"; */
+"106.title" = "Hilfe";
+
+/* Class = "NSMenuItem"; title = "GoToMeeting"; ObjectID = "111"; */
+"111.title" = "GoToMeeting";
+
+/* Class = "NSMenuItem"; title = "Einstellungen..."; ObjectID = "129"; */
+"129.title" = "Einstellungen...";
+
+/* Class = "NSMenu"; title = "Dienste"; ObjectID = "130"; */
+"130.title" = "Dienste";
+
+/* Class = "NSMenuItem"; title = "Dienste"; ObjectID = "131"; */
+"131.title" = "Dienste";
+
+/* Class = "NSMenuItem"; title = "GoToMeeting ausblenden"; ObjectID = "134"; */
+"134.title" = "GoToMeeting ausblenden";
+
+/* Class = "NSMenuItem"; title = "GoToMeeting beenden"; ObjectID = "136"; */
+"136.title" = "GoToMeeting beenden";
+
+/* Class = "NSMenuItem"; title = "Andere ausblenden"; ObjectID = "145"; */
+"145.title" = "Andere ausblenden";
+
+/* Class = "NSMenuItem"; title = "Alle anzeigen"; ObjectID = "150"; */
+"150.title" = "Alle anzeigen";
+
+/* Class = "NSMenuItem"; title = "Sprechen beenden"; ObjectID = "195"; */
+"195.title" = "Sprechen beenden";
+
+/* Class = "NSMenuItem"; title = "Sprechen beginnen"; ObjectID = "196"; */
+"196.title" = "Sprechen beginnen";
+
+/* Class = "NSMenuItem"; title = "Kopieren"; ObjectID = "197"; */
+"197.title" = "Kopieren";
+
+/* Class = "NSMenuItem"; title = "Alles auswählen"; ObjectID = "198"; */
+"198.title" = "Alles auswählen";
+
+/* Class = "NSMenuItem"; title = "Abschneiden"; ObjectID = "199"; */
+"199.title" = "Abschneiden";
+
+/* Class = "NSMenu"; title = "Rechtschreibung"; ObjectID = "200"; */
+"200.title" = "Rechtschreibung";
+
+/* Class = "NSMenuItem"; title = "Rechtschreibprüfung"; ObjectID = "201"; */
+"201.title" = "Rechtschreibprüfung";
+
+/* Class = "NSMenuItem"; title = "Löschen"; ObjectID = "202"; */
+"202.title" = "Löschen";
+
+/* Class = "NSMenuItem"; title = "Einfügen"; ObjectID = "203"; */
+"203.title" = "Einfügen";
+
+/* Class = "NSMenuItem"; title = "Rechtschreibung..."; ObjectID = "204"; */
+"204.title" = "Rechtschreibung...";
+
+/* Class = "NSMenu"; title = "Bearbeiten"; ObjectID = "205"; */
+"205.title" = "Bearbeiten";
+
+/* Class = "NSMenuItem"; title = "Rückgängig machen"; ObjectID = "207"; */
+"207.title" = "Rückgängig machen";
+
+/* Class = "NSMenuItem"; title = "Weitersuchen"; ObjectID = "208"; */
+"208.title" = "Weitersuchen";
+
+/* Class = "NSMenuItem"; title = "Suchen..."; ObjectID = "209"; */
+"209.title" = "Suchen...";
+
+/* Class = "NSMenuItem"; title = "Zur Auswahl springen"; ObjectID = "210"; */
+"210.title" = "Zur Auswahl springen";
+
+/* Class = "NSMenuItem"; title = "Sprache"; ObjectID = "211"; */
+"211.title" = "Sprache";
+
+/* Class = "NSMenu"; title = "Sprache"; ObjectID = "212"; */
+"212.title" = "Sprache";
+
+/* Class = "NSMenuItem"; title = "Vorherige suchen"; ObjectID = "213"; */
+"213.title" = "Vorherige suchen";
+
+/* Class = "NSMenuItem"; title = "Wiederholen"; ObjectID = "215"; */
+"215.title" = "Wiederholen";
+
+/* Class = "NSMenuItem"; title = "Rechtschreibung"; ObjectID = "216"; */
+"216.title" = "Rechtschreibung";
+
+/* Class = "NSMenuItem"; title = "Bearbeiten"; ObjectID = "217"; */
+"217.title" = "Bearbeiten";
+
+/* Class = "NSMenuItem"; title = "Suchen"; ObjectID = "218"; */
+"218.title" = "Suchen";
+
+/* Class = "NSMenuItem"; title = "Rechtschreibprüfung während der Eingabe"; ObjectID = "219"; */
+"219.title" = "Rechtschreibprüfung während der Eingabe";
+
+/* Class = "NSMenu"; title = "Suchen"; ObjectID = "220"; */
+"220.title" = "Suchen";
+
+/* Class = "NSMenuItem"; title = "Auswahl für die Suche verwenden"; ObjectID = "221"; */
+"221.title" = "Auswahl für die Suche verwenden";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "239"; */
+"239.title" = "Zoom";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "About Daisey"; ObjectID = "610"; */
+"610.ibExternalAccessibilityDescription" = "About Daisey";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "About G2M Text"; ObjectID = "611"; */
+"611.ibExternalAccessibilityDescription" = "About G2M Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "About Version Text"; ObjectID = "612"; */
+"612.ibExternalAccessibilityDescription" = "About Version Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "About Copyright Text"; ObjectID = "613"; */
+"613.ibExternalAccessibilityDescription" = "About Copyright Text";
+
+/* Class = "NSWindow"; title = "Benutzername und Kennwort erforderlich"; ObjectID = "617"; */
+"617.title" = "Benutzername und Kennwort erforderlich";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Proxy Instruction Text"; ObjectID = "619"; */
+"619.ibExternalAccessibilityDescription" = "Proxy Instruction Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Proxy User Text"; ObjectID = "621"; */
+"621.ibExternalAccessibilityDescription" = "Proxy User Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Proxy User Field"; ObjectID = "622"; */
+"622.ibExternalAccessibilityDescription" = "Proxy User Field";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Proxy Password Text"; ObjectID = "623"; */
+"623.ibExternalAccessibilityDescription" = "Proxy Password Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Proxy Password Field"; ObjectID = "624"; */
+"624.ibExternalAccessibilityDescription" = "Proxy Password Field";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Proxy OK Button"; ObjectID = "625"; */
+"625.ibExternalAccessibilityDescription" = "Proxy OK Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Proxy Cancel Button"; ObjectID = "626"; */
+"626.ibExternalAccessibilityDescription" = "Proxy Cancel Button";
+
+/* Class = "NSMenu"; title = "Menü"; ObjectID = "645"; */
+"645.title" = "Menü";
+
+/* Class = "NSMenuItem"; title = "Info"; ObjectID = "648"; */
+"648.title" = "Info";
+
+/* Class = "NSMenuItem"; title = "Hilfe"; ObjectID = "650"; */
+"650.title" = "Hilfe";
+
+/* Class = "NSWindow"; title = "Telefonkonferenznummern"; ObjectID = "653"; */
+"653.title" = "Telefonkonferenznummern";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Conf Call Numbers"; ObjectID = "655"; */
+"655.ibExternalAccessibilityDescription" = "Conf Call Numbers";
+
+/* Class = "NSMenuItem"; title = "Teilnehmen..."; ObjectID = "659"; */
+"659.title" = "Teilnehmen...";
+
+/* Class = "NSMenuItem"; title = "GoToMeeting"; ObjectID = "663"; */
+"663.title" = "GoToMeeting";
+
+/* Class = "NSMenu"; title = "GoToMeeting"; ObjectID = "664"; */
+"664.title" = "GoToMeeting";
+
+/* Class = "NSMenuItem"; title = "Ad-hoc-Meeting..."; ObjectID = "665"; */
+"665.title" = "Ad-hoc-Meeting...";
+
+/* Class = "NSMenuItem"; title = "GoToWebinar"; ObjectID = "666"; */
+"666.title" = "GoToWebinar";
+
+/* Class = "NSMenu"; title = "GoToWebinar"; ObjectID = "667"; */
+"667.title" = "GoToWebinar";
+
+/* Class = "NSMenuItem"; title = "Webinar jetzt starten..."; ObjectID = "668"; */
+"668.title" = "Webinar jetzt starten...";
+
+/* Class = "NSMenuItem"; title = "Meeting planen..."; ObjectID = "672"; */
+"672.title" = "Meeting planen...";
+
+/* Class = "NSMenuItem"; title = "Meine Meetings..."; ObjectID = "673"; */
+"673.title" = "Meine Meetings...";
+
+/* Class = "NSMenuItem"; title = "Webinar planen..."; ObjectID = "674"; */
+"674.title" = "Webinar planen...";
+
+/* Class = "NSMenuItem"; title = "Meine Webinare..."; ObjectID = "675"; */
+"675.title" = "Meine Webinare...";
+
+/* Class = "NSMenuItem"; title = "GoToMeeting"; ObjectID = "737"; */
+"737.title" = "GoToMeeting";
+
+/* Class = "NSMenu"; title = "GoToMeeting"; ObjectID = "738"; */
+"738.title" = "GoToMeeting";
+
+/* Class = "NSMenuItem"; title = "Meeting planen..."; ObjectID = "739"; */
+"739.title" = "Meeting planen...";
+
+/* Class = "NSMenuItem"; title = "Meine Meetings..."; ObjectID = "740"; */
+"740.title" = "Meine Meetings...";
+
+/* Class = "NSMenuItem"; title = "Ad-hoc-Meeting..."; ObjectID = "741"; */
+"741.title" = "Ad-hoc-Meeting...";
+
+/* Class = "NSMenuItem"; title = "GoToWebinar"; ObjectID = "742"; */
+"742.title" = "GoToWebinar";
+
+/* Class = "NSMenu"; title = "GoToWebinar"; ObjectID = "743"; */
+"743.title" = "GoToWebinar";
+
+/* Class = "NSMenuItem"; title = "Meine Webinare..."; ObjectID = "744"; */
+"744.title" = "Meine Webinare...";
+
+/* Class = "NSMenuItem"; title = "Webinar jetzt starten..."; ObjectID = "745"; */
+"745.title" = "Webinar jetzt starten...";
+
+/* Class = "NSMenuItem"; title = "Webinar planen..."; ObjectID = "746"; */
+"746.title" = "Webinar planen...";
+
+/* Class = "NSMenuItem"; title = "Teilnehmen..."; ObjectID = "752"; */
+"752.title" = "Teilnehmen...";
+
+/* Class = "NSWindow"; title = "Fortschritt"; ObjectID = "781"; */
+"781.title" = "Fortschritt";
+
+/* Class = "NSWindow"; title = "Datei herunterladen"; ObjectID = "800"; */
+"800.title" = "Datei herunterladen";
+
+/* Class = "NSTextFieldCell"; title = "GoToMeeting"; ObjectID = "841"; */
+"841.title" = "GoToMeeting";
+
+/* Class = "NSTextFieldCell"; title = "Version 4.0.0.000\nCitrixId: 123456789=="; ObjectID = "842"; */
+"842.title" = "Version 4.0.0.000\nCitrixId: 123456789==";
+
+/* Class = "NSTextFieldCell"; title = "Copyright-String stammt aus der Datei InfoPlist.strings."; ObjectID = "843"; */
+"843.title" = "Copyright-String stammt aus der Datei InfoPlist.strings.";
+
+/* Class = "NSTextFieldCell"; title = "Authentifizierung für Internetzugriff mittels Proxy erforderlich."; ObjectID = "845"; */
+"845.title" = "Authentifizierung für Internetzugriff mittels Proxy erforderlich.";
+
+/* Class = "NSTextFieldCell"; title = "Benutzername:"; ObjectID = "846"; */
+"846.title" = "Benutzername:";
+
+/* Class = "NSTextFieldCell"; title = "Kennwort:"; ObjectID = "848"; */
+"848.title" = "Kennwort:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "850"; */
+"850.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Abbrechen"; ObjectID = "851"; */
+"851.title" = "Abbrechen";
+
+/* Class = "NSTextFieldCell"; title = "Starten..."; ObjectID = "864"; */
+"864.title" = "Starten...";
+
+/* Class = "NSTextFieldCell"; title = "Erforderliche Version von GoToMeeting wird heruntergeladen..."; ObjectID = "867"; */
+"867.title" = "Erforderliche Version von GoToMeeting wird heruntergeladen...";
+
+/* Class = "NSButtonCell"; title = "Abbrechen"; ObjectID = "868"; */
+"868.title" = "Abbrechen";
+
+/* Class = "NSBox"; title = "Feld"; ObjectID = "983"; */
+"983.title" = "Feld";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Front Door Meet Now Button"; ObjectID = "984"; */
+"984.ibExternalAccessibilityDescription" = "Front Door Meet Now Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Front Door G2M Schedule Button"; ObjectID = "985"; */
+"985.ibExternalAccessibilityDescription" = "Front Door G2M Schedule Button";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Front Door G2M Image"; ObjectID = "986"; */
+"986.ibExternalAccessibilityDescription" = "Front Door G2M Image";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Front Door G2M Tagline"; ObjectID = "987"; */
+"987.ibExternalAccessibilityDescription" = "Front Door G2M Tagline";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Front Door My Meetings Button"; ObjectID = "988"; */
+"988.ibExternalAccessibilityDescription" = "Front Door My Meetings Button";
+
+/* Class = "NSButtonCell"; title = "Meine Meetings"; ObjectID = "989"; */
+"989.title" = "Meine Meetings";
+
+/* Class = "NSTextFieldCell"; title = "Einfache Online-Meetings – Immer und Überall"; ObjectID = "990"; */
+"990.title" = "Einfache Online-Meetings – Immer und Überall";
+
+/* Class = "NSButtonCell"; title = "Meeting planen"; ObjectID = "992"; */
+"992.title" = "Meeting planen";
+
+/* Class = "NSButtonCell"; title = "Ad-hoc-Meeting"; ObjectID = "993"; */
+"993.title" = "Ad-hoc-Meeting";
+
+/* Class = "NSBox"; title = "Feld"; ObjectID = "1010"; */
+"1010.title" = "Feld";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Front Door My Webinars Button"; ObjectID = "1011"; */
+"1011.ibExternalAccessibilityDescription" = "Front Door My Webinars Button";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Front Door G2W Tagline"; ObjectID = "1012"; */
+"1012.ibExternalAccessibilityDescription" = "Front Door G2W Tagline";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Front Door G2W Image"; ObjectID = "1013"; */
+"1013.ibExternalAccessibilityDescription" = "Front Door G2W Image";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Front Door G2W Schedule Button"; ObjectID = "1014"; */
+"1014.ibExternalAccessibilityDescription" = "Front Door G2W Schedule Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Front Door Webinar Now Button"; ObjectID = "1015"; */
+"1015.ibExternalAccessibilityDescription" = "Front Door Webinar Now Button";
+
+/* Class = "NSButtonCell"; title = "Webinar jetzt starten"; ObjectID = "1016"; */
+"1016.title" = "Webinar jetzt starten";
+
+/* Class = "NSButtonCell"; title = "Webinar planen"; ObjectID = "1017"; */
+"1017.title" = "Webinar planen";
+
+/* Class = "NSTextFieldCell"; title = "Web-Events leicht gemacht"; ObjectID = "1019"; */
+"1019.title" = "Web-Events leicht gemacht";
+
+/* Class = "NSButtonCell"; title = "Meine Webinare"; ObjectID = "1020"; */
+"1020.title" = "Meine Webinare";
+
+/* Class = "NSBox"; title = "Feld"; ObjectID = "1024"; */
+"1024.title" = "Feld";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Front Door Train Now Button"; ObjectID = "1025"; */
+"1025.ibExternalAccessibilityDescription" = "Front Door Train Now Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Front Door G2T Schedule Button"; ObjectID = "1026"; */
+"1026.ibExternalAccessibilityDescription" = "Front Door G2T Schedule Button";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Front Door G2T Image"; ObjectID = "1027"; */
+"1027.ibExternalAccessibilityDescription" = "Front Door G2T Image";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Front Door G2T Tagline"; ObjectID = "1028"; */
+"1028.ibExternalAccessibilityDescription" = "Front Door G2T Tagline";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Front Door My Trainings Button"; ObjectID = "1029"; */
+"1029.ibExternalAccessibilityDescription" = "Front Door My Trainings Button";
+
+/* Class = "NSButtonCell"; title = "Meine Schulungen"; ObjectID = "1030"; */
+"1030.title" = "Meine Schulungen";
+
+/* Class = "NSTextFieldCell"; title = "Online-Schulungen leicht gemacht"; ObjectID = "1031"; */
+"1031.title" = "Online-Schulungen leicht gemacht";
+
+/* Class = "NSButtonCell"; title = "Schulung planen"; ObjectID = "1033"; */
+"1033.title" = "Schulung planen";
+
+/* Class = "NSButtonCell"; title = "Schulung jetzt starten"; ObjectID = "1034"; */
+"1034.title" = "Schulung jetzt starten";
+
+/* Class = "NSWindow"; title = "GoToMeeting-Suite"; ObjectID = "1043"; */
+"1043.title" = "GoToMeeting-Suite";
+
+/* Class = "NSBox"; title = "Titel"; ObjectID = "1045"; */
+"1045.title" = "Titel";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Front Door Image"; ObjectID = "1068"; */
+"1068.ibExternalAccessibilityDescription" = "Front Door Image";
+
+/* Class = "NSMenuItem"; title = "GoToTraining"; ObjectID = "1117"; */
+"1117.title" = "GoToTraining";
+
+/* Class = "NSMenu"; title = "GoToTraining"; ObjectID = "1118"; */
+"1118.title" = "GoToTraining";
+
+/* Class = "NSMenuItem"; title = "Meine Schulung..."; ObjectID = "1119"; */
+"1119.title" = "Meine Schulung...";
+
+/* Class = "NSMenuItem"; title = "Schulung planen..."; ObjectID = "1120"; */
+"1120.title" = "Schulung planen...";
+
+/* Class = "NSMenuItem"; title = "GoToTraining"; ObjectID = "1125"; */
+"1125.title" = "GoToTraining";
+
+/* Class = "NSMenu"; title = "GoToTraining"; ObjectID = "1126"; */
+"1126.title" = "GoToTraining";
+
+/* Class = "NSMenuItem"; title = "Schulung planen..."; ObjectID = "1127"; */
+"1127.title" = "Schulung planen...";
+
+/* Class = "NSMenuItem"; title = "Meine Schulungen..."; ObjectID = "1129"; */
+"1129.title" = "Meine Schulungen...";
+
+/* Class = "NSMenuItem"; title = "Anmelden..."; ObjectID = "1135"; */
+"1135.title" = "Anmelden...";
+
+/* Class = "NSMenuItem"; title = "Anmelden..."; ObjectID = "1138"; */
+"1138.title" = "Anmelden...";
+
+/* Class = "NSBox"; title = "Feld"; ObjectID = "1152"; */
+"1152.title" = "Feld";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Front Door Log In Button"; ObjectID = "1153"; */
+"1153.ibExternalAccessibilityDescription" = "Front Door Log In Button";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Front Door Log In Text"; ObjectID = "1154"; */
+"1154.ibExternalAccessibilityDescription" = "Front Door Log In Text";
+
+/* Class = "NSTextFieldCell"; title = "Wenn Sie eine Sitzung organisieren möchten, melden Sie sich zunächst an."; ObjectID = "1161"; */
+"1161.title" = "Wenn Sie eine Sitzung organisieren möchten, melden Sie sich zunächst an.";
+
+/* Class = "NSButtonCell"; title = "Anmelden"; ObjectID = "1162"; */
+"1162.title" = "Anmelden";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "About Info Text"; ObjectID = "1181"; */
+"1181.ibExternalAccessibilityDescription" = "About Info Text";
+
+/* Class = "NSTextFieldCell"; title = "This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/).\nCopyright (c) 1998-2008 The OpenSSL Project. All Rights Reserved."; ObjectID = "1182"; */
+"1182.title" = "This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/).\nCopyright (c) 1998-2008 The OpenSSL Project. All Rights Reserved.";
+
+/* Class = "NSWindow"; title = "Benutzername und Kennwort erforderlich"; ObjectID = "1184"; */
+"1184.title" = "Benutzername und Kennwort erforderlich";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Proxy Domain Field"; ObjectID = "1186"; */
+"1186.ibExternalAccessibilityDescription" = "Proxy Domain Field";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Proxy Cancel Button"; ObjectID = "1187"; */
+"1187.ibExternalAccessibilityDescription" = "Proxy Cancel Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Proxy OK Button"; ObjectID = "1188"; */
+"1188.ibExternalAccessibilityDescription" = "Proxy OK Button";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Proxy Password Field"; ObjectID = "1189"; */
+"1189.ibExternalAccessibilityDescription" = "Proxy Password Field";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Proxy Password Text"; ObjectID = "1190"; */
+"1190.ibExternalAccessibilityDescription" = "Proxy Password Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Proxy User Field"; ObjectID = "1191"; */
+"1191.ibExternalAccessibilityDescription" = "Proxy User Field";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Proxy User Text"; ObjectID = "1192"; */
+"1192.ibExternalAccessibilityDescription" = "Proxy User Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Proxy Domain Text"; ObjectID = "1193"; */
+"1193.ibExternalAccessibilityDescription" = "Proxy Domain Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Proxy Name Text"; ObjectID = "1194"; */
+"1194.ibExternalAccessibilityDescription" = "Proxy Name Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Proxy Instruction Text"; ObjectID = "1195"; */
+"1195.ibExternalAccessibilityDescription" = "Proxy Instruction Text";
+
+/* Class = "NSTextFieldCell"; title = "Authentifizierung für Internetzugriff erforderlich."; ObjectID = "1196"; */
+"1196.title" = "Authentifizierung für Internetzugriff erforderlich.";
+
+/* Class = "NSTextFieldCell"; title = "Domäne:"; ObjectID = "1198"; */
+"1198.title" = "Domäne:";
+
+/* Class = "NSTextFieldCell"; title = "Benutzername:"; ObjectID = "1199"; */
+"1199.title" = "Benutzername:";
+
+/* Class = "NSTextFieldCell"; title = "Kennwort:"; ObjectID = "1201"; */
+"1201.title" = "Kennwort:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "1203"; */
+"1203.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Abbrechen"; ObjectID = "1204"; */
+"1204.title" = "Abbrechen";
+
+/* Class = "NSComboBox"; ibExternalAccessibilityDescription = "<Meeting Id>"; ObjectID = "1243"; */
+"1243.ibExternalAccessibilityDescription" = "<Meeting Id>";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Front Door Join Button"; ObjectID = "1245"; */
+"1245.ibExternalAccessibilityDescription" = "Front Door Join Button";
+
+/* Class = "NSButtonCell"; title = "Teilnehmen"; ObjectID = "1246"; */
+"1246.title" = "Teilnehmen";
+
+/* Class = "NSTextFieldCell"; title = "Geben Sie die Meeting-, Webinar- oder Schulungs-ID oder den Meetingraumnamen ein."; ObjectID = "1287"; */
+"1287.title" = "Geben Sie die Meeting-, Webinar- oder Schulungs-ID oder den Meetingraumnamen ein.";
+
+/* Class = "NSMenuItem"; title = "What's New"; ObjectID = "1SA-RR-XvL"; */
+"1SA-RR-XvL.title" = "Neuigkeiten";
+
+/* Class = "NSMenuItem"; title = "Save Logs..."; ObjectID = "1fJ-7d-Z7B"; */
+"1fJ-7d-Z7B.title" = "Protokolle speichern...";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Discover New G2M Button"; ObjectID = "76u-wI-uKh"; */
+"76u-wI-uKh.ibExternalAccessibilityDescription" = "Discover New G2M Button";
+
+/* Class = "NSMenuItem"; title = "Schulung jetzt starten..."; ObjectID = "8t4-Mk-ZKd"; */
+"8t4-Mk-ZKd.title" = "Schulung jetzt starten...";
+
+/* Class = "NSMenuItem"; title = "GoToMeeting Community"; ObjectID = "Ldp-5R-5vL"; */
+"Ldp-5R-5vL.title" = "GoToMeeting Community";
+
+/* Class = "NSMenuItem"; title = "Abmelden"; ObjectID = "PH9-N0-yDv"; */
+"PH9-N0-yDv.title" = "Abmelden";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "Rnd-d1-c5f"; */
+"Rnd-d1-c5f.title" = "Einstellungen...";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Front Door Discover New G2M label"; ObjectID = "SA2-0K-YH1"; */
+"SA2-0K-YH1.ibExternalAccessibilityDescription" = "Front Door Discover New G2M label";
+
+/* Class = "NSMenuItem"; title = "Try New GoToMeeting..."; ObjectID = "YDS-IB-X6s"; */
+"YDS-IB-X6s.title" = "Neues GoToMeeting testen...";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Front Door Log In Text"; ObjectID = "ZeD-t5-ih7"; */
+"ZeD-t5-ih7.ibExternalAccessibilityDescription" = "Front Door Log In Text";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Schaltfläche 'Neue Funktionen'"; ObjectID = "abw-ip-bxF"; */
+"abw-ip-bxF.ibExternalAccessibilityDescription" = "Schaltfläche 'Neue Funktionen'";
+
+/* Class = "NSTextFieldCell"; title = "Call Me, Licensed under the Apache License, Version 2.0"; ObjectID = "eZz-k3-gw4"; */
+"eZz-k3-gw4.title" = "Call Me, Licensed under the Apache License, Version 2.0";
+
+/* Class = "NSButtonCell"; title = "Was gibt es Neues?"; ObjectID = "gvZ-da-edr"; */
+"gvZ-da-edr.title" = "Was gibt es Neues?";
+
+/* Class = "NSTextFieldCell"; title = "Informationen zu den neuesten Funktionen und Änderungen."; ObjectID = "lDx-p9-Moh"; */
+"lDx-p9-Moh.title" = "Informationen zu den neuesten Funktionen und Änderungen.";
+
+/* Class = "NSButtonCell"; title = "Try the new GoTo"; ObjectID = "o6G-k4-Npd"; */
+"o6G-k4-Npd.title" = "Entdecken Sie das neue GoTo";
+
+/* Class = "NSTextFieldCell"; title = "Discover super simple collaboration."; ObjectID = "z6h-rT-6pQ"; */
+"z6h-rT-6pQ.title" = "Eine noch einfachere Art der Zusammenarbeit.";
+
+/* Class = "NSMenuItem"; title = "Schulung jetzt starten..."; ObjectID = "zIZ-My-qIN"; */
+"zIZ-My-qIN.title" = "Schulung jetzt starten...";

@@ -1,0 +1,31 @@
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Webcam Share Button"; ObjectID = "8"; */
+"8.ibExternalAccessibilityDescription" = "웹캠 공유 단추";
+/* Class = "NSButton"; ibShadowedToolTip = "No one can see you."; ObjectID = "8"; */
+"8.ibShadowedToolTip" = "아무에게도 보이지 않습니다. ";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Webcam Share Button"; ObjectID = "8"; */
+"8.ibExternalAccessibilityDescription" = "Webcam Share Button";
+
+/* Class = "NSTextFieldCell"; title = "Share My Webcam"; ObjectID = "98"; */
+"98.title" = "내 웹캠 공유";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Grab Tab Webcam Share Button"; ObjectID = "142"; */
+"142.ibExternalAccessibilityDescription" = "Grab 탭 웹캠 공유 단추";
+/* Class = "NSButton"; ibShadowedToolTip = "No one can see you."; ObjectID = "142"; */
+"142.ibShadowedToolTip" = "아무에게도 보이지 않습니다. ";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Grab Tab Webcam Share Button"; ObjectID = "142"; */
+"142.ibExternalAccessibilityDescription" = "Grab Tab Webcam Share Button";
+
+/* Class = "NSButtonCell"; title = "Webcams"; ObjectID = "206"; */
+"206.title" = "웹캠";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Authorize Video Button"; ObjectID = "Gwa-eD-PQs"; */
+"Gwa-eD-PQs.ibExternalAccessibilityDescription" = "Authorize Video Button";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Grant access to the camera so that it can be used by the application"; ObjectID = "Gwa-eD-PQs"; */
+"Gwa-eD-PQs.ibShadowedToolTip" = "응용 프로그램에서 사용할 수 있도록 카메라에 대한 액세스 권한을 부여합니다.";
+
+/* Class = "NSButtonCell"; title = "Authorize Video Input..."; ObjectID = "j9a-aG-5lX"; */
+"j9a-aG-5lX.title" = "비디오 입력 승인...";

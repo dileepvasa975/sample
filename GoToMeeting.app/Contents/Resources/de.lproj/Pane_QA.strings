@@ -1,0 +1,69 @@
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Grab Tab Question Notification"; ObjectID = "17"; */
+"17.ibExternalAccessibilityDescription" = "Grab Tab Question Notification";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Grab Show Answered Questions Button"; ObjectID = "18"; */
+"18.ibExternalAccessibilityDescription" = "Grab Show Answered Questions Button";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Klicken Sie hier, um die beantworteten Fragen anzuzeigen."; ObjectID = "18"; */
+"18.ibShadowedToolTip" = "Klicken Sie hier, um die beantworteten Fragen anzuzeigen.";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Questions Answer Field"; ObjectID = "26"; */
+"26.ibExternalAccessibilityDescription" = "Questions Answer Field";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Questions Send All Button"; ObjectID = "27"; */
+"27.ibExternalAccessibilityDescription" = "Questions Send All Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Questions Send Privately Button"; ObjectID = "28"; */
+"28.ibExternalAccessibilityDescription" = "Questions Send Privately Button";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Questions Selected View"; ObjectID = "29"; */
+"29.ibExternalAccessibilityDescription" = "Questions Selected View";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Questions Check Box"; ObjectID = "31"; */
+"31.ibExternalAccessibilityDescription" = "Questions Check Box";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Questions List"; ObjectID = "32"; */
+"32.ibExternalAccessibilityDescription" = "Questions List";
+
+/* Class = "NSTableColumn"; ibExternalAccessibilityDescription = "Qustions List Hide Column"; ObjectID = "34"; */
+"34.ibExternalAccessibilityDescription" = "Qustions List Hide Column";
+
+/* Class = "NSTableColumn"; headerCell.title = "Frage"; ObjectID = "35"; */
+"35.headerCell.title" = "Frage";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Questions List Hide Button"; ObjectID = "36"; */
+"36.ibExternalAccessibilityDescription" = "Questions List Hide Button";
+
+/* Class = "NSTableColumn"; headerCell.title = "Fragensteller"; ObjectID = "37"; */
+"37.headerCell.title" = "Fragensteller";
+
+/* Class = "NSMenu"; title = "Menü"; ObjectID = "75"; */
+"75.title" = "Menü";
+
+/* Class = "NSMenuItem"; title = "Hoch"; ObjectID = "76"; */
+"76.title" = "Hoch";
+
+/* Class = "NSMenuItem"; title = "Gering"; ObjectID = "77"; */
+"77.title" = "Gering";
+
+/* Class = "NSMenuItem"; title = "Mittel"; ObjectID = "78"; */
+"78.title" = "Mittel";
+
+/* Class = "NSTableColumn"; headerCell.title = "Antwort"; ObjectID = "88"; */
+"88.headerCell.title" = "Antwort";
+
+/* Class = "NSTableColumn"; headerCell.title = "Empf."; ObjectID = "91"; */
+"91.headerCell.title" = "Empf.";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Hier Antwort eingeben"; ObjectID = "118"; */
+"118.placeholderString" = "Hier Antwort eingeben";
+
+/* Class = "NSButtonCell"; title = "An alle senden"; ObjectID = "119"; */
+"119.title" = "An alle senden";
+
+/* Class = "NSButtonCell"; title = "Privat senden"; ObjectID = "120"; */
+"120.title" = "Privat senden";
+
+/* Class = "NSButtonCell"; title = "Beantwortete Fragen anzeigen"; ObjectID = "121"; */
+"121.title" = "Beantwortete Fragen anzeigen";

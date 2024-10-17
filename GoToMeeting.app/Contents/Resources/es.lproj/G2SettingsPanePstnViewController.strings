@@ -1,0 +1,41 @@
+/* Class = "NSTextFieldCell"; title = "Access code:"; ObjectID = "3Tc-xS-sTy"; */
+"3Tc-xS-sTy.title" = "Código de acceso:";
+
+/* Class = "NSTextFieldCell"; title = "123-456-789"; ObjectID = "5O3-vn-ceC"; */
+"5O3-vn-ceC.title" = "123-456-789";
+
+/* Class = "NSTextFieldCell"; title = "Enter your phone number"; ObjectID = "Aeg-xb-uYm"; */
+"Aeg-xb-uYm.title" = "Introduzca su número de teléfono";
+
+/* Class = "NSMenuItem"; title = "United States +1"; ObjectID = "M02-Hu-qrS"; */
+"M02-Hu-qrS.title" = "Estados Unidos +1";
+
+/* Class = "NSTextFieldCell"; title = "Long-distance:"; ObjectID = "Pb6-PS-2TB"; */
+"Pb6-PS-2TB.title" = "Número de larga distancia:";
+
+/* Class = "NSTextFieldCell"; title = "+1 805 555-1212"; ObjectID = "PkS-O5-zUP"; */
+"PkS-O5-zUP.title" = "+1 805 555-1212";
+
+/* Class = "NSTextFieldCell"; title = "Country"; ObjectID = "Qkn-VG-OIF"; */
+"Qkn-VG-OIF.title" = "País";
+
+/* Class = "NSTextFieldCell"; title = "Show dial-in info"; ObjectID = "cEV-p4-lQN"; */
+"cEV-p4-lQN.title" = "Mostrar información para llamada telefónica";
+
+/* Class = "NSTextFieldCell"; title = "1 800 555 1212"; ObjectID = "hX3-WO-hSN"; */
+"hX3-WO-hSN.title" = "1 800 555 1212";
+
+/* Class = "NSButtonCell"; title = "Call Me"; ObjectID = "hdr-im-72s"; */
+"hdr-im-72s.title" = "Llamarme";
+
+/* Class = "NSButtonCell"; title = "Remember my number"; ObjectID = "hoF-yi-RLP"; */
+"hoF-yi-RLP.title" = "Recordar mi número";
+
+/* Class = "NSTextFieldCell"; title = "13"; ObjectID = "lMu-dd-jAG"; */
+"lMu-dd-jAG.title" = "13";
+
+/* Class = "NSTextFieldCell"; title = "Toll-free:"; ObjectID = "pWG-t7-IW6"; */
+"pWG-t7-IW6.title" = "Número gratuito:";
+
+/* Class = "NSTextFieldCell"; title = "Audio PIN:"; ObjectID = "vvB-Wq-C7E"; */
+"vvB-Wq-C7E.title" = "PIN de audio:";

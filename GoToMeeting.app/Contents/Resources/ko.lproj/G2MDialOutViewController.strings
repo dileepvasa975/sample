@@ -1,0 +1,75 @@
+
+/* Class = "NSTextFieldCell"; title = "Call up to 5 people. An automated call from GoToMeeting will invite each person to join the meeting audio."; ObjectID = "25a-kr-ZVb"; */
+"25a-kr-ZVb.title" = "최대 5명에게 전화를 걸 수 있습니다. GoToMeeting의 자동화된 통화를 통해 미팅 오디오에 참가할 개별 참가자가 초대됩니다.";
+
+/* Class = "NSTextFieldCell"; placeholderString = "+1 (805) 123-4567"; ObjectID = "2BP-LZ-8hV"; */
+"2BP-LZ-8hV.placeholderString" = "+1 (805) 123-4567";
+
+/* Class = "NSTextFieldCell"; placeholderString = "+1"; ObjectID = "34k-Dr-HtY"; */
+"34k-Dr-HtY.placeholderString" = "+1";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Cancel"; ObjectID = "5dQ-Vn-l9D"; */
+"5dQ-Vn-l9D.ibExternalAccessibilityDescription" = "취소";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Cancel calling this number."; ObjectID = "5dQ-Vn-l9D"; */
+"5dQ-Vn-l9D.ibShadowedToolTip" = "이 번호로 통화하는 것을 취소합니다.";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "7ws-Ft-sV9"; */
+"7ws-Ft-sV9.title" = "Box";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Call or retry all numbers not connected."; ObjectID = "D7a-pu-uU9"; */
+"D7a-pu-uU9.ibShadowedToolTip" = "연결되지 않은 모든 번호로 전화를 걸거나 다시 시도합니다.";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Hbp-M4-rrS"; */
+"Hbp-M4-rrS.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Call"; ObjectID = "QQN-sL-sey"; */
+"QQN-sL-sey.title" = "통화";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Enter the name of the person to call. "; ObjectID = "Sco-dw-BQT"; */
+"Sco-dw-BQT.ibShadowedToolTip" = "통화할 사람의 이름을 입력하십시오. ";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "CallMePhoneEntryView"; ObjectID = "VZA-Ua-7vT"; */
+"VZA-Ua-7vT.ibExternalAccessibilityDescription" = "CallMePhoneEntryView";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Name (optional)"; ObjectID = "auP-jk-fPx"; */
+"auP-jk-fPx.placeholderString" = "이름(선택 사항)";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Enter number to call."; ObjectID = "clx-oC-oz0"; */
+"clx-oC-oz0.ibShadowedToolTip" = "통화할 번호를 입력하십시오.";
+
+/* Class = "NSButtonCell"; title = "Add attendee"; ObjectID = "iDV-LG-wWa"; */
+"iDV-LG-wWa.title" = "참석자 추가";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add another phone number to call."; ObjectID = "lOt-EM-1se"; */
+"lOt-EM-1se.ibShadowedToolTip" = "통화할 다른 전화 번호를 추가합니다.";
+
+/* Class = "NSTextFieldCell"; title = "Calling"; ObjectID = "lwE-ET-Y9l"; */
+"lwE-ET-Y9l.title" = "전화를 거는 중";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Delete this row."; ObjectID = "mLv-tg-RqJ"; */
+"mLv-tg-RqJ.ibShadowedToolTip" = "이 행을 삭제합니다.";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "The attendee hung up."; ObjectID = "mp3-Xm-wsn"; */
+"mp3-Xm-wsn.ibShadowedToolTip" = "The attendee hung up.";
+
+/* Class = "NSBox"; ibExternalAccessibilityDescription = "CallMePhoneEntryBox"; ObjectID = "neZ-CL-HCv"; */
+"neZ-CL-HCv.ibExternalAccessibilityDescription" = "CallMePhoneEntryBox";
+
+/* Class = "NSTextFieldCell"; placeholderString = "(555) 555-5555"; ObjectID = "nk6-7d-sWw"; */
+"nk6-7d-sWw.placeholderString" = "(555) 555-5555";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Name (optional)"; ObjectID = "oyj-S2-DV8"; */
+"oyj-S2-DV8.placeholderString" = "이름(선택 사항)";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Prefix number for the selected country."; ObjectID = "rPv-bl-SRM"; */
+"rPv-bl-SRM.ibShadowedToolTip" = "선택한 국가의 앞에 붙는 번호입니다.";
+
+/* Class = "NSTextFieldCell"; title = "Hung up"; ObjectID = "sKu-7j-h87"; */
+"sKu-7j-h87.title" = "끊음";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "xcF-o0-Ur9"; */
+"xcF-o0-Ur9.title" = "취소";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Select country to call."; ObjectID = "xxD-Eq-T8Z"; */
+"xxD-Eq-T8Z.ibShadowedToolTip" = "통화할 국가를 선택하십시오.";

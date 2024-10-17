@@ -1,0 +1,15 @@
+
+/* Class = "NSWindow"; title = "Invite Others"; ObjectID = "74"; */
+"74.title" = "Einladen";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Invite Copy Button"; ObjectID = "83"; */
+"83.ibExternalAccessibilityDescription" = "Invite Copy Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Invite Email Button"; ObjectID = "84"; */
+"84.ibExternalAccessibilityDescription" = "Invite Email Button";
+
+/* Class = "NSButtonCell"; title = "Copy to Clipboard"; ObjectID = "136"; */
+"136.title" = "Link kopieren";
+
+/* Class = "NSButtonCell"; title = "Email"; ObjectID = "137"; */
+"137.title" = "E-Mail-Einladung";

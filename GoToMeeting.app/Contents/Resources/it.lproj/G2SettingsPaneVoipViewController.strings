@@ -1,0 +1,29 @@
+/* Class = "NSMenuItem"; title = "Built-in Microphone"; ObjectID = "20X-TP-1GG"; */
+"20X-TP-1GG.title" = "Microfono integrato";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "4UI-Eg-Gtb"; */
+"4UI-Eg-Gtb.title" = "Voce 2";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "LhD-lj-6Nz"; */
+"LhD-lj-6Nz.title" = "Voce 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "P4f-zp-nlZ"; */
+"P4f-zp-nlZ.title" = "Voce 3";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "XGN-tL-VjM"; */
+"XGN-tL-VjM.title" = "Voce 3";
+
+/* Class = "NSMenuItem"; title = "Built-in Output"; ObjectID = "Xlz-yP-LdL"; */
+"Xlz-yP-LdL.title" = "Uscita integrata";
+
+/* Class = "NSMenu"; title = "Built-in Output"; ObjectID = "fbS-Bk-qYi"; */
+"fbS-Bk-qYi.title" = "Uscita integrata";
+
+/* Class = "NSTextFieldCell"; title = "Microphone"; ObjectID = "heS-cG-yFA"; */
+"heS-cG-yFA.title" = "Microfono";
+
+/* Class = "NSTextFieldCell"; title = "Speakers"; ObjectID = "mhl-dd-bmc"; */
+"mhl-dd-bmc.title" = "Altoparlanti";
+
+/* Class = "NSButtonCell"; title = "Allow microphone access"; ObjectID = "twA-gd-JCN"; */
+"twA-gd-JCN.title" = "Consenti l'accesso al microfono";

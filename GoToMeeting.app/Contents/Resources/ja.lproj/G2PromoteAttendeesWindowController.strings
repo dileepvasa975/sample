@@ -1,0 +1,29 @@
+/* Class = "NSTextFieldCell"; title = "Choose someone to host the meeting as organizer before you leave."; ObjectID = "07A-SQ-SSC"; */
+"07A-SQ-SSC.title" = "退席する前に、ミーティングの別の開催者を選択します。";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "0FK-wN-iKj"; */
+"0FK-wN-iKj.title" = "キャンセル";
+
+/* Class = "NSButtonCell"; title = "Make organizer & leave"; ObjectID = "9gm-T3-AOT"; */
+"9gm-T3-AOT.title" = "開催者を設定して退席";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Promote Attendee Cancel Button"; ObjectID = "LdT-pP-0Qp"; */
+"LdT-pP-0Qp.ibExternalAccessibilityDescription" = "参加者の昇格のキャンセルボタン";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Qdr-ts-Z0g"; */
+"Qdr-ts-Z0g.title" = "テーブルビューのセル";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Promote Attendee OK Button"; ObjectID = "cND-aF-Brg"; */
+"cND-aF-Brg.ibExternalAccessibilityDescription" = "参加者の昇格の OK ボタン";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "kFk-8b-NIf"; */
+"kFk-8b-NIf.title" = "ウィンドウ";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Promote Attendee Instruction Text"; ObjectID = "qQk-ZS-GVk"; */
+"qQk-ZS-GVk.ibExternalAccessibilityDescription" = "参加者の昇格の指示テキスト";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "rim-Cv-Y8O"; */
+"rim-Cv-Y8O.title" = "テキストセル";
+
+/* Class = "NSTableColumn"; headerCell.title = "Display name"; ObjectID = "vXA-Ch-odB"; */
+"vXA-Ch-odB.headerCell.title" = "表示名";

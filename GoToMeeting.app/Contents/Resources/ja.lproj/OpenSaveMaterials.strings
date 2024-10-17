@@ -1,0 +1,14 @@
+/* Class = "NSWindow"; title = "Download Material"; ObjectID = "27"; */
+"27.title" = "配布資料のダウンロード";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "36"; */
+"36.title" = "キャンセル";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "40"; */
+"40.title" = "保存";
+
+/* Class = "NSButtonCell"; title = "Open"; ObjectID = "41"; */
+"41.title" = "開く";
+
+/* Class = "NSTextFieldCell"; title = "Do you want to open or save this file?"; ObjectID = "42"; */
+"42.title" = "このファイルを開くか、または保存しますか？";

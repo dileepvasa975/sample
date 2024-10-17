@@ -1,0 +1,14 @@
+/* Class = "NSTextFieldCell"; title = "The organizer wants you to use computer audio for this meeting."; ObjectID = "8UB-FX-4Df"; */
+"8UB-FX-4Df.title" = "El organizador quiere que utilice el audio del equipo en esta reunión.";
+
+/* Class = "NSButtonCell"; title = "SAVE AND CONTINUE"; ObjectID = "MYo-6C-TGb"; */
+"MYo-6C-TGb.title" = "GUARDAR Y CONTINUAR";
+
+/* Class = "NSButtonCell"; title = "I don't need audio"; ObjectID = "gpK-ry-QFo"; */
+"gpK-ry-QFo.title" = "No necesito audio";
+
+/* Class = "NSButtonCell"; title = "Switch to phone"; ObjectID = "nYa-jh-U5J"; */
+"nYa-jh-U5J.title" = "Cambiar al teléfono";
+
+/* Class = "NSTextFieldCell"; title = "Choose Your Mic & Speakers"; ObjectID = "uV3-b0-oeO"; */
+"uV3-b0-oeO.title" = "Elija el micrófono y los altavoces";

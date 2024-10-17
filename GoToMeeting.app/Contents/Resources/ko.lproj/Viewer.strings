@@ -1,0 +1,99 @@
+
+/* Class = "NSMenuItem"; title = "Find menu in InSession.xib"; ObjectID = "1aw-uu-RTO"; */
+"1aw-uu-RTO.title" = "InSession.xib에서 메뉴 찾기";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "2R0-iJ-exI"; */
+"2R0-iJ-exI.title" = "다른 보기";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "322"; */
+"322.title" = "다른 보기";
+
+/* Class = "NSMenuItem"; title = "Find menu in InSession.xib"; ObjectID = "323"; */
+"323.title" = "InSession.xib에서 메뉴 찾기";
+
+/* Class = "NSMenuItem"; title = "This is a stand in menu."; ObjectID = "324"; */
+"324.title" = "이 메뉴는 대체 메뉴입니다.";
+
+/* Class = "NSToolbarItem"; label = "Webcams"; ObjectID = "422"; */
+"422.label" = "웹캠";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Webcams"; ObjectID = "422"; */
+"422.paletteLabel" = "웹캠";
+
+/* Class = "NSToolbarItem"; toolTip = "Change webcam preferences"; ObjectID = "422"; */
+"422.toolTip" = "웹캠 기본 설정 변경";
+
+/* Class = "NSMenuItem"; title = "Find menu in InSession.xib"; ObjectID = "1aw-uu-RTO"; */
+"1aw-uu-RTO.title" = "Find menu in InSession.xib";
+
+/* Class = "NSWindow"; title = "Viewer"; ObjectID = "5"; */
+"5.title" = "뷰어";
+
+/* Class = "NSToolbarItem"; label = "Highlighter"; ObjectID = "D4u-DQ-T3k"; */
+"D4u-DQ-T3k.label" = "형광펜";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Highlighter"; ObjectID = "D4u-DQ-T3k"; */
+"D4u-DQ-T3k.paletteLabel" = "형광펜";
+
+/* Class = "NSToolbarItem"; label = "Arrow"; ObjectID = "FsG-nU-Wo7"; */
+"FsG-nU-Wo7.label" = "화살표";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Arrow"; ObjectID = "FsG-nU-Wo7"; */
+"FsG-nU-Wo7.paletteLabel" = "화살표";
+
+/* Class = "NSToolbarItem"; label = "Zoom: 100%"; ObjectID = "PTy-Jt-SxH"; */
+"PTy-Jt-SxH.label" = "확대/축소: 100%";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Zoom: 100%"; ObjectID = "PTy-Jt-SxH"; */
+"PTy-Jt-SxH.paletteLabel" = "확대/축소: 100%";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "S0Y-zL-UJr"; */
+"S0Y-zL-UJr.title" = "다른 보기";
+
+/* Class = "NSToolbarItem"; label = "Webcam Filter"; ObjectID = "T8b-sx-so1"; */
+"T8b-sx-so1.label" = "Webcam Filter";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Webcam Filter"; ObjectID = "T8b-sx-so1"; */
+"T8b-sx-so1.paletteLabel" = "Webcam Filter";
+
+/* Class = "NSToolbarItem"; toolTip = "Change webcam filter"; ObjectID = "T8b-sx-so1"; */
+"T8b-sx-so1.toolTip" = "웹캠 필터 변경";
+
+/* Class = "NSToolbarItem"; label = "Pen"; ObjectID = "bEN-26-Sg7"; */
+"bEN-26-Sg7.label" = "펜";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Pen"; ObjectID = "bEN-26-Sg7"; */
+"bEN-26-Sg7.paletteLabel" = "펜";
+
+/* Class = "NSToolbarItem"; label = "Screenshot"; ObjectID = "bM9-gd-q9B"; */
+"bM9-gd-q9B.label" = "스크린샷";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Screenshot"; ObjectID = "bM9-gd-q9B"; */
+"bM9-gd-q9B.paletteLabel" = "스크린샷";
+
+/* Class = "NSToolbarItem"; toolTip = "Click to save a picture to your desktop."; ObjectID = "bM9-gd-q9B"; */
+"bM9-gd-q9B.toolTip" = "사진을 데스크톱에 저장하려면 클릭하십시오.";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "h8Z-N7-H5J"; */
+"h8Z-N7-H5J.title" = "항목 2";
+
+/* Class = "NSToolbarItem"; label = "Use two screens"; ObjectID = "riE-LX-CiE"; */
+"riE-LX-CiE.label" = "화면 2개 사용";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Use two screens"; ObjectID = "riE-LX-CiE"; */
+"riE-LX-CiE.paletteLabel" = "화면 2개 사용";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "skX-EO-RQt"; */
+"skX-EO-RQt.title" = "항목 3";
+
+/* Class = "NSMenuItem"; title = "This is a stand in menu."; ObjectID = "vhI-9b-LvY"; */
+"vhI-9b-LvY.title" = "이 메뉴는 대체 메뉴입니다.";
+
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "wKB-63-6br"; */
+"wKB-63-6br.title" = "단추";
+
+/* Class = "NSToolbarItem"; label = "Pointer"; ObjectID = "yJQ-N0-fej"; */
+"yJQ-N0-fej.label" = "포인터";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Pointer"; ObjectID = "yJQ-N0-fej"; */
+"yJQ-N0-fej.paletteLabel" = "포인터";

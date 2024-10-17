@@ -1,0 +1,36 @@
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Start Broadcast Text"; ObjectID = "6aw-gF-3VM"; */
+"6aw-gF-3VM.ibExternalAccessibilityDescription" = "Start Broadcast Text";
+
+/* Class = "NSTextFieldCell"; title = "Attendees Still On Hold"; ObjectID = "DcM-ZV-g5r"; */
+"DcM-ZV-g5r.title" = "Teilnehmer im Wartezustand";
+
+/* Class = "NSButtonCell"; title = "Start"; ObjectID = "PC7-Mg-Pu4"; */
+"PC7-Mg-Pu4.title" = "Webinar starten";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Start Broadcast Button"; ObjectID = "V8b-l0-zJa"; */
+"V8b-l0-zJa.ibExternalAccessibilityDescription" = "Start Broadcast Button";
+
+/* Class = "NSTextFieldCell"; title = "In Practice Mode"; ObjectID = "YDb-Cc-JaA"; */
+"YDb-Cc-JaA.title" = "Im Übungsmodus";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Start Broadcast Button"; ObjectID = "ZvA-Rf-opM"; */
+"ZvA-Rf-opM.ibExternalAccessibilityDescription" = "Start Broadcast Button";
+
+/* Class = "NSBox"; title = "Title"; ObjectID = "avn-SY-3JL"; */
+"avn-SY-3JL.title" = "Title";
+
+/* Class = "NSBox"; title = "Title"; ObjectID = "bwq-U5-mvn"; */
+"bwq-U5-mvn.title" = "Title";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Start Broadcast Text"; ObjectID = "h4V-Nm-wpt"; */
+"h4V-Nm-wpt.ibExternalAccessibilityDescription" = "Start Broadcast Text";
+
+/* Class = "NSButtonCell"; title = "Start Broadcast"; ObjectID = "l2k-Xj-7yJ"; */
+"l2k-Xj-7yJ.title" = "Übertragung starten";
+
+/* Class = "NSButtonCell"; title = "Record on start"; ObjectID = "rHa-2q-NdH"; */
+"rHa-2q-NdH.title" = "Aufzeichnung bei Beginn starten";
+
+/* Class = "NSTextFieldCell"; title = "Press *1 to Start the Broadcast for all attendees"; ObjectID = "w0t-pQ-Nig"; */
+"w0t-pQ-Nig.title" = "Drücken Sie die Tasten '*1', um die Audio-Übertragung für alle Teilnehmer zu starten.";

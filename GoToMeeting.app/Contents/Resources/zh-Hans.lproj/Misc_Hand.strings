@@ -1,0 +1,12 @@
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Show Raised Hand Button"; ObjectID = "16"; */
+"16.ibExternalAccessibilityDescription" = "Show Raised Hand Button";
+
+/* Class = "NSButton"; ibShadowedToolTip = "单击可查看已举手的与会者列表。"; ObjectID = "16"; */
+"16.ibShadowedToolTip" = "单击可查看已举手的与会者列表。";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Grab RaiseLower Hand Button"; ObjectID = "19"; */
+"19.ibExternalAccessibilityDescription" = "Grab RaiseLower Hand Button";
+
+/* Class = "NSButton"; ibShadowedToolTip = "举手/放手。"; ObjectID = "19"; */
+"19.ibShadowedToolTip" = "举手/放手。";

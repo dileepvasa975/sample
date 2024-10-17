@@ -1,0 +1,32 @@
+/* Class = "NSTextFieldCell"; title = "Enter your phone number"; ObjectID = "5Jt-2j-1NQ"; */
+"5Jt-2j-1NQ.title" = "전화 번호 입력";
+
+/* Class = "NSButtonCell"; title = "I want to dial in"; ObjectID = "Byn-vx-1mm"; */
+"Byn-vx-1mm.title" = "내가 전화 걸기";
+
+/* Class = "NSButtonCell"; title = "I don't need audio"; ObjectID = "CHY-0V-5z1"; */
+"CHY-0V-5z1.title" = "오디오 필요 없음";
+
+/* Class = "NSButtonCell"; title = "SAVE AND CONTINUE"; ObjectID = "CIL-Ky-PkN"; */
+"CIL-Ky-PkN.title" = "저장 후 계속";
+
+/* Class = "NSTextFieldCell"; title = "Country"; ObjectID = "DOk-gb-mtr"; */
+"DOk-gb-mtr.title" = "국가";
+
+/* Class = "NSButtonCell"; title = "Use computer audio instead"; ObjectID = "FzR-0w-PUf"; */
+"FzR-0w-PUf.title" = "대신 컴퓨터 오디오 사용";
+
+/* Class = "NSTextFieldCell"; title = "The organizer wants you to use the phone for this meeting."; ObjectID = "Q9P-jI-Ejs"; */
+"Q9P-jI-Ejs.title" = "주최자는 이 미팅에서 전화를 사용하기를 바랍니다.";
+
+/* Class = "NSMenuItem"; title = "United States +1"; ObjectID = "WPP-SA-jGU"; */
+"WPP-SA-jGU.title" = "미국 +1";
+
+/* Class = "NSButtonCell"; title = "I'm already on the phone"; ObjectID = "gHT-OK-TsT"; */
+"gHT-OK-TsT.title" = "이미 전화 사용 중";
+
+/* Class = "NSButtonCell"; title = "Remember my number"; ObjectID = "lkS-ae-ETG"; */
+"lkS-ae-ETG.title" = "내 번호 저장";
+
+/* Class = "NSTextFieldCell"; title = "We'll Call Your Phone"; ObjectID = "rhF-If-pfb"; */
+"rhF-If-pfb.title" = "나에게 전화 걸어주기";

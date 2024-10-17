@@ -1,0 +1,369 @@
+
+/* Class = "NSMenu"; title = "Voice"; ObjectID = "126"; */
+"126.title" = "语音";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Select to use your computers microphone and speakers."; ObjectID = "128"; */
+"128.ibShadowedToolTip" = "选择使用计算机的麦克风和扬声器。";
+
+/* Class = "NSMenuItem"; title = "Use Mic & Speakers"; ObjectID = "128"; */
+"128.title" = "使用麦克风和扬声器";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Select to use your telephone."; ObjectID = "129"; */
+"129.ibShadowedToolTip" = "选择使用电话。";
+
+/* Class = "NSMenuItem"; title = "Use Telephone"; ObjectID = "129"; */
+"129.title" = "使用电话";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Select to mute / unmute yourself."; ObjectID = "130"; */
+"130.ibShadowedToolTip" = "选择将您自己静音/取消静音。";
+
+/* Class = "NSMenuItem"; title = "Mute Me"; ObjectID = "130"; */
+"130.title" = "自我静音";
+
+/* Class = "NSMenuItem"; title = "Audio Output"; ObjectID = "131"; */
+"131.title" = "音频输出";
+
+/* Class = "NSMenu"; title = "Audio Output"; ObjectID = "132"; */
+"132.title" = "音频输出";
+
+/* Class = "NSMenuItem"; title = "Item"; ObjectID = "133"; */
+"133.title" = "项目";
+
+/* Class = "NSMenuItem"; title = "Audio Input"; ObjectID = "135"; */
+"135.title" = "音频输入";
+
+/* Class = "NSMenu"; title = "Audio Input"; ObjectID = "136"; */
+"136.title" = "音频输入";
+
+/* Class = "NSMenuItem"; title = "Item"; ObjectID = "137"; */
+"137.title" = "项目";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Grab Tab Mute Button"; ObjectID = "171"; */
+"171.ibExternalAccessibilityDescription" = "Grab Tab Mute Button";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Click to mute / unmute yourself."; ObjectID = "171"; */
+"171.ibShadowedToolTip" = "单击可将您自己静音/取消静音。";
+
+/* Class = "NSMatrix"; ibExternalAccessibilityDescription = "Audio Mode Matrix"; ObjectID = "184"; */
+"184.ibExternalAccessibilityDescription" = "Audio Mode Matrix";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Audio Use VoIP Button"; ObjectID = "185"; */
+"185.ibExternalAccessibilityDescription" = "Audio Use VoIP Button";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "Click to use your computer's microphone and speakers."; ObjectID = "185"; */
+"185.ibShadowedToolTip" = "单击可使用计算机的麦克风和扬声器。";
+
+/* Class = "NSButtonCell"; title = "Computer audio"; ObjectID = "185"; */
+"185.title" = "计算机音频";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Audio Use Telephone Button"; ObjectID = "186"; */
+"186.ibExternalAccessibilityDescription" = "Audio Use Telephone Button";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "Click to use your telephone."; ObjectID = "186"; */
+"186.ibShadowedToolTip" = "单击可使用您的电话。";
+
+/* Class = "NSButtonCell"; title = "Phone call"; ObjectID = "186"; */
+"186.title" = "电话";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "VoIP Options"; ObjectID = "189"; */
+"189.ibExternalAccessibilityDescription" = "VoIP Options";
+
+/* Class = "NSLevelIndicator"; ibExternalAccessibilityDescription = "Audio VoIP Input Level"; ObjectID = "196"; */
+"196.ibExternalAccessibilityDescription" = "Audio VoIP Input Level";
+
+/* Class = "NSLevelIndicator"; ibShadowedToolTip = "Audio input device volume."; ObjectID = "196"; */
+"196.ibShadowedToolTip" = "音频输入设备音量。";
+
+/* Class = "NSLevelIndicator"; ibExternalAccessibilityDescription = "Audio VoIP Output Level"; ObjectID = "197"; */
+"197.ibExternalAccessibilityDescription" = "Audio VoIP Output Level";
+
+/* Class = "NSLevelIndicator"; ibShadowedToolTip = "Audio output device volume."; ObjectID = "197"; */
+"197.ibShadowedToolTip" = "音频输出设备音量。";
+
+/* Class = "NSBox"; ibExternalAccessibilityDescription = "Audio_Pane_Box_7"; ObjectID = "198"; */
+"198.ibExternalAccessibilityDescription" = "Audio_Pane_Box_7";
+
+/* Class = "NSBox"; title = "Title"; ObjectID = "198"; */
+"198.title" = "标题";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Audio PSTN Connected Text"; ObjectID = "222"; */
+"222.ibExternalAccessibilityDescription" = "Audio PSTN Connected Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Audio Talking Text"; ObjectID = "234"; */
+"234.ibExternalAccessibilityDescription" = "Audio Talking Text";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Audio Talkers List"; ObjectID = "235"; */
+"235.ibExternalAccessibilityDescription" = "Audio Talkers List";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Audio Connecting Text"; ObjectID = "240"; */
+"240.ibExternalAccessibilityDescription" = "Audio Connecting Text";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Audio Private Number"; ObjectID = "381"; */
+"381.ibExternalAccessibilityDescription" = "Audio Private Number";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Audio Error Message"; ObjectID = "398"; */
+"398.ibExternalAccessibilityDescription" = "Audio Error Message";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Audio Unmuted Count Text"; ObjectID = "402"; */
+"402.ibExternalAccessibilityDescription" = "Audio Unmuted Count Text";
+
+/* Class = "NSTextFieldCell"; title = "You are connected."; ObjectID = "415"; */
+"415.title" = "您已连接。";
+
+/* Class = "NSTextFieldCell"; title = "Talking:"; ObjectID = "416"; */
+"416.title" = "正在发言:";
+
+/* Class = "NSTextFieldCell"; title = "Name One, Name Two, Name Three"; ObjectID = "417"; */
+"417.title" = "名称一, 名称二, 名称三";
+
+/* Class = "NSTextFieldCell"; title = "Connecting to Audio..."; ObjectID = "418"; */
+"418.title" = "正在连接到音频...";
+
+/* Class = "NSTextFieldCell"; title = "System Font Text"; ObjectID = "427"; */
+"427.title" = "System Font Text";
+
+/* Class = "NSTextFieldCell"; title = "Number of Unmuted Callers:"; ObjectID = "428"; */
+"428.title" = "未静音的呼叫者数量:";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "429"; */
+"429.title" = "广播";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Audio Edit Options Button"; ObjectID = "448"; */
+"448.ibExternalAccessibilityDescription" = "Audio Edit Options Button";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Edit Audio Options"; ObjectID = "448"; */
+"448.ibShadowedToolTip" = "编辑音频选项";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Audio Edit Options Button"; ObjectID = "486"; */
+"486.ibExternalAccessibilityDescription" = "Audio Edit Options Button";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Edit Audio Mode"; ObjectID = "486"; */
+"486.ibShadowedToolTip" = "编辑音频模式";
+
+/* Class = "NSMenuItem"; title = "Audio Help"; ObjectID = "531"; */
+"531.title" = "音频帮助";
+
+/* Class = "NSWindow"; title = "Audio Self Help"; ObjectID = "534"; */
+"534.title" = "音频自我帮助";
+
+/* Class = "NSMenuItem"; ibExternalAccessibilityDescription = "AIR"; ObjectID = "544"; */
+"544.ibExternalAccessibilityDescription" = "AIR";
+
+/* Class = "NSMenuItem"; title = "Audio Issue Reporting"; ObjectID = "544"; */
+"544.title" = "Audio Issue Reporting";
+
+/* Class = "NSMenu"; title = "EditAudioMenu"; ObjectID = "557"; */
+"557.title" = "EditAudioMenu";
+
+/* Class = "NSMenuItem"; title = "Edit Audio Mode..."; ObjectID = "561"; */
+"561.title" = "编辑音频模式...";
+
+/* Class = "NSMenuItem"; title = "Play On-Hold Beeps"; ObjectID = "563"; */
+"563.title" = "播放等待嘟嘟声";
+
+/* Class = "NSMenuItem"; title = "Play Entry/Exit Chimes"; ObjectID = "567"; */
+"567.title" = "播放进入/退出音";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Audio Pane PSTN Mute Button"; ObjectID = "02i-gM-lGi"; */
+"02i-gM-lGi.ibExternalAccessibilityDescription" = "Audio Pane PSTN Mute Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CallMeRememberButton"; ObjectID = "0NF-fu-186"; */
+"0NF-fu-186.ibExternalAccessibilityDescription" = "CallMeRememberButton";
+
+/* Class = "NSTextFieldCell"; title = "+1 (805) 555-1212"; ObjectID = "10z-om-94v"; */
+"10z-om-94v.title" = "+1 (805) 555-1212";
+
+/* Class = "NSBox"; ibExternalAccessibilityDescription = "Audio_Pane_Box_4"; ObjectID = "1qh-kA-Zb7"; */
+"1qh-kA-Zb7.ibExternalAccessibilityDescription" = "Audio_Pane_Box_4";
+
+/* Class = "NSBox"; title = "Title"; ObjectID = "1qh-kA-Zb7"; */
+"1qh-kA-Zb7.title" = "标题";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Audio Input Popup"; ObjectID = "2ue-j2-CF3"; */
+"2ue-j2-CF3.ibExternalAccessibilityDescription" = "Audio Input Popup";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Click to change audio input device."; ObjectID = "2ue-j2-CF3"; */
+"2ue-j2-CF3.ibShadowedToolTip" = "单击可更改音频输入设备。";
+
+/* Class = "NSTextFieldCell"; title = "Enter your phone number"; ObjectID = "3JN-jO-McZ"; */
+"3JN-jO-McZ.title" = "输入您的电话号码";
+
+/* Class = "NSTabView"; ibExternalAccessibilityDescription = "PhoneTabView"; ObjectID = "3MV-IW-xVi"; */
+"3MV-IW-xVi.ibExternalAccessibilityDescription" = "PhoneTabView";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Audio PSTN Additional Link"; ObjectID = "7HQ-w2-KNE"; */
+"7HQ-w2-KNE.ibExternalAccessibilityDescription" = "Audio PSTN Additional Link";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Click to see a listing of additional numbers."; ObjectID = "7HQ-w2-KNE"; */
+"7HQ-w2-KNE.ibShadowedToolTip" = "单击可查看其他号码列表。";
+
+/* Class = "NSTextFieldCell"; title = "To join your meeting, press #"; ObjectID = "7Lk-kU-COy"; */
+"7Lk-kU-COy.title" = "要加入您的会议，请按 #";
+
+/* Class = "NSProgressIndicator"; ibExternalAccessibilityDescription = "CallMeProgressIndicator"; ObjectID = "8kZ-jE-S9V"; */
+"8kZ-jE-S9V.ibExternalAccessibilityDescription" = "CallMeProgressIndicator";
+
+/* Class = "NSTextFieldCell"; title = "000-000-000"; ObjectID = "A9E-De-9Ur"; */
+"A9E-De-9Ur.title" = "000-000-000";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Audio VoIP Muted Text"; ObjectID = "ATX-DK-Svw"; */
+"ATX-DK-Svw.ibExternalAccessibilityDescription" = "Audio VoIP Muted Text";
+
+/* Class = "NSButton"; ibShadowedToolTip = "You either are muted by an organizer or have muted yourself."; ObjectID = "ATX-DK-Svw"; */
+"ATX-DK-Svw.ibShadowedToolTip" = "您被组织者静音或者自我静音。";
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "D8P-ff-Eie"; */
+"D8P-ff-Eie.title" = "0";
+
+/* Class = "NSTabViewItem"; label = "Call me"; ObjectID = "EnR-Ac-5an"; */
+"EnR-Ac-5an.label" = "呼叫我";
+
+/* Class = "NSButtonCell"; title = "Call me"; ObjectID = "FNc-KJ-1f0"; */
+"FNc-KJ-1f0.title" = "呼叫我";
+
+/* Class = "NSButtonCell"; title = "View audio options"; ObjectID = "GkW-AX-jjF"; */
+"GkW-AX-jjF.title" = "查看音频选项";
+
+/* Class = "NSTextFieldCell"; title = "Your audio PIN:"; ObjectID = "Ij0-RM-dHK"; */
+"Ij0-RM-dHK.title" = "您的音频 PIN 码:";
+
+/* Class = "NSBox"; ibExternalAccessibilityDescription = "Audio_Pane_Box_6"; ObjectID = "Jit-OG-i8q"; */
+"Jit-OG-i8q.ibExternalAccessibilityDescription" = "Audio_Pane_Box_6";
+
+/* Class = "NSBox"; title = "Title"; ObjectID = "Jit-OG-i8q"; */
+"Jit-OG-i8q.title" = "标题";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Audio Output Popup"; ObjectID = "KHM-Du-d7d"; */
+"KHM-Du-d7d.ibExternalAccessibilityDescription" = "Audio Output Popup";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Click to change audio output device."; ObjectID = "KHM-Du-d7d"; */
+"KHM-Du-d7d.ibShadowedToolTip" = "单击可更改音频输出设备。";
+
+/* Class = "NSMenuItem"; ibExternalAccessibilityDescription = "AIR"; ObjectID = "MbW-9b-hea"; */
+"MbW-9b-hea.ibExternalAccessibilityDescription" = "AIR";
+
+/* Class = "NSMenuItem"; title = "Report audio issues…"; ObjectID = "MbW-9b-hea"; */
+"MbW-9b-hea.title" = "报告音频问题…";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Country Select"; ObjectID = "Mfp-lb-0HK"; */
+"Mfp-lb-0HK.ibExternalAccessibilityDescription" = "国家/地区选择";
+
+/* Class = "NSTextFieldCell"; title = "+1 (408) 650-3113"; ObjectID = "Pu1-1I-dGJ"; */
+"Pu1-1I-dGJ.title" = "+1 (408) 650-3113";
+
+/* Class = "NSTextFieldCell"; title = "+1 (805) 555-1212"; ObjectID = "Pzn-Au-hfD"; */
+"Pzn-Au-hfD.title" = "+1 (805) 555-1212";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "CallMePhoneTextField"; ObjectID = "QwA-SL-kXc"; */
+"QwA-SL-kXc.ibExternalAccessibilityDescription" = "CallMePhoneTextField";
+
+/* Class = "NSTextFieldCell"; title = "Calling"; ObjectID = "R2g-nI-ErR"; */
+"R2g-nI-ErR.title" = "正在呼叫";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Select to disable in-session audio."; ObjectID = "RFA-7r-I9m"; */
+"RFA-7r-I9m.ibShadowedToolTip" = "Select to disable in-session audio.";
+
+/* Class = "NSMenuItem"; title = "No Audio"; ObjectID = "RFA-7r-I9m"; */
+"RFA-7r-I9m.title" = "无音频";
+
+/* Class = "NSButtonCell"; title = "Remember my number"; ObjectID = "RdY-KD-3CJ"; */
+"RdY-KD-3CJ.title" = "保存我的电话号码";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Audio Pane VoIP Mute Button"; ObjectID = "Sbv-zm-Es6"; */
+"Sbv-zm-Es6.ibExternalAccessibilityDescription" = "Audio Pane VoIP Mute Button";
+
+/* Class = "NSTextFieldCell"; title = "Dial:"; ObjectID = "TRf-3Q-jAc"; */
+"TRf-3Q-jAc.title" = "拨号:";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Audio Pane VoIP Mute Button"; ObjectID = "Tch-Qb-OgM"; */
+"Tch-Qb-OgM.ibExternalAccessibilityDescription" = "Audio Pane VoIP Mute Button";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "%{value1}@ #"; ObjectID = "Uzf-mQ-IYi"; */
+"Uzf-mQ-IYi.ibShadowedDisplayPattern" = "%{value1}@ #";
+
+/* Class = "NSTextFieldCell"; title = "You won't be able to hear the meeting or talk with other meeting attendees or organizers."; ObjectID = "WBY-2E-mG3"; */
+"WBY-2E-mG3.title" = "您将听不到会议的声音，也无法与其他会议与会者或组织者交谈。";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "%{value1}@ #"; ObjectID = "X0z-Xs-zvs"; */
+"X0z-Xs-zvs.ibShadowedDisplayPattern" = "%{value1}@ #";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Phone Number Text"; ObjectID = "X4M-1b-m9n"; */
+"X4M-1b-m9n.ibExternalAccessibilityDescription" = "电话号码文本";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "CallMeCommandButton"; ObjectID = "Xmj-A3-kGt"; */
+"Xmj-A3-kGt.ibExternalAccessibilityDescription" = "CallMeCommandButton";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "NoAudioView"; ObjectID = "Y6p-qf-SNW"; */
+"Y6p-qf-SNW.ibExternalAccessibilityDescription" = "NoAudioView";
+
+/* Class = "NSMenuItem"; title = “Show Audio Statistics..."; ObjectID = "YEv-ZW-4WO"; */
+"YEv-ZW-4WO.title" = "显示音频统计信息...";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Show Audio Select Window Button"; ObjectID = "YGv-0W-aqP"; */
+"YGv-0W-aqP.ibExternalAccessibilityDescription" = "Show Audio Select Window Button";
+
+/* Class = "NSMenuItem"; title = "Show Audio Statistics..."; ObjectID = "bPH-IH-J9q"; */
+"bPH-IH-J9q.title" = "显示音频统计信息...";
+
+/* Class = "NSMenuItem"; title = "Report Audio Issues…"; ObjectID = "dL5-ju-ZIT"; */
+"dL5-ju-ZIT.title" = "报告音频问题…";
+
+/* Class = "NSBox"; ibExternalAccessibilityDescription = "Audio_Pane_Box_5"; ObjectID = "ePL-AH-wbO"; */
+"ePL-AH-wbO.ibExternalAccessibilityDescription" = "Audio_Pane_Box_5";
+
+/* Class = "NSBox"; title = "Title"; ObjectID = "ePL-AH-wbO"; */
+"ePL-AH-wbO.title" = "标题";
+
+/* Class = "NSTextFieldCell"; title = "Hmm, the call failed. Please try again."; ObjectID = "evk-yD-wRB"; */
+"evk-yD-wRB.title" = "啊哦，呼叫失败。请重试。";
+
+/* Class = "NSBox"; ibExternalAccessibilityDescription = "Audio_Pane_Box_6"; ObjectID = "fVs-zf-cuf"; */
+"fVs-zf-cuf.ibExternalAccessibilityDescription" = "Audio_Pane_Box_6";
+
+/* Class = "NSBox"; title = "Title"; ObjectID = "fVs-zf-cuf"; */
+"fVs-zf-cuf.title" = "标题";
+
+/* Class = "NSTextFieldCell"; placeholderString = "(555) 555-5555"; ObjectID = "gbm-KS-aM7"; */
+"gbm-KS-aM7.placeholderString" = "(555) 555-5555";
+
+/* Class = "NSTextFieldCell"; title = "Problem dialing in?"; ObjectID = "h8X-we-k1V"; */
+"h8X-we-k1V.title" = "拨入时遇到问题?";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "PIN Text"; ObjectID = "iL5-v5-9Gb"; */
+"iL5-v5-9Gb.ibExternalAccessibilityDescription" = "PIN 文本";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Audio Assistant Button"; ObjectID = "mXO-HS-J2p"; */
+"mXO-HS-J2p.ibExternalAccessibilityDescription" = "音频助理按钮";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Show quick tips to improve or troubleshoot your audio experience."; ObjectID = "mXO-HS-J2p"; */
+"mXO-HS-J2p.ibShadowedToolTip" = "显示快速提示可改进您的音频体验或者对您遇到的音频问题进行故障排除。";
+
+/* Class = "NSButtonCell"; title = "MUTED"; ObjectID = "mrf-CX-Fs2"; */
+"mrf-CX-Fs2.title" = "已静音";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Long Distance Phone Number Text"; ObjectID = "p3f-qy-C5W"; */
+"p3f-qy-C5W.ibExternalAccessibilityDescription" = "长途电话号码文本";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Access Code Text"; ObjectID = "pYp-sW-a6D"; */
+"pYp-sW-a6D.ibExternalAccessibilityDescription" = "访问代码文本";
+
+/* Class = "NSTextFieldCell"; title = "1-555-555-1111"; ObjectID = "tEm-uZ-DTs"; */
+"tEm-uZ-DTs.title" = "1-555-555-1111";
+
+/* Class = "NSButtonCell"; title = "Troubleshooting"; ObjectID = "tsV-TT-QbP"; */
+"tsV-TT-QbP.title" = "故障排除";
+
+/* Class = "NSButtonCell"; title = "No audio"; ObjectID = "twA-tp-tq5"; */
+"twA-tp-tq5.title" = "无音频";
+
+/* Class = "NSTextFieldCell"; title = "You are connected at"; ObjectID = "uQs-DY-aQx"; */
+"uQs-DY-aQx.title" = "您已连接，使用的电话号码为";
+
+/* Class = "NSTextFieldCell"; title = "Long distance:"; ObjectID = "v4Z-Ut-hYS"; */
+"v4Z-Ut-hYS.title" = "长途电话:";
+
+/* Class = "NSTabViewItem"; label = "Dial in"; ObjectID = "vIi-fv-xEV"; */
+"vIi-fv-xEV.label" = "拨入";
+
+/* Class = "NSTextFieldCell"; title = "Access code:"; ObjectID = "zWg-m0-CMA"; */
+"zWg-m0-CMA.title" = "访问代码:";

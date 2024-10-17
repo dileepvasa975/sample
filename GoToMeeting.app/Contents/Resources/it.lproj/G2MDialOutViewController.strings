@@ -1,0 +1,75 @@
+
+/* Class = "NSTextFieldCell"; title = "Call up to 5 people. An automated call from GoToMeeting will invite each person to join the meeting audio."; ObjectID = "25a-kr-ZVb"; */
+"25a-kr-ZVb.title" = "Chiama fino a 5 persone. Tutti gli invitati riceveranno una chiamata automatica da GoToMeeting per accedere all'audio della riunione.";
+
+/* Class = "NSTextFieldCell"; placeholderString = "+1 (805) 123-4567"; ObjectID = "2BP-LZ-8hV"; */
+"2BP-LZ-8hV.placeholderString" = "+1 (805) 123-4567";
+
+/* Class = "NSTextFieldCell"; placeholderString = "+1"; ObjectID = "34k-Dr-HtY"; */
+"34k-Dr-HtY.placeholderString" = "+1";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Cancel"; ObjectID = "5dQ-Vn-l9D"; */
+"5dQ-Vn-l9D.ibExternalAccessibilityDescription" = "Annulla";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Cancel calling this number."; ObjectID = "5dQ-Vn-l9D"; */
+"5dQ-Vn-l9D.ibShadowedToolTip" = "Annulla la chiamata verso questo numero.";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "7ws-Ft-sV9"; */
+"7ws-Ft-sV9.title" = "Box";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Call or retry all numbers not connected."; ObjectID = "D7a-pu-uU9"; */
+"D7a-pu-uU9.ibShadowedToolTip" = "Chiama o riprova tutti i numeri non connessi.";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Hbp-M4-rrS"; */
+"Hbp-M4-rrS.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Call"; ObjectID = "QQN-sL-sey"; */
+"QQN-sL-sey.title" = "Chiama";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Enter the name of the person to call. "; ObjectID = "Sco-dw-BQT"; */
+"Sco-dw-BQT.ibShadowedToolTip" = "Immette il nome della persona da chiamare. ";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "CallMePhoneEntryView"; ObjectID = "VZA-Ua-7vT"; */
+"VZA-Ua-7vT.ibExternalAccessibilityDescription" = "CallMePhoneEntryView";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Name (optional)"; ObjectID = "auP-jk-fPx"; */
+"auP-jk-fPx.placeholderString" = "Nome (facoltativo)";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Enter number to call."; ObjectID = "clx-oC-oz0"; */
+"clx-oC-oz0.ibShadowedToolTip" = "Immette il numero da chiamare.";
+
+/* Class = "NSButtonCell"; title = "Add attendee"; ObjectID = "iDV-LG-wWa"; */
+"iDV-LG-wWa.title" = "Aggiungi partecipante";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add another phone number to call."; ObjectID = "lOt-EM-1se"; */
+"lOt-EM-1se.ibShadowedToolTip" = "Aggiunge un altro numero di telefono da chiamare.";
+
+/* Class = "NSTextFieldCell"; title = "Calling"; ObjectID = "lwE-ET-Y9l"; */
+"lwE-ET-Y9l.title" = "Chiamata";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Delete this row."; ObjectID = "mLv-tg-RqJ"; */
+"mLv-tg-RqJ.ibShadowedToolTip" = "Elimina questa riga.";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "The attendee hung up."; ObjectID = "mp3-Xm-wsn"; */
+"mp3-Xm-wsn.ibShadowedToolTip" = "The attendee hung up.";
+
+/* Class = "NSBox"; ibExternalAccessibilityDescription = "CallMePhoneEntryBox"; ObjectID = "neZ-CL-HCv"; */
+"neZ-CL-HCv.ibExternalAccessibilityDescription" = "CallMePhoneEntryBox";
+
+/* Class = "NSTextFieldCell"; placeholderString = "(555) 555-5555"; ObjectID = "nk6-7d-sWw"; */
+"nk6-7d-sWw.placeholderString" = "(555) 555-5555";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Name (optional)"; ObjectID = "oyj-S2-DV8"; */
+"oyj-S2-DV8.placeholderString" = "Nome (facoltativo)";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Prefix number for the selected country."; ObjectID = "rPv-bl-SRM"; */
+"rPv-bl-SRM.ibShadowedToolTip" = "Numero del prefisso per il paese selezionato.";
+
+/* Class = "NSTextFieldCell"; title = "Hung up"; ObjectID = "sKu-7j-h87"; */
+"sKu-7j-h87.title" = "Riaggancia";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "xcF-o0-Ur9"; */
+"xcF-o0-Ur9.title" = "Annulla";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Select country to call."; ObjectID = "xxD-Eq-T8Z"; */
+"xxD-Eq-T8Z.ibShadowedToolTip" = "Seleziona il paese da chiamare.";

@@ -1,0 +1,15 @@
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Discover New G2M Button"; ObjectID = "2ae-Jt-2gN"; */
+"2ae-Jt-2gN.ibExternalAccessibilityDescription" = "Discover New G2M Button";
+
+/* Class = "NSBox"; title = "Title"; ObjectID = "bwq-U5-mvn"; */
+"bwq-U5-mvn.title" = "Title";
+
+/* Class = "NSButtonCell"; title = "See what’s new"; ObjectID = "liQ-tA-yO0"; */
+"liQ-tA-yO0.title" = "查看新增功能";
+
+/* Class = "NSTextFieldCell"; title = "It's faster, simpler & more reliable than ever"; ObjectID = "mo9-Hu-USC"; */
+"mo9-Hu-USC.title" = "比以往任何时候更快、更简单且更可靠";
+
+/* Class = "NSTextFieldCell"; title = "Discover the New GoToMeeting"; ObjectID = "rqR-y8-6SH"; */
+"rqR-y8-6SH.title" = "了解全新的 GoToMeeting";

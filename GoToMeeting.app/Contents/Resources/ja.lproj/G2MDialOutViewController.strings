@@ -1,0 +1,75 @@
+
+/* Class = "NSTextFieldCell"; title = "Call up to 5 people. An automated call from GoToMeeting will invite each person to join the meeting audio."; ObjectID = "25a-kr-ZVb"; */
+"25a-kr-ZVb.title" = "5人まで呼び出すことができます。GoToMeetingの自動呼び出し機能がミーティングの各参加者を招待します。";
+
+/* Class = "NSTextFieldCell"; placeholderString = "+1 (805) 123-4567"; ObjectID = "2BP-LZ-8hV"; */
+"2BP-LZ-8hV.placeholderString" = "+1 (805) 123-4567";
+
+/* Class = "NSTextFieldCell"; placeholderString = "+1"; ObjectID = "34k-Dr-HtY"; */
+"34k-Dr-HtY.placeholderString" = "+1";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Cancel"; ObjectID = "5dQ-Vn-l9D"; */
+"5dQ-Vn-l9D.ibExternalAccessibilityDescription" = "キャンセル";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Cancel calling this number."; ObjectID = "5dQ-Vn-l9D"; */
+"5dQ-Vn-l9D.ibShadowedToolTip" = "この番号への呼び出しをキャンセルします。";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "7ws-Ft-sV9"; */
+"7ws-Ft-sV9.title" = "Box";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Call or retry all numbers not connected."; ObjectID = "D7a-pu-uU9"; */
+"D7a-pu-uU9.ibShadowedToolTip" = "接続されていないすべての番号を呼び出すか再試行してください。";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Hbp-M4-rrS"; */
+"Hbp-M4-rrS.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Call"; ObjectID = "QQN-sL-sey"; */
+"QQN-sL-sey.title" = "呼び出し";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Enter the name of the person to call. "; ObjectID = "Sco-dw-BQT"; */
+"Sco-dw-BQT.ibShadowedToolTip" = "呼び出す人の名前を入力してください。 ";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "CallMePhoneEntryView"; ObjectID = "VZA-Ua-7vT"; */
+"VZA-Ua-7vT.ibExternalAccessibilityDescription" = "CallMePhoneEntryView";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Name (optional)"; ObjectID = "auP-jk-fPx"; */
+"auP-jk-fPx.placeholderString" = "名前 (オプション)";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Enter number to call."; ObjectID = "clx-oC-oz0"; */
+"clx-oC-oz0.ibShadowedToolTip" = "呼び出す番号を入力してください。";
+
+/* Class = "NSButtonCell"; title = "Add attendee"; ObjectID = "iDV-LG-wWa"; */
+"iDV-LG-wWa.title" = "参加者を追加";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add another phone number to call."; ObjectID = "lOt-EM-1se"; */
+"lOt-EM-1se.ibShadowedToolTip" = "呼び出す別の電話番号を追加してください。";
+
+/* Class = "NSTextFieldCell"; title = "Calling"; ObjectID = "lwE-ET-Y9l"; */
+"lwE-ET-Y9l.title" = "通話中";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Delete this row."; ObjectID = "mLv-tg-RqJ"; */
+"mLv-tg-RqJ.ibShadowedToolTip" = "この行を削除してください。";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "The attendee hung up."; ObjectID = "mp3-Xm-wsn"; */
+"mp3-Xm-wsn.ibShadowedToolTip" = "The attendee hung up.";
+
+/* Class = "NSBox"; ibExternalAccessibilityDescription = "CallMePhoneEntryBox"; ObjectID = "neZ-CL-HCv"; */
+"neZ-CL-HCv.ibExternalAccessibilityDescription" = "CallMePhoneEntryBox";
+
+/* Class = "NSTextFieldCell"; placeholderString = "(555) 555-5555"; ObjectID = "nk6-7d-sWw"; */
+"nk6-7d-sWw.placeholderString" = "(555) 555-5555";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Name (optional)"; ObjectID = "oyj-S2-DV8"; */
+"oyj-S2-DV8.placeholderString" = "名前 (オプション)";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Prefix number for the selected country."; ObjectID = "rPv-bl-SRM"; */
+"rPv-bl-SRM.ibShadowedToolTip" = "選択した国の識別番号です。";
+
+/* Class = "NSTextFieldCell"; title = "Hung up"; ObjectID = "sKu-7j-h87"; */
+"sKu-7j-h87.title" = "電話を切る";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "xcF-o0-Ur9"; */
+"xcF-o0-Ur9.title" = "キャンセル";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Select country to call."; ObjectID = "xxD-Eq-T8Z"; */
+"xxD-Eq-T8Z.ibShadowedToolTip" = "呼び出す国を選択してください。";

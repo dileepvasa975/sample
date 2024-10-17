@@ -1,0 +1,15 @@
+
+/* Class = "NSWindow"; title = "Descargar material"; ObjectID = "27"; */
+"27.title" = "Descargar material";
+
+/* Class = "NSButtonCell"; title = "Cancelar"; ObjectID = "36"; */
+"36.title" = "Cancelar";
+
+/* Class = "NSButtonCell"; title = "Guardar"; ObjectID = "40"; */
+"40.title" = "Guardar";
+
+/* Class = "NSButtonCell"; title = "Abrir"; ObjectID = "41"; */
+"41.title" = "Abrir";
+
+/* Class = "NSTextFieldCell"; title = "¿Quiere abrir o guardar este archivo?"; ObjectID = "42"; */
+"42.title" = "¿Quiere abrir o guardar este archivo?";

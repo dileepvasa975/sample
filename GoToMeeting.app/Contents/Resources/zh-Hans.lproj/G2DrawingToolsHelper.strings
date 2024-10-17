@@ -1,0 +1,75 @@
+
+/* Class = "NSMenuItem"; title = "Erase all drawings"; ObjectID = "3Dd-4V-IWz"; */
+"3Dd-4V-IWz.title" = "擦除所有绘图";
+
+/* Class = "NSMenuItem"; title = "Choose Pen Color"; ObjectID = "4Vl-K5-foE"; */
+"4Vl-K5-foE.title" = "选择笔的颜色";
+
+/* Class = "NSMenuItem"; title = "Arrow"; ObjectID = "5Sv-3d-FKW"; */
+"5Sv-3d-FKW.title" = "箭头";
+
+/* Class = "NSMenuItem"; title = "Dark green"; ObjectID = "9qM-6l-dgi"; */
+"9qM-6l-dgi.title" = "深绿色";
+
+/* Class = "NSMenuItem"; title = "Attendees can draw"; ObjectID = "F6A-qM-Ba8"; */
+"F6A-qM-Ba8.title" = "与会者可以绘图";
+
+/* Class = "NSMenuItem"; title = "Custom color..."; ObjectID = "Ft7-DH-V34"; */
+"Ft7-DH-V34.title" = "定制颜色…";
+
+/* Class = "NSMenuItem"; title = "Red"; ObjectID = "K54-Fv-npS"; */
+"K54-Fv-npS.title" = "红色";
+
+/* Class = "NSMenuItem"; title = "Highlighter"; ObjectID = "ODq-Gs-T57"; */
+"ODq-Gs-T57.title" = "荧光笔";
+
+/* Class = "NSMenuItem"; title = "Pink"; ObjectID = "Rqk-Vs-Gm5"; */
+"Rqk-Vs-Gm5.title" = "粉红色";
+
+/* Class = "NSMenuItem"; title = "Purple"; ObjectID = "Ufz-Ez-hfg"; */
+"Ufz-Ez-hfg.title" = "紫色";
+
+/* Class = "NSMenuItem"; title = "Spotlight"; ObjectID = "VH8-Hs-OE5"; */
+"VH8-Hs-OE5.title" = "聚光灯";
+
+/* Class = "NSMenuItem"; title = "Black"; ObjectID = "Yic-U9-6rN"; */
+"Yic-U9-6rN.title" = "黑色";
+
+/* Class = "NSMenuItem"; title = "Pointer"; ObjectID = "bKc-da-zec"; */
+"bKc-da-zec.title" = "指针";
+
+/* Class = "NSMenuItem"; title = "Orange"; ObjectID = "c9H-e1-ZFy"; */
+"c9H-e1-ZFy.title" = "橙色";
+
+/* Class = "NSMenuItem"; title = "Remember this pen color"; ObjectID = "cfK-ne-NFg"; */
+"cfK-ne-NFg.title" = "记住笔的颜色";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "d4f-X8-JIg"; */
+"d4f-X8-JIg.title" = "Menu";
+
+/* Class = "NSMenuItem"; title = "Light blue"; ObjectID = "drz-Q5-IwU"; */
+"drz-Q5-IwU.title" = "浅蓝色";
+
+/* Class = "NSMenuItem"; title = "Brown"; ObjectID = "e5f-W7-K3D"; */
+"e5f-W7-K3D.title" = "棕色";
+
+/* Class = "NSMenuItem"; title = "Pen"; ObjectID = "fvw-Ke-AVz"; */
+"fvw-Ke-AVz.title" = "笔";
+
+/* Class = "NSMenuItem"; title = "Title Item"; ObjectID = "gEF-Si-2qI"; */
+"gEF-Si-2qI.title" = "Title Item";
+
+/* Class = "NSMenuItem"; title = "Blue"; ObjectID = "gN4-fu-Ard"; */
+"gN4-fu-Ard.title" = "蓝色";
+
+/* Class = "NSMenuItem"; title = "Green"; ObjectID = "i0H-BR-v2d"; */
+"i0H-BR-v2d.title" = "绿色";
+
+/* Class = "NSMenuItem"; title = "Yellow"; ObjectID = "l4W-Zk-YPU"; */
+"l4W-Zk-YPU.title" = "黄色";
+
+/* Class = "NSMenu"; title = "Choose Pen Color"; ObjectID = "l9S-eJ-ya3"; */
+"l9S-eJ-ya3.title" = "选择笔的颜色";
+
+/* Class = "NSMenuItem"; title = "Gray"; ObjectID = "s8x-xe-Cfl"; */
+"s8x-xe-Cfl.title" = "灰色";

@@ -1,0 +1,15 @@
+
+/* Class = "NSTextFieldCell"; title = "播放视频、共同处理文档或为几个小组启动分会场!"; ObjectID = "2eg-mb-4xt"; */
+"2eg-mb-4xt.title" = "播放视频、共同处理文档或为几个小组启动分会场!";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Breakout Button"; ObjectID = "Qa7-hZ-xRt"; */
+"Qa7-hZ-xRt.ibExternalAccessibilityDescription" = "Breakout Button";
+
+/* Class = "NSButtonCell"; title = "分会场"; ObjectID = "kVa-p1-omA"; */
+"kVa-p1-omA.title" = "分会场";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Web Activity Button"; ObjectID = "lSa-r0-rRI"; */
+"lSa-r0-rRI.ibExternalAccessibilityDescription" = "Web Activity Button";
+
+/* Class = "NSButtonCell"; title = "选择活动"; ObjectID = "rd9-lP-Oqo"; */
+"rd9-lP-Oqo.title" = "选择活动";

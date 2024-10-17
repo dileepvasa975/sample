@@ -1,0 +1,21 @@
+
+/* Class = "NSButtonCell"; title = "Remote control"; ObjectID = "IT6-KX-dRl"; */
+"IT6-KX-dRl.title" = "远程控制";
+
+/* Class = "NSMenuItem"; title = "Include Media Sound"; ObjectID = "Sad-IK-wdM"; */
+"Sad-IK-wdM.title" = "包括媒体声音(测试版)";
+
+/* Class = "NSButtonCell"; title = "Options"; ObjectID = "ZIK-jF-vYv"; */
+"ZIK-jF-vYv.title" = "选项";
+
+/* Class = "NSButtonCell"; title = "Drawing tools"; ObjectID = "cM7-lH-rL6"; */
+"cM7-lH-rL6.title" = "绘图工具";
+
+/* Class = "NSMenuItem"; title = "Item"; ObjectID = "mhq-3Q-dWW"; */
+"mhq-3Q-dWW.title" = "Item";
+
+/* Class = "NSMenuItem"; title = "Make Presenter"; ObjectID = "qB4-UF-tl6"; */
+"qB4-UF-tl6.title" = "设为演示者";
+
+/* Class = "NSMenu"; title = "Make Presenter"; ObjectID = "ven-66-PDG"; */
+"ven-66-PDG.title" = "设为演示者";

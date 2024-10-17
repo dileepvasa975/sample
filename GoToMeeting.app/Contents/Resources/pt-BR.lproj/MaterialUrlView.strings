@@ -1,0 +1,11 @@
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Material URL Label"; ObjectID = "8"; */
+"8.ibExternalAccessibilityDescription" = "Material URL Label";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "9"; */
+"9.title" = "Label";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Material URL Link"; ObjectID = "42"; */
+"42.ibExternalAccessibilityDescription" = "Material URL Link";
+
+/* Class = "NSTextFieldCell"; title = "Link Label"; ObjectID = "43"; */
+"43.title" = "Link Label";

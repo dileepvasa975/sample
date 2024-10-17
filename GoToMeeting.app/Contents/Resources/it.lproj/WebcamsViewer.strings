@@ -1,0 +1,22 @@
+
+/* Class = "NSToolbarItem"; label = "Use one screen"; ObjectID = "2O2-iL-bGn"; */
+"2O2-iL-bGn.label" = "Usa un solo schermo";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Use one screen"; ObjectID = "2O2-iL-bGn"; */
+"2O2-iL-bGn.paletteLabel" = "Usa un solo schermo";
+
+"2O2-iL-bGn.toolTip" = "Visualizza la condivisione dello schermo e le webcam sullo stesso schermo.";
+
+/* Class = "NSToolbarItem"; label = "Webcam Filter"; ObjectID = "ifs-Sr-SUk"; */
+"ifs-Sr-SUk.label" = "Filtro webcam";
+/* Class = "NSToolbarItem"; paletteLabel = "Webcam Filter"; ObjectID = "ifs-Sr-SUk"; */
+"ifs-Sr-SUk.paletteLabel" = "Filtro webcam";
+/* Class = "NSToolbarItem"; toolTip = "Change webcam filter"; ObjectID = "ifs-Sr-SUk"; */
+"ifs-Sr-SUk.toolTip" = "";
+
+/* Class = "NSToolbarItem"; label = "Webcams"; ObjectID = "p9H-aq-Rdr"; */
+"p9H-aq-Rdr.label" = "Webcam";
+/* Class = "NSToolbarItem"; paletteLabel = "Webcams"; ObjectID = "p9H-aq-Rdr"; */
+"p9H-aq-Rdr.paletteLabel" = "Webcam";
+/* Class = "NSToolbarItem"; toolTip = "Change webcam preferences"; ObjectID = "p9H-aq-Rdr"; */
+"p9H-aq-Rdr.toolTip" = "Modifica preferenze webcam";

@@ -1,0 +1,12 @@
+
+/* Class = "NSTextFieldCell"; title = "Do you want to unmute?"; ObjectID = "3Qp-is-KMH"; */
+"3Qp-is-KMH.title" = "要取消静音吗?";
+
+/* Class = "NSButtonCell"; title = "Not now"; ObjectID = "Evv-v8-teT"; */
+"Evv-v8-teT.title" = "稍后";
+
+/* Class = "NSTextFieldCell"; title = "The organizer is requesting that you unmute yourself."; ObjectID = "ZVE-G2-VBS"; */
+"ZVE-G2-VBS.title" = "组织者请求您将自己取消静音。";
+
+/* Class = "NSButtonCell"; title = "Unmute"; ObjectID = "hBV-k5-BSW"; */
+"hBV-k5-BSW.title" = "取消静音";

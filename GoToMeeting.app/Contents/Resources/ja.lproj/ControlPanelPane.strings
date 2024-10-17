@@ -1,0 +1,14 @@
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Control Panel Pane Title"; ObjectID = "10"; */
+"10.ibExternalAccessibilityDescription" = "Control Panel Pane Title";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Control Panel Pane Custom Text"; ObjectID = "21"; */
+"21.ibExternalAccessibilityDescription" = "Control Panel Pane Custom Text";
+
+/* Class = "NSTextFieldCell"; title = "Title"; ObjectID = "28"; */
+"28.title" = "題";
+
+/* Class = "NSTextFieldCell"; title = "Custom Text"; ObjectID = "29"; */
+"29.title" = "カスタムテキスト";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Undock pane from Control Panel"; ObjectID = "30"; */
+"30.ibShadowedToolTip" = "ペインをコントロールパネルからドッキング解除";

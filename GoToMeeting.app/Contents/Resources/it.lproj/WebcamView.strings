@@ -1,0 +1,12 @@
+
+/* Class = "NSButton"; ibShadowedToolTip = "Fare clic per disattivare/riattivare il proprio audio."; ObjectID = "38"; */
+"38.ibShadowedToolTip" = "Fare clic per disattivare/riattivare il proprio audio.";
+
+/* Class = "NSBox"; title = "Visualizzazione completa webcam"; ObjectID = "43"; */
+"43.title" = "Visualizzazione completa webcam";
+
+/* Class = "NSTextFieldCell"; title = "Tom Mahieu"; ObjectID = "48"; */
+"48.title" = "Tom Mahieu";
+
+/* Class = "NSTextFieldCell"; title = "In pausa"; ObjectID = "62"; */
+"62.title" = "In pausa";

@@ -1,0 +1,116 @@
+/* Class = "NSButtonCell"; title = "Start"; ObjectID = "50b-F7-7RH"; */
+"50b-F7-7RH.title" = "Iniciar";
+
+/* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "My Meetings Meeting Subject"; ObjectID = "5f0-fr-fLn"; */
+"5f0-fr-fLn.ibExternalAccessibilityDescription" = "Assunto de reunião de Minhas reuniões";
+
+/* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "My Meetings Meeting ID"; ObjectID = "6cD-BN-xhP"; */
+"6cD-BN-xhP.ibExternalAccessibilityDescription" = "ID de reunião de Minhas reuniões";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "6to-ue-c9B"; */
+"6to-ue-c9B.title" = "Célula de exibição de tabela";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "AAG-Cd-GtP"; */
+"AAG-Cd-GtP.title" = "Fechar";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "My Meetings Start Button"; ObjectID = "Alf-hg-4Kp"; */
+"Alf-hg-4Kp.ibExternalAccessibilityDescription" = "Botão de iniciar de Minhas reuniões";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "My Meetings Refresh Button"; ObjectID = "FaU-NC-oZe"; */
+"FaU-NC-oZe.ibExternalAccessibilityDescription" = "Botão de atualizar de Minhas reuniões";
+
+/* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "My Meetings Meeting Date"; ObjectID = "JGD-Gl-XNT"; */
+"JGD-Gl-XNT.ibExternalAccessibilityDescription" = "Data de reunião de Minhas reuniões";
+
+/* Class = "NSButtonCell"; title = "Invite"; ObjectID = "KUq-6W-72V"; */
+"KUq-6W-72V.title" = "Convidar";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "My Meetings Delete Button"; ObjectID = "Kql-mb-9cc"; */
+"Kql-mb-9cc.ibExternalAccessibilityDescription" = "Botões de excluir de Minhas reuniões";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "My Meetings Edit Button"; ObjectID = "Mj4-Io-dtj"; */
+"Mj4-Io-dtj.ibExternalAccessibilityDescription" = "Botão de editar de Minhas reuniões";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "NWd-Y3-SnO"; */
+"NWd-Y3-SnO.title" = "Célula de exibição de tabela";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "OcZ-PB-nYr"; */
+"OcZ-PB-nYr.title" = "Célula de exibição de tabela";
+
+/* Class = "NSButtonCell"; title = "Join"; ObjectID = "RUh-15-w0i"; */
+"RUh-15-w0i.title" = "Ingressar";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "My Meetings Invite Button"; ObjectID = "V7I-Oh-uJt"; */
+"V7I-Oh-uJt.ibExternalAccessibilityDescription" = "Botão de convidar de Minhas reuniões";
+
+/* Class = "NSTextFieldCell"; title = "Please select a meeting and click Start, Invite, Edit or Delete.  Or for new meetings, click Schedule New Meeting"; ObjectID = "WJf-sh-YvB"; */
+"WJf-sh-YvB.title" = "Selecione uma reunião e clique em Iniciar, Convidar, Editar ou Excluir. Ou, para novas reuniões, clique em Agendar nova reunião";
+
+/* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "My Meetings Meeting Time"; ObjectID = "WN5-cm-8ld"; */
+"WN5-cm-8ld.ibExternalAccessibilityDescription" = "Horário de reunião de Minhas reuniões";
+
+/* Class = "NSTableView"; ibExternalAccessibilityDescription = "My Meetings List"; ObjectID = "Wur-IZ-7cU"; */
+"Wur-IZ-7cU.ibExternalAccessibilityDescription" = "Lista de Minhas reuniões";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "My Meetings Schedule Button"; ObjectID = "Zut-cM-rWs"; */
+"Zut-cM-rWs.ibExternalAccessibilityDescription" = "Botão de agendamento de Minhas reuniões";
+
+/* Class = "NSTableColumn"; headerCell.title = "Subject"; ObjectID = "a6c-x5-D0a"; */
+"a6c-x5-D0a.headerCell.title" = "Assunto";
+
+/* Class = "NSTableColumn"; ibExternalAccessibilityDescription = "My Meetings Subject Column"; ObjectID = "a6c-x5-D0a"; */
+"a6c-x5-D0a.ibExternalAccessibilityDescription" = "Coluna de assunto de Minhas reuniões";
+
+/* Class = "NSButtonCell"; title = "Schedule New Meeting"; ObjectID = "c6v-RF-S09"; */
+"c6v-RF-S09.title" = "Agendar nova reunião";
+
+/* Class = "NSButtonCell"; title = "Edit"; ObjectID = "cka-hA-WOX"; */
+"cka-hA-WOX.title" = "Editar";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "My Meetings Close Button"; ObjectID = "dNg-Zd-IWT"; */
+"dNg-Zd-IWT.ibExternalAccessibilityDescription" = "Botão de fechar de Minhas reuniões";
+
+/* Class = "NSTableColumn"; headerCell.title = "Meeting ID"; ObjectID = "deX-fD-xNt"; */
+"deX-fD-xNt.headerCell.title" = "ID da reunião";
+
+/* Class = "NSTableColumn"; ibExternalAccessibilityDescription = "My Meetings ID Column"; ObjectID = "deX-fD-xNt"; */
+"deX-fD-xNt.ibExternalAccessibilityDescription" = "Coluna de ID de Minhas reuniões";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "My Meetings Join Button"; ObjectID = "g40-hf-8UJ"; */
+"g40-hf-8UJ.ibExternalAccessibilityDescription" = "Botão de ingressar de Minhas reuniões";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "hAu-If-j9C"; */
+"hAu-If-j9C.title" = "Célula de exibição de tabela";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "My Meetings Instruction Text"; ObjectID = "hdT-by-c23"; */
+"hdT-by-c23.ibExternalAccessibilityDescription" = "Texto de instruções de Minhas reuniões";
+
+/* Class = "NSTableColumn"; headerCell.title = "Role"; ObjectID = "jBC-3I-4KF"; */
+"jBC-3I-4KF.headerCell.title" = "Função";
+
+/* Class = "NSTableColumn"; headerCell.title = "Time"; ObjectID = "mHm-0g-af7"; */
+"mHm-0g-af7.headerCell.title" = "Hora";
+
+/* Class = "NSTableColumn"; ibExternalAccessibilityDescription = "My Meetings Time Column"; ObjectID = "mHm-0g-af7"; */
+"mHm-0g-af7.ibExternalAccessibilityDescription" = "Coluna de horário de Minhas reuniões";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "pRB-nA-FIP"; */
+"pRB-nA-FIP.title" = "Célula de exibição de tabela";
+
+/* Class = "NSButtonCell"; title = "Delete"; ObjectID = "tVF-RE-m2q"; */
+"tVF-RE-m2q.title" = "Excluir";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date"; ObjectID = "u4C-Wm-oMB"; */
+"u4C-Wm-oMB.headerCell.title" = "Data";
+
+/* Class = "NSTableColumn"; ibExternalAccessibilityDescription = "My Meetings Date Column"; ObjectID = "u4C-Wm-oMB"; */
+"u4C-Wm-oMB.ibExternalAccessibilityDescription" = "Coluna de data de Minhas reuniões";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "xcN-uR-qi2"; */
+"xcN-uR-qi2.title" = "Célula de texto";
+
+/* Class = "NSWindow"; title = "My Meetings - GoToMeeting"; ObjectID = "xwk-eY-MlS"; */
+"xwk-eY-MlS.title" = "Minhas reuniões - GoToMeeting";
+
+/* Class = "NSButtonCell"; title = "Refresh"; ObjectID = "ycS-OM-xg5"; */
+"ycS-OM-xg5.title" = "Atualizar";

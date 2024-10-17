@@ -1,0 +1,207 @@
+
+/* Class = "NSWindow"; title = "Preferences - GoToMeeting"; ObjectID = "136"; */
+"136.title" = "기본 설정 - GoToMeeting";
+
+/* Class = "NSTabViewItem"; label = "Meetings"; ObjectID = "260"; */
+"260.label" = "미팅";
+
+/* Class = "NSBox"; title = "Attendee Settings"; ObjectID = "262"; */
+"262.title" = "참석자 설정";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "304"; */
+"304.label" = "일반";
+
+/* Class = "NSBox"; title = "Display Name"; ObjectID = "306"; */
+"306.title" = "표시 이름";
+
+/* Class = "NSWindow"; title = "Authenticating"; ObjectID = "364"; */
+"364.title" = "인증 중";
+
+/* Class = "NSTextFieldCell"; title = "By default, attendees can:"; ObjectID = "384"; */
+"384.title" = "기본적으로 참석자가 할 수 있는 작업:";
+
+/* Class = "NSButtonCell"; title = "Chat"; ObjectID = "385"; */
+"385.title" = "채팅";
+
+/* Class = "NSButtonCell"; title = "View the Attendee List"; ObjectID = "386"; */
+"386.title" = "참석자 목록 보기";
+
+/* Class = "NSButtonCell"; title = "When attendees arrive, send a welcome message:"; ObjectID = "387"; */
+"387.title" = "참석자가 도착할 때 환영 메시지 보내기:";
+
+/* Class = "NSTextFieldCell"; title = "Email Address"; ObjectID = "388"; */
+"388.title" = "전자 메일 주소";
+
+/* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "390"; */
+"390.title" = "이름";
+
+/* Class = "NSButtonCell"; title = "Always show my name and email like this"; ObjectID = "391"; */
+"391.title" = "항상 이 형식으로 이름 및 전자 메일 표시";
+
+/* Class = "NSTextFieldCell"; title = "Verifying e-mail and password..."; ObjectID = "395"; */
+"395.title" = "전자 메일과 암호를 확인하는 중...";
+
+/* Class = "NSTabViewItem"; label = "Webcam"; ObjectID = "410"; */
+"410.label" = "웹캠";
+
+/* Class = "NSTextFieldCell"; title = "Connecting..."; ObjectID = "420"; */
+"420.title" = "연결 중...";
+
+/* Class = "NSBox"; title = "Webcam"; ObjectID = "439"; */
+"439.title" = "웹캠";
+
+/* Class = "NSTextFieldCell"; title = "Single Camera Name"; ObjectID = "443"; */
+"443.title" = "단일 카메라 이름";
+
+/* Class = "NSTextFieldCell"; title = "Select a display format:"; ObjectID = "460"; */
+"460.title" = "표시 형식 선택:";
+
+/* Class = "NSButtonCell"; title = "4:3 (Normal)"; ObjectID = "462"; */
+"462.title" = "4:3(일반)";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "464"; */
+"464.title" = "Radio";
+
+/* Class = "NSButtonCell"; title = "16:9 (Widescreen)"; ObjectID = "465"; */
+"465.title" = "16:9(와이드스크린)";
+
+/* Class = "NSBox"; title = "Sign In"; ObjectID = "514"; */
+"514.title" = "로그인";
+
+/* Class = "NSButtonCell"; title = "Remember me on this computer"; ObjectID = "522"; */
+"522.title" = "이 컴퓨터에 로그인 정보 저장";
+
+/* Class = "NSTextFieldCell"; title = "Signed in as:"; ObjectID = "524"; */
+"524.title" = "다음으로 로그인:";
+
+/* Class = "NSBox"; title = "Email Integration"; ObjectID = "544"; */
+"544.title" = "전자 메일 통합";
+
+/* Class = "NSButtonCell"; title = "Use GoToMeeting with default email application"; ObjectID = "546"; */
+"546.title" = "기본 전자 메일 응용 프로그램과 함께 GoToMeeting 사용";
+
+/* Class = "NSTextFieldCell"; title = "Multiline Label"; ObjectID = "566"; */
+"566.title" = "Multiline Label";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "576"; */
+"576.title" = "텍스트 셀";
+
+/* Class = "NSTabViewItem"; label = "Recordings"; ObjectID = "596"; */
+"596.label" = "기록";
+
+/* Class = "NSBox"; title = "Saved Recordings"; ObjectID = "598"; */
+"598.title" = "저장된 기록";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Choose Recording Path Button"; ObjectID = "599"; */
+"599.ibExternalAccessibilityDescription" = "Choose Recording Path Button";
+
+/* Class = "NSTextFieldCell"; title = "Save in:"; ObjectID = "602"; */
+"602.title" = "저장 위치:";
+
+/* Class = "NSButtonCell"; title = "Choose..."; ObjectID = "604"; */
+"604.title" = "선택...";
+
+/* Class = "NSBox"; title = "Cloud Recordings"; ObjectID = "613"; */
+"613.title" = "클라우드 기록";
+
+/* Class = "NSTabViewItem"; label = "Updates"; ObjectID = "653"; */
+"653.label" = "업데이트";
+
+/* Class = "NSBox"; title = "Automatic Updates"; ObjectID = "657"; */
+"657.title" = "자동 업데이트";
+
+/* Class = "NSTextFieldCell"; title = "Visit our website to learn about our latest updates."; ObjectID = "687"; */
+"687.title" = "최신 업데이트에 대해 자세히 알아보려면 회사 웹 사이트를 방문하십시오.";
+
+/* Class = "NSButtonCell"; title = "Automatically install updates (recommended)"; ObjectID = "699"; */
+"699.title" = "자동으로 업데이트 설치(권장)";
+
+/* Class = "NSButtonCell"; title = "Show me audio options before connecting"; ObjectID = "00g-ST-RcZ"; */
+"00g-ST-RcZ.title" = "연결 전 오디오 옵션 표시";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Convert Recordings Now Button"; ObjectID = "0dT-Er-yF6"; */
+"0dT-Er-yF6.ibExternalAccessibilityDescription" = "Convert Recordings Now Button";
+
+/* Class = "NSButtonCell"; title = "Convert Recordings Now..."; ObjectID = "4Ko-7w-Qeq"; */
+"4Ko-7w-Qeq.title" = "지금 기록 변환...";
+
+/* Class = "NSButtonCell"; title = "Test the new GoToMeeting interface"; ObjectID = "72y-Nf-rMC"; */
+"72y-Nf-rMC.title" = "새 GoToMeeting 인터페이스를 테스트합니다";
+
+/* Class = "NSBox"; title = "Chat Logs"; ObjectID = "8Bd-k3-7GP"; */
+"8Bd-k3-7GP.title" = "채팅 로그";
+
+/* Class = "NSButtonCell"; title = "When the meeting ends, save my chat history on this computer"; ObjectID = "BK3-ZH-goS"; */
+"BK3-ZH-goS.title" = "미팅이 끝나면 이 컴퓨터에 내 채팅 기록 저장";
+
+/* Class = "NSBox"; title = "New GoToMeeting User Interface"; ObjectID = "DOZ-QP-bam"; */
+"DOZ-QP-bam.title" = "새 GoToMeeting 사용자 인터페이스";
+
+/* Class = "NSButtonCell"; title = "Open System Preferences"; ObjectID = "F4C-Qh-0jm"; */
+"F4C-Qh-0jm.title" = "시스템 환경설정 열기";
+
+/* Class = "NSButtonCell"; title = "Meetings"; ObjectID = "Guv-78-PEn"; */
+"Guv-78-PEn.title" = "미팅";
+
+/* Class = "NSButtonCell"; title = "Webinars"; ObjectID = "IRG-oh-gbp"; */
+"IRG-oh-gbp.title" = "웨비나";
+
+/* Class = "NSButtonCell"; title = "Mute me automatically"; ObjectID = "LSs-pk-Pdb"; */
+"LSs-pk-Pdb.title" = "내 소리 자동 음소거";
+
+/* Class = "NSButtonCell"; title = "Don't remind me"; ObjectID = "LcA-zq-fzG"; */
+"LcA-zq-fzG.title" = "다시 확인 안 함";
+
+/* Class = "NSTextFieldCell"; title = "Join meetings with your camera off."; ObjectID = "Ntb-5q-EFI"; */
+"Ntb-5q-EFI.title" = "카메라를 끈 상태로 미팅 참가.";
+
+/* Class = "NSBox"; title = "Start of Meeting"; ObjectID = "Qny-o4-ZjU"; */
+"Qny-o4-ZjU.title" = "미팅 시작";
+
+/* Class = "NSButtonCell"; title = "Trainings"; ObjectID = "UUo-XU-nUV"; */
+"UUo-XU-nUV.title" = "교육";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Choose Chat History Path"; ObjectID = "Uve-hs-eyz"; */
+"Uve-hs-eyz.ibExternalAccessibilityDescription" = "Choose Chat History Path";
+
+/* Class = "NSButtonCell"; title = "Skip screen preview and share your current screen by default"; ObjectID = "W0l-iW-RDx"; */
+"W0l-iW-RDx.title" = "화면 미리 보기를 건너뛰고 기본적으로 현재 화면 공유";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "X3o-ph-mck"; */
+"X3o-ph-mck.title" = "Radio";
+
+/* Class = "NSButtonCell"; title = "Skip camera preview when joining a meeting"; ObjectID = "XHW-EI-ofq"; */
+"XHW-EI-ofq.title" = "미팅 참가 시 내 카메라 미리 보기 건너뛰기";
+
+/* Class = "NSTextFieldCell"; title = "To preview your webcam, allow GoToMeeting to access your camera in System Preferences > Security & Privacy."; ObjectID = "YNZ-Lt-Ha3"; */
+"YNZ-Lt-Ha3.title" = "웹캠을 미리 보려면 [시스템 환경설정] > [보안 및 개인 정보]에서 GoToMeeting이 카메라에 액세스할 수 있도록 허용하십시오.";
+
+/* Class = "NSTextFieldCell"; title = "View and share your recordings online"; ObjectID = "YSm-Mh-uSf"; */
+"YSm-Mh-uSf.title" = "온라인으로 기록 보기 및 공유";
+
+/* Class = "NSButtonCell"; title = "Choose..."; ObjectID = "Yoa-iC-h9F"; */
+"Yoa-iC-h9F.title" = "선택...";
+
+/* Class = "NSBox"; title = "Audio"; ObjectID = "d8u-U6-Zom"; */
+"d8u-U6-Zom.title" = "오디오";
+
+/* Class = "NSButtonCell"; title = "Always show meeting controls (new design only)"; ObjectID = "dZF-In-k3X"; */
+"dZF-In-k3X.title" = "미팅 컨트롤 항상 표시(새 디자인 전용)";
+
+/* Class = "NSBox"; title = "Local Recordings"; ObjectID = "fAz-Cb-h6e"; */
+"fAz-Cb-h6e.title" = "로컬 기록";
+
+/* Class = "NSBox"; title = "Meeting controls"; ObjectID = "h9f-Po-ISL"; */
+"h9f-Po-ISL.title" = "미팅 컨트롤";
+
+/* Class = "NSTextFieldCell"; title = "Save in:"; ObjectID = "v4x-YG-nwp"; */
+"v4x-YG-nwp.title" = "저장 위치:";
+
+/* Class = "NSBox"; title = "Screen Sharing"; ObjectID = "vdh-Rg-b48"; */
+"vdh-Rg-b48.title" = "화면 공유";
+
+/* Class = "NSButtonCell"; title = "Remind me to convert recordings"; ObjectID = "xRp-Jb-msJ"; */
+"xRp-Jb-msJ.title" = "기록을 변환하도록 알림";
+
+/* Class = "NSTextFieldCell"; title = "Recordings must be converted before anyone can view them."; ObjectID = "zur-jE-lvd"; */
+"zur-jE-lvd.title" = "기록을 변환해야 사용자가 볼 수 있습니다.";

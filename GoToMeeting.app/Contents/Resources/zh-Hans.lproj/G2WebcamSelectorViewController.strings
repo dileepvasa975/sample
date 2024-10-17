@@ -1,0 +1,39 @@
+
+/* Class = "NSButtonCell"; alternateTitle = "Camera Options"; ObjectID = "7Bz-j5-pEu"; */
+"7Bz-j5-pEu.alternateTitle" = "相机选项";
+
+/* Class = "NSButtonCell"; title = "Camera Position"; ObjectID = "7Bz-j5-pEu"; */
+"7Bz-j5-pEu.title" = "相机位置";
+
+/* Class = "NSMenuItem"; title = "Hide Everyone"; ObjectID = "A4g-DC-vRL"; */
+"A4g-DC-vRL.title" = "隐藏所有人";
+
+/* Class = "NSMenuItem"; title = "Who's Talking"; ObjectID = "Nfb-3y-2fF"; */
+"Nfb-3y-2fF.title" = "发言者";
+
+/* Class = "NSMenu"; title = "View Selection"; ObjectID = "TkL-BE-npA"; */
+"TkL-BE-npA.title" = "查看选择";
+
+/* Class = "NSButtonCell"; alternateTitle = "View Options"; ObjectID = "YH7-Zf-JWB"; */
+"YH7-Zf-JWB.alternateTitle" = "查看选项";
+
+/* Class = "NSButtonCell"; title = "View"; ObjectID = "YH7-Zf-JWB"; */
+"YH7-Zf-JWB.title" = "查看";
+
+/* Class = "NSMenuItem"; title = "View Options"; ObjectID = "bsd-Na-8Yb"; */
+"bsd-Na-8Yb.title" = "查看选项";
+
+/* Class = "NSButtonCell"; title = "Everyone"; ObjectID = "fUq-Z6-lnl"; */
+"fUq-Z6-lnl.title" = "所有人";
+
+/* Class = "NSMenuItem"; title = "Keep Cameras In Front"; ObjectID = "obw-I4-sNY"; */
+"obw-I4-sNY.title" = "将相机保留在前面";
+
+/* Class = "NSMenuItem"; title = "Active Cameras"; ObjectID = "r7t-bT-A2s"; */
+"r7t-bT-A2s.title" = "活动相机";
+
+/* Class = "NSMenuItem"; title = "Everyone"; ObjectID = "tOs-Ag-yUP"; */
+"tOs-Ag-yUP.title" = "所有人";
+
+/* Class = "NSMenuItem"; title = "Camera Position"; ObjectID = "vYU-fc-N2f"; */
+"vYU-fc-N2f.title" = "相机位置";

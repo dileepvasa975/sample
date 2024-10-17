@@ -1,0 +1,15 @@
+
+/* Class = "NSWindow"; title = "下载材料"; ObjectID = "27"; */
+"27.title" = "下载材料";
+
+/* Class = "NSButtonCell"; title = "取消"; ObjectID = "36"; */
+"36.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "保存"; ObjectID = "40"; */
+"40.title" = "保存";
+
+/* Class = "NSButtonCell"; title = "打开"; ObjectID = "41"; */
+"41.title" = "打开";
+
+/* Class = "NSTextFieldCell"; title = "要打开还是保存此文件?"; ObjectID = "42"; */
+"42.title" = "要打开还是保存此文件?";

@@ -1,0 +1,14 @@
+/* Class = "NSTextFieldCell"; title = "Additional call info"; ObjectID = "06M-kT-GnQ"; */
+"06M-kT-GnQ.title" = "その他の通話情報";
+
+/* Class = "NSTextFieldCell"; title = "This is the meeting subject"; ObjectID = "57L-Om-0fC"; */
+"57L-Om-0fC.title" = "これはミーティングの題です";
+
+/* Class = "NSTextFieldCell"; title = "This is the participant info"; ObjectID = "C7x-HE-Tii"; */
+"C7x-HE-Tii.title" = "これは参加者情報です";
+
+/* Class = "NSTextFieldCell"; title = "This is the call info"; ObjectID = "R1B-oV-oPz"; */
+"R1B-oV-oPz.title" = "これは通話情報です";
+
+/* Class = "NSTextFieldCell"; title = "This is the dialing info"; ObjectID = "xwJ-5l-b98"; */
+"xwJ-5l-b98.title" = "これはダイヤル情報です";

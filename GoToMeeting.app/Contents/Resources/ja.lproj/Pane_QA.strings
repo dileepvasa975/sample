@@ -1,0 +1,71 @@
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Grab Tab Question Notification"; ObjectID = "17"; */
+"17.ibExternalAccessibilityDescription" = "Grab Tab Question Notification";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Grab Show Answered Questions Button"; ObjectID = "18"; */
+"18.ibExternalAccessibilityDescription" = "Grab Show Answered Questions Button";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Click to show answered questions."; ObjectID = "18"; */
+"18.ibShadowedToolTip" = "回答済みの質問を表示する場合にクリックします。";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Questions Answer Field"; ObjectID = "26"; */
+"26.ibExternalAccessibilityDescription" = "Questions Answer Field";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Questions Send All Button"; ObjectID = "27"; */
+"27.ibExternalAccessibilityDescription" = "Questions Send All Button";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Questions Send Privately Button"; ObjectID = "28"; */
+"28.ibExternalAccessibilityDescription" = "Questions Send Privately Button";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Questions Selected View"; ObjectID = "29"; */
+"29.ibExternalAccessibilityDescription" = "Questions Selected View";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Questions Check Box"; ObjectID = "31"; */
+"31.ibExternalAccessibilityDescription" = "Questions Check Box";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Questions List"; ObjectID = "32"; */
+"32.ibExternalAccessibilityDescription" = "Questions List";
+
+/* Class = "NSTableView"; ibExternalAccessibilityDescription = "Questions Table"; ObjectID = "33"; */
+"33.ibExternalAccessibilityDescription" = "Questions Table";
+
+/* Class = "NSTableColumn"; ibExternalAccessibilityDescription = "Qustions List Hide Column"; ObjectID = "34"; */
+"34.ibExternalAccessibilityDescription" = "Qustions List Hide Column";
+
+/* Class = "NSTableColumn"; headerCell.title = "Question"; ObjectID = "35"; */
+"35.headerCell.title" = "質問";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Questions List Hide Button"; ObjectID = "36"; */
+"36.ibExternalAccessibilityDescription" = "Questions List Hide Button";
+
+/* Class = "NSTableColumn"; headerCell.title = "Asker"; ObjectID = "37"; */
+"37.headerCell.title" = "質問者";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "75"; */
+"75.title" = "メニュー";
+
+/* Class = "NSMenuItem"; title = "High"; ObjectID = "76"; */
+"76.title" = "高";
+
+/* Class = "NSMenuItem"; title = "Low"; ObjectID = "77"; */
+"77.title" = "低";
+
+/* Class = "NSMenuItem"; title = "Medium"; ObjectID = "78"; */
+"78.title" = "中";
+
+/* Class = "NSTableColumn"; headerCell.title = "Answer"; ObjectID = "88"; */
+"88.headerCell.title" = "回答";
+
+/* Class = "NSTableColumn"; headerCell.title = "Rec'd"; ObjectID = "91"; */
+"91.headerCell.title" = "受信済み";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Type answer here"; ObjectID = "118"; */
+"118.placeholderString" = "ここに回答を入力してください";
+
+/* Class = "NSButtonCell"; title = "Send To All"; ObjectID = "119"; */
+"119.title" = "全員に送信";
+
+/* Class = "NSButtonCell"; title = "Send Privately"; ObjectID = "120"; */
+"120.title" = "プライベートで送信";
+
+/* Class = "NSButtonCell"; title = "Show Answered Questions"; ObjectID = "121"; */
+"121.title" = "回答済みの質問を表示";
