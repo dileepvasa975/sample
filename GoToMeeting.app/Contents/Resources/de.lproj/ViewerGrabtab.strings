@@ -1,5 +1,0 @@
-
-/* Class = "NSButton"; ibShadowedToolTip = "Left click to toggle between full screen and windowed viewer. Right-click to adjust viewer scaling."; ObjectID = "DFW-wJ-i7Q"; */
-"DFW-wJ-i7Q.ibShadowedToolTip" = "Linksklicken, um zwischen Übertragungsfenster im Vollbild- und Fenstermodus umzuschalten. Rechtsklicken um die Skalierung anzupassen.";
-/* Class = "NSButton"; ibShadowedToolTip = "Select drawing tool (pen, highlighter, arrow…)."; ObjectID = "SYQ-cW-9R1"; */
-"SYQ-cW-9R1.ibShadowedToolTip" = "Zeichenwerkzeug wählen (Stift, Textmarker, Pfeil…).";

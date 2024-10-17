@@ -1,8 +1,0 @@
-/* Class = "NSTextFieldCell"; title = "People can see your screen."; ObjectID = "1tC-aZ-mTZ"; */
-"1tC-aZ-mTZ.title" = "사람들이 귀하의 화면을 볼 수 있습니다.";
-
-/* Class = "NSTextFieldCell"; title = "No one has remote control"; ObjectID = "Bmk-FX-GDF"; */
-"Bmk-FX-GDF.title" = "원격 제어 권한이 있는 사용자가 없습니다.";
-
-/* Class = "NSTextFieldCell"; title = "Waiting for people to see your screen"; ObjectID = "SWp-pR-Jeo"; */
-"SWp-pR-Jeo.title" = "화면이 표시되기를 기다리는 중";

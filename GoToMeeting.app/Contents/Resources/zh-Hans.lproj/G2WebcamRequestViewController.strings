@@ -1,9 +1,0 @@
-
-/* Class = "NSButtonCell"; title = "Share My Webcam"; ObjectID = "Nrz-2g-sBu"; */
-"Nrz-2g-sBu.title" = "打开摄像头";
-
-/* Class = "NSButtonCell"; title = "Not Right Now"; ObjectID = "kTk-PX-l31"; */
-"kTk-PX-l31.title" = "稍后";
-
-/* Class = "NSTextFieldCell"; title = "The organizer would like you to share your webcam. Would you like to share it now?"; ObjectID = "yh2-LC-IMv"; */
-"yh2-LC-IMv.title" = "组织者希望您共享摄像头。是否立即打开摄像头?";

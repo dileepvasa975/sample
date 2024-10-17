@@ -1,8 +1,0 @@
-/* Class = "NSButton"; ibExternalAccessibilityDescription = "Grab Tab Full Screen Button"; ObjectID = "DFW-wJ-i7Q"; */
-"DFW-wJ-i7Q.ibExternalAccessibilityDescription" = "Grab Tab Full Screen Button";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Left click to toggle between full screen and windowed viewer. Right-click to adjust viewer scaling."; ObjectID = "DFW-wJ-i7Q"; */
-"DFW-wJ-i7Q.ibShadowedToolTip" = "전체 화면과 창 뷰어 간에 전환하려면 마우스 왼쪽 단추를 클릭하고, 뷰어 배율을 조정하려면 마우스 오른쪽 단추를 클릭합니다.";
-
-/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Grab Tab Drawing Button"; ObjectID = "XeD-x5-Phb"; */
-"XeD-x5-Phb.ibExternalAccessibilityDescription" = "Grab Tab Drawing Button";

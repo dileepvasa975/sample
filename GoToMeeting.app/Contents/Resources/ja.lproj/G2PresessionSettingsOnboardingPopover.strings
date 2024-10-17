@@ -1,8 +1,0 @@
-/* Class = "NSTextFieldCell"; title = "Camera & Audio Settings"; ObjectID = "PSZ-IK-vvw"; */
-"PSZ-IK-vvw.title" = "カメラとオーディオの設定";
-
-/* Class = "NSTextFieldCell"; title = "Choose your camera and easily switch between computer audio and phone audio here."; ObjectID = "UUk-Zb-sTy"; */
-"UUk-Zb-sTy.title" = "ここでカメラを選択し、コンピュータオーディオと電話オーディオを簡単に切り替えることができます。";
-
-/* Class = "NSButtonCell"; title = "Got it!"; ObjectID = "m20-zh-iee"; */
-"m20-zh-iee.title" = "了解!";
